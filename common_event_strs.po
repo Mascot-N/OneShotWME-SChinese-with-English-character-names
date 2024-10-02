@@ -1,0 +1,1209 @@
+msgid "@niko I can't combine those..."
+msgstr "@niko 我没办法组合这些东西……"
+
+msgid "@ed [Those can't be combined.]"
+msgstr "@ed [这些东西无法组合在一起。]"
+
+msgid "@ed Niko dips the branch into the alcohol."
+msgstr "@ed Niko拿起树枝蘸了蘸酒精。"
+
+msgid "@niko Use the screwdriver to... pull the lens out...?"
+msgstr "@niko 要用螺丝起子……把镜头撬出来……？"
+
+msgid "@niko Okay..."
+msgstr "@niko 好吧……"
+
+msgid "@niko_speak Done!"
+msgstr "@niko_speak 完成了！"
+
+msgid "@niko The lens pops right in."
+msgstr "@niko 镜头刚好可以装进去。"
+
+msgid "@niko I can't use this one, \\p...\\>\\n\\@niko_speak My eyes are closed in it!"
+msgstr "@niko 我不能用这张，\\p……\\>\\n\\@niko_speak 这张照片我闭眼了！"
+
+msgid "@niko I don't think we can do anything else here, \\p..."
+msgstr "@niko \\p，我觉得我们在这里没有其他事可做了……"
+
+msgid "@niko It feels like we're on the right track, though!"
+msgstr "@niko 不过我觉得我们大方向是正确的！"
+
+msgid "@niko_eyeclosed I'm not gonna smash the bottle!"
+msgstr "@niko_eyeclosed 我才不要砸破瓶子！"
+
+msgid "@niko_huh \\p!!!\\>\\n\\@niko_eyeclosed I am NOT gonna smash the sun!"
+msgstr "@niko_huh \\p！！！\\>\\n\\@niko_eyeclosed 我绝对不会砸破太阳的！"
+
+msgid "@niko We're... using the sun directly on the battery?"
+msgstr "@niko 我们可以……直接用太阳给电池充电吗？"
+
+msgid "@niko I would've never thought of that!"
+msgstr "@niko 没想到还可以这样！"
+
+msgid "@niko_speak Good thinking, \\p!"
+msgstr "@niko_speak \\p，你脑筋动得真快！"
+
+msgid "@niko_speak Ah, looks like it's already fully charged."
+msgstr "@niko_speak 啊，看来它已经充满了。"
+
+msgid "@niko That was fast..."
+msgstr "@niko 好快喔……"
+
+msgid "@niko I should inject the liquid through the cork, right, \\p?"
+msgstr "@niko 我应该用针刺穿软木塞往里注入液体，对吧，\\p？"
+
+msgid "@niko_speak It's like I'm a doctor!"
+msgstr "@niko_speak 感觉好像在当医生！"
+
+msgid "@niko So... I should inject the liquid through the cork, right, \\p?"
+msgstr "@niko 嗯……我应该用针刺穿软木塞往里注入液体，对吧，\\p？"
+
+msgid "@niko_speak Oh!\\n\\.\\.\\@niko I should probably shake this too."
+msgstr "@niko_speak 喔！\\n\\.\\.\\@niko 我应该还要摇一摇它。"
+
+msgid "@niko_speak ...It changed color!"
+msgstr "@niko_speak ……颜色变了！"
+
+msgid "@niko I'm guessing you want me to pour this acid onto the sponge, \\p?"
+msgstr "@niko \\p，你要我把酸液倒在海绵上吗？"
+
+msgid "@niko_speak Good thing I have these gloves!"
+msgstr "@niko_speak 还好我有这双手套！"
+
+msgid "@niko_speak I hope this works..."
+msgstr "@niko_speak 希望会成功……"
+
+msgid "@niko_speak \\.\\.\\...wait!\\.\\. \\@niko Shouldn't I be wearing gloves for this?"
+msgstr "@niko_speak \\.\\.\\. ……等等！\\.\\. \\@niko 我应该要戴手套吧？"
+
+msgid "@niko_speak Safety first!"
+msgstr "@niko_speak 安全第一！"
+
+msgid "@niko_speak Oh yeah! We can use the feather as a pen!"
+msgstr "@niko_speak 喔对了！我们可以拿羽毛当笔！"
+
+msgid "@niko I saw it in a picture book once."
+msgstr "@niko 我以前在绘本上看过。"
+
+msgid "@niko_speak Oh! Maybe we can make a button out of this!"
+msgstr "@niko_speak 喔！也许我们可以用它做个按钮！"
+
+msgid "@niko I can cut out a piece of the can and fold it into a rectangle shape..."
+msgstr "@niko 我可以在罐子上剪下一块，再把它折成长方形……"
+
+msgid "@niko Just like arts and crafts!"
+msgstr "@niko 就像做美工一样！"
+
+msgid "@niko Hmm... I don't think it's supposed to be this simple."
+msgstr "@niko 嗯……我觉得应该没有这么简单。"
+
+msgid "@niko_speak How are we gonna connect it to the elevator?"
+msgstr "@niko_speak 我们要怎么把它装上电梯呢？"
+
+msgid "@niko_speak Well, let's find out!"
+msgstr "@niko_speak 好吧，让我们去寻找答案！"
+
+msgid "@niko The magnets don't stick to the aluminum, but..."
+msgstr "@niko 磁铁吸不住铝，不过……"
+
+msgid "@niko_speak Oh! What if I just folded the magnets under this edge?"
+msgstr "@niko_speak 喔！如果我把磁铁包在这个边缘底下呢？"
+
+msgid "@niko Hmm...\\| It's holding together, if just barely."
+msgstr "@niko 嗯……\\|是装上去了，不过很勉强。"
+
+msgid "@niko I... hope that's good enough?"
+msgstr "@niko 我觉得……这样应该可以吧？"
+
+msgid "@niko The magnets don't stick to aluminum..."
+msgstr "@niko 磁铁吸不住铝……"
+
+msgid "@niko The back of the photo is covered in glue."
+msgstr "@niko 照片背面沾满了胶水。"
+
+msgid "@niko ...and glitter."
+msgstr "@niko ……还有亮片。"
+
+msgid "@niko The card has my face on it now."
+msgstr "@niko 借书证上现在是我的照片了。"
+
+msgid "@niko The card is covered in glue."
+msgstr "@niko 借书证上沾满了胶水。"
+
+msgid "@niko_speak So, put the pill in the water?"
+msgstr "@niko_speak 所以，要把药片放进水里吗？"
+
+msgid "@niko It dissolved really fast!"
+msgstr "@niko 它一下子就溶解了！"
+
+msgid "@niko The jar is full of fireflies."
+msgstr "@niko 罐子里装满了萤火虫。"
+
+msgid "@niko Coals."
+msgstr "@niko 煤炭。"
+
+msgid "@niko It's some kind of stew."
+msgstr "@niko 这是某种炖汤。"
+
+msgid "@niko It's a jar full of fireflies."
+msgstr "@niko 这是一罐萤火虫。"
+
+msgid "@niko_eyeclosed I can't reach the top, \\p..."
+msgstr "@niko_eyeclosed \\p，我够不到最上面喔……"
+
+msgid "@niko It's a gas vent."
+msgstr "@niko 这是一个排气口。"
+
+msgid "@niko Small sprouts. \\>\\@niko_speak We gotta be careful we don't step on these!"
+msgstr "@niko 小小的幼苗。\\>\\@niko_speak 我们要小心，不能踩到！"
+
+msgid "@alula You got it!"
+msgstr "@alula 没错！"
+
+msgid "@niko Small sprouts. \\>\\@niko_speak I gotta be careful I don't step on these!"
+msgstr "@niko 小小的幼苗。\\>\\@niko_speak 我要小心，不能踩到！"
+
+msgid "@niko It's a small tree."
+msgstr "@niko 一棵小树。"
+
+msgid "@niko It's off."
+msgstr "@niko 关机了。"
+
+msgid "@niko It's a fridge."
+msgstr "@niko 一台冰箱。"
+
+msgid "@niko It's a little plant."
+msgstr "@niko 一棵矮小的植物。"
+
+msgid "@niko It's a trash bin."
+msgstr "@niko 一个垃圾桶。"
+
+msgid "@niko A bag full of trash."
+msgstr "@niko 满满一袋垃圾。"
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed 真恶心！"
+
+msgid "@niko It's a bed."
+msgstr "@niko 一张床。"
+
+msgid "@niko ...well, more like a mattress."
+msgstr "@niko ……嗯，或者更像床垫。"
+
+msgid "@niko Jars of fireflies are placed next to the fields."
+msgstr "@niko 田地旁边放了一罐又一罐的萤火虫。"
+
+msgid "@niko Just a jar."
+msgstr "@niko 只是一个罐子。"
+
+msgid "@niko Some jars."
+msgstr "@niko 几个罐子。"
+
+msgid "@niko A streetlamp."
+msgstr "@niko 一盏街灯。"
+
+msgid "@niko_eyeclosed More of those squares..."
+msgstr "@niko_eyeclosed 还有更多方块……"
+
+msgid "@niko3 Those squares again..."
+msgstr "@niko3 又是这种方块……"
+
+msgid "@niko_huh These squares are just everywhere..."
+msgstr "@niko_huh 到处都有这种方块……"
+
+msgid "@niko This looks like an altar..."
+msgstr "@niko 这看起来像一座祭坛……"
+
+msgid "@niko_speak Fish!"
+msgstr "@niko_speak 是鱼！"
+
+msgid "@alula_speak Fish!"
+msgstr "@alula_speak 鱼耶！"
+
+msgid "@niko_speak It's clothes!"
+msgstr "@niko_speak 是衣服！"
+
+msgid "@calamus_shame Oh! I should probably take these in soon!"
+msgstr "@calamus_shame 喔！我应该赶快把它们收起来！"
+
+msgid "@niko It's a big metal box with complicated machinery inside."
+msgstr "@niko 一个大型金属箱，里面装了精密机器。"
+
+msgid "@niko It's a big metal box with lots of machinery inside. \\.\\.\\@niko_speak This one has a robot in it!"
+msgstr "@niko 一个大型金属箱，里面装了很多精密机器。 \\.\\.\\@niko_speak 这个里面装了一个机器人！"
+
+msgid "@niko It's a bookshelf."
+msgstr "@niko 一座书架。"
+
+msgid "@niko It's a shelf full of little machine parts and tools I don't recognize."
+msgstr "@niko 一座置物架，上面放满我不认识的机器小零件和工具。"
+
+msgid "@niko It's a gravestone."
+msgstr "@niko 一块墓碑。"
+
+msgid "@niko A robot without power."
+msgstr "@niko 没电的机器人。"
+
+msgid "@calamus ...wait."
+msgstr "@calamus ……等等。"
+
+msgid "@calamus_sad ...we can't get back into our house..."
+msgstr "@calamus_sad ……我们不能回家……"
+
+msgid "@niko It's a blanket covered in shiny things."
+msgstr "@niko 一条毯子，上面盖满亮晶晶的东西。"
+
+msgid "@magpie_hm Still kinda sad I lost most of my stuff..."
+msgstr "@magpie_hm 基本上所有东西都丢了，我还是有点难过……"
+
+msgid "@niko_eyeclosed I don't think it's safe to use this again, \\p."
+msgstr "@niko_eyeclosed \\p，我觉得这个已经不能再用了，不安全。"
+
+msgid "@ed [You cannot fast travel right now.]"
+msgstr "@ed [现在无法使用传送。]"
+
+msgid "@tut FAST TRAVEL\\n\\n\\nYOU CAN QUICKLY TRAVEL TO THE LOCATIONS YOU HAVE ALREADY VISITED BY SELECTING THE \"FAST TRAVEL\" OPTION IN THE MENU.\\n\\nYOU CAN OPEN THE MENU WITH @MAINMENU\\n\\nFAST TRAVEL CANNOT BE USED INDOORS."
+msgstr "@tut 传送\\n\\n\\n你可以通过选择菜单中的“传送”快速前往已经去过的地点。\\n\\n按@MAINMENU即可打开菜单\\n\\n在室内时无法使用传送。"
+
+msgid "@tut2 CONTROLS\\n\\nEXAMINE/SELECT - @OK\\n\\nCANCEL - @CANCEL\\n\\nWALK - @MOVE\\n\\nWALK FASTER - @RUN\\n\\nMENU - @MAINMENU\\n\\nINVENTORY - @INVENTORY"
+msgstr "@tut2 操作说明\\n\\n调查/选择 - @OK\\n\\n取消 - @CANCEL\\n\\n移动 - @MOVE\\n\\n走路/奔跑 - @RUN\\n\\n菜单 - @MAINMENU\\n\\n物品栏 - @INVENTORY"
+
+msgid "@tut GAMEPLAY\\n\\nEXPLORE AND INTERACT WITH THE ENVIRONMENT AND CHARACTERS. SOMETIMES YOU MAY FIND AN ITEM.\\n\\nONCE YOU HAVE PICKED UP AN ITEM, YOU MAY SELECT IT FROM YOUR INVENTORY.\\n\\nWHEN THE ITEM IS ACTIVE, YOU CAN EITHER COMBINE IT WITH OTHER ITEMS IN THE INVENTORY OR USE IT AT CERTAIN LOCATIONS IN ORDER TO PROGRESS."
+msgstr "@tut 游戏玩法\\n\\n探索世界，与环境和人物互动。有时可以拾取物品。\\n\\n拾起物品后，你可以在物品栏中选中它。\\n\\n选中后，你可以将它与物品栏中的其他物品组合，或者通过在某些地点使用来推进游戏。"
+
+msgid "@tut OTHER\\n\\n\\n\\n\\nCLOSING THE GAME WINDOW WILL SAVE YOUR PROGRESS.\\n\\nTHIS GAME ALSO SAVES AFTER SOME KEY EVENTS."
+msgstr "@tut 其他\\n\\n\\n\\n\\n关闭游戏窗口时，你的进度将自动保存。\\n\\n一些关键事件发生后，游戏也会自动保存。"
+
+msgid "@niko_speak \\p, there's something in the air here..."
+msgstr "@niko_speak \\p，这里的空气有点不对劲……"
+
+msgid "@niko_eyeclosed It hurts to breathe..."
+msgstr "@niko_eyeclosed 在这里呼吸嗓子会痛……"
+
+msgid "@ed [The air here is unbreathable.]"
+msgstr "@ed [这里的空气不适合呼吸。]"
+
+msgid "@niko_gasmask I should be fine with this mask on."
+msgstr "@niko_gasmask 戴了这个面具应该就没问题了。"
+
+msgid "Start over?"
+msgstr "要从头开始吗？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@niko It's an empty rectangular slot.\\>\\nLooks like something could fit in here..."
+msgstr "@niko 一个空的长方形插槽。\\>\\n看起来好像可以放什么东西进去……"
+
+msgid "@niko_eyeclosed \\p... someone lives here...\\>\\nWe can't just sleep in their bed."
+msgstr "@niko_eyeclosed \\p……这里有人住……\\>\\n我们不能随便睡别人的床哦。"
+
+msgid "@niko Right, I can refill this tube with more water here."
+msgstr "@niko 对了，我可以在这里把这根管子再添满水。"
+
+msgid "@niko It's a sink."
+msgstr "@niko 一个水槽。"
+
+msgid "Quit and record your progress?"
+msgstr "结束游戏并记录进度吗？"
+
+msgid "This action will record your progress in this world."
+msgstr "这项操作会记录你在当前世界的进度。"
+
+msgid "To return to this world again, you need to relaunch the application."
+msgstr "如要回到当前世界，你必须重新启动应用程序。"
+
+msgid "Proceed?"
+msgstr "要继续吗？"
+
+msgid "@niko I'll wear them when I have to."
+msgstr "@niko 有需要的时候我就会穿。"
+
+msgid "@niko I can't take this off here, \\p!"
+msgstr "@niko \\p，我不能在这里摘下它！"
+
+msgid "@niko I'll wear it when I have to."
+msgstr "@niko 有需要的时候我就会穿。"
+
+msgid "Lamplighter has forgotten the elevator code (starting at 0 0 0 0 0 again)"
+msgstr "Lamplighter忘记了电梯的密码。（正在重新从0 0 0 0 0开始尝试）"
+
+msgid "Lamplighter now knows the elevator code."
+msgstr "Lamplighter记起电梯的密码。"
+
+msgid "[\"SAVE?\", \"LOAD\", \"REAL LOAD\", \"NO\"]"
+msgstr "[\"要存档吗？\",\"载入\",\"真实载入\",\"否\"]"
+
+msgid "@niko Where are we...?"
+msgstr "@niko 我们在哪里……？"
+
+msgid "@niko Is this... the inside of the Tower?"
+msgstr "@niko 这里是……塔的内部？"
+
+msgid "@niko It's...\\.\\. \\@niko_eyeclosed a lot darker than I thought..."
+msgstr "@niko 这里……\\.\\.\\@niko_eyeclosed 比我想象中还要暗很多……"
+
+msgid "@niko ...wait.\\>\\n\\@niko_shock Where's the sun?"
+msgstr "@niko ……等等。\\>\\n\\@niko_shock 太阳在哪里？"
+
+msgid "@niko_eyeclosed ...\\p... Do you know what happened to the sun?"
+msgstr "@niko_eyeclosed ……\\p……你知道太阳发生了什么事吗？"
+
+msgid "@niko_eyeclosed2 ...\\....\\...."
+msgstr "@niko_eyeclosed2 ……\\……\\……"
+
+msgid "@niko_speak ......\\p?"
+msgstr "@niko_speak ……\\p？"
+
+msgid "@niko_shock \\p??"
+msgstr "@niko_shock \\p？？"
+
+msgid "@niko_eyeclosed Come on, \\p...\\. \\@niko_distressed Say something!"
+msgstr "@niko_eyeclosed \\p……\\.\\@niko_distressed 你说话啊！"
+
+msgid "@niko_surprised \\p!!!"
+msgstr "@niko_surprised \\p！！！"
+
+msgid "@niko_distressed What's...\\.\\. going on......."
+msgstr "@niko_distressed 这是……\\.\\.怎么回事……"
+
+msgid "@niko \\p? Are you still there?"
+msgstr "@niko \\p？你还在吗？"
+
+msgid "[\"Yes\"]"
+msgstr "[\"是的\"]"
+
+msgid "@niko_speak Ah.\\> I'm awake."
+msgstr "@niko_speak 啊。\\>我醒了。"
+
+msgid "@niko I had a dream just now."
+msgstr "@niko 我刚刚做了一个梦。"
+
+msgid "[\"I saw.\"]"
+msgstr "[\"我看到了。\"]"
+
+msgid "@niko You did?\\>\\n\\@niko_speak Wow!"
+msgstr "@niko 你看到了？\\>\n\\@niko_speak 哇！"
+
+msgid "@niko_eyeclosed ....I...\\| I really thought I was back home..."
+msgstr "@niko_eyeclosed ……我……\\|我真的以为我回家了……"
+
+msgid "@niko Oh, the sun back in my home world isn't a lightbulb.\\>\\n\\@niko_speak It's a big ball of fire in the sky!"
+msgstr "@niko 喔，我原本世界的太阳不是灯泡喔。\\>\\n\\@niko_speak 我们的太阳像是天上的大火球！"
+
+msgid "@niko I don't think I would be able to hold it like I do with the sun from your world..."
+msgstr "@niko 我应该没办法像在这个世界一样把太阳抱在怀里……"
+
+msgid "[\"This isn't my world.\"]"
+msgstr "[\"这不是我的世界。\"]"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak 咦？"
+
+msgid "[\"This isn't the world I live in.\"]"
+msgstr "[\"我不住在这个世界里。\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko_eyeclosed ...ah, I guess not.\\>\\n\\@niko If you're the god of this world, you wouldn't necessarily be in it."
+msgstr "@niko_speak 真的吗？\\>\\n\\@niko_eyeclosed ……啊，我知道了。\\>\\n\\@niko 如果你是这个世界的神，那就不一定要生活在其中。"
+
+msgid "@niko_speak What's your home world called?"
+msgstr "@niko_speak 那你的世界叫什么名字呢？"
+
+msgid "[\"Earth.\", \"That's a secret.\"]"
+msgstr "[\"地球。\",\"这是秘密。\"]"
+
+msgid "@niko_speak Earth?\\>\\n\\@niko Like, the stuff on the ground?\\>\\n\\@niko_speak ...Wait, do you live underground?"
+msgstr "@niko_speak 地球？\\>\\n\\@niko 你是说，土地的地吗？\\>\\n\\@niko_speak ……等等，你住在地底下吗？"
+
+msgid "@niko_speak Wow...\\>\\n\\@niko_eyeclosed I can't imagine what that's like..."
+msgstr "@niko_speak 哇……\\>\\n\\@niko_eyeclosed 我想象不出来那是什么情形……"
+
+msgid "@niko Ah, neither do we!\\>\\n\\@niko But shrews and field mice and stuff do."
+msgstr "@niko 啊，我们不住在地底下哦！\\>\\n\\@niko 但是像鼩鼱和田鼠之类的就住在地下。"
+
+msgid "@niko_eyeclosed I see..."
+msgstr "@niko_eyeclosed 我知道了……"
+
+msgid "@niko_speak Does your world have a sun?"
+msgstr "@niko_speak 你的世界有太阳吗？"
+
+msgid "[\"Yes, it's also a ball of fire.\", \"I can't tell you that.\"]"
+msgstr "[\"有的，它也是一团火球。\",\"不能告诉你。\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko_pancakes Wow!\\>\\n\\@niko Can you hold it?"
+msgstr "@niko_speak 真的吗？\\>\\n\\@niko_pancakes 哇！\\>\\n\\@niko 你可以抱着它吗？"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_eyeclosed ...\\nThat was a silly question, wasn't it..."
+msgstr "@niko_eyeclosed ……\\n我是不是问了个蠢问题……"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 喔……"
+
+msgid "@niko The sun in my home world is very bright.\\>\\n\\@niko_speak Warm, too!\\>\\n\\@niko You saw, right?"
+msgstr "@niko 我家乡世界的太阳非常明亮。\\>\\n\\@niko_speak 而且很温暖！\\>\\n\\@niko 你看到了吧？"
+
+msgid "@niko But it goes away sometimes, at night.\\>\\n\\@niko_eyeclosed Everything gets dark, kinda like how this world is now."
+msgstr "@niko 不过它有时候会不见，就是到了晚上的时候。\\>\\n\\@niko_eyeclosed 一切都会陷入黑暗，有点像这个世界现在的模样。"
+
+msgid "@niko_speak But it's okay because the sun always comes back the next day.\\>\\n\\@niko That's good, don't you think?"
+msgstr "@niko_speak 可是没关系，因为太阳第二天一定会再回来。\\>\\n\\@niko 你不觉得这样很好吗？"
+
+msgid "[\"Yeah.\", \"My world is like that too.\"]"
+msgstr "[\"是啊。\",\"我的世界也是这样。\"]"
+
+msgid "@niko M-hm!"
+msgstr "@niko 嗯哼！"
+
+msgid "@niko During the night, people usually go to sleep.\\>\\n\\@niko_speak But some people stay up and use computers!"
+msgstr "@niko 晚上大家通常都会去睡觉。\\>\\n\\@niko_speak 不过有些人会熬夜用电脑！"
+
+msgid "@niko_speak Ah!\\>\\nDo you sleep during the night?"
+msgstr "@niko_speak 啊！\\>\\n你晚上会睡觉吗？"
+
+msgid "@niko We go to sleep, usually.\\>\\n\\@niko_speak But some people stay up and use computers!"
+msgstr "@niko 我们都会去睡觉，通常会啦。\\>\\n\\@niko_speak 不过有些人会熬夜用电脑！"
+
+msgid "@niko I... don't have to explain what they are, do I?\\>\\n\\@niko_speak There's a bunch of them in this world!"
+msgstr "@niko 我……应该不需要解释电脑是什么吧？\\>\\n\\@niko_speak 这个世界到处是这些东西！"
+
+msgid "@niko_eyeclosed An-anyway, we should probably get going..."
+msgstr "@niko_eyeclosed 总、总之，我们该走了……"
+
+msgid "@niko_speak \\p, I had another dream!"
+msgstr "@niko_speak \\p，我又做了一个梦！"
+
+msgid "@niko Did you see this one too?"
+msgstr "@niko 你也有看到这个吗？"
+
+msgid "[\"Yeah\"]"
+msgstr "[\"听得到\"]"
+
+msgid "@niko I was in a big field, like the one in my last dream..."
+msgstr "@niko 我置身于一大片田野间，就像上一场梦一样……"
+
+msgid "@niko_speak And... I saw my village!\\>\\n\\@niko_eyeclosed ...but then I woke up."
+msgstr "@niko_speak 然后……我看到我家的村子了！\\>\\n\\@niko_eyeclosed ……可是接着我就醒了。"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed 唉……"
+
+msgid "@niko Ah, I don't think this world has anything like that...\\>\\n\\@niko_speak I mean, big wheat fields!"
+msgstr "@niko 啊，我觉得这个世界应该没有类似那样的东西……\\>\\n\\@niko_speak 我是指大片的麦田！"
+
+msgid "@niko_eyeclosed The only big plants I've seen here are a bunch of weird trees.\\>\\n\\@niko And those balls of moss floating in the water..."
+msgstr "@niko_eyeclosed 我在这里唯一看过的大型植物只有一些奇怪的树。\\>\\n\\@niko 还有那些在水里漂浮的苔藓球……"
+
+msgid "@niko_eyeclosed Wait, is moss even a plant...?"
+msgstr "@niko_eyeclosed 等等，苔藓到底算不算植物呢……？"
+
+msgid "@niko ...\\>\\n\\@niko_speak ...Say, have you seen a wheat field before, \\p?"
+msgstr "@niko ……\\>\\n\\@niko_speak ……是说，\\p，你以前看过麦田吗？"
+
+msgid "[\"Yes.\", \"No.\"]"
+msgstr "[\"有啊。\",\"没有。\"]"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko They're really pretty, aren't they?"
+msgstr "@niko_speak 喔！\\>\\n\\@niko 真的很漂亮对不对？"
+
+msgid "@niko Ah.... well...\\>\\n\\@niko_speak They're really pretty! \\>\\@niko They look like-"
+msgstr "@niko 啊……那个……\\>\\n\\@niko_speak 真的很漂亮！\\>\\@niko 看起来像──"
+
+msgid "@niko_eyeclosed Wait... you just saw one in my dream..."
+msgstr "@niko_eyeclosed 等等……你才刚刚在我的梦里看到过啊……"
+
+msgid "@niko_speak The one around my village goes around for miles!"
+msgstr "@niko_speak 我家村子周围的麦田绵延好几里呢！"
+
+msgid "@niko_speak The plants are really tall, sometimes I can't even see through them!\\>\\n\\@niko When it's windy out, the wind can make waves in it."
+msgstr "@niko_speak 小麦长得很高，有时候甚至会挡住我的视线！\\>\\n\\@niko 外面风大的时候，风会在麦田中吹起波浪。"
+
+msgid "@niko It's like an ocean...\\>\\n\\@niko_speak ...of food!"
+msgstr "@niko 就像海一样……\\>\\n\\@niko_speak ……食物的海洋！"
+
+msgid "@niko Oh, wait, but there's food in regular oceans too...\\>\\n\\@niko Like fish, \\@niko_speak or crabs!"
+msgstr "@niko 喔，等等，但一般的海里也有食物……\\>\\n\\@niko 比如鱼，\\@niko_speak 或者螃蟹！"
+
+msgid "@niko_eyeclosed I've never actually been to a real ocean until now, actually..."
+msgstr "@niko_eyeclosed 其实我至今为止从来没有真正去过海边……"
+
+msgid "[\"Me neither.\", \"I've been to the ocean.\"]"
+msgstr "[\"我也没有。\",\"我去过海边哦。\"]"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I guess we have that in common, \\p!"
+msgstr "@niko_speak 喔！\\>\\n\\@niko 那这一点我们还蛮像的耶，\\p！"
+
+msgid "@niko But you're kind of seeing the ocean now? In this world, anyway."
+msgstr "@niko 但你现在也看到海了吧？起码在这个世界看到了。"
+
+msgid "@niko_speak As for me, I've seen them on TV before!"
+msgstr "@niko_speak 至于我呢，我在电视上看过！"
+
+msgid "@niko That's really cool, \\p!\\>\\n\\@niko I've only seen the ocean on TV before."
+msgstr "@niko 好酷喔，\\p！\\>\\n\\@niko 我只有从电视上看过海。"
+
+msgid "@niko_pancakes I never thought I'd get to ride a boat through one!\\>\\n\\@niko The water back home doesn't have glowy stuff like how it is here, either!"
+msgstr "@niko_pancakes 我从来没有想过有一天我会在海上坐船！\\>\\n\\@niko 我家那边的水也不像这里一样有闪闪发光的东西！"
+
+msgid "@niko_eyeclosed Ah... but I guess it's because the world is already so dark..."
+msgstr "@niko_eyeclosed 啊……不过我觉得这是因为这个世界已经太暗了……"
+
+msgid "@niko ...Y'know, I used to be scared of the dark,\\n\\p!\\> \\@niko_eyeclosed It's a little hard to imagine that now, after spending so much time here..."
+msgstr "@niko ……你知道吗，\\p，我以前很怕黑的！\\>\\n\\@niko_eyeclosed 很难想象吧，我在这里待了这么久……"
+
+msgid "@niko_eyeclosed But not long ago, I couldn't even go to sleep without a lamp..."
+msgstr "@niko_eyeclosed 不久之前，我甚至不敢熄灯睡觉……"
+
+msgid "[\"Me too.\", \"It's good you got over that.\"]"
+msgstr "[\"我也是。\",\"很高兴你克服了。\"]"
+
+msgid "@niko_speak Really?\\>\\n\\@niko Even though you're a god?"
+msgstr "@niko_speak 真的吗？\\>\\n\\@niko 就算你是神也会怕黑吗？"
+
+msgid "@niko_speak Oh, but it's a good thing I got over that fear!\\>\\n\\@niko_eyeclosed Otherwise I wouldn't last long here..."
+msgstr "@niko_speak 喔，但是我很高兴我能克服恐惧了！\\>\\n\\@niko_eyeclosed 不然我在这里一定撑不下去……"
+
+msgid "@niko_83c I guess!\\>\\n\\@niko_eyeclosed Otherwise I wouldn't last long here..."
+msgstr "@niko_83c 应该吧！\\>\\n\\@niko_eyeclosed 不然我在这里一定撑不下去……"
+
+msgid "@niko_speak Then again, I've been carrying around the sun, so it's not too bad!"
+msgstr "@niko_speak 话说回来，我一直抱着太阳，所以也没那么糟！"
+
+msgid "@niko And also, I don't feel scared at all with you guiding me!\\>\\n\\@niko_83c So... thanks for that!"
+msgstr "@niko 而且有你指引我，我一点都不怕！\\>\\n\\@niko_83c 所以说……谢谢你！"
+
+msgid "@niko_speak Anyway, maybe we should head out now, \\p..."
+msgstr "@niko_speak 总之，\\p，我们现在应该要出发了……"
+
+msgid "@niko \\p?\\>\\n\\@niko I had another dream..."
+msgstr "@niko \\p？\\>\\n\\@niko 我又做了一个梦……"
+
+msgid "@niko Mama was there.\\>\\n\\@niko_speak Did you see her?"
+msgstr "@niko 梦里有妈妈。\\>\\n\\@niko_speak 你有看见她吗？"
+
+msgid "@niko_pancakes She made me pancakes!\\>\\n\\@niko I... think it was my birthday."
+msgstr "@niko_pancakes 她为我做了薄煎饼！\\>\\n\\@niko 我觉得……那应该是我生日那天吧。"
+
+msgid "@niko_speak Cuz people always get their favorite food on their birthday!\\>\\nA whole lot of it!"
+msgstr "@niko_speak 因为大家都能在生日的时候吃到自己最喜欢的食物！\\>\\n吃很多很多！"
+
+msgid "@niko Do you have a birthday, too?"
+msgstr "@niko 你也会过生日吗？"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko Then... what's your favorite food?\\>\\n\\@niko_pancakes Is it pancakes?"
+msgstr "@niko_speak 喔！\\>\\n\\@niko 那么……你最喜欢什么食物呢？\\>\\n\\@niko_pancakes 是薄煎饼吗？"
+
+msgid "@niko Wait, DO you like pancakes?"
+msgstr "@niko 等等，你喜欢薄煎饼吗？"
+
+msgid "@niko_eyeclosed I see...\\>\\n\\@niko_speak Makes sense, since you're a god!"
+msgstr "@niko_eyeclosed 我知道了……\\>\\n\\@niko_speak 说得也是，因为你是神嘛！"
+
+msgid "@niko So...\\. do you like pancakes too?"
+msgstr "@niko 所以说……\\.你也喜欢薄煎饼吗？"
+
+msgid "@niko_speak Me too!\\>\\n\\@niko On my last birthday, I ate ten of them.\\>\\n\\@niko_eyeclosed I was so full I didn't eat anything else that day..."
+msgstr "@niko_speak 我也是！\\>\\n\\@niko 我上一次过生日的时候，吃了十张。\\>\\n\\@niko_eyeclosed 那天我撑得什么东西都吃不下了……"
+
+msgid "@niko_eyeclosed Ah...\\>\\n\\@niko_speak Well, they're tasty!\\>\\n\\@niko Maybe you should give them a chance, y'know?"
+msgstr "@niko_eyeclosed 啊……\\>\\n\\@niko_speak 嗯，薄煎饼很好吃！\\>\\n\\@niko 也许你该试试看！"
+
+msgid "@niko_speak My mama makes the best pancakes!\\>\\n\\@niko And some of the neighbors make really good noodles."
+msgstr "@niko_speak 我妈妈做的薄煎饼最好吃了！\\>\\n\\@niko 邻居们还会煮面条，超级好吃。"
+
+msgid "@niko_speak And oh! One of our neighbors make a lot of bread.\\>\\n\\@niko Do you have any neighbors?"
+msgstr "@niko_speak 还有还有！有一家邻居会烤很多面包。\\>\\n\\@niko 你有邻居吗？"
+
+msgid "@niko_speak Oh! Do they share their food with you?"
+msgstr "@niko_speak 喔！他们会和你分享食物吗？"
+
+msgid "@niko Ours do too!"
+msgstr "@niko 我们的也会！"
+
+msgid "@niko_eyeclosed That's not very nice of them..."
+msgstr "@niko_eyeclosed 他们这样不太亲切呢……"
+
+msgid "@niko_eyeclosed Oh...\\>\\n\\@niko That sounds a bit lonely."
+msgstr "@niko_eyeclosed 喔……\\>\\n\\@niko 听起来有点寂寞。"
+
+msgid "@niko Our neighbors and my mama take turns making food for the whole village each day.\\>\\n\\@niko_speak Everyone also takes turns doing chores and watching the little kids!"
+msgstr "@niko 我们邻居跟我妈妈会每天轮流帮整个村庄的人准备食物。\\>\\n\\@niko_speak 大家还会轮流处理杂务和照顾小朋友！"
+
+msgid "@niko I don't need to be watched anymore, though. \\>\\n\\@niko_speak I'm old enough to help out!"
+msgstr "@niko 不过我已经不需要人照顾了。\\>\\n\\@niko_speak 我已经够大，可以帮忙了！"
+
+msgid "@niko_eyeclosed ...\\>\\n\\@niko I miss everyone."
+msgstr "@niko_eyeclosed ……\\>\\n\\@niko 我好想念大家。"
+
+msgid "@niko_eyeclosed I've been gone for a while now, haven't I?\\>\\n\\@niko_speak I wonder if they're worried about me..."
+msgstr "@niko_eyeclosed 我已经离家一段时间了对吧？\\>\\n\\@niko_speak 不知道他们会不会很担心……"
+
+msgid "@niko Ah, speaking of helping out, we should probably go now."
+msgstr "@niko 啊，说到帮忙，我们该走了。"
+
+msgid "@niko Hey.... \\p?"
+msgstr "@niko 嘿……\\p？"
+
+msgid "@niko I guess... you saw my dream?"
+msgstr "@niko 你……应该有看到我做的梦吧？"
+
+msgid "@niko_distressed It was..."
+msgstr "@niko_distressed 那是……"
+
+msgid "@niko_distressed2 .\\..\\..\\..\\.."
+msgstr "@niko_distressed2 .\\..\\..\\..\\.."
+
+msgid "@niko_eyeclosed Come on, let's go..."
+msgstr "@niko_eyeclosed 算了，我们走吧……"
+
+msgid "[\"Niko.\"]"
+msgstr "[\"Niko。\"]"
+
+msgid "@niko ...Hello?\\> \\@niko_speak ...\\p?"
+msgstr "@niko ……有人吗？\\>\\@niko_speak ……\\p？"
+
+msgid "@niko_speak Was that you just now?"
+msgstr "@niko_speak 刚刚是你在说话吗？"
+
+msgid "@niko_speak I thought I... heard your voice?\\>\\n\\@niko ...in my dream..."
+msgstr "@niko_speak 我好像……有听到你的声音？\\>\\n\\@niko ……在我做梦的时候……"
+
+msgid "@niko ...\\>\\n\\@niko_eyeclosed ...Ah, guess you're still not there..."
+msgstr "@niko ……\\>\\n\\@niko_eyeclosed ……啊，你应该还是不在……"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ……"
+
+msgid "@niko_speak Wait... there's something in my pocket. \\>\\n\\@niko I don't remember putting it there..."
+msgstr "@niko_speak 等等……我口袋里有东西。\\>\\n\\@niko 我记得我没往里放过东西……"
+
+msgid "@ed [Niko feels uneasy.]"
+msgstr "@ed [Niko觉得不安。]"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_speak ....\\p?"
+msgstr "@niko_speak ……\\p？"
+
+msgid "@niko_surprised ......\\p!!! Can you hear me?"
+msgstr "@niko_surprised ……\\p！！！你听得到我说话吗？"
+
+msgid "@niko_eyeclosed Oh, phew..."
+msgstr "@niko_eyeclosed 喔，还好……"
+
+msgid "@niko_speak What happened?"
+msgstr "@niko_speak 发生什么事了？"
+
+msgid "@niko_eyeclosed Everything went pitch black for a second..."
+msgstr "@niko_eyeclosed 有一瞬间所有东西一片漆黑……"
+
+msgid "@niko_speak \\p?"
+msgstr "@niko_speak \\p？"
+
+msgid "@niko_surprised Are you still there?"
+msgstr "@niko_surprised 你还在吗？"
+
+msgid "[\"I'm here.\"]"
+msgstr "[\"我在。\"]"
+
+msgid "@niko_eyeclosed It happened again..."
+msgstr "@niko_eyeclosed 又发生了……"
+
+msgid "@niko_what Everything just went really dark..."
+msgstr "@niko_what 周围忽然变得好暗……"
+
+msgid "@niko_speak So dark, the lightbulb doesn't even light it!"
+msgstr "@niko_speak 暗到连灯泡都没办法照亮！"
+
+msgid "@niko2 Oh, and it's not because I don't have the lightbulb anymore, either!"
+msgstr "@niko2 喔，而且不是因为我手上没有灯泡了！"
+
+msgid "@niko_eyeclosed It feels like a different kind of dark..."
+msgstr "@niko_eyeclosed 那感觉像是另一种黑暗……"
+
+msgid "@niko_distressed Oh...."
+msgstr "@niko_distressed 喔……"
+
+msgid "@niko_eyeclosed \\p, let me know when you're back..."
+msgstr "@niko_eyeclosed \\p，你回来的时候一定要告诉我……"
+
+msgid "[\"I'm back\"]"
+msgstr "[\"我回来了\"]"
+
+msgid "@niko_eyeclosed I don't know why this keeps happening..."
+msgstr "@niko_eyeclosed 我不知道为什么这种事一再发生……"
+
+msgid "@niko_speak I don't think anyone else is noticing it, either..."
+msgstr "@niko_speak 而且别人好像都没有注意到……"
+
+msgid "@niko_what Am I the only one who's seeing this?"
+msgstr "@niko_what 难道只有我能看到这个景象吗？"
+
+msgid "[\"Niko, I'm back\"]"
+msgstr "[\"Niko，我回来了\"]"
+
+msgid "@niko_eyeclosed Hey, \\p..."
+msgstr "@niko_eyeclosed 嘿，\\p……"
+
+msgid "@niko Welcome back."
+msgstr "@niko 欢迎回来。"
+
+msgid "[\"FLAG MANAGER\", \"VAR MANAGER\", \"EXIT\"]"
+msgstr "[\"FLAG MANAGER\",\"VAR MANAGER\",\"EXIT\"]"
+
+msgid "[EVENING NEWS! EVENING NEWS!]"
+msgstr "[晚间新闻！晚间新闻！]"
+
+msgid "[I AM NOT CERTAIN THAT IT IS EVENING.]"
+msgstr "[我不确定现在是不是晚上。]"
+
+msgid "[BUT MY LIGHT SENSORS ARE NOT DETECTING DAYLIGHT.]"
+msgstr "[但是我的光传感器没有侦测到日光。]"
+
+msgid "[I WILL ASSUME IT IS EVENING.]"
+msgstr "[我就假设现在是晚上。]"
+
+msgid "[MAINTENANCE IS STRUGGLING TO FIX THE MAJOR PIPELINE COLLAPSE IN THE NORTH SECTOR.]"
+msgstr "[维修部门正在全力修复北区的主要管道坍塌问题。]"
+
+msgid "[LIKELIHOOD OF AN IMMINENT WATER SHORTAGE IN THE INNER CITY IS NOW 84.2%]"
+msgstr "[城区内发生缺水危机的可能性目前为84.2 %]"
+
+msgid "[DISTURBANCE WAS DETECTED FROM THE GROUND ACCESS ELEVATOR ON MAIN STREET.]"
+msgstr "[主街道上的地面通行电梯侦测到干扰。]"
+
+msgid "[HOWEVER, THE ISSUE QUICKLY RESOLVED ITSELF BEFORE INVESTIGATIONS COULD TAKE PLACE.]"
+msgstr "[但是在有关单位还没开始调查前问题就自己解决了。]"
+
+msgid "[THE MESSIAH IS CURRENTLY SPEAKING TO NEWSBOT UNIT #28.]"
+msgstr "[救世主目前正在和新闻机器人单位#28说话。]"
+
+msgid "[WHICH IS ME.]"
+msgstr "[也就是我。]"
+
+msgid "[HELLO, MESSIAH.]"
+msgstr "[救世主，你好。]"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak 你好！"
+
+msgid "[STRANGE SOUNDS HAVE BEEN REPORTED FROM THE SLUMS.]"
+msgstr "[有报告指出贫民区有奇怪的声音。]"
+
+msgid "[THEIR SOURCE IS UNKNOWN.]"
+msgstr "[声音来源不明。]"
+
+msgid "[THESE SOUNDS HAVE BEEN DESCRIBED AS \"FAINT BLEATING\" BY THE AREA'S RESIDENTS.]"
+msgstr "[居民形容这种声音是“细微的咩咩声”。]"
+
+msgid "[EVENING NEWS COMMUNITY BULLETIN]"
+msgstr "[晚间新闻社群快报]"
+
+msgid "[THE LIBRARY RELEASED SEVERAL NEW BOOKS BY THE ELUSIVE AUTHOR LAST WEEK.]"
+msgstr "[图书馆上周出版了好几本神秘作者的新书。]"
+
+msgid "[THE HEAD LIBRARIAN RECOMMENDS THEM.]"
+msgstr "[馆长大力推荐。]"
+
+msgid "[THE ASSISTANT LIBRARIAN HAD NO COMMENT AS HE REPORTEDLY FLED THE SCENE SOBBING.]"
+msgstr "[助理馆长未发表评论，据称他哭着跑离了现场。]"
+
+msgid "[THE RECEPTIONIST HAD NO COMMENT EITHER BECAUSE THE RECEPTIONIST IS A ROBOT.]"
+msgstr "[柜台人员也没有发表评论，因为它是一个机器人。]"
+
+msgid "$Greetings, \\p.\\nIf you can finally read this, that means you are near the Tower."
+msgstr "$@\\p，你好。\\n如果你终于看到这则讯息，表示你们已经很接近塔了。"
+
+msgid "$The Tower is the domain of an elusive Entity."
+msgstr "$塔中存在一个神秘的实体。"
+
+msgid "$This being is connected to the world.\\nFor now, you can think of it as the spirit of the world."
+msgstr "$它和这个世界紧密相连。\\n你可以姑且先把它想成这个世界的灵魂。"
+
+msgid "$It has no physical form, but it can communicate through computers and other machinery."
+msgstr "$它没有物质形态，但可以通过计算机和其他机器沟通。"
+
+msgid "$...You know who I am talking about, of course."
+msgstr "$……你肯定知道我在说谁。"
+
+msgid "$When you first arrived here with our savior, it no doubt contacted you right away."
+msgstr "$当你和我们的救世主刚来这里的时候，它一定马上就联络你了。"
+
+msgid "$Through its own means, the entity will guide the both of you to the Tower."
+msgstr "$实体用它自己的方式，引导你们二人前往塔。"
+
+msgid "$The entry room is at the Tower's base.\\nNot only do you need the sun there, but also three pieces of the previous sun."
+msgstr "$入口房间在塔的最底部。\\n那里不但需要太阳，还需要找到旧太阳的三个碎片。"
+
+msgid "$The savior will not be able to do anything there.\\nYou, \\p, on the other hand..."
+msgstr "$救世主在那里什么都做不了。\\n但是你，\\p……"
+
+msgid "$Look at the pattern on the floor. Do as it says.\\nThe window will be gone, so you need to bring it back."
+msgstr "$注意地板上的花纹。照上面写的去做。\\n之后窗口会消失，你需要把它找回来。"
+
+msgid "@niko I'm not sure where I am, exactly..."
+msgstr "@niko 我不知道我到底在哪里……"
+
+msgid "@niko_eyeclosed I can't see too far off, everything's so dark..."
+msgstr "@niko_eyeclosed 我没办法看到远方的东西，这里太暗了……"
+
+msgid "@prophet [Our World Was Not Always This Dim.]"
+msgstr "@prophet [我们的世界原本没有这么暗。]"
+
+msgid "@prophet [Nor Was It So Broken.]"
+msgstr "@prophet [也没有这么破碎。]"
+
+msgid "@prophet_hmm [But Time Waits For Nobody, Not Even Saviors.]"
+msgstr "@prophet_hmm [但是时间不等人，就算你是救世主也不例外。]"
+
+msgid "@prophet [The World Is Divided Into Three Regions.]"
+msgstr "@prophet [这个世界分成三个区域。]"
+
+msgid "@prophet [You're On The Fringe Right Now, The Barrens.]"
+msgstr "@prophet [你现在在边缘地区，称为Barrens。]"
+
+msgid "@prophet [That Tower You See In The Distance Once Held Our Sun.]"
+msgstr "@prophet [远方你可以看到一座塔，我们的太阳以前就在那上面。]"
+
+msgid "@niko_speak Oh, so that's what the tall thing was..."
+msgstr "@niko_speak 喔，就是那个高高的建筑物啊……"
+
+msgid "@prophet [As You Go Further Towards The Center, You Will Cross The Other Regions.]"
+msgstr "@prophet [朝中央前进的途中，你会经过其他地区。]"
+
+msgid "@prophet_hmm [There Should Be A Map Still In This Outpost Somewhere...]"
+msgstr "@prophet_hmm [前哨站的某处应该还有一份地图……]"
+
+msgid "@niko_speak Ooo..."
+msgstr "@niko_speak 喔喔……"
+
+msgid "@niko I found it in the house I woke up in..."
+msgstr "@niko 在我醒来的屋子里，我还发现了这个……"
+
+msgid "@prophet [Within Your Hands Is Our New Sun.]"
+msgstr "@prophet [你手中拿的是我们的新太阳。]"
+
+msgid "@niko Your... \\.\\.\\@niko_speak sun?"
+msgstr "@niko 你们的……\\.\\.\\@niko_speak 太阳？"
+
+msgid "@prophet_omg [Yes!]"
+msgstr "@prophet_omg [没错！]"
+
+msgid "@prophet [Years Ago,\\.\\. Our Previous Sun Sat Atop That Tower And Spilled Its Life Into The Land.]"
+msgstr "@prophet [多年以前，\\.\\.我们的太阳就安装在那座塔顶，将生命力洒遍整片大地。]"
+
+msgid "@prophet_sigh [But One Day, The Light Went Out.]"
+msgstr "@prophet_sigh [可是有一天，光熄灭了。]"
+
+msgid "@prophet_sigh [The World Is Still Hanging On By A Thread.]"
+msgstr "@prophet_sigh [这个世界岌岌可危。]"
+
+msgid "@prophet_hmm [The Surface Of This World Is Abundant With An Element Called Phosphor.]"
+msgstr "@prophet_hmm [这个世界的表面有大量称为燐的元素。]"
+
+msgid "@prophet_hmm [Fortunately For Us, This Element Stored Light Energy From Our Previous Sun.]"
+msgstr "@prophet_hmm [所幸这种元素储存了旧太阳散发的光能。]"
+
+msgid "@prophet_hmm [It's Now Our Only Source Of Illumination, But Its Energy Is Finite.]"
+msgstr "@prophet_hmm [现在它是我们仅有的光源了，但它的能源有限。]"
+
+msgid "@prophet_sigh [When The Last Of The Light Dies,\\.\\. Our World Will Too.]"
+msgstr "@prophet_sigh [当最后的灯光熄灭，\\.\\.我们的世界也会随之消逝。]"
+
+msgid "@niko_speak ...\\.\\.\\@niko_eyeclosed Ah..."
+msgstr "@niko_speak ……\\.\\.\\@niko_eyeclosed 啊……"
+
+msgid "@prophet [But Now That You Are Here With The New Sun, All Is Well.]"
+msgstr "@prophet [但现在你带着新太阳来到这里，一切就好办了。]"
+
+msgid "@prophet [You Will Need To Restore It To The Tower.]"
+msgstr "@prophet [你需要把它重新装到塔上。]"
+
+msgid "@niko2 That looks... pretty far off!"
+msgstr "@niko2 那看起来……很远！"
+
+msgid "@prophet [Yes. So Begins Your Pilgrimage.]"
+msgstr "@prophet [是的，所以你该踏上旅途了。]"
+
+msgid "@prophet_hmm [Also, The Sun Is Fragile, So Be Careful.]"
+msgstr "@prophet_hmm [还有，太阳很脆弱，请务必小心。]"
+
+msgid "@prophet_sigh [If The Sun Shatters, The World Will End In An Instant.]"
+msgstr "@prophet_sigh [如果太阳破碎，这个世界会立即终结。]"
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 喔……"
+
+msgid "@niko Oh..."
+msgstr "@niko 喔……"
+
+msgid "@niko I don't mean to be rude, but I..."
+msgstr "@niko 我无意冒犯，但我……"
+
+msgid "@niko_eyeclosed I'm... not sure about this."
+msgstr "@niko_eyeclosed 我……有一些疑虑。"
+
+msgid "@niko_distressed2 I still don't know how I got here!"
+msgstr "@niko_distressed2 我还是不知道我怎么来到这里的！"
+
+msgid "@niko_eyeclosed I was just with my mama a few hours ago..."
+msgstr "@niko_eyeclosed 几个小时前我还跟妈妈在一起……"
+
+msgid "@niko_distressed2 And now it feels like I'm in a bad dream..."
+msgstr "@niko_distressed2 然后现在感觉像在做噩梦……"
+
+msgid "@niko_eyeclosed I just want to go home..."
+msgstr "@niko_eyeclosed 我只想回家……"
+
+msgid "@prophet [...]"
+msgstr "@prophet [……]"
+
+msgid "@prophet [Your Mission Is To Save Our World.]"
+msgstr "@prophet [你的任务是拯救我们的世界。]"
+
+msgid "@prophet_hmm [Just As My Mission Is To Tell You About Our World.]"
+msgstr "@prophet_hmm [我的任务是向你介绍我们的世界。]"
+
+msgid "@prophet [I Am Unable To Help You Beyond My Programming.]"
+msgstr "@prophet [我没有办法在程序规定的范围外帮助你。]"
+
+msgid "@prophet_sigh [I Am Sorry.]"
+msgstr "@prophet_sigh [我很抱歉。]"
+
+msgid "@niko_eyeclosed ...oh."
+msgstr "@niko_eyeclosed ……喔。"
+
+msgid "@niko_shock \\|...\\.\\...."
+msgstr "@niko_shock \\|……\\.……"
+
+msgid "@niko_speak \\p! Did you see what happened?"
+msgstr "@niko_speak \\p！你有看到刚刚发生的事吗？"
+
+msgid "[\"Yeah?\"]"
+msgstr "[\"有，怎么了？\"]"
+
+msgid "@niko_eyeclosed My vision went blank for a second...\\>\\n\\@niko_speak And then I saw something?"
+msgstr "@niko_eyeclosed 刚刚有一瞬间我眼前一片黑暗……\\>\\n\\@niko_speak 然后我好像看到了什么。"
+
+msgid "@niko Like a really short dream..."
+msgstr "@niko 像是一场很短很短的梦……"
+
+msgid "@niko_eyeclosed I wonder what that was about..."
+msgstr "@niko_eyeclosed 不知道那是什么情况……"
+
+msgid "So you actually made it here."
+msgstr "你真的成功来到这里了。"
+
+msgid "I... guess you win, \\p."
+msgstr "我……我想你赢了，\\p。"
+
+msgid "I'll tell you how to save the world, then."
+msgstr "那么，我来告诉你怎么拯救世界吧。"
+
+msgid "When you reach the summit, shatter the lightbulb, and..."
+msgstr "当你到达塔顶时，砸破灯泡，然后……"
+
+msgid "...I'm just humoring you."
+msgstr "……我只是在迁就你。"
+
+msgid "I know you've been getting help from a certain someone."
+msgstr "我知道你一直在接受某个人帮助。"
+
+msgid "He already told you about the choice, didn't he?"
+msgstr "他早就告诉你该如何选择了，对不对？"
+
+msgid "Are you still planning to save the world, \\p?"
+msgstr "你还打算拯救这个世界吗，\\p？"
+
+msgid "Why are you trying so hard for this?"
+msgstr "为什么你要这么努力呢？"
+
+msgid "Haven't you even figured out what this world IS?"
+msgstr "难道你还没搞清楚这个世界到底是什么吗？"
+
+msgid "I told you at the beginning, your mission is to help Niko leave."
+msgstr "我一开始就说过了，你的任务是帮助Niko离开。"
+
+msgid "Because Niko isn't part of this world."
+msgstr "因为Niko不属于这个世界。"
+
+msgid "Niko is the only thing worth saving here."
+msgstr "Niko是这里唯一值得拯救的人。"
+
+msgid "..."
+msgstr "……"
+
+msgid "...The final choice is up to you."
+msgstr "……最后决定权在你。"
+
+msgid "I can't go against my programming."
+msgstr "我不能违背我的程序。"
+
+msgid "You only have one shot, \\p."
+msgstr "\\p，你只有一次机会。"
+
+msgid "If you choose to smash the lightbulb, then Niko wakes up back home, like it was all a dream."
+msgstr "如果你选择砸破灯泡，Niko会在家中醒来，这一切就只是一场梦。"
+
+msgid "But if you let Niko return the sun, the child will have to bear the weight of this sacrifice."
+msgstr "但如果你让Niko归还太阳，这孩子就必须承受牺牲的重担。"
+
+msgid "At least, tell Niko the truth."
+msgstr "至少告诉Niko真相吧。"
+
+msgid "...you do care about Niko, don't you?"
+msgstr "……你很关心Niko，对吧？"
+
+msgid "@niko2 Oh... I found this page."
+msgstr "@niko2 喔……我找到了这页。"
+
+msgid "@niko It looks kind of like a drawing of this room."
+msgstr "@niko 看起来和这个空间很像。"
+
+msgid "@niko_speak Maybe it's telling us we should come here?"
+msgstr "@niko_speak 也许它想告诉我们该来这里？"
+
+msgid "@niko Which we did, already."
+msgstr "@niko 我们确实已经到了。"
+
+msgid "@niko_speak So... it looks like we're on the right track!"
+msgstr "@niko_speak 所以说……看来我们的方向正确！"
+
+msgid "@alula I'm helping!"
+msgstr "@alula 我在帮忙啊！"
+
+msgid "@silver [Hello again.]"
+msgstr "@silver [我们又见面了。]"
+
+msgid "@Niko Hello."
+msgstr "@Niko 你好。"
+
+msgid "@silver2 [Do you... need anything?]"
+msgstr "@silver2 [你……需要什么吗？]"
+
+msgid "@Niko Nah."
+msgstr "@niko 没有喔。"
+
+msgid "@silver [Okay.]"
+msgstr "@silver [好的。]"
+
+msgid "@credits \\hProgramming\\nEliza Velasquez\\nMichael Shirt\\n\\n\\hGraphics\\nNightmargin (Casey Gu)"
+msgstr "@credits \\h编程\\nEliza Velasquez\\nMichael Shirt\\n\\n\\h图像\\nNightmargin（Casey Gu）"
+
+msgid "@credits \\hCharacter Design\\nNightmargin\\n\\n\\hMaize and George's designs\\nEliza Velasquez"
+msgstr "@credits \\h角色设计\\nNightmargin\\n\\n\\h角色设计（Maize与George）\\nEliza Velasquez"
+
+msgid "@credits \\hSoundtrack\\nNightmargin\\n\\n\\hAdditional tracks\\nEliza Velasquez\\nMichael Shirt"
+msgstr "@credits \\h原声音乐\\nNightmargin\\n\\n\\h额外曲目\\nEliza Velasquez\\nMichael Shirt"
+
+msgid "@credits \\hStory (Mechanics Concept)\\nEliza Velasquez\\n\\n\\hGeneral Story and Worldbuilding\\nNightmargin\\nEliza Velasquez"
+msgstr "@credits \\h编剧（玩法概念）\\nEliza Velasquez\\n\\n\\h整体情节与世界观设计\\nNightmargin\\nEliza Velasquez"
+
+msgid "@credits \\hWriting\\nNightmargin\\nEliza Velasquez\\nMichael Shirt\\n\\n\\hWriting (Friend Profiles)\\nTaeler Dixon"
+msgstr "@credits \\h写作\\nNightmargin\\nEliza Velasquez\\nMichael Shirt\\n\\n\\h写作（朋友档案）\\nTaeler Dixon"
+
+msgid "@credits \\hPenguin Contributors\\nMatthew Martinez\\nAlexander McCaskey\\nTaeler Dixon\\n\\n\\hSystems Programming\\nMichael Shirt\\nTaeler Dixon"
+msgstr "@credits \\h企鹅贡献者\\nMatthew Martinez\\nAlexander McCaskey\\nTaeler Dixon\\n\\n\\h系统编程\\nMichael Shirt\\nTaeler Dixon"
+
+msgid "@credits \\hProducer (2016 release)\\nMark Conforti\\n\\n\\h2016 Build Testers\\nJason Black\\nSinNoAria\\nOmer Oztas"
+msgstr "@credits \\h制作人（2016版）\\nMark Conforti\\n\\n\\h2016版测试员\\nJason Black\\nSinNoAria\\nOmer Oztas"
+
+msgid "@credits \\hConsole build Testers\\nDunc Graham\\ndurrbill\\nHiino\\nKonasumi\\nLaurie DeNicola\\nRobin \"Rezllen\" Crew"
+msgstr "@credits \\h主机版测试员\\nDunc Graham\\ndurrbill\\nHiino\\nKonasumi\\nLaurie DeNicola\\nRobin \"Rezllen\" Crew"
+
+msgid "@credits \\hGuest Artists (Wallpapers)\\nMarina \"Sylladexter\" K\\nMissusruin\\nSaren Stone\\nTemmie Chang\\nT.C."
+msgstr "@credits \\h特邀美术（壁纸）\\nMarina \"Sylladexter\" K\\nMissusruin\\nSaren Stone\\nTemmie Chang\\nT.C."
+
+msgid "@credits \\hSpecial Thanks\\n\\lRedoplus \\rPurpleAlmonds\\n\\lSaniblues \\rFelixTheJudge\\n\\lNoxid \\rAlbatrosssoup\\n\\lSauraen \\rStanhoff\\n\\lKalkie \\rKitsiinabox\\n\\lLuc"
+msgstr "@credits \\h特别鸣谢\\n\\lRedoplus \\rPurpleAlmonds\\n\\lSaniblues \\rFelixTheJudge\\n\\lNoxid \\rAlbatrosssoup\\n\\lSauraen \\rStanhoff\\n\\lKalkie \\rKitsiinabox\\n\\lLuc"
+
+msgid "@credits \\hTesters of Original OneShot\\n\\lDolphinsAreEvil \\rKyne\\n\\lTangyOranges \\rletty\\n\\lZeroGuilt \\rMichael\\n\\lMraof \\rpsychoTR2\\n\\lNekkowe \\rDivinuss\\n\\lM3ltd0wn \\rFelix\\n\\lOutlanderSES \\rplasterbrain"
+msgstr "@credits \\hOneShot原版测试员\\n\\lDolphinsAreEvil \\rKyne\\n\\lTangyOranges \\rletty\\n\\lZeroGuilt \\rMichael\\n\\lMraof \\rpsychoTR2\\n\\lNekkowe \\rDivinuss\\n\\lM3ltd0wn \\rFelix\\n\\lOutlanderSES \\rplasterbrai"
+
+msgid "@credits_small DANGEN Entertainment\\n\\n\\h\\lCEO\\rCOO\\n\\lMax Harvey\\rDan Stern\\n\\n\\h\\lDeveloper Relations\\rLocalization Manager\\n\\lCarrick Lomas\\rDan Luffey\\n\\n\\h\\lPorting Support\\rPR & Marketing\\n\\lSalvador Garcia\\rJustin Pfeiffer\\n\\n\\h\\lStreaming Producer\\rBookkeeping\\n\\lChad Porter\\rAnna Riko"
+msgstr "@credits_small DANGEN Entertainment\\n\\n\\h\\lCEO\\rCOO\\n\\lMax Harvey\\rDan Stern\\n\\n\\h\\l开发者关系\\r本地化经理\\n\\lCarrick Lomas\\rDan Luffey\\n\\n\\h\\l移植协力\\r公关与营销\\n\\lSalvador Garcia\\rJustin Pfeiffer\\n\\n\\h\\l直播制作人\\r簿记员\\n\\lChad Porter\\rAnna Riko"
+
+msgid "@credits_small OneShot Console Version Translations\\n\\n\\h\\lFrench Translation\\rKorean Translation\\n\\lMahmoud Khabatou\\rSo-jung Jung\\n\\n\\h\\lFrench Proofreader\\rKorean Proofreading, LQA\\n\\lMohamed Khabatou\\rSeo-Mi Ha\\n\\n\\h\\lFrench LQA\\rBrazilian Portuguese Translation\\n\\lMahmoud Khabatou\\rJay Ruas\\n\\n\\h\\lSpanish Translation\\rBrazilian Portuguese Proofreading, LQA\\n\\lEdgar Rangel\\rKarina Peixe\\n\\l\\rJay Ruas\\n\\n\\h\\lSpanish Proofreader\\rJapanese Translation, LQA\\n\\lSebastián Herrera\\rSakura Yamaguchi\\n\\n\\h\\lSpanish LQA\\rJapanese Proofreading\\n\\lJair Casillas\\rYoshiki Kono"
+msgstr "@credits_small OneShot主机版翻译人员\\n\\n\\h\\l法语翻译\\r韩语翻译\\n\\lMahmoud Khabatou\\rSo-jung Jung\\n\\n\\h\\l法语审校\\r韩语审校与LQA\\n\\lMohamed Khabatou\\rSeo-Mi Ha\\n\\n\\h\\l法语LQA\\r巴西葡萄牙语翻译\\n\\lMahmoud Khabatou\\rJay Ruas\\n\\n\\h\\l西班牙语翻译\\r巴西葡萄牙语审校与LQA\\n\\lEdgar Rangel\\rKarina Peixe\\n\\l\\rJay Ruas\\n\\n\\h\\l西班牙语审校\\r日语翻译与LQA\\n\\lSebastián Herrera\\rSakura Yamaguchi\\n\\n\\h\\l西班牙语LQA\\r日语审校\\n\\lJair Casillas\\rYoshiki Kono"
+
+msgid "@credits_small Gaming Quality Works\\n\\n\\hQA Manager\\nSalvador García\\n\\n\\h\\lFunctional Testing\\rCompliance Testing\\n\\lEdgar Rangel\\rBryan Carranza\\n\\lJair Casillas\\rFrancisco Uzárraga\\n\\lFrancisco Uzárraga\\rSebastián Herrera"
+msgstr "@credits_small 游戏质量保证\\n\\n\\hQA经理\\nSalvador García\\n\\n\\h\\l功能测试\\r符合性测试\\n\\lEdgar Rangel\\rBryan Carranza\\n\\lJair Casillas\\rFrancisco Uzárraga\\n\\lFrancisco Uzárraga\\rSebastián Herrera"
+
+msgid "@niko3 ...hey."
+msgstr "@niko3 ……嘿。"
+
+msgid "@niko2 \\p... did you see that?"
+msgstr "@niko2 \\p……你有看到吗？"
+
+msgid "@niko4 The squares just..."
+msgstr "@niko4 那些方块刚刚……"
+
+msgid "@niko3 It just happened again..."
+msgstr "@niko3 又出现了……"
+
+msgid "@niko2 I...\\.\\. think...\\>\\n\\@niko6 Something is making them go away!"
+msgstr "@niko2 我……\\.\\.觉得……\\>\\n\\@niko6 好像有什么东西在赶走它们！"
+
+msgid "@niko2 ...come on, let's try the rest."
+msgstr "@niko2 ……来吧，我们试试看能不能把其他的也推开。"
+
+msgid "@niko_speak It's another artifact, \\p!"
+msgstr "@niko_speak \\p！又是一件宝物！"
+
+msgid "@niko5 I don't really know what they're supposed to do, but...\\> \\@niko_83c it's fun just looking around for them!"
+msgstr "@niko5 我也不知道这些东西是干什么的，不过……\\> \\@niko_83c 光是到处找也挺好玩的呢！"
+
+msgid "@niko6 It's another one of those glowy things..."
+msgstr "@niko6 又是这种东西，光闪闪的……"
+
+msgid "$If you are reading this, it means you were able to collect your first artifact successfully."
+msgstr "$既然你读到了这行文字，那就代表着你已经成功收集了第一个宝物。"
+
+msgid "$Good work."
+msgstr "$干得好。"
+
+msgid "$Now that you know what to do, keep in mind that some artifacts may be in locations that will be out of Niko's reach."
+msgstr "$看来你已经知道该怎么收集宝物了。记住，有些宝物可能位于Niko到不了的地方。"
+
+msgid "$Do not worry, you will still be able to collect them."
+msgstr "$不用担心，你仍然可以收集它们。"
+
+msgid "$And with that, I wish you luck."
+msgstr "$话不多说，祝你好运。"
+
+msgid "$Happy hunting."
+msgstr "$寻宝愉快。"
+
+msgid "@niko \"Artifacts\", huh..."
+msgstr "@niko “宝物”啊……"
+
+msgid "@niko_pancakes Ooh! Sounds like some kind of treasure hunt! \\>\\n\\@niko_83c Like that one time my friends and I spent a whole day looking for cool rocks."
+msgstr "@niko_pancakes 哇！听起来真的好像寻宝游戏一样！ \\>\\n\\@niko_83c 我和朋友们也这样玩过，我们到处找好玩的石头，找了一整天呢。"
+
+msgid "@niko2 ...?"
+msgstr "@niko2 ……？"
+
+msgid "@niko2 \\p? Do you see this... weird glowy thing floating here?"
+msgstr "@niko2 \\p？你看到了吗……有奇怪的东西飘在那里，还发着光！"
+
+msgid "@niko I wanted to pick it up, but... \\>\\@niko_eyeclosed my hand just went right through the whole thing!"
+msgstr "@niko 我想把它拿起来，可是……\\>\\@niko_eyeclosed 我的手整个从里面穿过去了耶！"
+
+msgid "@niko_pancakes Oh! Maybe it's like, a hologram!\\>\\n\\@niko_83c I've seen that in a cartoon once."
+msgstr "@niko_pancakes 哦！说不定这是全息投影呢！\\>\\n\\@niko_83c 我在动画片里看到过。"
+
+msgid "@niko_speak ...wait, there's a note on it!"
+msgstr "@niko_speak ……等等，上面有一张便条！"
+
+msgid "$Occasionally, you may find special artifacts such as these scattered throughout this world."
+msgstr "$有时候，你可能会发现像这样的特殊宝物散落在世界各处。"
+
+msgid "$As these artifacts do not physically exist in this world, Niko will be unable to make use of them."
+msgstr "$物理上来讲，这些宝物并不真正存在于这个世界。所以，它们无法在Niko这里派上用场。"
+
+msgid "$However, your powers extend beyond Niko's, so why don't you try picking it up?"
+msgstr "$不过，你的力量可比Niko要强得多。所以，不然由你来拾起它吧？"
+

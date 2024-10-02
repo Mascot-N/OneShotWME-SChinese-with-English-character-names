@@ -1,0 +1,465 @@
+msgid "1:name=lightbulb"
+msgstr "灯泡"
+
+msgid "1:description=A large lightbulb. It's the sun."
+msgstr "一颗大灯泡，是太阳。"
+
+msgid "2:name=television remote"
+msgstr "电视遥控器"
+
+msgid "2:description=It's too hard to read in the dark light."
+msgstr "灯光昏暗，很难看清上面的按钮。"
+
+msgid "3:name=bottle of alcohol"
+msgstr "一瓶酒精"
+
+msgid "3:description=The smell of the liquid is repugnant."
+msgstr "气味让人作呕。"
+
+msgid "4:name=dry branch"
+msgstr "枯枝"
+
+msgid "4:description=A flaky, dry branch from the bathroom plant."
+msgstr "浴室中植物上掉下来的一截枯枝，表皮脱落，手感粗糙。"
+
+msgid "5:name=wet branch"
+msgstr "沾湿的树枝"
+
+msgid "5:description=The tip of the branch is soaked with alcohol."
+msgstr "树枝的末端浸了酒精。"
+
+msgid "6:name=torch"
+msgstr "火把"
+
+msgid "6:description=Doesn't give off much light."
+msgstr "光线很微弱。"
+
+msgid "7:name=basement key"
+msgstr "地下室钥匙"
+
+msgid "7:description=This thing looks old."
+msgstr "这东西看起来很旧。"
+
+msgid "8:name=camera"
+msgstr "相机"
+
+msgid "8:description=A broken camera with a large screwed-in lens."
+msgstr "坏掉的相机，上面有用螺丝固定的大镜头。"
+
+msgid "9:name=screwdriver"
+msgstr "螺丝起子"
+
+msgid "9:description=Phillips-head."
+msgstr "十字头的。"
+
+msgid "10:name=lens"
+msgstr "镜头"
+
+msgid "10:description=A large glass lens."
+msgstr "一个大玻璃镜头。"
+
+msgid "11:name=empty bottle"
+msgstr "空瓶"
+
+msgid "11:description=The smell of alcohol lingers."
+msgstr "里面还残留有酒精的气味。"
+
+msgid "12:name=broken battery"
+msgstr "破损的电池"
+
+msgid "12:description=Apparently a battery.  It has some broken glass in it."
+msgstr "显然是一颗电池，里面有碎玻璃渣。"
+
+msgid "13:name=empty battery"
+msgstr "没电的电池"
+
+msgid "13:description=An intact, rechargable battery. Currently empty."
+msgstr "完好无缺的充电电池，目前是没电的状态。"
+
+msgid "14:name=charged battery"
+msgstr "充满的电池"
+
+msgid "14:description=A working, rechargable battery. Maximum power."
+msgstr "可以使用的充电电池，目前是满电的状态。"
+
+msgid "15:name=bottle of smoke"
+msgstr "一瓶烟雾"
+
+msgid "15:description=It's full of noxious fumes."
+msgstr "装满毒气。"
+
+msgid "16:name=bottle of acid"
+msgstr "一瓶酸"
+
+msgid "16:description=It's full of a thick liquid acid."
+msgstr "装满浓稠的酸液。"
+
+msgid "17:name=wet sponge"
+msgstr "沾湿的海绵"
+
+msgid "17:description=Sponge soaked with acidic cleaning solution."
+msgstr "浸泡过酸性清洁液的海绵。"
+
+msgid "18:name=crowbar"
+msgstr "撬棍"
+
+msgid "18:description=Makeshift crowbar made from a pipe."
+msgstr "铁棍做的，可替代撬棍使用。"
+
+msgid "19:name=metal rod"
+msgstr "铁棍"
+
+msgid "19:description=It weighs surprisingly little."
+msgstr "轻得不可思议。"
+
+msgid "20:name=sponge"
+msgstr "海绵"
+
+msgid "20:description=A flat sponge with a rough surface."
+msgstr "一块扁平的海绵，表面粗糙。"
+
+msgid "21:name=empty syringe"
+msgstr "空针筒"
+
+msgid "21:description=The needle is particularly long."
+msgstr "针头特别长。"
+
+msgid "22:name=filled syringe"
+msgstr "装满的针筒"
+
+msgid "22:description=It's full of the strange liquid from the pond."
+msgstr "装满来自水池的奇怪液体。"
+
+msgid "23:name=amber"
+msgstr "琥珀"
+
+msgid "23:description=A piece of glowing amber with a black clover inside."
+msgstr "一块闪闪发光的琥珀，里面封着一片黑色三叶草。"
+
+msgid "24:name=strange journal"
+msgstr "奇怪的日志"
+
+msgid "24:description=Found in the Barrens. It's written in an unknown language."
+msgstr "在荒野捡到的日志，以未知的语言写成。"
+
+msgid "25:name=feather"
+msgstr "羽毛"
+
+msgid "25:description=A long and slender feather with glowing edges."
+msgstr "细长的羽毛，边缘闪闪发亮。"
+
+msgid "26:name=bottle of dye"
+msgstr "一瓶染料"
+
+msgid "26:description=A small vial filled with dark blue liquid used for dying wool."
+msgstr "一个小瓶子，里面装着染羊毛用的深蓝色液体。"
+
+msgid "27:name=tube of water"
+msgstr "装满水的试管"
+
+msgid "27:description=The label says \"water sample\"."
+msgstr "标签上写着“取水样本”。"
+
+msgid "28:name=seed"
+msgstr "种子"
+
+msgid "28:description=It's a seed apparently left behind by Maize."
+msgstr "显然是麦茈留下的一颗种子。"
+
+msgid "29:name=wool"
+msgstr "羊毛"
+
+msgid "29:description=It's... kind of useless."
+msgstr "看起来没什么用……"
+
+msgid "30:name=feather pen"
+msgstr "羽毛笔"
+
+msgid "30:description=A pen made from dipping a feather into ink."
+msgstr "用羽毛沾墨水制成的笔。"
+
+msgid "31:name=die"
+msgstr "骰子"
+
+msgid "31:description=A die with glowing dots."
+msgstr "一枚骰子，上面的点数闪闪发光。"
+
+msgid "32:name=button (?)"
+msgstr "按钮（？）"
+
+msgid "32:description=A simple button made from a coffee tin."
+msgstr "用咖啡罐做成的简易按钮。"
+
+msgid "33:name=magnetized (?) button"
+msgstr "磁性（？）按钮"
+
+msgid "33:description=A button with magnets loosely attached."
+msgstr "装有磁铁的按钮，不太牢固。"
+
+msgid "34:name=taped button"
+msgstr "贴好的按钮"
+
+msgid "34:description=The magnets are secured with tape."
+msgstr "上面的磁铁用胶带贴紧了。"
+
+msgid "35:name=you tried"
+msgstr "你努力过了"
+
+msgid "35:description=It's the thought that counts."
+msgstr "重要的是心意。"
+
+msgid "36:name=magnets"
+msgstr "磁铁"
+
+msgid "36:description=An assortment of colorful magnets."
+msgstr "各种彩色磁铁。"
+
+msgid "37:name=metal can"
+msgstr "金属罐"
+
+msgid "37:description=Made of aluminum. Says \"COFFEE GROUNDS\"."
+msgstr "材质是铝，上面写着“咖啡粉”。"
+
+msgid "38:name=scissors"
+msgstr "剪刀"
+
+msgid "38:description=A pair of scissors found amidst hair."
+msgstr "在毛发中发现的剪刀。"
+
+msgid "39:name=weird film"
+msgstr "奇怪的胶片"
+
+msgid "39:description=A transparent sheet filled with numbers."
+msgstr "写满数字的透明胶片。"
+
+msgid "40:name=concave lens"
+msgstr "凹透镜"
+
+msgid "40:description=A large lens, curved inward."
+msgstr "曲面向內的大型镜片。"
+
+msgid "41:name=convex lens"
+msgstr "凸透镜"
+
+msgid "41:description=A large lens, curved outward"
+msgstr "曲面向外的大型镜片"
+
+msgid "42:name=thin lens"
+msgstr "薄镜片"
+
+msgid "42:description=A delicately thin lens."
+msgstr "精密的薄镜片。"
+
+msgid "43:name=thick lens"
+msgstr "厚镜片"
+
+msgid "43:description=A large, thick lens."
+msgstr "很大一块厚镜片。"
+
+msgid "44:name=glitter glue"
+msgstr "亮片胶水"
+
+msgid "44:description=A small tube of pink glitter glue."
+msgstr "一小管粉红色亮片胶水。"
+
+msgid "45:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "45:description=Not a cat!"
+msgstr "才不是猫呢！"
+
+msgid "46:name=Kip's library card"
+msgstr "科雪的借书证"
+
+msgid "46:description=The name says \"Kip Silverpoint Ph.D.\""
+msgstr "名字写着“科雪‧希维波特博士”。"
+
+msgid "47:name=gas mask"
+msgstr "防毒面具"
+
+msgid "47:description=A mask used to filter air for breathing."
+msgstr "过滤空气，让人可以呼吸的面具。"
+
+msgid "48:name=rubber gloves"
+msgstr "橡胶手套"
+
+msgid "48:description=Gloves designed to prevent chemical damage."
+msgstr "设计用来防止化学伤害的手套。"
+
+msgid "49:name=boots"
+msgstr "靴子"
+
+msgid "49:description=These boots will make it possible to move quickly."
+msgstr "有这双靴子就能快速移动。"
+
+msgid "50:name=novelty T-shirt"
+msgstr "新奇的T恤"
+
+msgid "50:description=\"I herded rams and all I got was this lousy T-shirt!\""
+msgstr "“我辛苦牧羊，到头来就得到这件差劲的T恤！”"
+
+msgid "51:name=\"Kip\" 's library card"
+msgstr "“科雪”的借书证"
+
+msgid "51:description=Library card from Kip. Niko's own photo is glued on."
+msgstr "科雪给的借书证，上面贴了Niko自己的照片。"
+
+msgid "52:name=Library card (sticky)"
+msgstr "借书证（黏黏的）"
+
+msgid "52:description=There's glitter glue all over her photo now..."
+msgstr "照片上到处都是亮片胶水……"
+
+msgid "53:name=photo of Niko (sticky)"
+msgstr "Niko的照片（黏黏的）"
+
+msgid "53:description=The back of the photo is covered in glitter glue."
+msgstr "照片背面沾满亮片胶水。"
+
+msgid "54:name=DEBUG SAVE"
+msgstr "调试存档"
+
+msgid "54:description=USE THIS TO SAVE"
+msgstr "存档"
+
+msgid "55:name=dirt"
+msgstr "土"
+
+msgid "55:description=A bag of dirt, for growing plants"
+msgstr "一袋土，种植物用的。"
+
+msgid "56:name=water pill"
+msgstr "水药片"
+
+msgid "56:description=Goes in water, supposedly."
+msgstr "应该要加进水里……吧。"
+
+msgid "57:name=medicated water"
+msgstr "加了药的水"
+
+msgid "57:description=The water pill is dissolved in it."
+msgstr "水药片在水里溶解了。"
+
+msgid "58:name=clover"
+msgstr "三叶草"
+
+msgid "58:description=A black clover."
+msgstr "一片黑色三叶草。"
+
+msgid "59:name=empty tube"
+msgstr "空管子"
+
+msgid "59:description=An empty tube.  Used to hold water."
+msgstr "空的管子，用于装水。"
+
+msgid "60:name=bottle of pond water"
+msgstr "一瓶池水"
+
+msgid "60:description=It has the consistency of glue."
+msgstr "质地像胶水。"
+
+msgid "61:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "61:description=Not a cat!"
+msgstr "才不是猫呢！"
+
+msgid "62:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "62:description=A backup!"
+msgstr "仅作备份！"
+
+msgid "63:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "63:description=3rd time's the charm?"
+msgstr "多试几次就会成功？"
+
+msgid "64:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "64:description=This is kind of fun."
+msgstr "这还蛮好玩的。"
+
+msgid "65:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "65:description=Lookin' Good."
+msgstr "看起来不错。"
+
+msgid "66:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "66:description=Niko blinked in this one."
+msgstr "这张Niko眨眼睛了。"
+
+msgid "67:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "67:description=Nice."
+msgstr "不错。"
+
+msgid "68:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "68:description=Very photogenic."
+msgstr "很上相。"
+
+msgid "69:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "69:description=Can't have too much of a good thing!"
+msgstr "好东西不嫌多！"
+
+msgid "70:name=photo of Niko"
+msgstr "Niko的照片"
+
+msgid "70:description=The ultimate photo."
+msgstr "最后一张了！"
+
+msgid "71:name=Key 1"
+msgstr "密钥1"
+
+msgid "72:name=Key 2"
+msgstr "密钥2"
+
+msgid "73:name=Key 3"
+msgstr "密钥3"
+
+msgid "74:name=glowing journal"
+msgstr "发光的日志"
+
+msgid "74:description=It's glowing now...?"
+msgstr "它在发光……？"
+
+msgid "75:name=memory disk"
+msgstr "储存磁盘"
+
+msgid "75:description=A floppy disk."
+msgstr "一张软盘。"
+
+msgid "76:name=memory disk (backup)"
+msgstr "储存磁盘（备份）"
+
+msgid "76:description=A floppy disk containing a backup."
+msgstr "一张软盘，储存有备份文件。"
+
+msgid "77:name=charged battery"
+msgstr "充满的电池"
+
+msgid "77:description=A working, rechargable battery."
+msgstr "可以使用的充电电池。"
+
+msgid "78:name=music box"
+msgstr "八音盒"
+
+msgid "78:description=A wind-up music box."
+msgstr "一个发条八音盒。"
+
+msgid "79:name=DEBUG FLAG AND VARS"
+msgstr "DEBUG FLAG AND VARS"
+
+msgid "80:name=PLIGHT SKIP"
+msgstr "PLIGHT SKIP"
+
