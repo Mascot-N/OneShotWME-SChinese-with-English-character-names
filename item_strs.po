@@ -164,7 +164,7 @@ msgid "28:name=seed"
 msgstr "种子"
 
 msgid "28:description=It's a seed apparently left behind by Maize."
-msgstr "显然是麦茈留下的一颗种子。"
+msgstr "显然是Maize留下的一颗种子。"
 
 msgid "29:name=wool"
 msgstr "羊毛"
