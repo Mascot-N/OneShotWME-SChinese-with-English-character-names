@@ -1,0 +1,114 @@
+msgid "@niko A heavy piece of metal set into the wall."
+msgstr "@niko 墙里有什么金属的东西嵌在里面，很重。"
+
+msgid "@niko_eyeclosed I think it might be a door or some kind of vault."
+msgstr "@niko_eyeclosed 可能是一扇门或是某种保险库吧。"
+
+msgid "@niko There's a small screen here, in the middle."
+msgstr "@niko 这中间有一个小屏幕。"
+
+msgid "@niko Looks like it's asking for a password."
+msgstr "@niko 看起来需要密码。"
+
+msgid "@niko That wasn't it..."
+msgstr "@niko 密码不对……"
+
+msgid "@niko_eyeclosed The door is locked."
+msgstr "@niko_eyeclosed 门锁上了。"
+
+msgid "@niko2 The word \"DOCUMENTS\" is on the screen, above the password prompt."
+msgstr "@niko2 在屏幕中输入密码的对话框上面有“文件”两个字。"
+
+msgid "@niko_speak Looks like a door of some sort!"
+msgstr "@niko_speak 看起来像是一扇门！"
+
+msgid "@niko There's a glowing lock symbol on a small screen."
+msgstr "@niko 屏幕上有发光的锁定标志。"
+
+msgid "@ed [You are testing my patience.]"
+msgstr "@ed [你在试探我的耐心。]"
+
+msgid "@ed [Do you really want the answer?]"
+msgstr "@ed [你真的想知道答案吗？]"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@ed [When you view the film, it fills your entire window into our world, yes?]"
+msgstr "@ed [当你查看胶片的时候，它会显示在你的窗口上，并遮住我们的世界，对吧？]"
+
+msgid "@ed [I believe you refer to the action I describe as \"dragging\".]"
+msgstr "@ed [在你看来我说的动作应该被称为“拖拽”。]"
+
+msgid "@ed [The void is beyond the borders of your view.]"
+msgstr "@ed [在你的视线范围外有一片虚空。]"
+
+msgid "@ed [Through the void, and back again...]"
+msgstr "@ed [穿过虚空，再回来……]"
+
+msgid "@ed [Are you just here to waste more of my time?]"
+msgstr "@ed [你是来继续浪费我的时间吗？]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [唉。]"
+
+msgid "@ed [Still clueless?]"
+msgstr "@ed [还是不懂？]"
+
+msgid "@ed [Figures.]"
+msgstr "@ed [我想也是。]"
+
+msgid "@ed [Want another tip?]"
+msgstr "@ed [还需要更多提示吗？]"
+
+msgid "@ed [There's a void beyond the four walls that bind our world to yours. The edges of your viewport, where everything is obscured...]"
+msgstr "@ed [在连结你我的世界的四面墙之外，存在一片虚空。就在你视角的边缘，一切都变得模糊的地带……]"
+
+msgid "@ed [I'm sure you know what I'm talking about.]"
+msgstr "@ed [你一定知道我在说什么。]"
+
+msgid "@ed [Pass the film through the void and back again.]"
+msgstr "@ed [拖拽胶片穿过这片虚空再回来。]"
+
+msgid "@ed [Fine, keep at it.]"
+msgstr "@ed [好吧，请继续。]"
+
+msgid "@ed [It's not like I'm going anywhere.]"
+msgstr "@ed [反正我也不会跑掉。]"
+
+msgid "@ed [Looking for a code, are you?]"
+msgstr "@ed [你在找密码吗？]"
+
+msgid "@ed [You're going to need this soon.]"
+msgstr "@ed [你很快就会用到这个。]"
+
+msgid "@ed [Take this film and expose it to the void.]"
+msgstr "@ed [拿这张胶片，将它置于虚空之中。]"
+
+msgid "@ed [The answer will be revealed when you bring it back again.]"
+msgstr "@ed [再把它拿回来，答案就会显现。]"
+
+msgid "@niko The computer printed out a strange transparent sheet..."
+msgstr "@niko 计算机印出了一张奇怪的透明薄片……"
+
+msgid "@ed [So, you figured out the code without fully exposing the film.]"
+msgstr "@ed [喔，你没有曝光过胶片就破解了密码。]"
+
+msgid "@ed [Good for you.]"
+msgstr "@ed [做得好。]"
+
+msgid "@ed [...]"
+msgstr "@ed [……]"
+
+msgid "@ed [You didn't need my help for this puzzle.]"
+msgstr "@ed [你不需要我的帮助就能解开这道谜题。]"
+
+msgid "@ed [And yet you're still here talking to me?]"
+msgstr "@ed [却还在这里跟我闲扯？]"
+
+msgid "@ed [How quaint.]"
+msgstr "@ed [太奇怪了。]"
+
+msgid "@niko The screen is off."
+msgstr "@niko 屏幕关闭了。"
+

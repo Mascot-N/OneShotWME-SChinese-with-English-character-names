@@ -1,0 +1,21 @@
+msgid "@niko It's a faded flyer."
+msgstr "@niko 褪色的传单。"
+
+msgid "@niko_speak It's a big crack in the wall!"
+msgstr "@niko_speak 墙上有好大一条裂缝！"
+
+msgid "@niko I see bunch of mice, huddled together."
+msgstr "@niko 我看到好多老鼠缩在一起。"
+
+msgid "@niko2 ...oh, but they scurried off..."
+msgstr "@niko2 ……喔，可是他们一下就跑走了……"
+
+msgid "@niko_eyeclosed I hope they didn't think I was gonna eat them..."
+msgstr "@niko_eyeclosed 希望他们不是觉得我想吃他们……"
+
+msgid "[P\\.\\.#L.%%E\\|AS;E D\\.O NO//T AP\\.\\.PR#OACH]"
+msgstr "[请\\.\\.#不.%%\\|要；不\\.要//靠\\.\\.近#\\]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+

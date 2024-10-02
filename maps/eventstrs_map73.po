@@ -1,0 +1,126 @@
+msgid "$Initially, the amount of noxious fumes emitted by the natural gas vents caught our team off-guard."
+msgstr "$起初，天然气排气口冒出来的毒气量让我们的团队措手不及。"
+
+msgid "$Thank goodness the medical team reacted as quickly as they did."
+msgstr "$幸好医疗团队用最快的速度应变。"
+
+msgid "$Despite its failure, that first expedition did bring up some interesting observations about the Barrens."
+msgstr "$虽然第一次考察没有成功，但这一趟的确让我们观察到Barrens一些有趣的现象。"
+
+msgid "$We found that there's not one, but two such vent zones."
+msgstr "$我们发现这里有两处这样的排气区域，而不仅一处。"
+
+msgid "$With fumes being pumped out at such high concentrations..."
+msgstr "$这么高浓度的烟雾……"
+
+msgid "$...it seems a miracle that the gas hasn't spread anywhere else."
+msgstr "$……这些毒气没有散播到别的地方，简直就是奇迹。"
+
+msgid "$Our biologists concluded that the phosphor shrimp in the crater pools were actively consuming the gas."
+msgstr "$我们的生物学家得到结论， 水池中的燐虾会主动消耗那些气体。"
+
+msgid "$The shrimp in the ocean also prevent the gas from wafting off into the Glen."
+msgstr "$海中那些虾子也挡住了气体， 使其不至于飘散到Glen。"
+
+msgid "$If that's the case, then we owe a lot to these little guys!"
+msgstr "$如果真的是这样，我们真该感谢这些小东西！"
+
+msgid "@niko_speak So...\\.\\. we're filling up the syringe, \\p?"
+msgstr "@niko_speak 那……\\.\\.\\p，我们要把针筒装满吗？"
+
+msgid "@niko I guess it's kind of like a funnel..."
+msgstr "@niko 我觉得它有点像漏斗……"
+
+msgid "@niko But the liquid might be a bit too thick to fit in the needle..."
+msgstr "@niko 可是这个液体太浓稠，可能吸不进针筒……"
+
+msgid "@niko Hey, it actually went in!"
+msgstr "@niko 哇，居然真的吸进去了！"
+
+msgid "@niko_eyeclosed Gross."
+msgstr "@niko_eyeclosed 真恶心。"
+
+msgid "@niko You want me to fill the bottle with this stuff, \\p?"
+msgstr "@niko \\p，你要我用这个装满瓶子吗？"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_eyeclosed It's too goopy to fit in the bottle opening..."
+msgstr "@niko_eyeclosed 它这样黏糊糊的，没办法从瓶口装进去……"
+
+msgid "@niko It's like that one time years ago when I tried to put tomato chowder in a baby bottle..."
+msgstr "@niko 很像好几年前，我企图把西红柿浓汤装进婴儿奶瓶那一次……"
+
+msgid "@niko_speak ...and then it got everywhere!"
+msgstr "@niko_speak ……结果汤洒得到处都是！"
+
+msgid "@niko_eyeclosed On the table, on my clothes, on the baby, on the baby's clothes..."
+msgstr "@niko_eyeclosed 桌上、我的衣服上、小婴儿身上、小婴儿的衣服上……"
+
+msgid "@niko The grown-ups thought it was hilarious.\\> \\@niko_eyeclosed They took a bunch of pictures."
+msgstr "@niko 大人都觉得好好笑。\\> \\@niko_eyeclosed 他们拍了好多照片。"
+
+msgid "@niko_speak And then they taught me how to use funnels!"
+msgstr "@niko_speak 然后他们就教我怎么用漏斗了！"
+
+msgid "@niko_eyeclosed And then they also told me I shouldn't try to babysit until I'm older."
+msgstr "@niko_eyeclosed 他们也说我应该等长大一点再帮忙照顾小宝宝。"
+
+msgid "@niko ...anyway we should probably look for a funnel or something!"
+msgstr "@niko ……总之，我们应该找个漏斗或类似的东西！"
+
+msgid "@niko Alright... lemme just take out the cork, and..."
+msgstr "@niko 好……我先把瓶塞拔掉，然后……"
+
+msgid "@niko_eyeclosed ...all the smoke escaped."
+msgstr "@niko_eyeclosed ……烟都漏光了。"
+
+msgid "@niko_speak There's already some of this stuff in the bottle, \\p!"
+msgstr "@niko_speak 瓶子里已经装了一些烟了，\\p！"
+
+msgid "@niko This pond sure looks different..."
+msgstr "@niko 这个水池看起来很不一样……"
+
+msgid "@niko The water looks like... jelly?"
+msgstr "@niko 里面的水看起来像……果冻？"
+
+msgid "@niko It's formed a bubble over the surface of the pond."
+msgstr "@niko 水池表面出现了一层泡泡。"
+
+msgid "@niko I guess you want me to fill the bottle with this gas, \\p?"
+msgstr "@niko \\p，你是要我用瓶子装这个气体对不对？"
+
+msgid "@niko That oughta do it."
+msgstr "@niko 这样应该可以。"
+
+msgid "@niko This bottle is already full of this smoke!"
+msgstr "@niko 这个瓶子已经装满烟了！"
+
+msgid "@niko Alright lemme just...\\> turn this bottle upside down..."
+msgstr "@niko 好，让我……\\> 把瓶子转过来上下颠倒……"
+
+msgid "@niko_eyeclosed ...aaaaand there goes the pond water."
+msgstr "@niko_eyeclosed ……然～后池水就流光了。"
+
+msgid "@niko But at least we have this smoke..."
+msgstr "@niko 不过至少我们还有烟……"
+
+msgid "@niko_speak This vent is on the ground!"
+msgstr "@niko_speak 这个排气口就在地上耶！"
+
+msgid "@niko All the others are taller than me."
+msgstr "@niko 其他的都比我还高。"
+
+msgid "[THE SKY IS DARK.]"
+msgstr "[天空好暗。]"
+
+msgid "@niko That it is."
+msgstr "@niko 是很暗。"
+
+msgid "[DO YOU KNOW WHEN THE SUN WILL BE BACK UP?]"
+msgstr "[你知道太阳什么时候会再亮起来吗？]"
+
+msgid "@niko_speak We're working on it!"
+msgstr "@niko_speak 我们正在想办法！"
+

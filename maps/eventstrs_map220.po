@@ -1,0 +1,321 @@
+msgid "@mason Black clovers are so resilient...\\> I wonder how they do it?"
+msgstr "@mason 黑三叶草真是再差的条件也能长……\\>它们怎么这么顽强呢？"
+
+msgid "@plight Stress makes you tougher I suppose...\\> that and lots of coffee."
+msgstr "@plight 压力越大，人越坚强吧……\\>除了这个，多喝咖啡也管用。"
+
+msgid "@mason Nah, if you water a plant with coffee they just die."
+msgstr "@mason 不了吧，要是给植物浇咖啡，肯定会枯死的。"
+
+msgid "@mason ...don't ask me how I know this."
+msgstr "@mason ……不要问我为什么知道。"
+
+msgid "@mason It's really a shame that the Glen is starting to erode so fast now..."
+msgstr "@mason 真可惜现在Glen被侵蚀得这么快……"
+
+msgid "@mason Soon, the world won't have much room for plants left..."
+msgstr "@mason 这世界很快就不会剩下多少空间给植物生长了……"
+
+msgid "@mason ...asides from black clovers, I mean."
+msgstr "@mason ……我是说，除了黑三叶草以外的植物。"
+
+msgid "@plight Oh hey, gardening guy...\\>\\nDidn't I fix your lights last week?"
+msgstr "@plight 哦，这不是园艺男吗……\\>\\n上周你那灯修好了没有？"
+
+msgid "@mason Mr. Lamplighter!\\>\\nYou wouldn't BELIEVE the day I just had."
+msgstr "@mason Lamplighter先生！\\>\\n你肯定想不到我今天都经历了什么。"
+
+msgid "@plight_worry2 Guess those lights kinda got fixed for nothing, huh..."
+msgstr "@plight_worry2 看来我这灯是白修了……"
+
+msgid "@mason Right??\\>\\nWorst of all, I had to leave my poor plants behind too!"
+msgstr "@mason 可不是嘛？？\\>\\n最惨的是，我都没法把我可怜的植物一起带走！"
+
+msgid "@niko_eyeclosed Sorry to hear..."
+msgstr "@niko_eyeclosed 我很遗憾……"
+
+msgid "@mason Oh, speaking of plants..."
+msgstr "@mason 对了，说到植物……"
+
+msgid "@mason I heard the Glen is just COVERED in vines now."
+msgstr "@mason 听说Glen现在满坑满谷都是藤蔓。"
+
+msgid "@mason Is that true?"
+msgstr "@mason 这是真的吗？"
+
+msgid "@niko_eyeclosed ...yeah..."
+msgstr "@niko_eyeclosed ……是真的……"
+
+msgid "@niko2 The plant lady was using them to keep the land from falling away..."
+msgstr "@niko2 植物女士在用它们支撑土地，免得土地崩毁……"
+
+msgid "@mason The plant spirit?\\> Maize?"
+msgstr "@mason 那个树灵？\\>是说Maize吗？"
+
+msgid "@mason I figured..."
+msgstr "@mason 跟我想的一样……"
+
+msgid "@mason ...say, how is she doing?"
+msgstr "@mason ……说起来，她状况如何？"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ……"
+
+msgid "@mason ...ah."
+msgstr "@mason ……啊。"
+
+msgid "@mason ...she's... gone, isn't she?"
+msgstr "@mason ……她已经……不在了，对不对？"
+
+msgid "@niko_eyeclosed She said she was using up the last of her powers..."
+msgstr "@niko_eyeclosed 她说她要用尽最后的力量……"
+
+msgid "@mason I wouldn't be surprised."
+msgstr "@mason 果然啊。"
+
+msgid "@mason She always did her best to protect everyone..."
+msgstr "@mason 她总是竭尽全力保护所有人……"
+
+msgid "@mason Bummer!"
+msgstr "@mason 真讨厌！"
+
+msgid "@mason I had to leave most of my plants behind."
+msgstr "@mason 我不得不抛下大部分的植物。"
+
+msgid "@mason This stinks!"
+msgstr "@mason 这真是糟透了！"
+
+msgid "@niko Milk and sugar."
+msgstr "@niko 牛奶和糖。"
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak 两个我都喜欢！"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed ……但是不要加进咖啡里。"
+
+msgid "[SQUARES ARE BAD]"
+msgstr "[方块是坏东西]"
+
+msgid "[SQUARES MAKE THE PEOPLE EVACUATE]"
+msgstr "[方块害大家必须撤离]"
+
+msgid "[EVACUATION MAKES THE GIRL SAD]"
+msgstr "[撤离让女孩伤心]"
+
+msgid "@plight_worry Sad and also screaming on the inside constantly.\\>\\n\\@plight_why Like I am."
+msgstr "@plight_worry 一边伤心，一边在心中永无止尽地呐喊。\\>\\n\\@plight_why 和我一样。"
+
+msgid "@ling_hm So..."
+msgstr "@ling_hm 那么……"
+
+msgid "@ling Can I...\\> get you guys anything to eat?"
+msgstr "@ling 那我……\\>给你们弄点吃的？"
+
+msgid "@ling_smile Or maybe a coffee?"
+msgstr "@ling_smile 或者来杯咖啡？"
+
+msgid "@plight_worry Normally I'd go for the coffee but if I drink any right now I might actually have a heart attack."
+msgstr "@plight_worry 换在别的时候我肯定选咖啡，但现在要让我喝，我会心脏病发作的。"
+
+msgid "@ling_sigh Ah...\\>\\nI know how that is..."
+msgstr "@ling_sigh 啊……\\>\\n我懂……"
+
+msgid "@niko6 Yeah...\\>\\nI would've probably asked for some pancakes around now."
+msgstr "@niko6 是啊……\\>\\n我也想要点薄煎饼吃来着。"
+
+msgid "@niko_eyeclosed But there just isn't enough time..."
+msgstr "@niko_eyeclosed 可是时间肯定来不及……"
+
+msgid "@ling Can I...\\> get you anything to eat?"
+msgstr "@ling 我还是……\\>给你弄点吃的吧？"
+
+msgid "@niko2 No thank you!"
+msgstr "@niko2 不用了，谢谢你！"
+
+msgid "@niko_eyeclosed (Even though I could go for some pancakes right now...)"
+msgstr "@niko_eyeclosed （虽然我现在很想吃煎饼……）"
+
+msgid "@niko_eyeclosed (There just isn't time...)"
+msgstr "@niko_eyeclosed （可是没时间了……）"
+
+msgid "@ling_hm At least people won't starve here..."
+msgstr "@ling_hm 至少这里不会有人挨饿……"
+
+msgid "@ling_smile The perks of using a cafe as an emergency shelter, huh?"
+msgstr "@ling_smile 用咖啡馆当紧急避难所的好处就是这个吧？"
+
+msgid "@ling2 Oh!"
+msgstr "@ling2 喔！"
+
+msgid "@ling Hello, Messiah!\\n\\>\\@ling_hm And... um... \\@ling_smile Tall guy!"
+msgstr "@ling 你好啊，救世主！\\n\\>\\@ling_hm 还有……嗯……\\@ling_smile 大高个儿！"
+
+msgid "@ling_hm You guys, um..."
+msgstr "@ling_hm 你们，呃……"
+
+msgid "@ling_sigh You came at a bad time..."
+msgstr "@ling_sigh 你来得不是时候……"
+
+msgid "@ling_hm The apartments in the west sector got destroyed by squares a day ago..."
+msgstr "@ling_hm 就在一天前，西边的公寓被方块给毁掉了……"
+
+msgid "@plight_worry2 Oh yeah, I saw..."
+msgstr "@plight_worry2 确实，我看到了……"
+
+msgid "@ling_sigh Terrible, isn't it?"
+msgstr "@ling_sigh 很可怕吧？"
+
+msgid "@niko_eyeclosed Yeah..."
+msgstr "@niko_eyeclosed 嗯……"
+
+msgid "@ling_hm2 Ah, but at least the evacuees seem to be doing ok."
+msgstr "@ling_hm2 啊，不过至少避难者状况都还好。"
+
+msgid "@ling_hm2 We're letting them stay here for now."
+msgstr "@ling_hm2 我们暂时让他们待在这。"
+
+msgid "@plight That's nice of you."
+msgstr "@plight 你人真好。"
+
+msgid "@ling_smile Well, someone has to help!"
+msgstr "@ling_smile 哎，总得有人站出来帮忙啊！"
+
+msgid "@ling Hello, Messiah!"
+msgstr "@ling 救世主，你好！"
+
+msgid "@ling_hm You, um..."
+msgstr "@ling_hm 你、呃……"
+
+msgid "@Niko A coffee machine."
+msgstr "@niko 咖啡机。"
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak 几乎装满了！"
+
+msgid "Scarves are great."
+msgstr "围巾是好东西。"
+
+msgid "If I had my stuff back... I'd knit one for everyone here!"
+msgstr "要是我的家伙事都在……我就给这里的人每人织一条！"
+
+msgid "@plight That DOES sound nice...\\>\\nmine's looking a bit ratty..."
+msgstr "@plight 那可真不错啊……\\>\\n我这条都有点破了……"
+
+msgid "I'll say!\\>\\nWhen was the last time you even WASHED that thing?"
+msgstr "可不是嘛！\\>\\n你上次洗这玩意得是什么时候了啊？"
+
+msgid "@plight_worry I DO wash it!\\nI swear!"
+msgstr "@plight_worry 我有在洗它的！\\n我发誓！"
+
+msgid "@plight_sigh The coffee stains just won't go away..."
+msgstr "@plight_sigh 可是这咖啡渍怎么也洗不掉……"
+
+msgid "Hey."
+msgstr "嘿。"
+
+msgid "@plight Hey."
+msgstr "@plight 嘿。"
+
+msgid "@niko Hi..."
+msgstr "@niko 你好……"
+
+msgid "Is it me, or is it really cold outside?"
+msgstr "是我的错觉，还是外面真的很冷？"
+
+msgid "@niko2 ...y'know, now that you've mentioned it..."
+msgstr "@niko2 ……你知道吗，你这么一说……"
+
+msgid "@niko_eyeclosed (it IS really chilly this time around, \\p...)"
+msgstr "@niko_eyeclosed （\\p，这次这里真的很冷……）"
+
+msgid "@plight_worry2 No kidding!"
+msgstr "@plight_worry2 那可不！"
+
+msgid "Good thing you're both wearing scarves, huh?"
+msgstr "幸好你俩都围着围巾哈？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 对啊！"
+
+msgid "Good thing you've got a scarf, huh?"
+msgstr "幸好你有围巾，对吧？"
+
+msgid "..............."
+msgstr "……………"
+
+msgid "@niko ......................."
+msgstr "@niko ……………………"
+
+msgid "..............................."
+msgstr "……………………………"
+
+msgid "@niko_speak ..................................."
+msgstr "@niko_speak …………………………………"
+
+msgid "............................................."
+msgstr "……………………………………"
+
+msgid "@niko_eyeclosed ...same as usual, huh..."
+msgstr "@niko_eyeclosed ……还是老样子啊……"
+
+msgid "@niko_eyeclosed Now's not really the time to talk to penguins, \\p..."
+msgstr "@niko_eyeclosed \\p，现在真的不是跟企鹅讲话的时候啦……"
+
+msgid "@niko2 Oh, it's that penguin..."
+msgstr "@niko2 喔，是那只企鹅……"
+
+msgid "@niko_eyeclosed ...yep."
+msgstr "@niko_eyeclosed ……好吧。"
+
+msgid "I don't know what I'm gonna do without Model C-WT 2nd gen unit 4E!"
+msgstr "我真不知道，要是没有C-WT行第二代4E单位该怎么办！"
+
+msgid "@plight_2 Robots... they're really something, huh..."
+msgstr "@plight_2 机器人……真了不得……"
+
+msgid "Our apartment got evacuated while my parents were at work..."
+msgstr "我们公寓的人在我父母上班的时候被撤离避难了……"
+
+msgid "...I'm waiting for them to pick us up now."
+msgstr "……我现在在等他们来接我们。"
+
+msgid "I hope they're ok..."
+msgstr "希望他们没事……"
+
+msgid "@plight Must be tough waiting by yourself..."
+msgstr "@plight 一个人等着，不容易吧……"
+
+msgid "Well, at least my robot's with me!"
+msgstr "哎呀，至少我还有机器人陪我！"
+
+msgid "At least my robot's with me..."
+msgstr "至少我还有机器人陪我……"
+
+msgid "Bessie's lookin pretty bummed about this too..."
+msgstr "小白看来也对这点很不开心……"
+
+msgid "There there, girl..."
+msgstr "乖乖，没事的……"
+
+msgid "Dang it!"
+msgstr "该死的！"
+
+msgid "I JUST moved into my apartment!"
+msgstr "我才刚搬进我的公寓啊！"
+
+msgid "Now where am I gonna go!"
+msgstr "这下子我该去哪里！"
+
+msgid "@plight Damn, sorry to hear your place got ruined.\\>\\nMust be rough..."
+msgstr "@plight 唉，那真是太遗憾了。\\>\\n家被毁了，肯定不好受吧……"
+
+msgid "@plight ..."
+msgstr "@plight ……"
+
+msgid "@plight_worry2 Can't help but worry that my own place is next, now..."
+msgstr "@plight_worry2 我现在好担心，恐怕下一个出事的就是我家了……"
+
+msgid "You should grab your stuff while you still can!"
+msgstr "趁还有机会，赶快把家里的东西运出来吧！"
+

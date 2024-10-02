@@ -1,0 +1,159 @@
+msgid "@rue We will meet again."
+msgstr "@rue 我们会再见面的。"
+
+msgid "@niko ...?"
+msgstr "@niko ……？"
+
+msgid "@rue_talk So you found a way back after all."
+msgstr "@rue_talk 你终于回到这里了。"
+
+msgid "@niko_speak Eh? \\>\\n\\@niko But I've never been here before..."
+msgstr "@niko_speak 咦？\\>\\n\\@niko 可是我以前没来过啊……"
+
+msgid "@rue That means..."
+msgstr "@rue 也就是说……"
+
+msgid "@rue ..."
+msgstr "@rue ……"
+
+msgid "@rue_talk Have you... met the others?"
+msgstr "@rue_talk 你有……遇到其他狐狸吗？"
+
+msgid "@niko2 ...others? \\>\\n\\@niko2 You're the only fox I've seen..."
+msgstr "@niko2 ……其他狐狸？\\>\\n\\@niko2 我见过的狐狸只有你一只……"
+
+msgid "@niko_speak Wait! There's that one plush in Calamus and Alula's house, right \\p?"
+msgstr "@niko_speak 等等！Calamus和Alula的家里有一只狐狸娃娃，对吧，\\p？"
+
+msgid "@rue_sad Sigh."
+msgstr "@rue_sad 唉。"
+
+msgid "@rue It's not time."
+msgstr "@rue 还不到时候。"
+
+msgid "@rue ...we will meet again."
+msgstr "@rue ……我们会再见面的。"
+
+msgid "@rue_smile Hello, Niko."
+msgstr "@rue_smile Niko，你好。"
+
+msgid "@niko Hello..."
+msgstr "@niko 你好……"
+
+msgid "@rue ...oh?"
+msgstr "@rue ……嗯？"
+
+msgid "@rue_talk You're back again..."
+msgstr "@rue_talk 你又回来了……"
+
+msgid "@rue But... \\.\\.\\@rue_sad I said it was not time..."
+msgstr "@rue 可是……\\.\\.\\@rue_sad 我说过时机不对……"
+
+msgid "@rue Are you here to keep me company, then?"
+msgstr "@rue 那你是来陪我的咯？"
+
+msgid "@rue_smile Guess I can't refuse that."
+msgstr "@rue_smile 看来我不能拒绝呢。"
+
+msgid "@rue ...I am Rue."
+msgstr "@rue ……我叫Rue。"
+
+msgid "@rue_sad You will probably not remember my name in a while.\\.\\.\\n\\@rue_smile ...But I would still like to know yours."
+msgstr "@rue_sad 你可能很快就会忘记我的名字了。\\.\\.\\n\\@rue_smile ……可是我还是想知道你叫什么名字。"
+
+msgid "@niko I'm... \\.\\.not sure what you're talking about."
+msgstr "@niko 我……\\.\\.有点听不懂你在说什么。"
+
+msgid "@niko_speak But my name is Niko!"
+msgstr "@niko_speak 不过我叫Niko！"
+
+msgid "@rue ...Niko."
+msgstr "@rue ……Niko。"
+
+msgid "@rue_smile I shall remember that!"
+msgstr "@rue_smile 我会记住的！"
+
+msgid "@rue_smile I'm glad you do not mind coming back."
+msgstr "@rue_smile 我很高兴你愿意回来。"
+
+msgid "@rue_talk To be perfectly honest..."
+msgstr "@rue_talk 老实说……"
+
+msgid "@rue_sad It may be this way for a while, actually."
+msgstr "@rue_sad 其实这个状态可能要维持一阵子。"
+
+msgid "@rue ...But in time, that will change."
+msgstr "@rue ……不过慢慢会改变的。"
+
+msgid "@niko2 The... sun?"
+msgstr "@niko2 太阳……吗？"
+
+msgid "@rue_smile \\p can see this, right?"
+msgstr "@rue_smile \\p看得到这个，对吧？"
+
+msgid "@niko ...yeah?"
+msgstr "@niko ……应该吧？"
+
+msgid "@rue_smile Then \\p will understand."
+msgstr "@rue_smile 那\\p就能明白。"
+
+msgid "@rue_smile Oh, you're here!"
+msgstr "@rue_smile 喔，你来了！"
+
+msgid "@rue I was starting to miss you..."
+msgstr "@rue 我有点想你了……"
+
+msgid "@rue_smile ...Guess I got used to your company, after all."
+msgstr "@rue_smile ……我想我终究还是习惯了有你陪伴。"
+
+msgid "@niko2 ...pardon?"
+msgstr "@niko2 ……你说什么？"
+
+msgid "@rue Do not worry. Carry on."
+msgstr "@rue 别担心，继续吧。"
+
+msgid "@niko There's no one here..."
+msgstr "@niko 这里没有人……"
+
+msgid "@niko It's a big tree, with leaves!\\>\\nHaven't seen one of these since I was back home..."
+msgstr "@niko 是一棵大树，而且有叶子！\\>\\n我离开家之后就没看过这种树了……"
+
+msgid "@niko_speak Whoa!\\>\\n\\@niko \\p? Did you see that fox just now?"
+msgstr "@niko_speak 哇！\\>\\n\\@niko \\p，你有没有看到刚刚那只狐狸？"
+
+msgid "@niko_speak It just ran behind the tree..."
+msgstr "@niko_speak 跑到树后面了……"
+
+msgid "@rue_dark ..."
+msgstr "@rue_dark ……"
+
+msgid "@rue_dark I'm sorry if you are looking for me."
+msgstr "@rue_dark 如果你是来找我的，很抱歉。"
+
+msgid "@rue_dark But I cannot talk to you."
+msgstr "@rue_dark 但我不能跟你说话。"
+
+msgid "@rue_dark Not now..."
+msgstr "@rue_dark 现在还不到时候……"
+
+msgid "@niko Um..."
+msgstr "@niko 呃……"
+
+msgid "@rue_dark But... can you promise me something?"
+msgstr "@rue_dark 可是……你可以答应我一件事吗？"
+
+msgid "@niko Huh?"
+msgstr "@niko 咦？"
+
+msgid "@rue_dark If... you can find a way to return..."
+msgstr "@rue_dark 如果……你能回到这里……"
+
+msgid "@rue_dark ...please do."
+msgstr "@rue_dark ……请你一定回来。"
+
+msgid "@niko Er...\\.\\. \\@niko2 What... do you mean by that?"
+msgstr "@niko 呃……\\.\\.\\@niko2 那……那是什么意思？"
+
+msgid "@niko ...\\>\\n\\@niko_eyeclosed No reply..."
+msgstr "@niko ……\\>\\n\\@niko_eyeclosed 不回答了……"
+

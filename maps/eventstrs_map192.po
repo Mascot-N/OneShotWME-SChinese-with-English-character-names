@@ -1,0 +1,42 @@
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko 有几只萤火虫在这个罐子里飞舞。"
+
+msgid "[I AM THE GENERATOR MAINTENANCE UNIT.]"
+msgstr "[我是发电机维修单位。]"
+
+msgid "[EVERYTHING IS FINE HERE.]"
+msgstr "[这里一切正常。]"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人类，你好。]"
+
+msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
+msgstr "[这是幽谷的主发电机。]"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak 喔喔！"
+
+msgid "@niko \\p and I actually fixed one of these earlier, in that place across the ocean..."
+msgstr "@niko \\p和我之前有修理过一台，就在海对岸的地方……"
+
+msgid "[THIS GENERATOR DOES NOT NEED TO BE FIXED RIGHT NOW.]"
+msgstr "[这台发电机目前不需要修理。]"
+
+msgid "@niko Right... You guys already have power and all..."
+msgstr "@niko 也是……你们已经有电力了……"
+
+msgid "@niko A generator."
+msgstr "@niko 一台发电机。"
+
+msgid "@niko_speak This one's got a working battery!"
+msgstr "@niko_speak 这上面有功能正常的电池！"
+
+msgid "@niko_speak I don't wanna get shocked again, \\p!"
+msgstr "@niko_speak \\p，我不想再触电一次！"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what 哎哟！"
+
+msgid "@niko_eyeclosed I just got shocked..."
+msgstr "@niko_eyeclosed 我触电了……"
+

@@ -1,0 +1,12 @@
+msgid "@niko_eyeclosed It's full..."
+msgstr "@niko_eyeclosed 装满了……"
+
+msgid "@niko Some of the trash spilled out on the floor."
+msgstr "@niko 有些垃圾掉出来到地上了。"
+
+msgid "@niko Looks like an old phone."
+msgstr "@niko 看起来像一台旧电话。"
+
+msgid "@niko A small tree."
+msgstr "@niko 一棵小树。"
+

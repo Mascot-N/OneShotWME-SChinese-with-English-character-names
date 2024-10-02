@@ -1,0 +1,51 @@
+msgid "@ed [The wood in the fireplace looks like it was never used.]"
+msgstr "@ed [壁炉里的木柴看起来从未使用过。]"
+
+msgid "@ed [Perhaps it could be \\c[6]lit\\c[0].]"
+msgstr "@ed [说不定可以\\c[6]点燃\\c[0]。]"
+
+msgid "@ed [The \\c[6]flames\\c[0] are dim but comforting.]"
+msgstr "@ed [\\c[6]火焰\\c[0]很黯淡，但令人放松。]"
+
+msgid "@niko_speak Helloooo?\\>\\n\\@niko ...anyone?"
+msgstr "@niko_speak 有人在吗——？\\>\\n\\@niko ……有人吗？"
+
+msgid "@ed [The sink won't turn on.]"
+msgstr "@ed [水龙头不出水。]"
+
+msgid "@ed [Something on the ground glimmers in the firelight.]"
+msgstr "@ed [地上有某样东西在火光中微微闪烁。]"
+
+msgid "@ed [It appears to be a small metallic object,\\nwedged into a crack in the floor.]"
+msgstr "@ed [看起来是一个金属做的小东西，\\n卡在地板裂缝中。]"
+
+msgid "@ed [Niko digs it out.]"
+msgstr "@ed [Niko把它挖出来。]"
+
+msgid "@ed [The refrigerator is empty.]"
+msgstr "@ed [冰箱是空的。]"
+
+msgid "@ed [Inside the refrigerator is a \\c[2]bottle of alcohol\\c[0].]"
+msgstr "@ed [冰箱里有\\c[2]一瓶酒精\\c[0]。]"
+
+msgid "@ed [Niko takes it.]"
+msgstr "@ed [Niko把它拿出来。]"
+
+msgid "@ed [Niko readies the branch...]"
+msgstr "@ed [Niko准备好树枝……]"
+
+msgid "@ed [It doesn't manage to light.]"
+msgstr "@ed [没有办法点燃。]"
+
+msgid "@niko_speak Ah!"
+msgstr "@niko_speak 啊！"
+
+msgid "@ed [The TV gives off a dangerous-looking \\c[3]spark\\c[0].]"
+msgstr "@ed [电视机冒出了一点看起来很危险的\\c[3]火花\\c[0]。]"
+
+msgid "@ed [Just a table.]"
+msgstr "@ed [一张桌子。]"
+
+msgid "@ed [Just a chair.]"
+msgstr "@ed [一张椅子。]"
+

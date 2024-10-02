@@ -1,0 +1,63 @@
+msgid "@niko It's out of film..."
+msgstr "@niko 没有底片了……"
+
+msgid "@niko ...\\>\\nI guess that wasn't the right combination, \\p."
+msgstr "@niko ……\\>\\n\\应该是密码不对吧，\\p。"
+
+msgid "@niko ...\\>\\nIt didn't do anything."
+msgstr "@niko ……\\>\\n没有任何作用。"
+
+msgid "@niko_speak Uh... cheese?"
+msgstr "@niko_speak 呃……茄子？"
+
+msgid "@niko_wtf Ouch, m-my eyes..."
+msgstr "@niko_wtf 好痛，我、我的眼睛……"
+
+msgid "@niko_speak It's a photo of me!"
+msgstr "@niko_speak 是我的照片！"
+
+msgid "@niko ...are my eyes always this big?"
+msgstr "@niko ……我的眼睛有这么大吗？"
+
+msgid "@niko_speak It's another photo of me!"
+msgstr "@niko_speak 另一张我的照片！"
+
+msgid "@niko Good thinking, \\p. It's a good idea to have a backup."
+msgstr "@niko 好主意耶，\\p。 有备份总是好的。"
+
+msgid "@niko It's another photo of me..."
+msgstr "@niko 又一张我的照片……"
+
+msgid "@niko_speak Three is enough, right?"
+msgstr "@niko_speak 三张应该够吧？"
+
+msgid "@niko_83c This is kind of fun!"
+msgstr "@niko_83c 这还蛮好玩的！"
+
+msgid "@niko It's a photo of me."
+msgstr "@niko 我的照片。"
+
+msgid "@niko_speak This one turned out pretty good!"
+msgstr "@niko_speak 这张拍得很好！"
+
+msgid "@niko_speak Oh no!\\>\\n\\@niko_eyeclosed I blinked in this one..."
+msgstr "@niko_speak 糟糕！\\>\\n\\@niko_eyeclosed 我在拍这张的时候眨眼了……"
+
+msgid "@niko Nice."
+msgstr "@niko 不错。"
+
+msgid "@niko_speak All of these are turning out pretty good!"
+msgstr "@niko_speak 每一张都拍得蛮好的！"
+
+msgid "@niko_speak How many of these do we need, \\p?"
+msgstr "@niko_speak \\p，我们需要几张照片啊？"
+
+msgid "@niko It's a photo of me..."
+msgstr "@niko 我的照片……"
+
+msgid "@niko_eyeclosed And the camera is out of film now..."
+msgstr "@niko_eyeclosed 相机的底片用完了……"
+
+msgid "@niko There's a slot here.\\>\\nLooks like paper or something might come out from it."
+msgstr "@niko 这里有一个凹槽。\\>\\n看起来好像会有纸还是什么东西跑出来。"
+

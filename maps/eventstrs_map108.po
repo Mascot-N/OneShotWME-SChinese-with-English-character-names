@@ -1,0 +1,81 @@
+msgid "@niko A stapler."
+msgstr "@niko 订书机。"
+
+msgid "@niko_speak It's bolted to the table..."
+msgstr "@niko_speak 它被固定在桌上了……"
+
+msgid "[I AM THE POWER ROOM MECHANIC.]"
+msgstr "[我是电力室的工程师。]"
+
+msgid "[DO YOU HAVE AN ISSUE TO REPORT?]"
+msgstr "[有问题要汇报吗？]"
+
+msgid "@niko Do you know anything about an elevator code?"
+msgstr "@niko 你知不知道电梯密码的事？"
+
+msgid "[ELEVATOR CODE...]"
+msgstr "[电梯密码……]"
+
+msgid "[COMMAND NOT RECOGNIZED]"
+msgstr "[无法辨识指令]"
+
+msgid "@niko_eyeclosed Well, worth a shot."
+msgstr "@niko_eyeclosed 好吧，至少我试过了。"
+
+msgid "@niko Yeah, actually..."
+msgstr "@niko 嗯，其实……"
+
+msgid "@niko_speak The surface access elevator appears to be broken!"
+msgstr "@niko_speak 通往地表区的电梯好像坏了！"
+
+msgid "@niko There's a button missing, and..."
+msgstr "@niko 少了一个按钮，请问……"
+
+msgid "@niko_speak Can you go take a look?"
+msgstr "@niko_speak 你可以去检查一下吗？"
+
+msgid "[...]"
+msgstr "[……]"
+
+msgid "[LEAVING THIS ROOM IS NOT IN MY PROGRAMMING.]"
+msgstr "[离开房间不在我的程序允许范围。]"
+
+msgid "@niko_eyeclosed Ah, nevermind..."
+msgstr "@niko_eyeclosed 好吧，算了……"
+
+msgid "[I AM ONLY ABLE TO FIX ISSUES IN THIS BUILDING.]"
+msgstr "[我只能处理这栋建筑物中的问题。]"
+
+msgid "[SORRY FOR THE INCONVENIENCE.]"
+msgstr "[抱歉造成你的不便。]"
+
+msgid "@niko It's okay..."
+msgstr "@niko 没关系……"
+
+msgid "$They are just bolted so people won't steal them."
+msgstr "$以防被人偷走，这些器械都被钉起来了。"
+
+msgid "$Feel free to use, though!"
+msgstr "$但是欢迎使用！"
+
+msgid "@niko Some kind of computer terminal..."
+msgstr "@niko 某种计算机终端机……"
+
+msgid "@niko A tape dispenser."
+msgstr "@niko 胶带台。"
+
+msgid "@niko Oh, of course! I gotta tape it together or it might fall apart."
+msgstr "@niko 喔，当然可以！我可以把它用胶带贴好，不然它可能会散掉。"
+
+msgid "@niko_speak Good thinking, \\p!"
+msgstr "@niko_speak \\p，你脑筋动得真快！"
+
+msgid "@niko Oh, I could hold it together with tape."
+msgstr "@niko 喔，我可以用胶带把它固定住。"
+
+msgid "@niko_eyeclosed I should've done this in the first place..."
+msgstr "@niko_eyeclosed 我一开始就不该这么做的……"
+
+msgid "@niko If I cut off a piece of tape to keep it would just lose its stickiness."
+msgstr "@niko 如果我剪一段胶带留着，它很快就会失去黏性。"
+

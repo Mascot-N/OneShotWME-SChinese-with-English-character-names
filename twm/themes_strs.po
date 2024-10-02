@@ -1,0 +1,30 @@
+msgid "purple=Purple"
+msgstr "紫"
+
+msgid "blue=Blue"
+msgstr "蓝"
+
+msgid "teal=Cyan"
+msgstr "青"
+
+msgid "green=Green"
+msgstr "绿"
+
+msgid "yellow=Yellow"
+msgstr "黄"
+
+msgid "red=Red"
+msgstr "红"
+
+msgid "pink=Pink"
+msgstr "粉"
+
+msgid "orange=Orange"
+msgstr "橙"
+
+msgid "white=White"
+msgstr "白"
+
+msgid "rainbow=Rainbow"
+msgstr "彩虹"
+

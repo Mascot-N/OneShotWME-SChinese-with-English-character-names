@@ -1,0 +1,171 @@
+msgid "My mommy is making food for everyone!"
+msgstr "我妈咪在帮大家准备食物！"
+
+msgid "I want to help her catch fish, but I'm not a grownup yet!"
+msgstr "我想帮她抓鱼，可是我还没有长大！"
+
+msgid "@niko The horizon is glowing blue."
+msgstr "@niko 地平线泛着蓝色的光。"
+
+msgid "Hm..."
+msgstr "嗯……"
+
+msgid "Nothing's biting..."
+msgstr "没有鱼上钩……"
+
+msgid "Hi I'm an inaccessible npc."
+msgstr "你好，我是无法靠近的游戏角色。"
+
+msgid "*sniff*"
+msgstr "*啜泣*"
+
+msgid "@niko Are you okay?"
+msgstr "@niko 你还好吗？"
+
+msgid "I WANNA GO BACK HOME!!!"
+msgstr "我想回家！！！"
+
+msgid "@niko A few small fish are in the bottom of this jar."
+msgstr "@niko 罐子底部有几只小鱼。"
+
+msgid "This island has more moss covering than our village did."
+msgstr "这座岛的苔藓生长得比我们的村子还多。"
+
+msgid "Would've been nice to build a settlement here."
+msgstr "如果能在这里建立定居点也不错。"
+
+msgid "...too late now, I guess."
+msgstr "……可是现在大概已经太迟了。"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 这些则装满小鱼干。"
+
+msgid "The land fragmentation is happening faster and faster now..."
+msgstr "土地碎裂的速度越来越快……"
+
+msgid "But...\\.\\. looks like the vines are slowing it down..."
+msgstr "不过……\\.\\.藤蔓似乎正在减缓它生长的速度……"
+
+msgid "@niko_speak It's full of fish heads!"
+msgstr "@niko_speak 里面装满鱼头！"
+
+msgid "Our village was ransacked by the squares not long ago..."
+msgstr "我们的村子在不久前被方块破坏得七零八落……"
+
+msgid "Most of us made it out alive, but we can't really go back anymore."
+msgstr "大部分的人都逃出来了，但也回不去了。"
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 喔……"
+
+msgid "Squares are bad news, man."
+msgstr "老天，那些方块真不是东西。"
+
+msgid "@niko Filled with small, dried fish."
+msgstr "@niko 里面装满小鱼干。"
+
+msgid "Sigh..."
+msgstr "唉……"
+
+msgid "We won't last long now, will we?"
+msgstr "我们现在也撑不了多久吧？"
+
+msgid "The sun can't fix the squares..."
+msgstr "太阳解决不了那些方块……"
+
+msgid "The sun can't restore the land..."
+msgstr "太阳也没办法让土地恢复……"
+
+msgid "@niko_speak These look like crab shells."
+msgstr "@niko_speak 这些看起来像螃蟹壳。"
+
+msgid "@magpie By the way... if you ever see a big guy with goggles and a cool helmet.."
+msgstr "@magpie 对了……如果你哪天遇到一个戴护目镜和帅气头盔的大家伙……"
+
+msgid "@magpie_smile Tell him the trader in the Glen said hi!"
+msgstr "@magpie_smile 帮我给他问声好，就说是Glen的商人跟你说的！"
+
+msgid "@magpie Also ask him if he has any more music boxes for trading."
+msgstr "@magpie 还有问他还有没有其他八音盒可以跟我交易。"
+
+msgid "@niko Will do!"
+msgstr "@niko 好的！"
+
+msgid "@niko_speak Oh! You're the trader guy!"
+msgstr "@niko_speak 喔！你就是那位商人！"
+
+msgid "@magpie_smile Sure am!\\>\\n\\@magpie You here to trade?"
+msgstr "@magpie_smile 是啊！\\>\\n\\@magpie 你是来交易的吗？"
+
+msgid "@magpie_hm 'Cause if you are, then I got bad news for ya."
+msgstr "@magpie_hm 因为如果是的话，我有个坏消息得告诉你。"
+
+msgid "@magpie_hm A lot of my stuff is back at my cart, which was sadly abandoned when I was running for my life."
+msgstr "@magpie_hm 很多东西都放在我的推车上，而我逃命的时候把推车丢下了。"
+
+msgid "@magpie So my collection is...\\.\\. very limited right now."
+msgstr "@magpie 所以我的商品……\\.\\.目前数量很有限。"
+
+msgid "@magpie_smile Managed to grab some of my favorite things before I left, though!"
+msgstr "@magpie_smile 不过我走之前带上了几件我最喜欢的东西！"
+
+msgid "@niko_speak Oh! Uh..."
+msgstr "@niko_speak 喔！呃……"
+
+msgid "@niko Do you have anything like...\\.\\. gears?"
+msgstr "@niko 你有没有……\\.\\.齿轮呢？"
+
+msgid "@magpie_oh Gears?\\.\\. Like... the metal spinny things? \\>\\@magpie I don't think I have anything like that..."
+msgstr "@magpie_oh 齿轮？\\.\\.你是说……那种可以转的金属部件吗？ \\>\\@magpie 我应该没有那种东西……"
+
+msgid "@magpie_oh Wait."
+msgstr "@magpie_oh 等等。"
+
+msgid "@magpie I do have this box thing that you can wind up and play a song."
+msgstr "@magpie 我是有这个可以通过旋转发条播放音乐的小盒子。"
+
+msgid "@niko_speak That's a music box!"
+msgstr "@niko_speak 是八音盒！"
+
+msgid "@magpie_smile Yeah!\\n\\>\\@magpie I bet there's lots of little metal bits in there!"
+msgstr "@magpie_smile 对！\\n\\>\\@magpie 里面一定有很多金属小零件！"
+
+msgid "@niko_speak Oh! That might work!"
+msgstr "@niko_speak 喔！说不定可以用！"
+
+msgid "@magpie_hm But I'm not sure if I want to trade it away...\\>\\nIt's one of my favorite things!"
+msgstr "@magpie_hm 可是我不确定是否愿意拿这个交易……\\>\\n这是我最喜欢的物品之一！"
+
+msgid "@niko_eyeclosed Aw..."
+msgstr "@niko_eyeclosed 哎……"
+
+msgid "@magpie_hm ..."
+msgstr "@magpie_hm ……"
+
+msgid "@magpie_oh Oh, what am I saying!\\>\\n\\@magpie_smile You're the savior!"
+msgstr "@magpie_oh 哎唷，我在说什么傻话！\\>\\n\\@magpie_smile 你可是救世主！"
+
+msgid "@magpie_hm Things have been getting bad around here lately."
+msgstr "@magpie_hm 最近这里的状况真是越来越糟了。"
+
+msgid "@magpie_smile If I don't help you, I might not even be around much longer..."
+msgstr "@magpie_smile 我如果不帮你，可能连我自己的小命都要保不住了……"
+
+msgid "@magpie You need this to save the world, right?\\>\\nTake it."
+msgstr "@magpie 你需要这个才能拯救世界是吧？\\>\\n拿去吧。"
+
+msgid "@niko_speak Ah! Thank you!"
+msgstr "@niko_speak 啊！谢谢你！"
+
+msgid "The vines are everywhere!"
+msgstr "到处都是藤蔓！"
+
+msgid "The plant lady must be protecting us!"
+msgstr "一定是植物女士在保护我们！"
+
+msgid "@niko_upset ...yeah..."
+msgstr "@niko_upset ……是啊……"
+
+msgid "@shepherd What a day..."
+msgstr "@shepherd 真是漫长的一天……"
+

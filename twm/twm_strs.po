@@ -1,0 +1,583 @@
+msgid "dialog_no=No"
+msgstr "不"
+
+msgid "dialog_ok=Ok"
+msgstr "好的"
+
+msgid "dialog_yes=Yes"
+msgstr "是"
+
+msgid "tutorial_preamble=Hello there.\nThank you for installing this operating system.\nI know you were probably expecting a \"game\", but...\n...apologies, I'm still setting things up here.\nIn the meantime, why don't I show you how the system works?"
+msgstr "您好。\n感谢安装本操作系统。\n我知道，您想要打开的是一款“游戏”，不过……\n……不好意思，我这里还需要设置一下。\n不然，趁着这会儿，就让我给你介绍一下本系统的基本操作吧？"
+
+msgid "tutorial_move_cursor=Use @MOVEMOUSE to move the cursor."
+msgstr "首先，使用@MOVEMOUSE可以移动光标。"
+
+msgid "tutorial_drag_file=Press and hold @CLICK and drag with @MOVEMOUSE to move icons."
+msgstr "按住@CLICK，使用@MOVEMOUSE拖动，就可以移动图标。"
+
+msgid "tutorial_launch_application=Click with @CLICK twice to launch an application."
+msgstr "使用@CLICK双击，可以启动应用。"
+
+msgid "tutorial_move_window=Press and hold the window bar with @CLICK and drag with @MOVEMOUSE to move windows."
+msgstr "用@CLICK按住窗口标题栏，再使用@MOVEMOUSE拖动，可以移动窗口。"
+
+msgid "tutorial_minimize_window=Click the Hide Button to hide the window."
+msgstr "点击最小化按钮，可以隐藏窗口。"
+
+msgid "tutorial_unminimize_window=Click the window on the task bar to bring it back up again."
+msgstr "再点击任务栏上的窗口标题，就可以让它重新显示。"
+
+msgid "tutorial_close_window=Click the Close Button to close the window."
+msgstr "点击关闭按钮，可以关闭窗口。"
+
+msgid "tutorial_wrap_up=Excellent work. Now you know how to navigate the interface.\nAh! And just in time, too!"
+msgstr "干得漂亮，你已经掌握如何操作本系统的界面了。\n啊！刚好，游戏也准备好了！"
+
+msgid "tutorial_oneshot_appears=There we go. Everything should be ready for you.\nI'll leave you to it, then.\nGoodbye for now."
+msgstr "这样就可以了，一切准备就绪。\n那接下来的就交给你了。\n回头见。"
+
+msgid "tutorial_redo_preamble=Hello again!\nLooks like you could use a refresher on how to navigate this system.\nVery well, let's go through what I showed you before."
+msgstr "你好，又见面了！\n你好像有点忘记怎么操作系统了嘛。\n好，那我们就来复习一下之前讲过的内容。"
+
+msgid "tutorial_redo_wrap_up=And there you have it! Hope that helped."
+msgstr "就是这些了！希望能帮到你。"
+
+msgid "tutorial_delete_click_file=Click this file to select it in the browser window."
+msgstr "点击文件，在浏览器窗口里选中它。"
+
+msgid "tutorial_delete_click_delete_button=Click the delete button to delete file."
+msgstr "再点击删除按钮，就可以删除文件。"
+
+msgid "tutorial_delete_confirm_delete=Confirm the deletion in the pop-up window."
+msgstr "在弹出窗口里确认删除。"
+
+msgid "tutorial_delete_congratulations=You did it!  That's how you delete a file."
+msgstr "这样就成功删除文件了。"
+
+msgid "tutorial_movefile_drag_file=Click and hold this file and move the mouse cursor."
+msgstr "按住文件，同时移动光标。"
+
+msgid "tutorial_movefile_drop_file=Now drag the file to the folder window on the right and drop it."
+msgstr "将文件拖到右侧的文件夹窗口中，然后松开。"
+
+msgid "tutorial_movefile_congratulations=And there you have it! You've moved the file from Folder 1 to Folder 2."
+msgstr "完成了！这样你就将文件从文件夹1移动到了文件夹2。"
+
+msgid "change_language_button=Change Language"
+msgstr "更改语言"
+
+msgid "customize_view_wallpaper_button=View Wallpaper"
+msgstr "查看壁纸"
+
+msgid "cant_change_language_when_oneshot_running=Can't change language while OneShot is running."
+msgstr "OneShot运行时无法更改语言。"
+
+msgid "change_language_yesno=Change Language?\n(This will restart The World Machine)"
+msgstr "要更改语言吗？\n（该操作将导致世界机器重启）"
+
+msgid "select_language_modal_window=Select a Language."
+msgstr "请选择语言。"
+
+msgid "author_prof_filename=The Author"
+msgstr "作家"
+
+msgid "unlock_first_theme_modal=You unlocked a new theme: \"{0}\"\n\nYou can change the system theme in the Themes folder."
+msgstr "你解锁了新的主题：“{0}”\n\n你可以在主题文件夹里更改系统主题。"
+
+msgid "unlock_theme_toast=Unlocked new theme:\n\"{0}\""
+msgstr "解锁了新的主题：\n“{0}”"
+
+msgid "unlock_first_wallpaper_modal=You unlocked a new wallpaper: \"{0}\"\n\nYou can change the desktop wallpaper in the Wallpapers folder."
+msgstr "你解锁了新的壁纸：“{0}”\n\n你可以在壁纸文件夹里更改桌面壁纸。"
+
+msgid "unlock_wallpaper_toast=Unlocked new wallpaper:\n\"{0}\""
+msgstr "解锁了新的壁纸：\n“{0}”"
+
+msgid "unlock_first_profile_modal=You unlocked a new friend: \"{0}\"\n\nYou can view your friends in the Friends application."
+msgstr "你解锁了新的朋友：“{0}”\n\n你可以在朋友应用中查看交到的朋友。"
+
+msgid "unlock_profile_toast=Unlocked new friend entry:\n\"{0}\""
+msgstr "解锁了新的朋友：\n“{0}”"
+
+msgid "unlock_achievement_toast=Badge Obtained:\n{0}"
+msgstr "获得奖章：\n{0}"
+
+msgid "settings_fullscreen=Fullscreen"
+msgstr "全屏"
+
+msgid "settings_movement=Default Movement"
+msgstr "默认移动"
+
+msgid "settings_colorblind=Colorblind Mode"
+msgstr "色盲模式"
+
+msgid "settings_automash=Skip Text (@MASHTEXT)"
+msgstr "跳过文本（@MASHTEXT）"
+
+msgid "settings_vibration=Controller Vibration"
+msgstr "手柄震动"
+
+msgid "settings_screentear=Screen Tear Effects"
+msgstr "画面撕裂效果"
+
+msgid "settings_on=ON"
+msgstr "开"
+
+msgid "settings_off=OFF"
+msgstr "关"
+
+msgid "settings_run=RUN"
+msgstr "奔跑"
+
+msgid "settings_walk=WALK"
+msgstr "行走"
+
+msgid "settings_title=Settings"
+msgstr "设置"
+
+msgid "mainmenu_fasttravel=Fast Travel"
+msgstr "传送"
+
+msgid "mainmenu_notes=Notes"
+msgstr "玩法说明"
+
+msgid "mainmenu_settings=Settings"
+msgstr "设置"
+
+msgid "title_option_start=Start"
+msgstr "开始"
+
+msgid "title_option_settings=Settings"
+msgstr "设置"
+
+msgid "title_option_exit=Exit"
+msgstr "退出"
+
+msgid "title_option_dots=..."
+msgstr "…"
+
+msgid "title_help_text=Move with @MOVE Select with @OK"
+msgstr "使用@MOVE移动，@OK选择"
+
+msgid "title_help_text_1=Move with @MOVE"
+msgstr "使用@MOVE移动"
+
+msgid "title_help_text_2=Select with @OK"
+msgstr "@OK选择"
+
+msgid "name_input_upper=Upper"
+msgstr "大写"
+
+msgid "name_input_lower=Lower"
+msgstr "小写"
+
+msgid "name_input_hiragana=Hiragana"
+msgstr "平假名"
+
+msgid "name_input_katakana=Katakana"
+msgstr "片假名"
+
+msgid "name_input_romaji=Romaji"
+msgstr "罗马音"
+
+msgid "name_input_ok=OK"
+msgstr "OK"
+
+msgid "name_input_delete_instruction=Press @CANCEL to delete characters."
+msgstr "按@CANCEL删除字符。"
+
+msgid "boot_lang_select=Select your Language"
+msgstr "选择你的语言"
+
+msgid "boot_lang_select_hint=(Press @OK to confirm)"
+msgstr "（按@OK确认）"
+
+msgid "boot_autosave_explain1=This game has an autosave feature."
+msgstr "本游戏有自动保存功能。"
+
+msgid "boot_autosave_explain2=When you see this icon on screen, please do not close the game."
+msgstr "屏幕上出现此图标时，请不要关闭游戏。"
+
+msgid "app_journal=       "
+msgstr "       "
+
+msgid "app_safe_document=DOCUMENT oneshot.txt"
+msgstr "oneshot文档.txt"
+
+msgid "portal_1_foldername=Portal1"
+msgstr "传送门1"
+
+msgid "portal_2_foldername=Portal2"
+msgstr "传送门2"
+
+msgid "portal_3_foldername=Portal3"
+msgstr "传送门3"
+
+msgid "big_portal_foldername=BigPortal"
+msgstr "大传送门"
+
+msgid "key_b_filename=keyB.txt"
+msgstr "keyB.txt"
+
+msgid "key_r_filename=keyR.txt"
+msgstr "keyR.txt"
+
+msgid "key_g_filename=keyG.txt"
+msgstr "keyG.txt"
+
+msgid "prototype_npcsheet_filename=blue_npc_prototype.png"
+msgstr "prototype（npc蓝）.png"
+
+msgid "prototype_facepic_filename=proto1.png"
+msgstr "proto1.png"
+
+msgid "cedric_npcsheet_filename=green_npc_cedric.png"
+msgstr "Cedric（npc绿）.png"
+
+msgid "cedric_facepic_filename=cedric.png"
+msgstr "cedric.png"
+
+msgid "rue_npcsheet_filename=red_rue.png"
+msgstr "rue（红）.png"
+
+msgid "rue_facepic_filename=rue.png"
+msgstr "rue.png"
+
+msgid "oneshot_password_image_1_filename=ONESHOT password1.png"
+msgstr "ONESHOT密码1.png"
+
+msgid "oneshot_password_image_2_filename=ONESHOT password2.png"
+msgstr "ONESHOT密码2.png"
+
+msgid "oneshot_password_image_3_filename=ONESHOT password3.png"
+msgstr "ONESHOT密码3.png"
+
+msgid "oneshot_password_image_4_filename=ONESHOT password4.png"
+msgstr "ONESHOT密码4.png"
+
+msgid "namecheck_is_swear_in_name=fuck shit ass cock damn penis tiddy titty cunt whore"
+msgstr "fuck shit ass cock damn penis tiddy titty cunt whore"
+
+msgid "namecheck_is_name_niko=niko"
+msgstr "niko"
+
+msgid "namecheck_is_name_like_niko=nico nikko nicco nikoh nicoh"
+msgstr "nico nikko nicco nikoh nicoh"
+
+msgid "namecheck_is_name_like_mom_or_dad=mom dad mommy daddy mama papa"
+msgstr "mom dad mommy daddy mama papa"
+
+msgid "namecheck_is_name_gross=poo pee fart stinky piss poop slimy"
+msgstr "poo pee fart stinky piss poop slimy"
+
+msgid "fasttravel_no_zone=NO ZONE"
+msgstr "无区域"
+
+msgid "fakesave_filename=SAVE PROGRESS.dat"
+msgstr "进度保存.dat"
+
+msgid "mapname_no_map_name=NO MAP NAME"
+msgstr "无地图名称"
+
+msgid "inventory_no_items_item_description=No item selected."
+msgstr "未选择物品。"
+
+msgid "achievements_app_name=Badges"
+msgstr "奖章"
+
+msgid "delete_restricted_modal=Access denied."
+msgstr "拒绝访问。"
+
+msgid "delete_no_file_selected_modal=No file selected."
+msgstr "未选择文件。"
+
+msgid "delete_confirmation_modal=Are you sure you want to delete {0} forever?"
+msgstr "确定要永久删除{0}吗？"
+
+msgid "customize_app_name=Customize"
+msgstr "自定义"
+
+msgid "customize_slider_label_brightness=Brightness"
+msgstr "亮度"
+
+msgid "customize_slider_label_musicvolume=Music Volume"
+msgstr "音乐音量"
+
+msgid "customize_slider_label_soundvolume=Sound Volume"
+msgstr "音效音量"
+
+msgid "customize_chooser_label_wallpaper=Wallpaper"
+msgstr "壁纸"
+
+msgid "customize_chooser_label_theme=Theme"
+msgstr "主题"
+
+msgid "customize_chooser_label_resolution=Resolution"
+msgstr "分辨率"
+
+msgid "docs_foldername=Documents"
+msgstr "文档"
+
+msgid "mygames_foldername=My Games"
+msgstr "我的游戏"
+
+msgid "oneshot_foldername=Oneshot"
+msgstr "Oneshot"
+
+msgid "help_foldername=Help"
+msgstr "帮助"
+
+msgid "portals_foldername=Portals"
+msgstr "传送门"
+
+msgid "movefile_tutorial_folder1_name=Folder 1"
+msgstr "文件夹1"
+
+msgid "movefile_tutorial_folder2_name=Folder 2"
+msgstr "文件夹2"
+
+msgid "tutorial_dummyfile_filename=File.txt"
+msgstr "文件.txt"
+
+msgid "readme_filename=README.txt"
+msgstr "必读.txt"
+
+msgid "credits_filename=CREDITS.txt"
+msgstr "制作人员名单.txt"
+
+msgid "tutorial_delete_file_filename=How to\nDelete Files"
+msgstr "如何\n删除文件"
+
+msgid "tutorial_move_file_filename=How to\nMove Files"
+msgstr "如何\n移动文件"
+
+msgid "tutorial_introduction_filename=Introduction Tutorial"
+msgstr "入门教学"
+
+msgid "oneshot_appname=OneShot"
+msgstr "OneShot"
+
+msgid "contacts_app=Friends"
+msgstr "朋友"
+
+msgid "gallery_app=Gallery"
+msgstr "画廊"
+
+msgid "desktop_foldername=Desktop"
+msgstr "桌面"
+
+msgid "gallery_empty_message=There's nothing here..."
+msgstr "里面什么也没有……"
+
+msgid "error_move_folder=Cannot relocate folder."
+msgstr "无法移动文件夹。"
+
+msgid "error_move_restricted=Cannot relocate this file: permission denied."
+msgstr "无法移动此文件：未获许可。"
+
+msgid "error_too_many_items=Cannot relocate file: too many items in destination folder."
+msgstr "无法移动文件：目标文件夹中项目过多。"
+
+msgid "musicbox_appname=Music Box"
+msgstr "音乐盒"
+
+msgid "musicbox_playback_speed_slider_label=Playback Speed"
+msgstr "播放速度"
+
+msgid "musicbox_volume_slider_label=Volume"
+msgstr "音量"
+
+msgid "musicbox_current_track_chooser_label=Current Track"
+msgstr "当前曲目"
+
+msgid "oneshot_window_no_close_during_cutscene=You cannot perform this action during cutscenes."
+msgstr "过场动画播放时无法执行此动作。"
+
+msgid "error_launch_oneshot_musicbox_open=Cannot launch OneShot while Music Box is running."
+msgstr "音乐盒运行时无法启动OneShot。"
+
+msgid "error_launch_musicbox_oneshot_open=Cannot launch Music Box while OneShot is running."
+msgstr "OneShot运行时无法启动音乐盒。"
+
+msgid "error_launch_when_oneshot_open=Can't run {0} while OneShot window is open."
+msgstr "OneShot窗口开启时{0}无法运行。"
+
+msgid "error_too_many_windows=Too many windows open."
+msgstr "打开的窗口太多了。"
+
+msgid "error_no_friends_unlocked=No friends unlocked yet!"
+msgstr "暂未解锁朋友！"
+
+msgid "niko_prof_filename=Niko"
+msgstr "Niko"
+
+msgid "fromniko_wallpaper_filename=From Niko"
+msgstr "来自Niko"
+
+msgid "wallpapers_foldername=Wallpapers"
+msgstr "壁纸"
+
+msgid "themes_foldername=Themes"
+msgstr "主题"
+
+msgid "settings_chromaaberration=Chromatic Aberration Effects"
+msgstr "色彩偏移效果"
+
+msgid "customize_chooser_label_touchscreen_input=Touch Screen Input"
+msgstr "触摸屏输入"
+
+msgid "boot_profile_current_user=Current Profile: "
+msgstr "当前档案： "
+
+msgid "boot_profile_change_user=Press @INVENTORY to change profiles."
+msgstr "按下@INVENTORY切换档案。"
+
+msgid "boot_profile_confirm_user=Press @OK to use the current profile."
+msgstr "按下@OK使用当前档案游玩。"
+
+msgid "customize_change_profile_button=Change Profile"
+msgstr "切换档案"
+
+msgid "cant_change_profile_when_oneshot_running=Can't change profile while OneShot is running."
+msgstr "OneShot运行时无法切换档案。"
+
+msgid "change_profile_yesno=Change Profile?\n(This will restart The World Machine)"
+msgstr "要切换档案吗？\n（该操作将导致世界机器重启）"
+
+msgid "settings_fullscreen_scaling=Fullscreen Scaling"
+msgstr "全屏缩放"
+
+msgid "settings_fullscreen_scaling_smooth=Smooth"
+msgstr "柔和"
+
+msgid "settings_fullscreen_scaling_sharp=Sharp"
+msgstr "尖锐"
+
+msgid "customize_chooser_label_system_scaling=System Scaling"
+msgstr "系统缩放"
+
+msgid "customize_system_scaling_smooth=Smooth"
+msgstr "柔和"
+
+msgid "customize_system_scaling_sharp=Sharp"
+msgstr "尖锐"
+
+msgid "customize_chooser_label_fullscreen=Fullscreen"
+msgstr "全屏"
+
+msgid "timer_app_filename=Timer"
+msgstr "计时器"
+
+msgid "timer_app_name=Timer"
+msgstr "计时器"
+
+msgid "timer_system_active_time=System Active Time"
+msgstr "系统启动计时器"
+
+msgid "timer_current_playthrough=Current Playthrough"
+msgstr "当前游戏时间"
+
+msgid "timer_explanation_1='System Active Time' is the time that has elapsed since The World Machine has been started."
+msgstr "“系统启动时间”是指“世界机器”启动后所经过的时间。"
+
+msgid "timer_explanation_2='Current Playthrough' is the time that has elapsed on the current playthrough of the game."
+msgstr "“当前游戏时间”是指当前本次游玩所经过的时间。"
+
+msgid "timer_explanation_3=Current Playthrough time starts when OneShot is started from the title screen, and ends when you reach an ending."
+msgstr "当前游戏时间从游戏标题界面启动OneShot开始，打出结局时结束。"
+
+msgid "controls_app_filename=Controls"
+msgstr "控制"
+
+msgid "controls_app_name=Controls"
+msgstr "控制"
+
+msgid "controls_button_up=Up"
+msgstr "上"
+
+msgid "controls_button_down=Down"
+msgstr "下"
+
+msgid "controls_button_left=Left"
+msgstr "左"
+
+msgid "controls_button_right=Right"
+msgstr "右"
+
+msgid "controls_button_mousebutton=Click Mouse"
+msgstr "单击鼠标"
+
+msgid "controls_button_movemouse=Move Mouse"
+msgstr "移动鼠标"
+
+msgid "controls_button_move=Move Character"
+msgstr "移动角色"
+
+msgid "controls_button_ok=Action/Confirm"
+msgstr "行动/确认"
+
+msgid "controls_button_cancel=Back/Cancel"
+msgstr "返回/取消"
+
+msgid "controls_button_mainmenu=Main Menu"
+msgstr "主菜单"
+
+msgid "controls_button_inventory=Inventory"
+msgstr "物品栏"
+
+msgid "controls_button_run=Run"
+msgstr "奔跑"
+
+msgid "controls_button_mashtext=Skip Text"
+msgstr "跳过文字"
+
+msgid "controls_button_fullscreen=Toggle Fullscreen"
+msgstr "切换全屏"
+
+msgid "controls_button_assign_prompt=Press the button you would like to assign to\n'{0}'.\n\nThis window will close in 10 seconds if no button is pressed."
+msgstr "按下想绑定至\n'{0}'的按键。若无按键按下，该窗口 10 秒后关闭。"
+
+msgid "controls_key_assign_prompt=Press the key you would like to assign to\n'{0}'.\n\nThis window will close in 10 seconds if no key is pressed."
+msgstr "按下想绑定至\n'{0}'的按键。若无按键按下，该窗口 10 秒后关闭。"
+
+msgid "controls_stick_assign_prompt=Move the thumb stick you would like to assign to\n'{0}'.\n\nThis window will close in 10 seconds if no stick is moved."
+msgstr "摇动想绑定至\n'{0}'的摇杆。若无摇杆摇动，该窗口 10 秒后关闭。"
+
+msgid "controls_app_move_deadzone_slider_label=Move Stick Deadzone"
+msgstr "移动摇杆死区"
+
+msgid "controls_app_mouse_deadzone_slider_label=Mouse Stick Deadzone"
+msgstr "鼠标摇杆死区"
+
+msgid "controls_app_mouse_speed_slider_label=Mouse Cursor Speed"
+msgstr "鼠标指针速度"
+
+msgid "controls_app_default_controls_button_label=Restore Default Controls"
+msgstr "恢复默认控制"
+
+msgid "controls_app_default_controls_confirm_popup=Are you sure you want to restore the default control settings?"
+msgstr "确定要恢复默认控制吗？"
+
+msgid "shutdown_app_filename=Shut Down"
+msgstr "关闭"
+
+msgid "cant_shutdown_while_oneshot_running=Can't Shut Down The World Machine while OneShot is running. Please close the OneShot window first."
+msgstr "OneShot在运行时无法关闭世界机器。请先关闭OneShot窗口。"
+
+msgid "do_you_really_want_to_shut_down=Do you really want to shut down The World Machine?"
+msgstr "真的要关闭世界机器吗？"
+
+msgid "dialog_cancel=Cancel"
+msgstr "取消"
+
+msgid "select_resolution_modal_window=Please select the resolution you would like to use."
+msgstr "请选择想使用的分辨率。"
+
+msgid "change_resolution_button=Change Resolution"
+msgstr "更改分辨率"
+
+msgid "error_controller_disconnect=Controller Disconnected!\nPlease reconnect the controller or close this window using the mouse."
+msgstr "控制器已断开连接！\n请重新连接控制器或使用鼠标关闭此窗口。"
+
+

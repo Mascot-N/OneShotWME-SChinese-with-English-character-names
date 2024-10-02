@@ -1,0 +1,111 @@
+msgid "@shepherd So....."
+msgstr "@shepherd 喔……"
+
+msgid "@shepherd We meet again."
+msgstr "@shepherd 又见面了。"
+
+msgid "@niko Hello..."
+msgstr "@niko 你好……"
+
+msgid "@niko_speak Wait!"
+msgstr "@niko_speak 等等！"
+
+msgid "@niko Aren't you from... the village?"
+msgstr "@niko 你是……从村子那边过来的吗？"
+
+msgid "@shepherd Yes, but the rams are ever-present.\\>\\nIn the village, in the city..."
+msgstr "@shepherd 是啊，但这些公羊到处跑。\\>\\n在村庄、在城市……"
+
+msgid "@shepherd even...\\.\\. in your heart."
+msgstr "@shepherd 甚至……\\.\\.在你心里。"
+
+msgid "@niko_eyeclosed ...okay."
+msgstr "@niko_eyeclosed ……好吧。"
+
+msgid "@shepherd If rams wore shoes..."
+msgstr "@shepherd 如果这些公羊会穿鞋子……"
+
+msgid "@shepherd They would have... \\.flip-flops."
+msgstr "@shepherd 他们会穿……\\.夹脚拖鞋吧。"
+
+msgid "@niko ...I don't get it."
+msgstr "@niko ……什么意思？"
+
+msgid "@shepherd I used to host the official RAM club wiki site..."
+msgstr "@shepherd 我以前会帮官方的公羊俱乐部维基百科网站架主机……"
+
+msgid "@shepherd ...but we kept having page faults due to rams getting out of the server room."
+msgstr "@shepherd ……可是咩存老是溢出存畜器，导致页面无法正常显示。"
+
+msgid "@niko_speak ...what?"
+msgstr "@niko_speak ……什么？"
+
+msgid "@shepherd 404 ram not found."
+msgstr "@shepherd 404您要找的羊不存在。"
+
+msgid "@niko_eyeclosed I have no idea what any of that meant."
+msgstr "@niko_eyeclosed 我完全听不懂。"
+
+msgid "@shepherd Hmph. I guess that's it for my jokes."
+msgstr "@shepherd 好吧，看来我的笑话到此为止了。"
+
+msgid "@shepherd It cannot be helped...\\n\\>\\@shepherd ...they were quite b-a-a-a-a-a-a-a-d."
+msgstr "@shepherd 我怎么就管不住我这嘴……\\n\\>\\@shepherd ……他们真是一群坏哎哎哎哎羊。"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_83c I got that one!"
+msgstr "@niko_83c 这个我听得懂！"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what 哦！"
+
+msgid "@shepherd Careful, if you touch a SRAM... \\.\\.\\nYou're in for a shock!"
+msgstr "@shepherd 小心喔，如果摸到静态随机存取存畜器……\\.\\.\\n你会被电喔！"
+
+msgid "@shepherd A STATIC shock!"
+msgstr "@shepherd 因为它带“静”电！"
+
+msgid "@niko_eyeclosed Don't \"baa\" at me..."
+msgstr "@niko_eyeclosed 别对我咩咩叫啦……"
+
+msgid "@niko_eyeclosed It's... good to see you too..."
+msgstr "@niko_eyeclosed 我也……很高兴见到你……"
+
+msgid "@niko_speak This ram doesn't react to me at all..."
+msgstr "@niko_speak 这只公羊完全不理我……"
+
+msgid "@niko Instead, the word \"baa\" is written on its wool."
+msgstr "@niko 倒是他的羊毛上写着“咩”。"
+
+msgid "@shepherd That one isn't a RAM."
+msgstr "@shepherd 那只不是公羊。"
+
+msgid "@shepherd That one is...\\.\\. Read-Only."
+msgstr "@shepherd 那只是……\\.\\.只读羊。"
+
+msgid "@niko I... see..."
+msgstr "@niko 这、这样啊……"
+
+msgid "@niko An electric kettle."
+msgstr "@niko 电热水壶。"
+
+msgid "@niko Looks like it's boiling water."
+msgstr "@niko 看起来正在烧水。"
+
+msgid "@shepherd Oh, right, it's almost lunch time."
+msgstr "@shepherd 对喔，快到午餐时间了。"
+
+msgid "@shepherd Would you like to stay for a nice cup of..."
+msgstr "@shepherd 要不要来碗好吃的……"
+
+msgid "@shepherd \\....\\.RAMen?"
+msgstr "@shepherd \\……\\.羊春面？"
+
+msgid "@niko_eyeclosed I'll... pass..."
+msgstr "@niko_eyeclosed 我……还是算了……"
+
+msgid "@shepherd Come to think of it, we're probably out of ramen."
+msgstr "@shepherd 说起来，羊春面好像已经吃光了。"
+

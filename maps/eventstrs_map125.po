@@ -1,0 +1,120 @@
+msgid "@niko A pile of large books."
+msgstr "@niko 一大叠书。"
+
+msgid "@niko One of them is a robot instruction manual..."
+msgstr "@niko 其中一本是机器人指引说明书……"
+
+msgid "@niko A painting of 4 robots playing cards."
+msgstr "@niko 一幅画，上面有四个机器人在打牌。"
+
+msgid "@niko A picture of many 1's and 0's."
+msgstr "@niko 照片上有许多数字1和0。"
+
+msgid "[Hello. Would You Like To Play A Game?]"
+msgstr "[你好，你要玩游戏吗？]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko Sure!"
+msgstr "@niko 好啊！"
+
+msgid "[What Game Would You Like To Play?]"
+msgstr "[你要玩什么游戏呢？]"
+
+msgid "@niko Hmm...."
+msgstr "@niko 嗯……"
+
+msgid "@niko_speak Do you know rock paper scissors?"
+msgstr "@niko_speak 你会玩剪刀石头布吗？"
+
+msgid "[Desired Difficulty Level?]"
+msgstr "[希望难度？]"
+
+msgid "@niko Huh?"
+msgstr "@niko 咦？"
+
+msgid "[Desired Duration Of Turns?]"
+msgstr "[希望回合数？]"
+
+msgid "@niko_speak Uh..."
+msgstr "@niko_speak 呃……"
+
+msgid "[Please Set Your Timer.]"
+msgstr "[请设定计时。]"
+
+msgid "@niko_eyeclosed ...Nevermind..."
+msgstr "@niko_eyeclosed ……算了……"
+
+msgid "@niko How about... hide and seek?"
+msgstr "@niko 那……捉迷藏呢？"
+
+msgid "@niko_speak Well... maybe not too easy?"
+msgstr "@niko_speak 嗯……别太简单就行？"
+
+msgid "[Initiating. Ruthless Mode.]"
+msgstr "[启动中。无情模式。]"
+
+msgid "[TARGET: LOCKED.\\| YOU HAVE EXACTLY 14 SECONDS.\\nSTART.\\| RUNNING.]"
+msgstr "[目标：已锁定。\\|你有14秒。\\n开始。\\|逃跑吧。]"
+
+msgid "@niko_wtf ..."
+msgstr "@niko_wtf ……"
+
+msgid "@niko_wtf2 ...I'm not sure if I want to play anymore."
+msgstr "@niko_wtf2 ……我觉得我不想玩了。"
+
+msgid "[OH.\\| Session. Abort.]"
+msgstr "[喔。\\| 场次。中止。]"
+
+msgid "[Are You. Feeling Unwell?]"
+msgstr "[你觉得。不舒服吗？]"
+
+msgid "@niko No, it's not that..."
+msgstr "@niko 不是的……"
+
+msgid "@niko I'll... pass."
+msgstr "@niko 我……还是算了。"
+
+msgid "My parents are like, literally never home."
+msgstr "我父母总是不在家。"
+
+msgid "But I don't mind! I'm used to it!"
+msgstr "但我不介意！我习惯了！"
+
+msgid "Besides, I've got model C-WT 2nd gen unit 4E here to keep me company now!"
+msgstr "而且现在我有第二代C-WT型4E单元陪我！"
+
+msgid "She still talks a little weird sometimes, but that's okay! She's learning!"
+msgstr "她有时候讲话方式还是有点奇怪，不过没关系！她在学习！"
+
+msgid "If I work real hard, she might even be tamed someday!"
+msgstr "如果我够努力，或许有一天还可以将她驯化！"
+
+msgid "@niko I keep hearing that word..."
+msgstr "@niko 我常常听到那个词……"
+
+msgid "What, tame?"
+msgstr "哪个词？驯化吗？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 对啊！"
+
+msgid "@niko Nobody's told me what it means yet..."
+msgstr "@niko 还没有人告诉我那个词的意思……"
+
+msgid "That's just a robot thing!\\n\\....I can't really explain it, either..."
+msgstr "那只是机器人的用语啦！\\n\\.…其实我也不知道怎么解释……"
+
+msgid "@niko Ah..."
+msgstr "@niko 啊……"
+
+msgid "What? Don't you like to play \"Run Away From The Killer Robot\"?"
+msgstr "怎么了？你不喜欢玩“逃离杀手机器人”吗？"
+
+msgid "..."
+msgstr "……"
+
+msgid "Well, at least *I* have fun with it."
+msgstr "好吧，我还挺喜欢玩的。"
+

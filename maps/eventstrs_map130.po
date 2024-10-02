@@ -1,0 +1,45 @@
+msgid "@niko Well that was fun."
+msgstr "@niko 还挺好玩的！"
+
+msgid "@niko Hello..."
+msgstr "@niko 你好……"
+
+msgid "[ROOM UNDER CONSTRUCTION]"
+msgstr "[房间正在施工中]"
+
+msgid "[TILES HAVE NOT BEEN FULLY PLACED]"
+msgstr "[瓷砖尚未铺设完成]"
+
+msgid "[YOU SHOULD NOT BE HERE YET]"
+msgstr "[你还不可以进来]"
+
+msgid "@niko ...alright."
+msgstr "@niko ……好吧。"
+
+msgid "[\"Again! Again!\", \"Once is enough!\"]"
+msgstr "[\"再来一次！再来一次！\",\"一次就够了！\"]"
+
+msgid "@niko Okay!"
+msgstr "@niko 好！"
+
+msgid "@niko I'm not sure what this is."
+msgstr "@niko 我不确定这是什么。"
+
+msgid "@niko_speak It's like a little car!"
+msgstr "@niko_speak 看起来是一台小车！"
+
+msgid "[\"You should ride on it!\", \"Resist urge to ride on it.\"]"
+msgstr "[\"上去搭乘试试！\",\"抗拒搭乘的冲动。\"]"
+
+msgid "@niko ... \\>\\n\\@niko_speak What?"
+msgstr "@niko ……\\>\\n\\@niko_speak 什么？"
+
+msgid "[\"Do it!\"]"
+msgstr "[\"冲呀！\"]"
+
+msgid "@niko Um...."
+msgstr "@niko 呃……"
+
+msgid "@niko_eyeclosed I wasn't going to, \\p..."
+msgstr "@niko_eyeclosed \\p，我不要……"
+

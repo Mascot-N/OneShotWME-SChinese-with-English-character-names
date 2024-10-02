@@ -1,0 +1,135 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ……"
+
+msgid "@niko6 This is the room I first woke up in..."
+msgstr "@niko6 这是我最初醒来的房间……"
+
+msgid "@niko_speak \\p? Are you still here?"
+msgstr "@niko_speak \\p？你还在吗？"
+
+msgid "@niko2 ...\\p?"
+msgstr "@niko2 ……\\p？"
+
+msgid "[\"Yes?\"]"
+msgstr "[\"嗯？\"]"
+
+msgid "@niko_pancakes \\p!!!"
+msgstr "@niko_pancakes \\p！！！"
+
+msgid "@niko_speak I... I think..."
+msgstr "@niko_speak 我……我觉得……"
+
+msgid "@niko_pancakes I think it worked!!!"
+msgstr "@niko_pancakes 我们的方法成功了！！！"
+
+msgid "[\"It did!\"]"
+msgstr "[\"没错！\"]"
+
+msgid "@niko_speak The sun is back!\\>\\nAnd I actually got to see it this time!"
+msgstr "@niko_speak 太阳回来了！\\>\\n而且这次我真的能看到它！"
+
+msgid "@niko_pancakes We... actually did it...!"
+msgstr "@niko_pancakes 我们……真的做到了……！"
+
+msgid "@niko5 So... \\>\\@niko6 what do we do now?"
+msgstr "@niko5 那……\\>\\@niko6 我们现在要做什么？"
+
+msgid "@niko I guess I should figure out how to get home from here..."
+msgstr "@niko 我想我该找到回家的方法吧……"
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 等等……"
+
+msgid "@niko2 This... \\.\\.isn't a door, is it?"
+msgstr "@niko2 这……\\.\\.这不是门吧？"
+
+msgid "@niko This looks like one of those portals we saw all the way back in the city."
+msgstr "@niko 这看起来像我们之前在城市里看到的那些传送门。"
+
+msgid "@niko6 In the room behind the big clock."
+msgstr "@niko6 就是大钟后面那间房间里的那种。"
+
+msgid "@niko And... and..."
+msgstr "@niko 还有……还有……"
+
+msgid "@niko_speak I see a wheat field on the other side!"
+msgstr "@niko_speak 我看到另一边有麦田！"
+
+msgid "@niko_pancakes ...I see my village..."
+msgstr "@niko_pancakes ……我看见我家的村子……"
+
+msgid "@niko_pancakes I hear...\\.\\. my mama...."
+msgstr "@niko_pancakes 我听见……\\.\\.我妈妈的声音……"
+
+msgid "@niko2 She's looking for me..."
+msgstr "@niko2 她在找我……"
+
+msgid "@niko3 ...."
+msgstr "@niko3 ……"
+
+msgid "@niko3 Ah, \\p..."
+msgstr "@niko3 啊，\\p……"
+
+msgid "@niko5 This...\\.\\. isnt the first time we've said goodbye, is it?"
+msgstr "@niko5 这……\\.\\.不是我们第一次说再见，对吧？"
+
+msgid "@niko_distressed2 But... this'll be the last time, won't it?"
+msgstr "@niko_distressed2 可是……这次是最后一次了，对吧？"
+
+msgid "@niko_distressed I don't think we'll ever see each other again after this..."
+msgstr "@niko_distressed 我想我们这之后再也不会见面了……"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_distressed ...and... what will become of the world?"
+msgstr "@niko_distressed ……还有……这世界之后会怎么样呢？"
+
+msgid "@niko_eyeclosed2 ...after all we've been through."
+msgstr "@niko_eyeclosed2 ……在我们经历这一切之后。"
+
+msgid "@niko3 After everything we've done..."
+msgstr "@niko3 在我们做了这一切之后……"
+
+msgid "@niko_distressed2 I still... \\>\\@niko_distressed don't know..."
+msgstr "@niko_distressed2 我还是……\\>\\@niko_distressed 不知道……"
+
+msgid "[\"This place...\"]"
+msgstr "[\"这个地方……\"]"
+
+msgid "[\"These people...\"]"
+msgstr "[\"这些人……\"]"
+
+msgid "[\"Won't stop existing.\"]"
+msgstr "[\"他们不会消失。\"]"
+
+msgid "[\"They'll be in your memory.\"]"
+msgstr "[\"他们会留在你的回忆中。\"]"
+
+msgid "[\"They'll be in my memory, too\"]"
+msgstr "[\"也会留在我的回忆中\"]"
+
+msgid "@niko2 ...."
+msgstr "@niko2 ……"
+
+msgid "@niko2 I... \\>\\@niko_speak promise I'll never forget this world!"
+msgstr "@niko2 我……\\>\\@niko_speak 我保证我永远不会忘记这个世界！"
+
+msgid "@niko3 I promise... \\@niko I'll never forget you, \\p."
+msgstr "@niko3 我保证……\\@niko 我永远不会忘记你，\\p。"
+
+msgid "@niko2 So... take care of yourself, okay?"
+msgstr "@niko2 所以……请你要保重，好吗？"
+
+msgid "[\"You too.\"]"
+msgstr "[\"你也是。\"]"
+
+msgid "@niko Mhm...."
+msgstr "@niko 嗯哼……"
+
+msgid "[\"Goodbye, Niko.\"]"
+msgstr "[\"Niko，再见了。\"]"
+
+msgid "@niko2 Goodbye, \\p..."
+msgstr "@niko2 再见了，\\p……"
+

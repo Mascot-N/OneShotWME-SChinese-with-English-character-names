@@ -1,0 +1,18 @@
+msgid "What am I gonna do!!!"
+msgstr "我该怎么办！！！"
+
+msgid "My robot!!!"
+msgstr "我的机器人啊！！！"
+
+msgid "@niko_speak What happened?"
+msgstr "@niko_speak 发生什么事了？"
+
+msgid "I don't know! I left for a minute and..."
+msgstr "我不知道！我只不过离开一分钟，然后……"
+
+msgid "[P\\.\\.%LE\\.ASE \\.\\. D;O NOT \\.\\.\\.AP\\.PR##OACH]"
+msgstr "[讠\\.\\.%青\\.不\\.\\.要\\.\\.\\.靠\\.近##]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+

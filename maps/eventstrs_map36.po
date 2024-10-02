@@ -1,0 +1,39 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 萤火虫照亮了这间房间。"
+
+msgid "Can you see \\p, too?"
+msgstr "你能看得到\\p吗？"
+
+msgid "@niko_speak Nope! \\@niko I can only hear their voice in my head."
+msgstr "@niko_speak 看不到！\\@niko 我只能在脑海中听见他的声音。"
+
+msgid "@alula_gasp That's still really cool!"
+msgstr "@alula_gasp 那还是很酷！"
+
+msgid "Daddy says the world is very sick.\\nBut \\p can make it better again!"
+msgstr "爸爸说这个世界病得很严重。\\n但是\\p会让它好起来！"
+
+msgid "...Are you \\p?"
+msgstr "……你就是\\p吗？"
+
+msgid "@niko Uh... not really.\\nI'm just the \"messiah\" they sent."
+msgstr "@niko 呃……其实不是。\\n我只是他派来的“救世主”。"
+
+msgid "@niko_speak I can talk with \\p, though!"
+msgstr "@niko_speak 不过我可以跟\\p交谈！"
+
+msgid "Wow!"
+msgstr "哇！"
+
+msgid "@alula_gasp Double wow!"
+msgstr "@alula_gasp 哇哇！"
+
+msgid "What's that like?"
+msgstr "和他交谈是什么感觉啊？"
+
+msgid "@niko_speak Really cool!"
+msgstr "@niko_speak 很酷！"
+
+msgid "@niko Fish heads and tails."
+msgstr "@niko 鱼头和鱼尾巴。"
+

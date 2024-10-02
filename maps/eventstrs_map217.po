@@ -1,0 +1,39 @@
+msgid "@watcher Good morning."
+msgstr "@watcher 早安。"
+
+msgid "@watcher Good afternoon."
+msgstr "@watcher 午安。"
+
+msgid "@watcher Good evening."
+msgstr "@watcher 晚安。"
+
+msgid "@watcher ...It's very late."
+msgstr "@watcher ……时间不早了。"
+
+msgid "@watcher Please leave me be."
+msgstr "@watcher 请不要管我。"
+
+msgid "@watcher We are running out of time."
+msgstr "@watcher 我们没时间了。"
+
+msgid "@watcher Here we are, at the eleventh hour."
+msgstr "@watcher 现在已经是最后关头。"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@niko2 Shouldn't you be...\\.\\. with the other evacuees?"
+msgstr "@niko2 你不是应该……\\.\\.跟其他避难者一起走吗？"
+
+msgid "@watcher Maybe."
+msgstr "@watcher 或许吧。"
+
+msgid "@niko2 ..."
+msgstr "@niko2 ……"
+
+msgid "@watcher I wonder if the big clock has reached zero yet..."
+msgstr "@watcher 不知道命运的时针是否已经指向零时……"
+
+msgid "@watcher I want to be right here when everything ends."
+msgstr "@watcher 我希望可以在这里见证万物终结。"
+

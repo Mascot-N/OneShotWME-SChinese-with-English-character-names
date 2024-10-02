@@ -1,0 +1,21 @@
+msgid "$It may help you to go one color at a time!  -Management"
+msgstr "$全都改成同一种颜色可能会帮到你！——主管"
+
+msgid "$It can also help to write down previous attempts. -Management"
+msgstr "$或者试试记录下之前的结果。——主管"
+
+msgid "[BEEP BOOP]"
+msgstr "[哔哔]"
+
+msgid "[THIS IS THE PRINTER ROOM, WHERE MACHINE PARTS ARE MADE.]"
+msgstr "[这里是制造机器零件的打印室。]"
+
+msgid "[ALSO, ROBOTS.]"
+msgstr "[也制造机器人。]"
+
+msgid "$If all else fails, wait for the puzzle to reset."
+msgstr "$如果其他方法都没用，就等待谜题重置。"
+
+msgid "$Maybe you'll get an easier one next time..."
+msgstr "$也许下次会拿到比较简单的题目……"
+

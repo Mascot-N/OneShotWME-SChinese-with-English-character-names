@@ -1,0 +1,6 @@
+msgid "@niko A potted plant..."
+msgstr "@niko 一个盆栽……"
+
+msgid "@niko_speak This one has a pink flower on it."
+msgstr "@niko_speak 这一株上面长着粉红色的花。"
+

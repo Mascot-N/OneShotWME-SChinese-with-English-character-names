@@ -1,0 +1,210 @@
+msgid "@niko Milk and sugar."
+msgstr "@niko 牛奶和糖。"
+
+msgid "@niko_speak I like both!"
+msgstr "@niko_speak 两个我都喜欢！"
+
+msgid "@niko_eyeclosed ...but not in coffee."
+msgstr "@niko_eyeclosed ……但是不要加进咖啡里。"
+
+msgid "@Niko A coffee machine."
+msgstr "@niko 咖啡机。"
+
+msgid "@niko_speak It's nearly full!"
+msgstr "@niko_speak 几乎装满了！"
+
+msgid "@ling_smile Hang in there.\\>\\nYou can do it."
+msgstr "@ling_smile 撑住啊。\\>\\n你办得到的。"
+
+msgid "@niko_eyeclosed Thanks..."
+msgstr "@niko_eyeclosed 谢谢……"
+
+msgid "@ling_shock Oh hey, you're back!\\>\\n\\@ling Did you manage to fix the elevator?"
+msgstr "@ling_shock 喔，嘿，你回来了！\\>\\n\\@ling 你修好电梯了吗？"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak \\p and I went to the surface already!\\>\\n\\@niko And..."
+msgstr "@niko 对啊！\\>\\n\\@niko_speak \\p和我已经去过地表了！\\>\\n\\@niko 还有……"
+
+msgid "@niko_eyeclosed ...\\>\\n\\@niko_speak Well, I remembered there being a cafe here!\\>\\n\\@niko Do you have pancakes?"
+msgstr "@niko_eyeclosed ……\\>\\n\\@niko_speak 嗯，我记得这是一家咖啡馆！\\>\\n\\@niko 你们有煎饼吗？"
+
+msgid "@ling We sure do!"
+msgstr "@ling 当然咯！"
+
+msgid "@niko_speak Wait! I don't have any money...\\>\\n\\@niko Maybe I can help you wash dishes... or... something?"
+msgstr "@niko_speak 等等！我没有钱……\\>\\n\\@niko 我可不可以帮你洗碗……或是……做点别的工作？"
+
+msgid "@ling_smile No, no! It's on the house!\\>\\n\\@ling The least I can do for the savior, right?"
+msgstr "@ling_smile 不用！我们免费招待！\\>\\n\\@ling 我起码还能帮救世主做这点事，对吧？"
+
+msgid "@ling Here, why don't you take a seat?\\>\\nI'll go fry some up for you."
+msgstr "@ling 来，找个位子坐下吧？\\>\\n我现在就去弄煎饼。"
+
+msgid "@niko_pancakes Pancakes..."
+msgstr "@niko_pancakes 煎饼……"
+
+msgid "@niko These pancakes are so good...\\>\\n\\@niko_speak Thank you so much!"
+msgstr "@niko 这些煎饼好好吃喔……\\>\\n\\@niko_speak 真的很谢谢你！"
+
+msgid "@ling No problem!\\>\\nYou looked really hungry."
+msgstr "@ling 不客气！\\>\\n你看起来饿扁了。"
+
+msgid "@niko Yeah... I thought this would be my last chance to eat something before I go in the Tower."
+msgstr "@niko 对啊……我想这是我进塔之前最后一次吃东西的机会了。"
+
+msgid "@ling_hm2 Ah, gotcha."
+msgstr "@ling_hm2 啊，我懂的。"
+
+msgid "@ling So... I guess pancakes are your favorite food?"
+msgstr "@ling 我猜……煎饼是你最喜欢的食物对吧？"
+
+msgid "@niko Mhm!\\>\\n\\@niko_speak ...well, almost!"
+msgstr "@niko 对啊！\\>\\n\\@niko_speak ……嗯，算是啦！"
+
+msgid "@niko_pancakes My favorite food in the world are the special pancakes that my mama makes!"
+msgstr "@niko_pancakes 这个世界上，我最喜欢的食物是我妈妈的特制煎饼！"
+
+msgid "@niko She likes to pick hazelnuts and grind them up into the batter."
+msgstr "@niko 她会摘一些榛果，把它磨碎加进面糊里。"
+
+msgid "@ling_smile Oh, wow, that sounds amazing!"
+msgstr "@ling_smile 哇，听起来很棒！"
+
+msgid "@niko_pancakes They TASTE amazing!\\>\\n\\@niko She always made them when I was feeling sad.\\>\\n\\@niko Or lonely... or..."
+msgstr "@niko_pancakes 真的超好吃！\\>\\n\\@niko 每次我一难过她就会做煎饼给我。\\>\\n\\@niko 或是寂寞的时候……或是……"
+
+msgid "@niko_sad ..."
+msgstr "@niko_sad ……"
+
+msgid "@niko_sad Mama...\\>\\n\\@niko_sad I really miss her..."
+msgstr "@niko_sad 妈妈……\\>\\n\\@niko_sad 我好想妈妈……"
+
+msgid "@niko_less_sad ...I just...\\>\\n\\@niko_sad ...I just have a bad feeling all of a sudden!"
+msgstr "@niko_less_sad ……我只是……\\>\\n\\@niko_sad ……我只是忽然感觉有点难受！"
+
+msgid "@niko_distressed_meow Am I... even here to save the world?\\>\\nPeople have been saying how the sun won't fix anything!"
+msgstr "@niko_distressed_meow 我……真的是来拯救世界的吗？\\>\\n好多人都说这颗太阳没办法修正任何事！"
+
+msgid "@niko_sad I don't even know why I'm here...\\>\\n\\@niko_less_sad I just wanna see my mama again..."
+msgstr "@niko_sad 我甚至不知道为什么我会在这里……\\>\\n\\@niko_less_sad 我只想再见到妈妈……"
+
+msgid "@ling2 Oh, uh...\\>\\n\\@ling_oh There, there...\\>\\n\\@ling_smile It's gonna be okay!"
+msgstr "@ling2 喔，呃……\\>\\n\\@ling_oh 没事的，乖乖……\\>\\n\\@ling_smile 会没事的！"
+
+msgid "@ling_hm And... \\@ling I'm sure you'll be able to save the world! \\>\\n\\@ling_smile You're a tough kid, you managed to get this far already, right?"
+msgstr "@ling_hm 而且……\\@ling 我有信心你一定可以拯救世界！\\>\\n\\@ling_smile 你是个坚强的孩子，你已经一路走到这里了，对吧？"
+
+msgid "@niko_distressed_meow Yeah... \\.\\.but..."
+msgstr "@niko_distressed_meow 是没错……\\.\\.可是……"
+
+msgid "@ling And you'll get to go home afterwards, right?"
+msgstr "@ling 而且任务完成你就可以回家了，对吧？"
+
+msgid "@niko_less_sad Right..."
+msgstr "@niko_less_sad 对……"
+
+msgid "@ling_smile ...Hey, want some more pancakes?"
+msgstr "@ling_smile ……嘿，要不要再来一点煎饼啊？"
+
+msgid "@niko_cry It's ok...\\>\\n\\@niko_eyeclosed ...I'll be fine."
+msgstr "@niko_cry 不用了……\\>\\n\\@niko_eyeclosed ……我没问题的。"
+
+msgid "@ling_smile So... yeah!\\>\\nThanks for coming by!"
+msgstr "@ling_smile 嗯……好喔！\\>\\n谢谢惠顾！"
+
+msgid "@niko Mhm! Thanks for listening... \\>\\n\\@niko_speak ...AND for the pancakes!"
+msgstr "@niko 嗯！谢谢你听我说……\\>\\n\\@niko_speak ……还有谢谢你请我吃煎饼！"
+
+msgid "@ling No problem. Good luck!"
+msgstr "@ling 不客气。祝你好运咯！"
+
+msgid "@ling_shock Oh, sorry about the trash on the floor..."
+msgstr "@ling_shock 喔，抱歉，地板上有垃圾……"
+
+msgid "@ling3 I was gonna throw it out earlier, but...\\>\\n\\@ling_oh ...then my coworkers caught on fire and I had to drop everything to help them."
+msgstr "@ling3 我之前本来要拿去丢的，可是……\\>\\n\\@ling_oh ……那之后我的同事身上着火了，我得放下手边所有的事去帮它们。"
+
+msgid "@ling_sigh They're fine now though...\\>\\n\\@ling It's a good thing fire doesn't hurt robots, huh?"
+msgstr "@ling_sigh 不过它们已经没事了……\\>\\n\\@ling 幸好机器人不怕火，哈哈。"
+
+msgid "@ling Oh, hi there!"
+msgstr "@ling 喔，你好啊！"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak 你好！"
+
+msgid "@niko How come... there aren't any people here?"
+msgstr "@niko 这里怎么……没有人？"
+
+msgid "@niko_speak Normally cafes have tons of people!"
+msgstr "@niko_speak 咖啡馆通常都有很多客人的！"
+
+msgid "@ling_hm Yeah, it's a really slow day..."
+msgstr "@ling_hm 对啊，今天真的很闲……"
+
+msgid "@niko_speak Do you think it's because the ground access elevator is broken?"
+msgstr "@niko_speak 你觉得这是不是因为通往地面的电梯坏了呢？"
+
+msgid "@ling_sigh So I've been told."
+msgstr "@ling_sigh 我有听说。"
+
+msgid "@ling2 The city's infrastructure has been suffering a lot lately."
+msgstr "@ling2 城市的基础建设这阵子出了很多问题。"
+
+msgid "@ling_oh Skywalks and stairs breaking off left and right..."
+msgstr "@ling_oh 空桥和楼梯也是这里断那里塌……"
+
+msgid "@ling3 Now the only reliable way of transport are those elevators..."
+msgstr "@ling3 现在唯一可靠的交通工具就只有那些电梯了……"
+
+msgid "@ling_sigh ...Until now, anyway..."
+msgstr "@ling_sigh ……结果电梯也坏掉了……"
+
+msgid "@ling_hm You know, the tall guy came in here earlier saying the same thing.\\>\\nHe asked me if I've seen a button that says \"ground\" on it."
+msgstr "@ling_hm 你知道吗，之前来的高个子也提到同一件事。\\>\\n他问我有没有看到上面写着“地面”的按钮。"
+
+msgid "@ling He looked pretty stressed, so I wanted to cheer him up...\\>\\n\\@ling_smile I told him the only \"ground\" I've seen today is coffee grounds!"
+msgstr "@ling 他看起来很焦急，我想帮他打起精神……\\>\\n\\@ling_smile 所以我告诉他我今天只有看到咖啡“面”！"
+
+msgid "@ling3 He, um..."
+msgstr "@ling3 他嘛……"
+
+msgid "@ling_hm He didn't get it..."
+msgstr "@ling_hm 他没听懂……"
+
+msgid "@ling3 I see him around a lot, but he never seems to have time to eat a proper meal..."
+msgstr "@ling3 我常常看到他，但他好像从来没有时间好好吃顿饭……"
+
+msgid "@ling_hm He kinda just, rushes in here, drinks a whole pot of coffee, and then rushes back out?"
+msgstr "@ling_hm 他通常就，匆匆跑来灌完一壶咖啡，然后又匆匆离开。"
+
+msgid "@ling_hm2 He uh, he really... takes his job to the extreme."
+msgstr "@ling_hm2 他啊……真的把他的工作做到极限呢。"
+
+msgid "@ling_oh ...I mean, it's an important job, but nothing is worth that amount of stress, I think..."
+msgstr "@ling_oh ……我的意思是，那份工作是很重要， 但我认为没有什么工作重要到值得人承受那种压力……"
+
+msgid "@niko_speak What does he do?"
+msgstr "@niko_speak 他是做什么的呢？"
+
+msgid "@ling_hm2 Maintenance, I believe.\\>\\n\\@ling_hm Something to do with the lights, but I don't know the details."
+msgstr "@ling_hm2 我记得是维修吧。\\>\\n\\@ling_hm 好像是跟灯有关，但详情我不清楚。"
+
+msgid "@ling Maybe you can ask him later?"
+msgstr "@ling 也许你之后可以问他？"
+
+msgid "@ling2 Oh! You're still here...\\>\\n\\@ling_smile Would you, um, like anything?"
+msgstr "@ling2 喔！你还在这……\\>\\n\\@ling_smile 你要不要、嗯，吃点东西呢？"
+
+msgid "@ling I can cook something for you, if you want..."
+msgstr "@ling 如果想要，我可以帮你煮点吃的……"
+
+msgid "@niko_speak It's alright, thank you!"
+msgstr "@niko_speak 不用了，谢谢你！"
+
+msgid "@ling_smile Well, don't be afraid to ask if you do get hungry!\\>\\nI'll be happy to make something for you!"
+msgstr "@ling_smile 嗯，如果肚子饿了，不用客气喔！\\>\\n我很乐意做给你吃！"
+
+msgid "@niko It's an empty coffee tin."
+msgstr "@niko 空的咖啡罐。"
+

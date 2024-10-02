@@ -1,0 +1,9 @@
+msgid "@ed [How do you still have the remote??]"
+msgstr "@ed [你怎么还拿着遥控器？？]"
+
+msgid "@ed [A soft glowing light trickles through the window.]"
+msgstr "@ed [一束微光从窗户透进来。]"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 无法开机。"
+

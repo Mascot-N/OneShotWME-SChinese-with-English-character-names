@@ -1,0 +1,24 @@
+msgid "@niko A bunch of words are on the screen."
+msgstr "@niko 屏幕上有一些字。"
+
+msgid "@niko_eyeclosed I don't understand any of it..."
+msgstr "@niko_eyeclosed 我完全看不懂……"
+
+msgid "The luminescence index of liquid red phosphor decreased by a factor of 3.57% this past week."
+msgstr "液态红燐的发光指数在过去一周下降了3.57%。"
+
+msgid "Alarming, to say the least... that's the sharpest decline I've seen, and the number is only increasing."
+msgstr "这不只是令人担忧的地步了…… 这是我见过最急剧的衰退，而且数字只降不升。"
+
+msgid "We will have to further concentrate the phosphor now, for it to be of any use."
+msgstr "目前我们得更加浓缩这些燐，才能更好地发挥它们的作用。"
+
+msgid "It's hard to believe, but there's a good chance this city could run out of light in as little as six months."
+msgstr "虽然难以置信， 但这座城市很有可能在短短六个月内就会失去光明。"
+
+msgid "...What are we going to do?"
+msgstr "……我们该怎么办？"
+
+msgid "If the city runs out of light, well...\\>\\nI don't want to think about what happens then."
+msgstr "如果城市失去光明，那……\\>\\n我不愿想象到时候会怎样。"
+

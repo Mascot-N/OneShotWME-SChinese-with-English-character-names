@@ -1,0 +1,87 @@
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko 有几只萤火虫在这个罐子里飞舞。"
+
+msgid "[DO WHAT YOU MUST.]"
+msgstr "[该做什么就做吧。]"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人类，你好。]"
+
+msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
+msgstr "[这是GLEN的主发电机。]"
+
+msgid "@niko Hello..."
+msgstr "@niko 你好……"
+
+msgid "@niko Would you happen to know where I can find a battery for a flying machine?"
+msgstr "@niko 你知不知道哪边有飞行机器可以用的电池？"
+
+msgid "@niko2 It's... kind of an emergency."
+msgstr "@niko2 我们……有急用。"
+
+msgid "[I DO NOT KNOW WHAT A FLYING MACHINE IS.]"
+msgstr "[我不知道飞行机器是什么。]"
+
+msgid "[BUT ANY SORT OF LARGE MACHINERY WOULD REQUIRE A HIGH CAPACITY POWER CELL.]"
+msgstr "[但任何大型机器都需要高容量的电池。]"
+
+msgid "[FOR EXAMPLE, THE GENERATOR IN THIS ROOM UTILIZES SUCH A DEVICE.]"
+msgstr "[例如这间房间里的发电机就是如此。]"
+
+msgid "@niko_eyeclosed Oh right... I almost forgot..."
+msgstr "@niko_eyeclosed 喔，对……我差点忘了……"
+
+msgid "@niko We had to fix the battery for this thing in the Barrens, didn't we, \\p?"
+msgstr "@niko \\p，我们在荒野的时候修理过这个东西的电池，对吧？"
+
+msgid "[IF THIS IS AN EMERGENCY FOR LIVING BEINGS...] \\>\\n[YOU CAN USE THE BATTERY FROM THE GENERATOR.]"
+msgstr "[如果是生物有急用……]\\>\\n[你可以用发电机的电池。]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko2 Wait... \\.\\.but if we take the battery here..."
+msgstr "@niko2 等等……\\.\\.可是如果我们把这里的电池拿走……"
+
+msgid "@niko3 ...all of you guys would lose power, wouldn't you?"
+msgstr "@niko3 ……你们全部都会没电，对吧？"
+
+msgid "@niko4 Maybe \\p and I should go find another one."
+msgstr "@niko4 或许\\p和我该去找别的电池。"
+
+msgid "[NEGATIVE.]"
+msgstr "[否定。]"
+
+msgid "[THIS IS THE ONLY BATTERY IN THE GLEN POWERFUL ENOUGH TO BE USED AS A STANDALONE UNIT.]"
+msgstr "[整个GLEN只有这颗电池的能量足够独立使用。]"
+
+msgid "[IF IT IS A DIRE SITUATION, THEN DO WHAT YOU MUST.]"
+msgstr "[如果情况急迫，该做什么就做吧。]"
+
+msgid "@niko4 Oh..."
+msgstr "@niko4 喔……"
+
+msgid "@niko_eyeclosed ...we depowered it..."
+msgstr "@niko_eyeclosed ……我们把它的供电切断了……"
+
+msgid "@niko3 ...I guess we have no choice but to take this, \\p..."
+msgstr "@niko3 ……\\p，我想我们别无选择，只能拿这个了……"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko Looks like a generator..."
+msgstr "@niko 看起来像发电机……"
+
+msgid "[PLEASE DO NOT STAND TOO CLOSE TO THE GENERATOR.]"
+msgstr "[请不要太靠近发电机。]"
+
+msgid "[IF YOU HAVE INQUIRIES, PLEASE ASK ME INSTEAD.]"
+msgstr "[有任何问题，请咨询我。]"
+
+msgid "@niko The battery's gone now..."
+msgstr "@niko 已经没有电池了……"
+
+msgid "@niko_speak We should remember to bring it back once we're done with it!"
+msgstr "@niko_speak 我们用好之后要记得拿回来！"
+

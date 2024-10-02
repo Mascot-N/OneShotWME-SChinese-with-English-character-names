@@ -1,0 +1,36 @@
+msgid "[I HAVE LOST COMMUNICATION WITH THE GUARDIAN OUTSIDE THE CITY GATE.]"
+msgstr "[我和城门外的守卫机器人失去了通讯。]"
+
+msgid "@niko2 The... big robot, right?"
+msgstr "@niko2 你是指……那个大机器人，对吗？"
+
+msgid "[PLEASE HELP ME CHECK ON THEM.]"
+msgstr "[请帮我查看他的状况。]"
+
+msgid "[I CANNOT LEAVE MY STATION.]"
+msgstr "[我不能离开我的岗位。]"
+
+msgid "@niko Alright..."
+msgstr "@niko 好……"
+
+msgid "[THE DEEPER RUINS ARE AHEAD.]"
+msgstr "[前方是更深层的废墟。]"
+
+msgid "[DO NOTE THAT THEY ARE PARTIALLY FLOODED.]"
+msgstr "[请注意那里有部分区域已被水淹没。]"
+
+msgid "@niko3 There's squares all over the big robot..."
+msgstr "@niko3 大机器人身上到处都是方块……"
+
+msgid "[AH.]"
+msgstr "[啊。]"
+
+msgid "[THAT IS OUTSIDE MY CAPACITY FOR HELP.]"
+msgstr "[这超出我的能力范围了，我爱莫能助。]"
+
+msgid "[YOU MAY PROCEED TO THE DEEPER RUINS.]"
+msgstr "[你可以前往更深层的废墟。]"
+
+msgid "@niko4 Alright..."
+msgstr "@niko4 好……"
+

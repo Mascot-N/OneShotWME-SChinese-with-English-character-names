@@ -1,0 +1,153 @@
+msgid "MyBurdenIsLight=My Burden Is Light"
+msgstr "负光者"
+
+msgid "SomeplaceIKnow=Someplace I Know"
+msgstr "熟悉的场所"
+
+msgid "Phosphor=Phosphor"
+msgstr "燐"
+
+msgid "Phosphor_dark=The Prophecy"
+msgstr "预言"
+
+msgid "FactoryQuiet=Abandoned Factory"
+msgstr "废弃工厂"
+
+msgid "SilverPoint=Silverpoint"
+msgstr "Silverpoint"
+
+msgid "AGod'sMachine=A God's Machine"
+msgstr "神之机器"
+
+msgid "Rowbot=Rowbot"
+msgstr "划船机器人"
+
+msgid "Geothermal=Geothermal"
+msgstr "地热"
+
+msgid "Distant=Distant"
+msgstr "遥远"
+
+msgid "IntoTheLight=Into The Light"
+msgstr "步入光明"
+
+msgid "SelfContainedUniverseReprise=Self Contained Universe (Reprise)"
+msgstr "小小宇宙（变奏）"
+
+msgid "Navigate=Navigate"
+msgstr "航行"
+
+msgid "ToSleep=To Sleep"
+msgstr "眠"
+
+msgid "ToDream=To Dream"
+msgstr "梦"
+
+msgid "ChildrenOfTheRuins=Alula"
+msgstr "Alula"
+
+msgid "ChildrenOfTheRuins_piano=Children Of The Ruins"
+msgstr "废墟的孩子们"
+
+msgid "PrettyBad=Pretty Bad"
+msgstr "大事不妙"
+
+msgid "OnLittleCatFeet=On Little Cat Feet"
+msgstr "小猫的脚步"
+
+msgid "OnLittleCatFeetPiano=Indoors"
+msgstr "一室之内"
+
+msgid "DarkStairwell=Dark Stairwell"
+msgstr "昏暗的楼梯间"
+
+msgid "Sonder=Sonder"
+msgstr "你所不知的故事"
+
+msgid "PrettyNiceDay=Pretty nice day, huh..."
+msgstr "今天天气不错，对吧……"
+
+msgid "LibraryStroll=Library Stroll"
+msgstr "图书馆漫步"
+
+msgid "SimpleSecrets=Simple Secrets"
+msgstr "小秘密"
+
+msgid "Factory=Factory"
+msgstr "工厂"
+
+msgid "TheTower=The Tower"
+msgstr "塔"
+
+msgid "NikoAndTheWorldMachine=Niko And The World Machine"
+msgstr "Niko与世界机器"
+
+msgid "puzzle-solved-remix=I'm here"
+msgstr "我在"
+
+msgid "Pretty=Pretty"
+msgstr "妙"
+
+msgid "SelfContainedUniverse=Self Contained Universe"
+msgstr "小小宇宙"
+
+msgid "Home=Thanks For Everything"
+msgstr "感谢有你"
+
+msgid "Countdown=Countdown"
+msgstr "倒计时"
+
+msgid "MinesAmbience=Deep Mines"
+msgstr "矿坑深处"
+
+msgid "DeepMinesPiano=Vestige"
+msgstr "残迹"
+
+msgid "SonderExtended=Sonder (extended)"
+msgstr "你所不知的故事（延长版）"
+
+msgid "ambience4=Out Of Protocol"
+msgstr "标准程序之外"
+
+msgid "Panic=Panic"
+msgstr "恐慌"
+
+msgid "Collapse=Collapse"
+msgstr "崩塌"
+
+msgid "NavigateExtended=Navigate (extended)"
+msgstr "航行（延长版）"
+
+msgid "SelfContainedUniversePiano=The First Universe"
+msgstr "最初的宇宙"
+
+msgid "Aviator=Aviator"
+msgstr "飞行家"
+
+msgid "EleventhHour=Eleventh Hour"
+msgstr "最后关头"
+
+msgid "SonderExtendedGuitar=Rue"
+msgstr "Rue"
+
+msgid "TheAuthor=The Author"
+msgstr "作家"
+
+msgid "computer_room=The World Machine"
+msgstr "世界机器"
+
+msgid "Encounter=Encounter"
+msgstr "遇见"
+
+msgid "Solstice=Solstice"
+msgstr "至日"
+
+msgid "Sunrise=Sunrise"
+msgstr "日出"
+
+msgid "InMemory=In Memory"
+msgstr "回忆之中"
+
+msgid "fight_crime=IT'S TIME TO FIGHT GRIME"
+msgstr "打击犯罪的时刻到了"
+

@@ -1,0 +1,201 @@
+msgid "@niko This bar should open it."
+msgstr "@niko 用这根棍子应该能打开。"
+
+msgid "@niko_eyeclosed The pipe won't fit under the cracks, \\p!"
+msgstr "@niko_eyeclosed 铁管塞不进底下的缝隙啦，\\p！"
+
+msgid "@niko We'll need to flatten it somehow..."
+msgstr "@niko 我们得想办法把它压扁……"
+
+msgid "@niko The screwdriver's not nearly big enough to pry it open."
+msgstr "@niko 螺丝起子太小，没办法把它撬开。"
+
+msgid "@niko_speak This box looks interesting!"
+msgstr "@niko_speak 这个箱子好有趣！"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_eyeclosed I wish I had something to pry it open with..."
+msgstr "@niko_eyeclosed 希望我有东西可以把它撬开……"
+
+msgid "@niko There's a little metal cube and some broken glass in here..."
+msgstr "@niko 里面有一块金属方块和一些碎玻璃……"
+
+msgid "@niko_speak Looks like what used to be a machine part."
+msgstr "@niko_speak 看起来原本是机器零件。"
+
+msgid "@niko It says 'Solar Battery' on the side."
+msgstr "@niko 旁边写着“太阳能电池”。"
+
+msgid "@niko It's empty now."
+msgstr "@niko 现在空了。"
+
+msgid "@niko Still got some shards of glass at the bottom, though."
+msgstr "@niko 底下还有一点玻璃碎片就是了。"
+
+msgid "$1. A robot may not injure a living person or, through inaction, allow a person to come to harm."
+msgstr "$1. 机器人不得伤害生命体，或者目睹其将遭受危险而袖手旁观。"
+
+msgid "$2. A robot must obey the orders given to it by people, except where such orders would conflict with the First Law."
+msgstr "$2. 机器人必须服从生命体命令，除非此命令违反第一定律。"
+
+msgid "$3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."
+msgstr "$3. 机器人在不违反第一、第二定律的情况下要尽可能保护自己的生存。"
+
+msgid "@niko It's a faded poster."
+msgstr "@niko 褪色的海报。"
+
+msgid "$REMINDER TO ALL WORKERS:"
+msgstr "$提醒所有员工："
+
+msgid "$The rarest form of blue phosphor is found during the phosphor shrimp's spawn period."
+msgstr "$最稀有形态的蓝燐会在燐虾产卵期间出现。"
+
+msgid "$If you observe a pond with a bubbled-over surface, please contact management immediately!"
+msgstr "$若发现水池表面冒出大量气泡，请立即联络管理单位！"
+
+msgid "$We will dispatch a harvest team ASAP."
+msgstr "$我们会尽快派出团队进行采收。"
+
+msgid "@niko A robot without power."
+msgstr "@niko 没电的机器人。"
+
+msgid "[I AM FUNCTIONAL!]"
+msgstr "[我又能运作了！]"
+
+msgid "[DID YOU POWER THE GENERATOR?]"
+msgstr "[是你为发电机提供了电力吗？]"
+
+msgid "@niko I...\\.\\. \\@niko_speak guess we did!"
+msgstr "@niko 我……\\.\\. \\@niko_speak 应该是吧！"
+
+msgid "@niko Right, \\p?"
+msgstr "@niko 对吧，\\p？"
+
+msgid "$Five new positions available at the mines."
+msgstr "$矿区有5个新职位空缺。"
+
+msgid "$Housing and other provisions are included upon hiring."
+msgstr "$录用后提供住宿及其他物资。"
+
+msgid "$First come, first serve."
+msgstr "$先到先得。"
+
+msgid "@niko A robot."
+msgstr "@niko 一台机器人。"
+
+msgid "@niko It seems to be ok! Just doesn't have power."
+msgstr "@niko 看起来是好的！只是没有电。"
+
+msgid "[I CAN WALK!]"
+msgstr "[我可以走路了！]"
+
+msgid "$The use of a robot as our replacement head engineer seems unorthodox."
+msgstr "$用机器人替代首席工程师有点疯狂了。"
+
+msgid "$...especially the one responsible for last year's incident."
+msgstr "$……而且这个机器人甚至还是去年那件事的始作俑者。"
+
+msgid "$I suppose they had to get her away from the city, but that doesn't make it easier to swallow for those of us who work here!"
+msgstr "$大概他们把她调离城市也是迫不得已，但这个理由并不会让我们这些在这里工作的人更容易接受这件事！"
+
+msgid "$I hope that man knows what he's doing."
+msgstr "$希望那家伙知道自己在做什么。"
+
+msgid "$--Management"
+msgstr "$——主管"
+
+msgid "$SELF-CHARGING SOLAR BATTERY MODEL N-87\\n(One year warranty included)"
+msgstr "$自动充电太阳能电池N-87 型\\n（含一年保修）"
+
+msgid "$Simply place your self-charging battery in full daylight with the lens facing up."
+msgstr "$只要把你的自动充电电池镜片朝上整个置于日照中。"
+
+msgid "$Charges in seconds, no external power is needed."
+msgstr "$只需几秒就能充电，无需外接电源。"
+
+msgid "$TROUBLESHOOTING MANUAL."
+msgstr "$故障排除手册。"
+
+msgid "$If the battery fails to charge, check to see if the lens on the front side has not been dislodged during transport."
+msgstr "$若电池无法充电，请检查前方镜片是否在运送过程中松脱。"
+
+msgid "$One charge cycle will last about ten days."
+msgstr "$一个充电周期约需持续10天。"
+
+msgid "$If you notice a decline in the charge cycle within the warranty period, please contact the manufacturer."
+msgstr "$若在保修期间发现充电周期缩短，请联系制造商。"
+
+msgid "@niko It won't turn on."
+msgstr "@niko 无法开机。"
+
+msgid "@niko The screen says \"DOCUMENTS\"."
+msgstr "@niko 屏幕上写着“文件”。"
+
+msgid "@niko_eyeclosed I can't seem to make the computer do anything else..."
+msgstr "@niko_eyeclosed 我好像没办法让计算机做别的事……"
+
+msgid "@ed [The code is contained within a \\c[2]Document\\c[0].]"
+msgstr "@ed [密码写在一份\\c[2]文件\\c[0]中。]"
+
+msgid "@ed [The \\c[2]Document\\c[0] has found a place it belongs outside the game.]"
+msgstr "@ed [那份\\c[2]文件\\c[0]存在于游戏以外的地方。]"
+
+msgid "Do you know where to find Documents, \\p?"
+msgstr "\\p，你知道要去哪里找文件吗？"
+
+msgid "@ed [Good. Start looking.]"
+msgstr "@ed [很好，开始找吧。]"
+
+msgid "@ed [Don't you know that there's a designated area for \\c[2]Documents\\c[0] on your own machine?]"
+msgstr "@ed [你不知道你自己的机器上有一个指定放\\c[2]文件\\c[0]的地方吗？]"
+
+msgid "@ed [Some god you are.]"
+msgstr "@ed [你这算哪门子的神。]"
+
+msgid "@ed [...]"
+msgstr "@ed [……]"
+
+msgid "@ed [Look in the Documents folder on your computer.]"
+msgstr "@ed [去你计算机的文件资料夹找。]"
+
+msgid "@ed [I don't think I could've made it any more clear.]"
+msgstr "@ed [我绝对说得够清楚了。]"
+
+msgid "@ed [I see you've made progress in this world, \\p.]"
+msgstr "@ed [\\p，看来你已经在这个世界有所进展。]"
+
+msgid "@ed [But that progress stops here.]"
+msgstr "@ed [但进展止步于此了。]"
+
+msgid "@ed [I believe you need a code to unlock a certain box.]"
+msgstr "@ed [接下来你需要一组密码才能打开某个箱子。]"
+
+msgid "@ed [Well, the code no longer exists in THIS world.]"
+msgstr "@ed [嗯，那组密码已经不存在于这个世界。]"
+
+msgid "...Do you understand what this means, \\p?"
+msgstr "……\\p，你知道这是什么意思吗？"
+
+msgid "@ed [You... still don't know the extent of the world's deterioration, do you, \\p?]"
+msgstr "@ed [你……还不明白这个世界衰败到什么程度，是吗，\\p？]"
+
+msgid "@ed [Sigh.]"
+msgstr "@ed [唉。]"
+
+msgid "@ed [...most of the time, stray pieces of this world would be lost to blissful nothingness.]"
+msgstr "@ed [……大部分情况下，这个世界飘散的碎片都会消逝在幸福的虚无中。]"
+
+msgid "@ed [But this code, this \\c[2]Document\\c[0], is an exception.]"
+msgstr "@ed [但这组密码──这份\\c[2]文件\\c[0]──例外。]"
+
+msgid "@ed [I was able to salvage it, because Niko needs the code to progress.]"
+msgstr "@ed [我还能抢救它，霓光需要密码才能继续往前。]"
+
+msgid "@ed [Now, go find it.]"
+msgstr "@ed [现在去找它吧。]"
+
+msgid "@niko Dusty shelves."
+msgstr "@niko 布满灰尘的架子。"
+

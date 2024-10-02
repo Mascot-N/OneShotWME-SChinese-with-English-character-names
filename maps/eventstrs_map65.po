@@ -1,0 +1,267 @@
+msgid "@niko Jars full of dried fish."
+msgstr "@niko 装满鱼干的罐子。"
+
+msgid "@niko Fireflies light up this room."
+msgstr "@niko 萤火虫照亮了这个房间。"
+
+msgid "@niko It's a book with a clover on the cover."
+msgstr "@niko 一本封面上有三叶草的书。"
+
+msgid "@calamus_heh I really need to finish this..."
+msgstr "@calamus_heh 我真该把它读完……"
+
+msgid "@niko There's a clover symbol on the cover of this book."
+msgstr "@niko 书的封面上有三叶草标志。"
+
+msgid "@niko_speak Hey! Just like-"
+msgstr "@niko_speak 嘿！就像——"
+
+msgid "@calamus_speak Oh! My book!"
+msgstr "@calamus_speak 喔！我的书！"
+
+msgid "@calamus_shame Gosh, I still need to finish studying it..."
+msgstr "@calamus_shame 天啊，我还没读完这本……"
+
+msgid "@niko Oh?"
+msgstr "@niko 是吗？"
+
+msgid "@calamus My friend gave it to me for Solstice Day."
+msgstr "@calamus 我朋友在至日送我的。"
+
+msgid "@calamus_speak He's the one who wrote it, actually!"
+msgstr "@calamus_speak 其实这本书是他自己写的！"
+
+msgid "@calamus_smile He's also the one who taught me how to read!"
+msgstr "@calamus_smile 也是他教我识字！"
+
+msgid "@niko_speak Oooh!"
+msgstr "@niko_speak 喔喔！"
+
+msgid "@calamus_smile I have a few more of his books somewhere..."
+msgstr "@calamus_smile 我这边还有几本他的作品……"
+
+msgid "@niko It's a jar full of worms!"
+msgstr "@niko 这一罐装满了虫！"
+
+msgid "@niko_speak It's a plush toy!"
+msgstr "@niko_speak 一个绒毛玩偶！"
+
+msgid "@niko I have one at home too..."
+msgstr "@niko 我家也有一个……"
+
+msgid "@niko_83c But mine's an owl and not a fox!"
+msgstr "@niko_83c 不过我的是猫头鹰，不是狐狸！"
+
+msgid "@alula My fox is named Ruby, by the way!"
+msgstr "@alula 对了，我的狐狸名字叫露比！"
+
+msgid "@alula_speak That's mine! \\>\\@alula Our friend gave it to me last year!"
+msgstr "@alula_speak 那是我的！\\>\\@alula 朋友去年送的！"
+
+msgid "@alula_gasp Yeah! He has a fox too!\\nAnd she can even talk!"
+msgstr "@alula_gasp 对了！他也有一只狐狸！\\n而且他的狐狸会说话！"
+
+msgid "@niko ...what?"
+msgstr "@niko ……什么？"
+
+msgid "@alula_speak I know! I thought she was the coolest thing ever!"
+msgstr "@alula_speak 我知道！我觉得那只狐狸是世界上最酷的东西！"
+
+msgid "@alula So he got me a fox plush for Solstice Day!"
+msgstr "@alula 所以他在至日送了我一个狐狸娃娃！"
+
+msgid "@niko_speak Oh! That's nice of him!"
+msgstr "@niko_speak 哇，他人真好！"
+
+msgid "@alula_speak He's the best!"
+msgstr "@alula_speak 他是最棒的！"
+
+msgid "@calamus_speak Oh, by the way, what happened to the sun?"
+msgstr "@calamus_speak 对了，太阳怎么了？"
+
+msgid "@niko I lent it to someone in the ruins.\\>\\n\\@niko_eyeclosed She said she wanted to feel the sun again, before she..."
+msgstr "@niko 我把它借给废墟里一个姐姐了。\\>\\n\\@niko_eyeclosed 她说她想再次感受太阳，趁她还没……"
+
+msgid "@calamus_speak Oh, you must be talking about Maize."
+msgstr "@calamus_speak 喔，你说的一定是Maize。"
+
+msgid "@niko_speak Is that her name?"
+msgstr "@niko_speak 那是她的名字吗？"
+
+msgid "@calamus_speak She's a powerful plant spirit. She used to protect the Glen."
+msgstr "@calamus_speak 她是一个强大的树灵，以前她会保护Glen。"
+
+msgid "@calamus_sad ...but once the sun died, her health rapidly deteriorated."
+msgstr "@calamus_sad ……但太阳熄灭后，她的健康状况就急剧恶化。"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 喔……"
+
+msgid "@calamus I'm glad you were able to find her in time."
+msgstr "@calamus 我很高兴你能及时找到她。"
+
+msgid "@niko_eyeclosed I think we might be already too late to save her..."
+msgstr "@niko_eyeclosed 我想我们已经来不及救她了……"
+
+msgid "@calamus_sad I know."
+msgstr "@calamus_sad 我知道。"
+
+msgid "@calamus But I'm glad she got to see the sun again."
+msgstr "@calamus 可是我很高兴她能再次看到太阳。"
+
+msgid "@calamus I hope the squares don't spread too fast..."
+msgstr "@calamus 希望方块不要扩散得太快……"
+
+msgid "@niko Jars full of dried moss."
+msgstr "@niko 装满干苔藓的罐子。"
+
+msgid "@alula_speak You're here! You're here!"
+msgstr "@alula_speak 你来了！你来了！"
+
+msgid "@alula I'll go get the thing!"
+msgstr "@alula 我去拿东西！"
+
+msgid "@calamus_smile So uh... welcome to our home!\\>\\n\\@calamus_heh I know it's not much, but...\\>\\n\\@calamus_smile feel free to make yourself comfortable."
+msgstr "@calamus_smile 嗯，呃……欢迎来我们家！\\>\\n\\@calamus_heh 我知道这里很简陋，不过……\\>\\n\\@calamus_smile 请放轻松随意看看吧。"
+
+msgid "@alula Ah! There it is!"
+msgstr "@alula 啊！找到了！"
+
+msgid "@alula_speak Here, we want you to have this!"
+msgstr "@alula_speak 来，我们想送你这个！"
+
+msgid "@niko Oh, a feather!\\>\\n\\@niko_speak The edges are glowing yellow!"
+msgstr "@niko 喔，是羽毛！\\>\\n\\@niko_speak 边缘还会发黄光耶！"
+
+msgid "@calamus_speak It's a sacred feather from the great Prophet."
+msgstr "@calamus_speak 这是伟大先知留下的神圣羽毛。"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 哦？"
+
+msgid "@alula_speak Yeah!"
+msgstr "@alula_speak 没错！"
+
+msgid "@alula She's this old lady our dad used to know!"
+msgstr "@alula 是我爸爸以前认识的老太太！"
+
+msgid "@alula_gasp Her feathers can glow in the dark and she can see into the future!"
+msgstr "@alula_gasp 她的羽毛在黑暗中会发光，而且她能预见未来！"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak 哇哦！"
+
+msgid "@alula Or... something like that!"
+msgstr "@alula 就……那之类的！"
+
+msgid "@calamus_speak She gave one of her feathers to father before she died."
+msgstr "@calamus_speak 她过世前将她的一根羽毛送留给了我爸爸。"
+
+msgid "@calamus Father wanted to pass this down as an heirloom, although...\\>\\n\\@calamus_smile ...it feels more fitting for you to have it."
+msgstr "@calamus 我爸想把它当成传家宝，不过……\\>\\n\\@calamus_smile ……我们觉得把它给你更好。"
+
+msgid "@niko A-are you sure?"
+msgstr "@niko 你、你们确定吗？"
+
+msgid "@alula_speak Totally sure!"
+msgstr "@alula_speak 百分之百确定！"
+
+msgid "@calamus I think that's what father would have wanted."
+msgstr "@calamus 我想我爸也会希望我们把羽毛送你。"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 谢谢你！"
+
+msgid "@alula That's the sun!"
+msgstr "@alula 是太阳！"
+
+msgid "@alula It's a book!"
+msgstr "@alula 一本书！"
+
+msgid "@alula_speak I can't read yet!"
+msgstr "@alula_speak 我还不识字！"
+
+msgid "@alula Our friend says he'll teach me when I'm older, though!"
+msgstr "@alula 不过我朋友说等我大一点他就会教我！"
+
+msgid "@alula_speak It's a pretty feather, isn't it?"
+msgstr "@alula_speak 这根羽毛很漂亮吧？"
+
+msgid "@alula_speak Wooow! \\>That's a pretty necklace!"
+msgstr "@alula_speak 哇——！\\>好漂亮的项链！"
+
+msgid "@niko The robot lady from the Barrens gave it to me!"
+msgstr "@niko 是Barrens的机器人女士送我的！"
+
+msgid "@alula_gasp You've been to the Barrens?"
+msgstr "@alula_gasp 你去过Barrens？"
+
+msgid "@niko_speak Yeah! \\p and I came from there, actually!"
+msgstr "@niko_speak 对！其实\\p和我就是从那边过来的！"
+
+msgid "@alula_pout But... I thought you came from another world..."
+msgstr "@alula_pout 可是……你不是从另一个世界来的吗……"
+
+msgid "@niko Ah, I just meant we were there first, before we got to the Glen!"
+msgstr "@niko 啊，我的意思是我们到Glen之前先到了Barrens啦！"
+
+msgid "@alula_speak That makes more sense!"
+msgstr "@alula_speak 这样说合理多了！"
+
+msgid "@alula_speak It's good to be home again!"
+msgstr "@alula_speak 能再回到家真好！"
+
+msgid "@niko Jars full of beans."
+msgstr "@niko 装满豆子的罐子。"
+
+msgid "@niko Fireflies!"
+msgstr "@niko 萤火虫！"
+
+msgid "@niko_eyeclosed Looks like spoiled food."
+msgstr "@niko_eyeclosed 看起来像腐败的食物。"
+
+msgid "@calamus_heh I'll... deal with it later."
+msgstr "@calamus_heh 我……我等一下再收拾。"
+
+msgid "@calamus_shame Oh no!"
+msgstr "@calamus_shame 糟了！"
+
+msgid "@calamus_heh I guess that's what happens if you leave your house for three days..."
+msgstr "@calamus_heh 我想三天不回家就是会发生这种状况吧……"
+
+msgid "@niko_eyeclosed The back room is full of dust and cobwebs..."
+msgstr "@niko_eyeclosed 后面的房间布满灰尘和蜘蛛网……"
+
+msgid "@niko It's a fishing pole."
+msgstr "@niko 一根钓竿。"
+
+msgid "@calamus That reminds me, I need to go fishing later..."
+msgstr "@calamus 这倒提醒我了，等一下我得去钓鱼……"
+
+msgid "@alula Do you like fish, Niko?"
+msgstr "@alula Niko，你喜欢鱼吗？"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak 当然！"
+
+msgid "@alula_speak So do we! \\|\\@alula They're good in stews."
+msgstr "@alula_speak 我们也是！\\|\\@alula 炖鱼很好吃。"
+
+msgid "@niko_speak Or soups!"
+msgstr "@niko_speak 煮汤也好！"
+
+msgid "@niko_eyeclosed ...but I know some people back home who like to eat them raw."
+msgstr "@niko_eyeclosed ……不过我家乡那边有人喜欢直接吃生的。"
+
+msgid "@alula_speak Ewww!"
+msgstr "@alula_speak 好恶心啊！"
+
+msgid "@niko_eyeclosed Yeup."
+msgstr "@niko_eyeclosed 就是啊。"
+
+msgid "@niko Coals."
+msgstr "@niko 煤炭。"
+
+msgid "@niko They're cold now."
+msgstr "@niko 已经冷掉了。"
+

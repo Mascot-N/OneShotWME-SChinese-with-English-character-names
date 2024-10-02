@@ -1,0 +1,162 @@
+msgid "@niko It's a faded flyer."
+msgstr "@niko 褪色的传单。"
+
+msgid "I see you have the club uniform."
+msgstr "我看到你有社团的制服。"
+
+msgid "You may come in."
+msgstr "你可以进来了。"
+
+msgid "@niko A curious marking on the wall."
+msgstr "@niko 墙上有奇妙的标志。"
+
+msgid "@niko It looks like a... ram...?"
+msgstr "@niko 看起来像一头……公羊……？"
+
+msgid "@niko It's strangely warm in this room."
+msgstr "@niko 这间房间里意外地温暖。"
+
+msgid "@niko_speak It's a big crack in the wall!"
+msgstr "@niko_speak 墙上有好大一条裂缝！"
+
+msgid "@niko I see bunch of mice, huddled together."
+msgstr "@niko 我看到好多老鼠缩在一起。"
+
+msgid "@niko2 ...oh, but they scurried off..."
+msgstr "@niko2 ……喔，可是他们一下就跑走了……"
+
+msgid "@niko_eyeclosed I hope they didn't think I was gonna eat them..."
+msgstr "@niko_eyeclosed 希望他们不是觉得我想吃他们……"
+
+msgid "[P\\.\\.#L.%%E\\|AS;E D\\.O NO//T AP\\.\\.PR#OACH]"
+msgstr "[请\\.\\.#不.%%\\|要；不\\.要//靠\\.\\.近#\\]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@kelvin [You have been here for a while...] \\>\\n[Are you sure you do not wish to stay?]"
+msgstr "@kelvin [你在这边待了好一会了……]\\>\\n[真的不想留下吗？]"
+
+msgid "@niko_speak I'm good, thanks for offering though!"
+msgstr "@niko_speak 不用了，谢谢你邀请我！"
+
+msgid "@niko So... where did you find all your cats?"
+msgstr "@niko 那……你是在哪里找到你的猫的？"
+
+msgid "@kelvin [They found me on their own.] \\>\\n[So I stay here now.]"
+msgstr "@kelvin [是他们自己来找我的。]\\>\\n[所以我现在都待在这。]"
+
+msgid "@niko2 Ah... \\>\\n\\@niko_speak Well, it's good that you're not alone, at least!"
+msgstr "@niko2 啊……\\>\\n\\@niko_speak 嗯，至少你不是孤单一人，这样也很好！"
+
+msgid "@niko I met some robots in the other areas stationed all by themselves..."
+msgstr "@niko 我在其他地方遇到一些机器人，它们都孤零零的……"
+
+msgid "@niko_eyeclosed I felt kinda... bad..."
+msgstr "@niko_eyeclosed 我觉得有点……难过……"
+
+msgid "@kelvin [With robots, it is alright.]"
+msgstr "@kelvin [对机器人来讲还好啦。]"
+
+msgid "@kelvin [We are not like people, we are typically unable to feel loneliness.]"
+msgstr "@kelvin [我们和人类不同，我们通常无法感受寂寞这种心情。]"
+
+msgid "@niko Right..."
+msgstr "@niko 嗯……"
+
+msgid "@niko_speak Well, you talk less like a robot than most other robots I've met!"
+msgstr "@niko_speak 嗯，你讲话的方式，比我遇到的许多其他机器人更不像机器人！"
+
+msgid "@kelvin [Maybe.]"
+msgstr "@kelvin [也许吧。]"
+
+msgid "@kelvin [Not many people frequent this part of the alley, but there are a few.]"
+msgstr "@kelvin [巷子这一段很少有人过来，除了个别几个。]"
+
+msgid "@kelvin [One of them even lives here.]"
+msgstr "@kelvin [其中一个甚至住在这里。]"
+
+msgid "@niko I see..."
+msgstr "@niko 这样啊……"
+
+msgid "@niko_speak It's warm here!"
+msgstr "@niko_speak 这里好温暖！"
+
+msgid "@kelvin [Yeah.]"
+msgstr "@kelvin [对啊。]"
+
+msgid "@kelvin [This was my original purpose.]"
+msgstr "@kelvin [这就是我的使命。]"
+
+msgid "@niko_speak ...watching cats?"
+msgstr "@niko_speak ……你是说照顾猫吗？"
+
+msgid "@kelvin [Warmth.]"
+msgstr "@kelvin [提供温暖。]"
+
+msgid "@niko Oooh!"
+msgstr "@niko 原来如此！"
+
+msgid "@niko_speak It's a nice purpose!\\>\\n\\@niko ...\\>\\@niko_yawn  ...yawn..."
+msgstr "@niko_speak 那你的使命很棒呢！……\\>\\@niko ……\\>\\n\\@niko_yawn ……呵啊……"
+
+msgid "@kelvin [Oh, you look tired.]\\>\\n[Do you wish to rest?]"
+msgstr "@kelvin [哦，你看起来很累。]\\>\\n[要休息一下吗？]"
+
+msgid "@niko_speak I can't sleep now! \\p and I got stuff to do!"
+msgstr "@niko_speak 我现在还不能睡！\\p和我还有事要做！"
+
+msgid "@kelvin [I see.]"
+msgstr "@kelvin [我知道了。]"
+
+msgid "@kelvin [Oh, a cat.]"
+msgstr "@kelvin [喔，有只猫。]"
+
+msgid "@kelvin [Are you lost?]"
+msgstr "@kelvin [你迷路了吗？]"
+
+msgid "@niko Me?"
+msgstr "@niko 我？"
+
+msgid "@kelvin [Do you wish to join us?]"
+msgstr "@kelvin [要不要加入我们？]"
+
+msgid "@niko Join... \\.\\@niko_speak your cats?"
+msgstr "@niko 加入……\\.\\@niko_speak 你的猫吗？"
+
+msgid "@kelvin [Yes.]"
+msgstr "@kelvin [是的。]"
+
+msgid "@niko But I'm not a cat..."
+msgstr "@niko 可是我不是猫……"
+
+msgid "@niko_eyeclosed I don't walk on four legs like they do..."
+msgstr "@niko_eyeclosed 我又不像他们用四只脚走路……"
+
+msgid "@kelvin [You have cat eyes.]"
+msgstr "@kelvin [但你有双猫眼。]"
+
+msgid "@niko My eyes are normal people eyes..."
+msgstr "@niko 我的眼睛是普通人类的眼睛啦……"
+
+msgid "@niko_speak Well, normal back home!"
+msgstr "@niko_speak 我是说，在故乡的时候！"
+
+msgid "@kelvin [Your hat is shaped like a cat.]"
+msgstr "@kelvin [你的帽子形状是猫耳。]"
+
+msgid "@niko But I'm just a person!"
+msgstr "@niko 但我是人类！"
+
+msgid "@kelvin [You are still welcome here.]"
+msgstr "@kelvin [还是欢迎你加入。]"
+
+msgid "@kelvin [I protect lost people as well.]"
+msgstr "@kelvin [我也保护迷路的人类。]"
+
+msgid "@niko_speak Thanks! \\.\\.\\@niko But I'm not lost though!"
+msgstr "@niko_speak 谢谢！\\.\\.\\@niko 不过我也没有迷路！"
+
+msgid "@niko I've got \\p to guide me!"
+msgstr "@niko \\p会指引我的！"
+

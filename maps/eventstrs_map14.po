@@ -1,0 +1,501 @@
+msgid "@prophet [Ah!]"
+msgstr "@prophet [啊！]"
+
+msgid "@prophet [That Lightbulb...! You Are Here!]"
+msgstr "@prophet [那颗灯泡……！是你！]"
+
+msgid "@niko M-\\.\\.\\@niko2 me?"
+msgstr "@niko 唔、\\.\\.\\@niko2 是在叫我嘛？"
+
+msgid "@prophet [Yes!]"
+msgstr "@prophet [没错！]"
+
+msgid "@prophet [Welcome To Our World, Friend!]"
+msgstr "@prophet [朋友，欢迎来到我们的世界！]"
+
+msgid "@prophet [I Am Most Humbled By Your Presence.\\. Yes!]"
+msgstr "@prophet [能见到你，我感到无比荣幸。\\.没错！]"
+
+msgid "@niko Uh, thanks..."
+msgstr "@niko 呃，谢谢……"
+
+msgid "@niko2 ..."
+msgstr "@niko2 ……"
+
+msgid "@niko3 .\\..\\.."
+msgstr "@niko3 .\\..\\.."
+
+msgid "@niko_eyeclosed Sorry...\\.\\. I'm a little lost..."
+msgstr "@niko_eyeclosed 抱歉……\\.\\.我有点搞不清状况……"
+
+msgid "@prophet [Ah Right!\\.\\. Allow Me To Explain Some Things.]"
+msgstr "@prophet [啊，对喔！\\.\\.我会给你解释的。]"
+
+msgid "@prophet [May I First Ask How You Arrived Here?]"
+msgstr "@prophet [不过，在那之前，可以先问问你是怎么来到这里的吗？]"
+
+msgid "@niko3 I'm... not sure..."
+msgstr "@niko3 我也……不确定……"
+
+msgid "@niko2 I woke up in this...\\.\\. weird house.\\>\\n\\@niko_speak It was really dark!"
+msgstr "@niko2 我在一间……\\.\\.奇怪的房子里醒来。\\>\\n\\@niko_speak 里面很暗！"
+
+msgid "@prophet_omg [Oh!] \\>\\n\\@prophet [So You Woke Up In An Unfamiliar, Dark Location?]"
+msgstr "@prophet_omg [喔！]\\>\\n\\@prophet [所以你在一个陌生黑暗的地方醒来？]"
+
+msgid "@niko Mhm!"
+msgstr "@niko 对啊！"
+
+msgid "@prophet_omg [Just As My Prophecy Foretold. Yes!]"
+msgstr "@prophet_omg [跟我预言的一样，没错！]"
+
+msgid "@prophet [You Are The Savior We Have Been Waiting For!]"
+msgstr "@prophet [你就是我们在等待的救世主！]"
+
+msgid "@prophet [You Will Be The One To Save Our World From Eternal Darkness.]"
+msgstr "@prophet [你会拯救我们的世界，带我们脱离永恒黑暗。]"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 ……呃。"
+
+msgid "@prophet [I Will Now Provide You With Vital Information!]"
+msgstr "@prophet [现在我要给你提供重要信息！]"
+
+msgid "@prophet [Please Ask Me Anything!]"
+msgstr "@prophet [有任何问题请尽管问！]"
+
+msgid "@Niko Ah, well...."
+msgstr "@Niko 啊，那个……"
+
+msgid "@niko_speak Can you tell me about..."
+msgstr "@niko_speak 你能不能跟我讲讲……"
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...about \\\\p\", \"...going home\"]"
+msgstr "[\"……这个世界\",\"……灯泡是什么\",\"……\\\\p的事\",\"……怎么回家\"]"
+
+msgid "@prophet [\\p Is The Name Of Our God.]"
+msgstr "@prophet [\\p是我们世界的神的名字。]"
+
+msgid "@prophet [Always Look To Them For Guidance.]\\>\\n[You've Already Received More Than You Realize...]"
+msgstr "@prophet [需要指引就找祂。]\\>\\n[其实你已经在不知不觉中受过指引了……]"
+
+msgid "@niko When I woke up in that house...\\>\\n\\@niko_speak For some reason, I called out a name."
+msgstr "@niko 当我在那间房子里醒来时……\\>\\n\\@niko_speak 不知道为什么，我呼唤了一个名字。"
+
+msgid "@niko \"\\p\"."
+msgstr "@niko 就是“\\p”。"
+
+msgid "@niko_eyeclosed I'm not sure why I did that.\\>\\n\\@niko_speak But then, I saw it on a computer too!"
+msgstr "@niko_eyeclosed 我不明白我为什么会那么做。\\>\\n\\@niko_speak 可是后来，我就在一台计算机上看到了这个名字！"
+
+msgid "@prophet_omg [Ah,\\.\\. That Would Be Our God!]"
+msgstr "@prophet_omg [啊，\\.\\.那是我们的神！]"
+
+msgid "@niko_pancakes Oh!\\> Right!\\>\\n\\@niko I... think I..."
+msgstr "@niko_pancakes 喔！\\>对了！\\>\\n\\@niko 我……觉得我……"
+
+msgid "@niko3 ...I feel like I remember something about that."
+msgstr "@niko3 ……我好像对这件事有点印象。"
+
+msgid "@prophet_omg [You do?]"
+msgstr "@prophet_omg [你记得？]"
+
+msgid "@prophet_hmm [But wait... Did You Not Just Arrive Here?]"
+msgstr "@prophet_hmm [可是等等……你不是才刚来这里吗？]"
+
+msgid "@prophet_hmm [I Was The One Who Was Supposed To Inform You Of That.]"
+msgstr "@prophet_hmm [这件事应该由我告诉你才对。]"
+
+msgid "@prophet [So... How Did You Know?]"
+msgstr "@prophet [所以……你是怎么知道的？]"
+
+msgid "@niko_speak ... \\>\\@niko ...hm..."
+msgstr "@niko_speak ……\\>\\@niko ……嗯……"
+
+msgid "@niko_eyeclosed It just made sense, I guess!"
+msgstr "@niko_eyeclosed 大概是合理推断吧！"
+
+msgid "@prophet_hmm [Ah...]"
+msgstr "@prophet_hmm [这样啊……]"
+
+msgid "@prophet_omg [Have You Already Contacted \\p, Then?]"
+msgstr "@prophet_omg [那么，你已经联络过\\p了吗？]"
+
+msgid "@niko Nope!\\>\\nI just have to close my eyes and focus, right?"
+msgstr "@niko 还没！\\>\\n我只要闭上眼睛然后保持专注就可以了吧？"
+
+msgid "@niko_eyeclosed2 ...hey, \\p? ...God?"
+msgstr "@niko_eyeclosed2 ……嘿，\\p？……神？"
+
+msgid "@niko_eyeclosed This is going to sound weird, but... \\>\\n\\@niko_eyeclosed2 Have we... met... before?"
+msgstr "@niko_eyeclosed 我知道这样说很奇怪，不过……\\>\\n\\@niko_eyeclosed2 我们……是不是……曾经相遇过？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是的\",\"没有\"]"
+
+msgid "@niko_eyeclosed2 Ah!\\>\\n\\@niko_eyeclosed But... I don't know who you are, though..."
+msgstr "@niko_eyeclosed2 啊！\\>\\n\\@niko_eyeclosed 可是……我还是不知道你是谁……"
+
+msgid "@niko_eyeclosed It's just a weird feeling that I have..."
+msgstr "@niko_eyeclosed 只是我有种奇怪的感觉……"
+
+msgid "@niko_eyeclosed2 Oh... I bet I'm just being silly, aren't I..."
+msgstr "@niko_eyeclosed2 哎……我一定只是脑子不清楚，对不对……"
+
+msgid "@niko_eyeclosed Sorry..."
+msgstr "@niko_eyeclosed 对不起……"
+
+msgid "@niko_eyeclosed Ah, I thought not..."
+msgstr "@niko_eyeclosed 啊，好吧……"
+
+msgid "@niko_eyeclosed2 That was a silly question..."
+msgstr "@niko_eyeclosed2 那真是个蠢问题……"
+
+msgid "@niko_eyeclosed But...\\.\\. it's nice to meet you, \\p!"
+msgstr "@niko_eyeclosed 无论如何……\\.\\.很高兴认识你，\\p！"
+
+msgid "@niko_eyeclosed My name is Niko!"
+msgstr "@niko_eyeclosed 我叫Niko！"
+
+msgid "@niko_speak I just contacted \\p, yeah!"
+msgstr "@niko_speak 嗯，我刚刚跟\\p联络了！"
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\>\\n[You Are The Messiah After All.]"
+msgstr "@prophet [不要害怕，尽管向\\p求助。]\\>\\n[毕竟你是救世主。]"
+
+msgid "@prophet [Remember Your Duty.]"
+msgstr "@prophet [别忘了你的义务。]"
+
+msgid "@prophet [Surely You Have More Questions!]"
+msgstr "@prophet [你一定还有别的问题想问吧！]"
+
+msgid "[\"...this world\", \"...the lightbulb\", \"...the computer\", \"...going home\"]"
+msgstr "[\"……这个世界\",\"……灯泡是什么\",\"……计算机\",\"……怎么回家\"]"
+
+msgid "@prophet [The Name Of Our God Is Apparently \\p.\\nI Must Admit This Is A Surprise...]"
+msgstr "@prophet [很显然，我们神的名字叫\\p。\\n我必须承认，还挺意外的……]"
+
+msgid "@niko In the house, I found this... computer."
+msgstr "@niko 我在那间房子里发现了一台……计算机。"
+
+msgid "@niko It kept saying stuff like\\n\\>\\@niko_speak \"Your actions here will affect Niko.\""
+msgstr "@niko 它一直说什么\\n\\>\\@niko_speak “你在这里的行动会影响Niko”之类的话。"
+
+msgid "@niko_speak But... \\.\\.\\c[3]I'm\\c[0] Niko!"
+msgstr "@niko_speak 可是……\\.\\. \\c[3]我就是\\c[0]Niko啊！"
+
+msgid "@niko Are those messages meant for someone else?"
+msgstr "@niko 那是要给别的什么人说的吗？"
+
+msgid "@prophet_hmm [Hm...]"
+msgstr "@prophet_hmm [这个嘛……]"
+
+msgid "@prophet [If I Had To Guess, They Might Be Trying To Pass The Message To \\p.]"
+msgstr "@prophet [要我猜的话，它应该是想将信息告诉\\p吧。]"
+
+msgid "@niko ...\\p?"
+msgstr "@niko ……\\p？"
+
+msgid "@prophet [If You Are Here, That Means \\p Is Here Also.]"
+msgstr "@prophet [既然你在这里，那就代表\\p也在。]"
+
+msgid "@prophet [\\p Will Provide Guidance For Your Journey.]"
+msgstr "@prophet [\\p会在你的旅途中指引你。]"
+
+msgid "@prophet [In Fact, They Already Have.]"
+msgstr "@prophet [事实上，他已经在指引你了。]"
+
+msgid "@niko_speak Really?"
+msgstr "@niko_speak 真的？"
+
+msgid "@niko I haven't seen anyone though..."
+msgstr "@niko 可是我谁都没看到啊……"
+
+msgid "@prophet [Have You...\\.\\. Not Contacted \\p Yet?]"
+msgstr "@prophet [你还……\\.\\.没有和\\p联络吗？]"
+
+msgid "@niko I don't think so."
+msgstr "@niko 没有吧。"
+
+msgid "@prophet [Being The Bringer Of Our Sun, You Have The Sacred Ability To Communicate Directly With \\p.]"
+msgstr "@prophet [身为太阳的携行者，你拥有直接和\\p沟通的神圣能力。]"
+
+msgid "@prophet_hmm [...An Ability That No One Else Possesses, Certainly Not I.]"
+msgstr "@prophet_hmm [……这是别人都没有的能力，当然我也没有。]"
+
+msgid "@prophet [Please Close Your Eyes And Focus.]"
+msgstr "@prophet [请闭上眼睛然后保持专注。]"
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed 好吧……"
+
+msgid "@niko_eyeclosed Hello?"
+msgstr "@niko_eyeclosed 有人在吗？"
+
+msgid "@niko_eyeclosed ...\\p?\\nAre you...\\| there?"
+msgstr "@niko_eyeclosed ……\\p？\\n你……\\|在吗？"
+
+msgid "[\"Yes\", \"That is not my name\"]"
+msgstr "[\"我在\",\"我不叫那个名字哦\"]"
+
+msgid "@niko_eyeclosed2 Oh!"
+msgstr "@niko_eyeclosed2 喔！"
+
+msgid "@niko_eyeclosed2 N-\\.nice to meet you, \\p!"
+msgstr "@niko_eyeclosed2 很、\\.很高兴认识你，\\p！"
+
+msgid "@niko_eyeclosed O-\\|oh..."
+msgstr "@niko_eyeclosed 呃、\\|这样啊……"
+
+msgid "@niko_eyeclosed Well.\\..\\..\\. what is your name, then?"
+msgstr "@niko_eyeclosed 那\\..\\..\\.你叫什么名字呢？"
+
+msgid "@niko_eyeclosed But that's... what I said."
+msgstr "@niko_eyeclosed 可是……我刚刚就是说的那个名字。"
+
+msgid "@niko_eyeclosed2 Oh! Your name is... \\>\\n\\@niko_what ..."
+msgstr "@niko_eyeclosed2 喔！你的名字是……\\>\\n\\@niko_what ……"
+
+msgid "@niko_eyeclosed2 I don't think I'm supposed to say that word, but..."
+msgstr "@niko_eyeclosed2 我不想说那个词，不过……"
+
+msgid "@niko_pancakes Really? \\>\\nThat's your name too?"
+msgstr "@niko_pancakes 真的？\\>\\n你也叫那个名字？"
+
+msgid "@niko_speak Oh! \\>\\n\\@niko That's almost the same as my name..."
+msgstr "@niko_speak 哇！\\>\\n\\@niko 那几乎和我的名字一样耶……"
+
+msgid "@niko_speak In fact, I think they're actually pronounced the same!"
+msgstr "@niko_speak 其实呢，我觉得它们的发音是一样的！"
+
+msgid "@niko_eyeclosed2 Is that your... name?"
+msgstr "@niko_eyeclosed2 那是……你的名字吗？"
+
+msgid "@niko_eyeclosed But I already have parents..."
+msgstr "@niko_eyeclosed 可是我已经有父母了……"
+
+msgid "@niko_eyeclosed This'll be confusing..."
+msgstr "@niko_eyeclosed 感觉好奇怪喔……"
+
+msgid "@niko_eyeclosed Anyways..."
+msgstr "@niko_eyeclosed 总之……"
+
+msgid "@niko_what ....really?\\>\\n\\@niko_what2 That's... your name?"
+msgstr "@niko_what ……真的？\\>\\n\\@niko_what2 那是……你的名字？"
+
+msgid "@niko_eyeclosed2 Gross!\\>\\n\\@niko_eyeclosed Er... I mean...."
+msgstr "@niko_eyeclosed2 好恶心喔！\\>\\n\\@niko_eyeclosed 呃……我是说……"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p, though..."
+msgstr "@niko_speak 我真的听到有人说话耶！\\>\\n\\@niko 不过他说他的名字是\\p……"
+
+msgid "@niko_pancakes This is incredible..."
+msgstr "@niko_pancakes 真不可思议……"
+
+msgid "@prophet_hmm [It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [看来记录中的名字有误。]"
+
+msgid "@prophet [Updating Database...]"
+msgstr "@prophet [数据库更新中……]"
+
+msgid "@niko Hm?"
+msgstr "@niko 咦？"
+
+msgid "@prophet [Update Complete.]"
+msgstr "@prophet [更新完成。]"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak 我真的听到有人说话耶！\\>\\n\\@niko_pancakes 他说他的名字其实是\\p！"
+
+msgid "@niko_pancakes The same as mine!"
+msgstr "@niko_pancakes 跟我的一样！"
+
+msgid "@prophet [Ah. Perhaps It Was Fate.]"
+msgstr "@prophet [啊，这也许就是命运吧。]"
+
+msgid "@prophet_hmm [But It Seems The Recorded Name Was Incorrect.]"
+msgstr "@prophet_hmm [不过看来记录中的名字有误。]"
+
+msgid "@niko_speak I actually heard someone!\\>\\n\\@niko_pancakes They told me their name is actually \\p!"
+msgstr "@niko_speak 我真的听到有人说话耶！\\>\\n\\@niko_pancakes 他说他的名字其实是\\p！"
+
+msgid "@niko_pancakes It sounds just like my name!"
+msgstr "@niko_pancakes 听起来就跟我的名字一样！"
+
+msgid "@niko_speak I actually heard someone! \\>\\n\\@niko They said their name is \\p..."
+msgstr "@niko_speak 我真的听到有人说话耶！\\>\\n\\@niko 他说他的名字是\\p……"
+
+msgid "@niko_wtf2 I still don't think I should be saying that..."
+msgstr "@niko_wtf2 不过我还是觉得我不该说那个词……"
+
+msgid "@prophet [Why?]"
+msgstr "@prophet [为何？]"
+
+msgid "@niko_eyeclosed It's a bad word!"
+msgstr "@niko_eyeclosed 那是脏话啦！"
+
+msgid "@prophet [Bad...\\.\\. Word?]"
+msgstr "@prophet [脏……\\.\\.话？]"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 算了。"
+
+msgid "@prophet [Do Not Be Afraid To Ask \\p For Assistance.]\\n\\>[You Are The Messiah After All.]"
+msgstr "@prophet [不要害怕，尽管向\\p求助。]\\>\\n[毕竟你是救世主。]"
+
+msgid "@niko I think that's all I have to ask for now."
+msgstr "@niko 想问的我都问完了。"
+
+msgid "@prophet [Excellent!] \\>\\n[I Wish You Luck.]"
+msgstr "@prophet [太好了！]\\>\\n[祝你好运。]"
+
+msgid "@prophet [I Wish You Luck On The Rest Of Your Journey.]"
+msgstr "@prophet [希望你接下来的旅途一切顺利。]"
+
+msgid "@prophet [Hello Again.]"
+msgstr "@prophet [又见面了。]"
+
+msgid "@niko Hi!"
+msgstr "@niko 你好！"
+
+msgid "@niko_speak \\p and I are gonna leave now! \\@niko We found a robot that can take us closer to the Tower!"
+msgstr "@niko_speak \\p和我要离开了！\\@niko 我们找到了一个可以带我们更接近塔的机器人！"
+
+msgid "@prophet_omg [Oh!]"
+msgstr "@prophet_omg [喔！]"
+
+msgid "@niko Thanks for helping me and answering my questions!"
+msgstr "@niko 谢谢你帮助我，回答我的问题！"
+
+msgid "@prophet_omg [That Means I have Fulfilled My Purpose!]"
+msgstr "@prophet_omg [这代表我的任务已经完成了！]"
+
+msgid "@prophet [Are There More Questions You Wish To Ask?]"
+msgstr "@prophet [你还有其他问题想问吗？]"
+
+msgid "@niko"
+msgstr "@niko"
+
+msgid "@prophet [Go On Then, Ask Away.]"
+msgstr "@prophet [不用客气，尽管问吧。]"
+
+msgid "[\"...the barrens\", \"...the prophecy\", \"...the tower\"]"
+msgstr "[\"……Barrens的事\",\"……预言的事\",\"……塔的事\"]"
+
+msgid "@niko It's so...\\.\\. empty here..."
+msgstr "@niko 这里……\\.\\.空荡荡的……"
+
+msgid "@prophet [That's Why It's Called The Barrens.]"
+msgstr "@prophet [所以才叫做Barrens呢。]"
+
+msgid "@niko ...are there... ANY people living in this area?"
+msgstr "@niko 这里……有任何人居住吗？"
+
+msgid "@niko ...besides robots, I mean."
+msgstr "@niko ……我是指除了机器人以外。"
+
+msgid "@prophet [I Do Not Know.]"
+msgstr "@prophet [我不知道。]"
+
+msgid "@prophet [I Was Not Built To Wander.]"
+msgstr "@prophet [我的功能不允许我四处移动。]"
+
+msgid "@niko ...not...\\. built to?"
+msgstr "@niko ……功能……\\.不允许？"
+
+msgid "@niko So...\\.\\. you just stand here?\\>\\n\\@niko_eyeclosed Must be boring..."
+msgstr "@niko 意思是……\\.\\.你只能站在这里？\\>\\n\\@niko_eyeclosed 那一定很无聊……"
+
+msgid "@niko_speak Do you at least have friends?\\>\\n\\@niko Robot...\\. friends?"
+msgstr "@niko_speak 那最起码，你有朋友吗？\\>\\n\\@niko 机器人……\\.朋友？"
+
+msgid "@prophet [I Cannot Desire Companionship.]\\>\\n\\@prophet_hmm [I Have Not Been Tamed.]"
+msgstr "@prophet [我不能渴望陪伴。]\\n\\>\\@prophet_hmm [我没有经过驯化。]"
+
+msgid "@niko Not... tamed?"
+msgstr "@niko 没有……驯化？"
+
+msgid "@prophet [There Was No Time.]"
+msgstr "@prophet [没时间了。]"
+
+msgid "@niko I see..."
+msgstr "@niko 这样啊……"
+
+msgid "@niko So...\\.\\.\\n\\@niko_speak What is this prophecy, exactly?"
+msgstr "@niko 那……\\.\\.\\n\\@niko_speak 预言到底是什么呢？"
+
+msgid "@prophet [The Prophet Predicted That A Savior Will Arrive From Another Land.]"
+msgstr "@prophet [先知预告，会有一位救世主从别的世界降临。]"
+
+msgid "@prophet [The Savior Will Wake Up In A Strange House, Find The Sun, And Illuminate The World.]"
+msgstr "@prophet [救世主会在陌生房屋中醒来、找到太阳， 并照亮这个世界。]"
+
+msgid "@niko Oh..."
+msgstr "@niko 喔……"
+
+msgid "@niko_speak What else did you... uh, foresee?"
+msgstr "@niko_speak 你还、呃、预见了什么呢？"
+
+msgid "@prophet [What Do You Mean?]"
+msgstr "@prophet [什么意思？]"
+
+msgid "@niko_speak What else did you see in the prophecy?"
+msgstr "@niko_speak 你的预言还有其他内容吗？"
+
+msgid "@prophet [???]"
+msgstr "@prophet [？？？]"
+
+msgid "@niko_speak Wait...\\.\\. You ARE the prophet, right?"
+msgstr "@niko_speak 等等……\\.\\.你就是先知，对吧？"
+
+msgid "@prophet [Good Heavens, No!]"
+msgstr "@prophet [天啊，我不是啦！]"
+
+msgid "@niko_speak But you called it \"my prophecy\" earlier..."
+msgstr "@niko_speak 但你刚刚说了“我的预言”……"
+
+msgid "@prophet [That Just Means It Is Built Into My Programming.]"
+msgstr "@prophet [那个意思只是，我的程序中编写有预言。]"
+
+msgid "@niko ...Your... \\.\\.\\@niko_speak what?"
+msgstr "@niko ……你的……\\.\\.\\@niko_speak 你的什么？"
+
+msgid "@prophet [Ah. My Programming Is What Guides Me.]"
+msgstr "@prophet [啊。我的行为是程序主导的。]"
+
+msgid "@prophet_hmm [I Am A Robot, After All.]"
+msgstr "@prophet_hmm [毕竟我是机器人。]"
+
+msgid "@niko_speak How tall is the Tower?"
+msgstr "@niko_speak 塔有多高啊？"
+
+msgid "@niko I can't seem to even see the top..."
+msgstr "@niko 我好像根本看不到顶端……"
+
+msgid "@prophet [I Am Not Allowed To Answer.]"
+msgstr "@prophet [我无权回答这个问题。]"
+
+msgid "@niko But... how do I get up there?"
+msgstr "@niko 可是……那我要怎么上去？"
+
+msgid "@prophet [In Time, \\p Will Know What To Do.]"
+msgstr "@prophet [\\p迟早会知道该怎么做。]"
+
+msgid "@niko_eyeclosed I... see."
+msgstr "@niko_eyeclosed 我……知道了。"
+
+msgid "@niko It's alright, thank you."
+msgstr "@niko 没事了，谢谢你。"
+
+msgid "@prophet [In That Case, I Wish You Safe Travels.]"
+msgstr "@prophet [那么，祝你一路平安。]"
+
+msgid "@ed [What's left of a robot.]"
+msgstr "@ed [机器人的残骸。]"
+
+msgid "@niko A robot."
+msgstr "@niko 一台机器人。"
+
+msgid "@niko_eyeclosed It's beyond repair."
+msgstr "@niko_eyeclosed 已经彻底坏了。"
+

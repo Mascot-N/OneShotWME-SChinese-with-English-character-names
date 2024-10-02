@@ -1,0 +1,51 @@
+msgid "@niko It's a box of medical tools."
+msgstr "@niko 一箱医疗器具。"
+
+msgid "@niko Most of them are broken or rusted beyond use, but..."
+msgstr "@niko 大部分都坏掉或是生锈到不能用了，不过……"
+
+msgid "@niko_speak This plastic syringe seems to be okay."
+msgstr "@niko_speak 这支塑胶针筒似乎还可以用。"
+
+msgid "[HELLO, PERSON!]"
+msgstr "[人类，你好！]"
+
+msgid "[ARE YOU SEEKING ADMISSION INTO THE INFIRMARY?]"
+msgstr "[你想要在医务室申请住院吗？]"
+
+msgid "@niko No?"
+msgstr "@niko 不用哦。"
+
+msgid "[OH. CARRY ON, THEN.]"
+msgstr "[喔，那请便吧。]"
+
+msgid "[HELLO, PERSON OF ORGANIC MAKEUP!]"
+msgstr "[人类有机体，你好！]"
+
+msgid "[WELCOME TO THE INFIRMARY]"
+msgstr "[欢迎来到医务室]"
+
+msgid "[SCANNING FOR INJURIES...]"
+msgstr "[正在扫描损伤……]"
+
+msgid "[...]"
+msgstr "[……]"
+
+msgid "@niko Um..."
+msgstr "@niko 呃……"
+
+msgid "[SCAN COMPLETE]"
+msgstr "[扫描完成]"
+
+msgid "[INJURIES DETECTED: NONE]"
+msgstr "[已发现损伤：无]"
+
+msgid "[TREATMENT REQUIRED: NONE]"
+msgstr "[需要的治疗：无]"
+
+msgid "[YOU ARE GOOD TO GO.]"
+msgstr "[没有问题，你可以走了。]"
+
+msgid "@niko Er... thanks?"
+msgstr "@niko 呃……谢谢？"
+

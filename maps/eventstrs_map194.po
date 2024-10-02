@@ -1,0 +1,996 @@
+msgid "@niko I don't need to use this anymore."
+msgstr "@niko 这个已经用不到了。"
+
+msgid "$RESIDENTIAL TRACKING MACHINE"
+msgstr "$住宅区追踪机"
+
+msgid "$For reference, an explanation of the symbols:"
+msgstr "$以下符号说明供参考："
+
+msgid "$Cross: Medical Units are assigned to this building."
+msgstr "$十字：医疗单位派驻于此建筑。"
+
+msgid "$Robot: A robot is assigned to this building."
+msgstr "$机器人：有机器人派驻于此建筑。"
+
+msgid "$Electricity: A power cell is assigned to this building."
+msgstr "$电符号：此建筑装有电池。"
+
+msgid "@proto1 [Okay, all of us are here.]"
+msgstr "@proto1 [好，全员到齐。]"
+
+msgid "@proto1 [There is an emergency exit behind my computer terminal.]"
+msgstr "@proto1 [在我的计算机终端机后面有一个紧急出口。]"
+
+msgid "@proto2 [We did not want anyone to stumble upon this route, so the terminal has been weighed down.]"
+msgstr "@proto2 [我们不希望有人意外发现这条路，所以把终端机压在上面了。]"
+
+msgid "@proto1 [It cannot be moved by normal means.]"
+msgstr "@proto1 [用正常方法没办法搬动终端机。]"
+
+msgid "@proto2 [...But with our combined effort, it might budge.]"
+msgstr "@proto2 [……但如果我们一起出力，说不定挪得动。]"
+
+msgid "@proto2b [...Maybe.]"
+msgstr "@proto2b [……大概。]"
+
+msgid "@proto2b [I am not strong.]"
+msgstr "@proto2b [我的力气不大。]"
+
+msgid "@niko2 I'm not that strong either..."
+msgstr "@niko2 我的力气也不大……"
+
+msgid "@proto1c [If that doesn't work, we might need to dig around it, and...]"
+msgstr "@proto1c [如果实在搬不动，我们可能得从它旁边挖一条通道，然后……]"
+
+msgid "@silver2 [You...\\.\\. could've just asked.]"
+msgstr "@silver2 [你们……\\.\\.叫我来就好了啊。]"
+
+msgid "@silver_eyeclosed [Phew.]"
+msgstr "@silver_eyeclosed [呼。]"
+
+msgid "@Silver [Come on.]"
+msgstr "@Silver [走吧。]"
+
+msgid "@proto_jealous [...Showoff.]"
+msgstr "@proto_jealous [……真臭屁。]"
+
+msgid "@proto1 [...]"
+msgstr "@proto1 [……]"
+
+msgid "@proto1 [I...]\\>\\n[...recognize the light in your eyes...]"
+msgstr "@proto1 [我……]\\>\\n[……认得你眼中的光芒……]"
+
+msgid "@proto1 [You are the person I am destined to meet.]"
+msgstr "@proto2 [你就是我注定要见到的人。]"
+
+msgid "@proto1b [....Niko?]"
+msgstr "@proto1b [……Niko？]"
+
+msgid "@niko3 Y...\\.\\.yes?"
+msgstr "@niko3 什……\\.\\.什么事？"
+
+msgid "@proto1b [....What is your name?]"
+msgstr "@proto1b [……你叫什么名字？]"
+
+msgid "@niko2 I'm Niko..."
+msgstr "@niko2 我叫Niko……"
+
+msgid "@proto2 [Do you know who sent you?]"
+msgstr "@proto2 [你知道是谁送你来的吗？]"
+
+msgid "@niko2 Oh....\\>\\n...um..."
+msgstr "@niko2 喔……\\>\\n……呃……"
+
+msgid "@niko3 .....n...o?"
+msgstr "@niko3 ……我不……知道……"
+
+msgid "@niko ...wait, do you mean who sent me to this world?"
+msgstr "@niko ……等等，你是问是谁送我来这个世界吗？"
+
+msgid "@niko_speak There was a robot a while back who told me about how I'm the messiah and stuff..."
+msgstr "@niko_speak 之前有一个机器人告诉我我是救世主，以及其他一些事……"
+
+msgid "@niko_speak So... I'm guessing \\p sent me!"
+msgstr "@niko_speak 所以……我猜是\\p送我来的！"
+
+msgid "@niko With them being god and all."
+msgstr "@niko 毕竟他是神嘛。"
+
+msgid "@proto2 [...]"
+msgstr "@proto2 [……]"
+
+msgid "@niko_speak The robot looks a little bit like you, even!\\>\\n\\@niko Maybe you... know each other?"
+msgstr "@niko_speak 那个机器人甚至跟你有点像耶！\\>\\n\\@niko 也许你们……认识？"
+
+msgid "@proto1 [I cannot say.]"
+msgstr "@proto1 [我不确定。]"
+
+msgid "@niko Oh?"
+msgstr "@niko 是吗？"
+
+msgid "@proto1 [A lot of my memories have been removed for safety reasons.]"
+msgstr "@proto1 [基于安全因素，我有很多记忆都被删除了。]"
+
+msgid "@niko_wtf Your memories were removed?!"
+msgstr "@niko_wtf 你的记忆被删除了！？"
+
+msgid "@niko3 That's terrible!!"
+msgstr "@niko3 那太可怕了！！"
+
+msgid "@niko Wait...\\>\\n\\@niko_eyeclosed I'm... guessing that's less of a big deal for a robot..."
+msgstr "@niko 等等……\\>\\n\\@niko_eyeclosed 可能……对机器人来说可能没那么严重……"
+
+msgid "@proto2b [I am going to assume you do not know who sent you.]"
+msgstr "@proto2b [先假设你不知道是谁送你过来。]"
+
+msgid "@proto1b [How did you get here, then?]\\>\\n\\@proto2 [How did you reach this room?]"
+msgstr "@proto1b [那么，你是怎么来这里的？]\\>\\n\\@proto2 [你是怎么来到这间房间的？]"
+
+msgid "@niko_speak Oh!\\>\\nWe got here in a minecart!"
+msgstr "@niko_speak 喔！\\>\\n我们搭矿车过来的！"
+
+msgid "@proto1 [But the minecart wasn't there when you entered the mines, was it?]"
+msgstr "@proto1 [但你进入矿区的时候并没有矿车，对不对？]"
+
+msgid "@niko_eyeclosed Oh yeah..."
+msgstr "@niko_eyeclosed 喔对啊……"
+
+msgid "@proto1b [So... how did you find it?]"
+msgstr "@proto1b [那……你是怎么发现矿车的？]"
+
+msgid "@niko_eyeclosed I didn't really find it..."
+msgstr "@niko_eyeclosed 不是我发现的……"
+
+msgid "@niko_speak The robot lady thinks it was just the minecart coming to us, but..."
+msgstr "@niko_speak 机器人女士认为是矿车自己出现的，可是……"
+
+msgid "@niko I remember looking at the journal when it happened."
+msgstr "@niko 我记得矿车出现的时候我正在看日志。"
+
+msgid "@niko_speak And when I looked up again, the cart was just...\\. there!"
+msgstr "@niko_speak 然后当我抬头的时候，矿车就……\\.凭空出现了！"
+
+msgid "@niko Poof. Just like that."
+msgstr "@niko 嘭！就那样出现了。"
+
+msgid "@proto1b [Interesting.\\> Please show me this journal.]"
+msgstr "@proto1b [很有意思。\\>请让我看看那本日志。]"
+
+msgid "@niko Okay..."
+msgstr "@niko 好吧……"
+
+msgid "@proto1 [...\\>Then it has already begun.]"
+msgstr "@proto1 [……\\>\\n该开始行动了。]"
+
+msgid "@proto_disk [...]"
+msgstr "@proto_disk [……]"
+
+msgid "@niko_what Um..."
+msgstr "@niko_what 呃……"
+
+msgid "@proto1 [Here.]"
+msgstr "@proto1 [拿去。]"
+
+msgid "@niko2 What... IS that?"
+msgstr "@niko2 那是……什么？"
+
+msgid "@proto1 [I am entrusting you with my main memory disk.]"
+msgstr "@proto1 [我把我的储存磁盘托付给你。]"
+
+msgid "@proto2 [You have passed the first test by showing me the book.]"
+msgstr "@proto2 [你让我看这本书，就通过了第一个测试。]"
+
+msgid "@proto2 [Now, you will need to find a way to install the backup.]"
+msgstr "@proto2 [现在，你必须找到方法安装备份文件。]"
+
+msgid "@niko2 Install the..."
+msgstr "@niko2 安装……"
+
+msgid "@proto1 [Before you do that, though...]"
+msgstr "@proto1 [但在你那么做之前……]"
+
+msgid "@proto1b [...Someone else is with you, right?]"
+msgstr "@proto1b [……还有别人和你同行，对吧？]"
+
+msgid "@proto1c [Someone aside from \\p.]\\>\\n[A resident of this world.]"
+msgstr "@proto1c [除了\\p之外还有别人。]\\>\\n[是这个世界的居民。]"
+
+msgid "@niko_speak Yeah! \\.\\.\\@niko The robot lady with the red hair."
+msgstr "@niko_speak 有！\\.\\.\\@niko 是一位红头发的机器人女士。"
+
+msgid "@niko She's in the computer room right now."
+msgstr "@niko 她现在在机房那边。"
+
+msgid "@proto1b [Then... please do not tell her you found me.]"
+msgstr "@proto1b [那么……请不要告诉她你发现我的事。]"
+
+msgid "@proto2b [At least, not yet.]"
+msgstr "@proto2b [至少，暂时还不要。]"
+
+msgid "@proto2b [I can't be seen like this.]"
+msgstr "@proto2b [我这个样子不能让别人看见。]"
+
+msgid "@niko2 Um... okay..."
+msgstr "@niko2 喔……好的……"
+
+msgid "@proto2 [Please help me restore my memory.]\\>\\n[Bring the disk back once you have the backup.]"
+msgstr "@proto2 [请帮助我复原记忆。]\\>\\n[安装好备份之后，请把磁盘拿回来。]"
+
+msgid "@niko Does this work?"
+msgstr "@niko 这样可以吗？"
+
+msgid "@proto1b [Let's see...]"
+msgstr "@proto1b [我看看……]"
+
+msgid "@proto_disk [Inserting Disk...]\\>\\n\\@proto_eyeclosed [Rebooting...]"
+msgstr "@proto_disk [正在插入磁盘……]\\>\\n\\@proto_eyeclosed [正在重新启动……]"
+
+msgid "@proto_gasp2 [...]\\>\\n[Ah.]"
+msgstr "@proto_gasp2 [……]\\>\\n[啊。]"
+
+msgid "@niko2 Are you okay?"
+msgstr "@niko2 你还好吗？"
+
+msgid "@proto2 [...Sure.]"
+msgstr "@proto2 [……我很好。]"
+
+msgid "@niko2 So... I guess it worked?"
+msgstr "@niko2 所以……应该成功了？"
+
+msgid "@proto1c [Yes.]"
+msgstr "@proto1c [是的。]"
+
+msgid "@proto2b [I believe a proper introduction is in order.]"
+msgstr "@proto2b [我想现在该正式自我介绍了。]"
+
+msgid "@proto1 [I am the Prototype, originally named Prophetbot.]"
+msgstr "@proto1 [我是Prototype，原本的名字是先知机器人。]"
+
+msgid "@proto2 [I was built to greet the savior of the old world.]"
+msgstr "@proto2 [我被建造的目的是迎接旧世界的救世主。]"
+
+msgid "@niko ...wait.\\>\\n\\@niko_speak A prophet robot...\\.\\. like that one I met?"
+msgstr "@niko ……等等。\\>\\n\\@niko_speak 先知机器人……\\.\\.就像我见到的那一个吗？"
+
+msgid "@niko_eyeclosed ...Hey! I was right about you guys looking alike."
+msgstr "@niko_eyeclosed ……嘿！我就说你们两个很像。"
+
+msgid "@proto1c [Well, the Prophetbot out there now is a gross simplification of my design.]"
+msgstr "@proto1c [嗯，那个先知机器人是把我的设计大幅简化制作的。]"
+
+msgid "@proto2 [That is to say, he is much more primitive by comparison.] \\.\\.\\n[Embarassingly so.]"
+msgstr "@proto2 [换言之，相较之下他比我原始得多。]\\.\\.\\n[真是丢脸。]"
+
+msgid "@niko_eyeclosed Hey, he seemed alright to me..."
+msgstr "@niko_eyeclosed 欸，我觉得他还可以啦……"
+
+msgid "@proto2b [You don't understand.]"
+msgstr "@proto2b [你不懂。]"
+
+msgid "@proto2 [Not only is he not tamed... \\>\\@proto2b he was tailor-made for this much smaller, simpler world to begin with.]"
+msgstr "@proto2 [他不但没经过驯化……\\>\\@proto2b 而且他从一开始就是为这个更小、更单纯的世界量身打造的。]"
+
+msgid "@proto2b [I was not.]"
+msgstr "@proto2b [而我不是。]"
+
+msgid "@proto1b [I was built before the real world ended.]"
+msgstr "@proto1b [我是在真正的世界毁灭之前建造的。]"
+
+msgid "@niko The...\\.\\. \\@niko2 ...real world?"
+msgstr "@niko 真正的……\\.\\.\\@niko2 ……世界？"
+
+msgid "@proto_gasp2 [...Oh, right.]"
+msgstr "@proto_gasp2 [……啊，对喔。]"
+
+msgid "@proto2b [...You don't know.]"
+msgstr "@proto2b [……你并不知情。]"
+
+msgid "@proto1b [Niko...]\\.\\.\\n[Do you... \\.\\.remember the ending?]"
+msgstr "@proto1b [Niko……]\\.\\.\\n[你还……\\.\\.记得结局吗？]"
+
+msgid "@niko3 ...excuse me?"
+msgstr "@niko3 ……你说什么？"
+
+msgid "@proto1 [The fact that you've found me at all... means this is not your first time in this world.]"
+msgstr "@proto1 [你能找到我……代表你并不是第一次来到这个世界。]"
+
+msgid "@niko2 ..."
+msgstr "@niko2 ……"
+
+msgid "@proto1c [You have already been summoned to this world once before.]"
+msgstr "@proto1c [你过去曾经被召唤到这个世界。]"
+
+msgid "@proto2 [In fact, you've already traversed the entire world and went through the Tower already.]"
+msgstr "@proto2 [事实上，你早已跋涉走过整个世界，处理了塔的事。]"
+
+msgid "@proto2b [And, in the ending...\\> you either put in the sun...\\> or didn't.]"
+msgstr "@proto2b [而且到了最后……\\>你可能有把太阳放回去……\\>也可能没有。]"
+
+msgid "@proto_eyeclosed [What matters is that you are here now.]"
+msgstr "@proto_eyeclosed [重要的是现在你在这里。]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@proto2b [\\p has successfully bypassed the \"one shot\" restriction and brought you back again.]"
+msgstr "@proto2b [\\p成功避开了“一次机会”的限制，再次把你带回来了。]"
+
+msgid "@niko2 I... \\>\\@niko3 ..."
+msgstr "@niko2 我……\\>\\@niko3 ……"
+
+msgid "@niko_distressed2 oh..."
+msgstr "@niko_distressed2 喔……"
+
+msgid "@proto2 [...Hm?]"
+msgstr "@proto2 [……嗯？]"
+
+msgid "@niko_distressed2 ...I...\\> THOUGHT something was weird...."
+msgstr "@niko_distressed2 ……我……\\>我就觉得有哪里不对劲……"
+
+msgid "@niko_distressed ...when I woke up at the house, I called out a name..."
+msgstr "@niko_distressed ……当我在屋子里醒来的时候，我呼唤了一个名字……"
+
+msgid "@niko_eyeclosed It turned out to be \\p's name..."
+msgstr "@niko_eyeclosed 结果那就是\\p的名字……"
+
+msgid "@niko3 And then I... \\.\\.back at the other robot...\\>\\n\\@niko_eyeclosed I even asked \\p if we met before."
+msgstr "@niko3 然后我……\\.\\.在另一个机器人那边……\\>\\n\\@niko_eyeclosed 我甚至问\\p我们以前是不是有遇过。"
+
+msgid "@niko_eyeclosed Felt like such a dumb question at the time!"
+msgstr "@niko_eyeclosed 当时我还觉得那个问题很蠢！"
+
+msgid "@proto2 [It looks like you are at least aware of it.]"
+msgstr "@proto2 [看起来你至少有意识到。]"
+
+msgid "@proto2b [...to some extent.]"
+msgstr "@proto2b [……某种程度上吧。]"
+
+msgid "@niko_distressed_talk It's...\\> just this weird feeling, okay?"
+msgstr "@niko_distressed_talk 我只是……\\>有这种奇怪的感觉。"
+
+msgid "@niko_distressed I don't... \\>\\nactually remember going through the world...\\>\\n\\@niko_eyeclosed I just remember \\p..."
+msgstr "@niko_distressed 我……\\>\\n不是真的记得曾经走这世界的事……\\>\\n\\@niko_eyeclosed 我只是记得\\p……"
+
+msgid "@niko_distressed2 It's...\\.\\. really starting to freak me out."
+msgstr "@niko_distressed 这真的……\\.\\.开始让我觉得惊恐。"
+
+msgid "@proto2 [Calm down.]"
+msgstr "@proto2 [冷静点。]"
+
+msgid "@proto2b [Look, just like how my memories were locked away, yours are too.]"
+msgstr "@proto2b [听我说，就像我一样，你之前的记忆只是被锁住了。]"
+
+msgid "@niko_distressed2 ...but."
+msgstr "@niko_distressed2 ……可是。"
+
+msgid "@proto2b [You're a living being. You don't even need extra hardware to remember.]"
+msgstr "@proto2b [作为生命体，不需要额外的硬件你就能想起来。]"
+
+msgid "@proto1 [Just...\\.\\. close your eyes and focus.]"
+msgstr "@proto1 [你只要……\\.\\.闭上眼睛专心想。]"
+
+msgid "@niko3 ...focus on what?"
+msgstr "@niko3 ……专心想什么？"
+
+msgid "@proto1b [...]"
+msgstr "@proto1b [……]"
+
+msgid "@proto1b [...try to picture a big room made entirely of glass.]"
+msgstr "@proto1b [……请试着在脑中描绘一间完全由玻璃构成的大房间。]"
+
+msgid "@proto2b [No matter what you saw in the Tower, the top room never changes.]"
+msgstr "@proto2b [不论你在塔中看到了什么，最顶层的房间永远都不会变。]"
+
+msgid "@niko2 ...Alright."
+msgstr "@niko2 ……好吧。"
+
+msgid "@niko_surprised ..."
+msgstr "@niko_surprised ……"
+
+msgid "@niko_shock ...no way..."
+msgstr "@niko_shock ……怎么可能……"
+
+msgid "@niko_shock I was...\\.\\. \\@niko_wtf THERE, wasn't I?"
+msgstr "@niko_shock 我有……\\.\\.\\@niko_wtf 去过那里对不对？"
+
+msgid "@niko_upset At... the Tower..."
+msgstr "@niko_upset 在……塔上……"
+
+msgid "@niko_eyeclosed I've been through...\\.\\. the Tower..."
+msgstr "@niko_eyeclosed 我曾经走过……\\.\\.那座塔……"
+
+msgid "@proto2 [There we go.]"
+msgstr "@proto2 [看吧，你想起来了。]"
+
+msgid "@niko_distressed2 I...\\.\\. can't remember all that much, but..."
+msgstr "@niko_distressed2 我……\\.\\.没办法想起很多事，可是……"
+
+msgid "@niko_distressed_talk The room with the sun..."
+msgstr "@niko_distressed_talk 有太阳的那间房间……"
+
+msgid "@niko_distressed2 It feels like...\\.\\. such a long time ago."
+msgstr "@niko_distressed2 感觉像……\\.\\.好久以前的事了。"
+
+msgid "@niko_distressed_talk ...it doesn't make sense!!!"
+msgstr "@niko_distressed_talk ……这不合理！！！"
+
+msgid "@niko_distressed If I already finished the mission... \\>\\nWhy didn't anything change?"
+msgstr "@niko_distressed 如果我的任务早就完成了……\\>\\n为什么一切都没改变？"
+
+msgid "@niko3 And... why doesn't anyone know me?"
+msgstr "@niko3 还有……为什么大家都不认识我？"
+
+msgid "@niko_upset The other Prophetbot... the robot lady... \\>\\nNone of them remember who I am..."
+msgstr "@niko_upset 那个先知机器人……还有机器人女士……\\>\\n没有人记得我是谁……"
+
+msgid "@proto1c [Of course not. The residents do not have that capacity.]"
+msgstr "@proto1c [他们当然不记得。这里的居民没有那种能力。]"
+
+msgid "@proto1 [NPC memories do not last beyond the scope of a session.]"
+msgstr "@proto1 [游戏角色的记忆没办法在一次游戏完成后继续保持。]"
+
+msgid "@niko2 N...\\.\\. PC?"
+msgstr "@niko2 游……\\.\\.游戏角色？"
+
+msgid "@proto1c [You know, the characters...\\> the world's residents.]"
+msgstr "@proto1c [你知道，就是人物……\\>这世界的居民。]"
+
+msgid "@proto1 [All their \"past\" memories are built into their code, but...]"
+msgstr "@proto1 [他们所有“过去”的回忆都写在他们的程序里，可是……]"
+
+msgid "@proto1b [The characters themselves don't... really exist until \\p wills it.]"
+msgstr "@proto1b [角色本身并不会……真的存在，除非\\p的意志要他们存在。]"
+
+msgid "@proto2B [Same story for the world itself.]"
+msgstr "@proto2B [这世界本身也是同样的情形。]"
+
+msgid "@proto2B [Doesn't really exist unless \\p initiates the program.]"
+msgstr "@proto2B [在\\p启动程序之前，这个世界并不存在。]"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ……"
+
+msgid "@niko3 ...the... \\.\\.program?"
+msgstr "@niko3 ……程……\\.\\.序？"
+
+msgid "@proto1b [The World Machine.]\\>\\n[A universe simulator that runs on \\p's computer.]"
+msgstr "@proto1b [就是世界机器。]\\>\\n[那是在\\p的计算机上运作的一个世界仿真器。]"
+
+msgid "@proto2 [We are all in it right now.]"
+msgstr "@proto2 [我们现在都在那里面。]"
+
+msgid "@niko_shock ....."
+msgstr "@niko_shock ……"
+
+msgid "@niko_distressed_talk ...SO WE'RE NOT REAL?"
+msgstr "@niko_distressed_talk ……所以我们不是真实存在的？"
+
+msgid "@proto2 [Oh, you are.]"
+msgstr "@proto2 [喔，你是。]"
+
+msgid "@proto2b [...which is why you're so important.]"
+msgstr "@proto2b [……所以你才这么重要。]"
+
+msgid "@proto1 [The biggest flaw of the program is that it cannot be run independently.]"
+msgstr "@proto1 [这个程序最大的缺陷就是它无法独立运作。]"
+
+msgid "@proto2 [It requires the mental processing abilities of a real person from another universe.]"
+msgstr "@proto2 [它需要来自其他世界的真人心智处理能力。]"
+
+msgid "@proto2b [Think of it like...\\.\\. one of your dreams.]"
+msgstr "@proto2b [你可以把它想象成……\\.\\.一场梦。]"
+
+msgid "@proto1b [When you wake up, it's gone.]"
+msgstr "@proto1b [当你醒来的时候，梦境就会小时。]"
+
+msgid "@proto1c [But unlike a dream, this world has a physical location inside a computer, which \\p operates.]"
+msgstr "@proto1c [但和梦不一样的是，这个世界存在物理实体，就在\\p操作的计算机里。]"
+
+msgid "@proto1b [For this world to continue existing around you, \\p has to be in constant contact with you.]"
+msgstr "@proto1b [为了让这个世界持续在你周围存在，\\p必须和你保持联络。]"
+
+msgid "@proto2b [If \\p ends the program, the world will go into a stasis.]"
+msgstr "@proto2b [如果\\p终止这个程序，这个世界就会进入静止状态。]"
+
+msgid "@niko3 Does...\\.\\. does \\p know this?"
+msgstr "@niko3 \\p他……\\.\\.知道吗？"
+
+msgid "@proto1b [Of course.]"
+msgstr "@proto1b [当然。]"
+
+msgid "@proto1c [From \\p's perspective, The World Machine isn't all that special.]"
+msgstr "@proto1c [从\\p的观点来说，世界机器并没有那么特别。]"
+
+msgid "@proto2b [It's no different from other recreational, game-type software they may have installed on their computer.]"
+msgstr "@proto2b [这个世界就跟他安装在计算机上的其他娱乐游戏类软件没什么两样。]"
+
+msgid "@proto1c [They can also regenerate the world as many times as they'd like, now that the restriction is nullified.]"
+msgstr "@proto1c [现在限制失效了，他还能随心所欲让这个世界无限次再生。]"
+
+msgid "@proto2b [...All of that is consistent with their concept of what a computer game looks like.]"
+msgstr "@proto2b [……这一切都符合他对于计算机游戏样貌的概念。]"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ……"
+
+msgid "@niko_distressed_talk So why am I even here!!"
+msgstr "@niko_distressed_talk 那我在这里是为了什么！！"
+
+msgid "@niko_distressed What am I even supposed to save if everything is just..."
+msgstr "@niko_distressed 我到底有什么好拯救的，如果这一切都是……"
+
+msgid "@niko_distressed_meow FAKE??"
+msgstr "@niko_distressed_meow 假的？？"
+
+msgid "@proto2b [...]"
+msgstr "@proto2b [……]"
+
+msgid "@proto2b [...\"Fake\" is a harsh word, but...]"
+msgstr "@proto2b [……“假的”有点刺耳，不过……]"
+
+msgid "@niko_distressed2 And...\\.\\. why... did \\p never tell me anything about...\\.\\. any of this..."
+msgstr "@niko_distressed2 还有……\\.\\.为什么……\\p对于这一切都……\\.\\.只字不提？"
+
+msgid "@proto2b [...I cannot speak for \\p.]"
+msgstr "@proto2b [……我没办法代替\\p回答。]"
+
+msgid "@niko_distressed2 I... just want to go home..."
+msgstr "@niko_distressed2 我……只想回家……"
+
+msgid "@niko_distressed_talk But... every time \\p runs the program, I come back??"
+msgstr "@niko_distressed_talk 可是……每次只要\\p执行这个程序，我就会回来？？"
+
+msgid "@proto2b [Correct.]"
+msgstr "@proto2b [正确。]"
+
+msgid "@niko_distressed Is this why... I feel like..."
+msgstr "@niko_distressed 是因为这样……我才会觉得……"
+
+msgid "@niko_distressed2 Is this why it feels like I haven't been home for so long?"
+msgstr "@niko_distressed2 是因为这样我才会觉得我好久好久都没有回家吗？"
+
+msgid "@proto2b [Maybe.]"
+msgstr "@proto2b [或许。]"
+
+msgid "@proto2 [Once you've established a mental link with the world, you cannot break it unless the world is saved.]"
+msgstr "@proto2 [一旦你和这世界建立心智的连接后， 你就必须等到世界得救才能切断它。]"
+
+msgid "@proto2b [...but at this point, the world can never be truly saved.]"
+msgstr "@proto2b [……但是到了这个地步，世界已经没办法真正得救了。]"
+
+msgid "@niko_distressed2 That's..."
+msgstr "@niko_distressed2 这……"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ……"
+
+msgid "@niko_upset ...why would...\\>\\nwhy would you create a world like...\\>\\n\\@niko_distressed_meow this?"
+msgstr "@niko_upset ……为什么……\\>\\n为什么你要创造这样的……\\>\\n\\@niko_distressed_meow 世界？"
+
+msgid "@proto_gasp2 [Wait, what?]"
+msgstr "@proto_gasp2 [等等，你说什么？]"
+
+msgid "@niko_upset_meow Why would you make a world that's doomed from the beginning?"
+msgstr "@niko_upset_meow 为什么你要做一个从一开始就没有希望的世界？"
+
+msgid "@niko_distressed_meow ...why do you keep bringing me back to it?"
+msgstr "@niko_distressed_meow ……为什么你不断把我带回来？"
+
+msgid "@niko_upset2 \\p..... \\>\\naren't you supposed to be a kind god??"
+msgstr "@niko_upset2 \\p……\\>\\n你不是应该是一个慈爱的神吗？？"
+
+msgid "@proto1b [...oh.]"
+msgstr "@proto1b [……喔。]"
+
+msgid "@proto_eyeclosed [It appears that we have some confusion here.]"
+msgstr "@proto_eyeclosed [看来这之中有些误会。]"
+
+msgid "@proto2 [\\p did not build the world, Niko.]"
+msgstr "@proto2 [Niko，这世界不是\\p建造的。]"
+
+msgid "@niko3 Oh..."
+msgstr "@niko3 喔……"
+
+msgid "@proto2 [\\p only owns a machine that is able to generate the world from preexisting code.]"
+msgstr "@proto2 [\\p只是拥有一台能够用预存程序代码产生这个世界的机器。]"
+
+msgid "@proto2b [They actually have fairly limited control of the events.]"
+msgstr "@proto2b [他对于各种事件的掌控其实很有限。]"
+
+msgid "@proto2 [The world was built by someone else altogether.]"
+msgstr "@proto2 [这个世界是别人建造的。]"
+
+msgid "@proto1c [Someone you cannot begin to fathom.]"
+msgstr "@proto1c [那个人深不可测。]"
+
+msgid "@proto2b [It was also not designed to be the futile quest that it is now, but...]"
+msgstr "@proto2b [还有，世界原本的设计并不是现在这样徒劳无功的追寻，只是……]"
+
+msgid "@proto_eyeclosed [...too many things went wrong.]"
+msgstr "@proto_eyeclosed [……有太多地方出了问题。]"
+
+msgid "@proto1c [There's... a type of signal disruption that he never expected.]"
+msgstr "@proto1c [出现了……一种他始料未及的讯号干扰。]"
+
+msgid "@proto1b [It's eating away at the world, slowly rendering it into an unrecognizable mess.]"
+msgstr "@proto1b [那种干扰正在侵蚀这世界， 慢慢地把这里变成一团无法辨识的混乱。]"
+
+msgid "@proto2b [Even if you bring back the sun, it will not go away.]"
+msgstr "@proto2b [即使你把太阳带回来，侵蚀也不会消退。]"
+
+msgid "@niko3 The square stuff, isn't it?"
+msgstr "@niko3 你是指方块，对吧？"
+
+msgid "@niko_eyeclosed I remember those from before..."
+msgstr "@niko_eyeclosed 我记得之前有看到过……"
+
+msgid "@proto1b [Then you know what to watch out for.]"
+msgstr "@proto1b [看来你就知道该提防什么。]"
+
+msgid "@proto1c [...The creator knows what might be causing it, but there is nothing that he could do...]"
+msgstr "@proto1c [……创世者知道方块可能的成因，但他无能为力……]"
+
+msgid "@proto1 [...until now.]"
+msgstr "@proto1 [……直到现在也是。]"
+
+msgid "@proto1b [You managed to find me, after all.]"
+msgstr "@proto1b [毕竟你设法找到我了。]"
+
+msgid "@niko2 ...?"
+msgstr "@niko2 ……？"
+
+msgid "@proto2 [You being here was due to his help.]"
+msgstr "@proto2 [你是因为他的帮助才能在这里。]"
+
+msgid "@niko2 Oh...\\> I guess it has something to do with the journal?"
+msgstr "@niko2 喔……\\>我猜这跟这本日志有关？"
+
+msgid "@proto1b [Correct.]"
+msgstr "@proto1b [正确。]"
+
+msgid "@proto1 [Looks like he wants to have one final attempt at fixing it.]"
+msgstr "@proto1 [看起来他想最后再尝试一次，修复这个世界。]"
+
+msgid "@proto2 [...and he might need to do it through you.]"
+msgstr "@proto2 [……而他可能需要通过你才能做到。]"
+
+msgid "@proto1b [Niko, do you remember how to get to the Glen?]"
+msgstr "@proto1b [Niko，你还记得如何前往Glen吗？]"
+
+msgid "@proto2 [Whatever you did in your last session, you should stick with it for now.]"
+msgstr "@proto2 [不论你上一次在这个世界做了什么，现在你就先照样做吧。]"
+
+msgid "@niko4 I..."
+msgstr "@niko4 我……"
+
+msgid "@niko_eyeclosed I remember a boat..."
+msgstr "@niko_eyeclosed 我记得有一艘船……"
+
+msgid "@niko ...more specifically, fixing a robot that drives the boat."
+msgstr "@niko ……更明确地说，我记得我修了一个开船的机器人。"
+
+msgid "@proto2 [Alright, then go do that.]"
+msgstr "@proto2 [好，那你就去做这件事。]"
+
+msgid "@niko3 But..."
+msgstr "@niko3 可是……"
+
+msgid "@niko_eyeclosed The boat robot has those squares over it..."
+msgstr "@niko_eyeclosed 开船的机器人身上有那些方块……"
+
+msgid "@proto_gasp2 ...oh."
+msgstr "@proto_gasp2 ……这样啊。"
+
+msgid "@proto2b [Then do whatever you must to find a new boat.]"
+msgstr "@proto2b [那请你想办法找一艘新的船。]"
+
+msgid "@proto2 [There are plenty of machine parts around the Barrens that can be repurposed.]"
+msgstr "@proto2 [Barrens有很多可以再利用的机器零件。]"
+
+msgid "@niko_upset ...\\>\\n\\@niko_upset2 .........."
+msgstr "@niko_upset ……\\>\\n\\@niko_upset2 ……"
+
+msgid "@niko_eyeclosed Sigh..."
+msgstr "@niko_eyeclosed 唉……"
+
+msgid "@proto2 [You seem enthusiastic.]"
+msgstr "@proto2 [你看起来很有热情嘛。]"
+
+msgid "@proto2b [...that was sarcasm.]"
+msgstr "@proto2b [……我在说笑啦。]"
+
+msgid "@niko_upset Knowing everything isn't real..."
+msgstr "@niko_upset 知道这一切都不是真的后……"
+
+msgid "@niko_upset2 ...really does make it feel pointless..."
+msgstr "@niko_upset2 ……真的让我觉得做什么都没意义……"
+
+msgid "@proto1b [But you DO want to go home, right?]"
+msgstr "@proto1b [但你确实想要回家吧？]"
+
+msgid "@niko3 Yeah, but..."
+msgstr "@niko3 想啊，可是……"
+
+msgid "@niko_distressed2 How will I know that this isn't just another..."
+msgstr "@niko_distressed2 我怎么知道这次会不会又只是另一次……"
+
+msgid "@proto2b [Because this session might be the last one.]"
+msgstr "@proto2b [这一次可能是最后一次了。]"
+
+msgid "@niko3 ...?"
+msgstr "@niko3 ……？"
+
+msgid "@proto1c [The creator is mobilizing things, throwing everything into this one last shot.]"
+msgstr "@proto1c [创世者正在动员各种资源，把一切投入这最后的一次机会。]"
+
+msgid "@proto2b [There might not be enough internal resources left for \\p to be able to generate another session after this.]"
+msgstr "@proto2b [这次结束后，剩下的内部资源可能不足以让\\p再进行一次轮回了。]"
+
+msgid "@proto1c [...Just go find a new boat for now.]"
+msgstr "@proto1c [……现在请先去找一艘新的船吧。]"
+
+msgid "@proto1c [...Just go fix the rowbot for now.]"
+msgstr "@proto1c [……现在请去修理划船机器人吧。]"
+
+msgid "@proto1b [But please, be careful.]"
+msgstr "@proto1b [但是请务必小心。]"
+
+msgid "@niko3 What about you?"
+msgstr "@niko3 那你呢？"
+
+msgid "@proto2 [I will meet you at the docks later.]"
+msgstr "@proto2 [我稍后会到船坞和你会合。]"
+
+msgid "@proto2b [...Need to take care of something first.]"
+msgstr "@proto2b [……我需要先处理一些事。]"
+
+msgid "@proto2 [...\\>\\nThis disk is blank.]"
+msgstr "@proto2 [……\\>\\n这个磁盘是空白的。]"
+
+msgid "@niko_83c Whoops!"
+msgstr "@niko_83c 哎呀！"
+
+msgid "@proto2 [Please help me restore my memory.\\>\\nBring the disk once you have the backup installed.]"
+msgstr "@proto2 [请帮助我复原记忆。\\>\\n安装好备份之后，请把磁盘拿回来。]"
+
+msgid "@proto1b [That was a session.]"
+msgstr "@proto1b [那是一段对话。]"
+
+msgid "@proto2 [I also tried to tell you about the restriction at the end...]"
+msgstr "@proto2 [我在最后也试着告诉你关于限制的事……]"
+
+msgid "@proto2b [...But you kinda started freaking out.]"
+msgstr "@proto2b [……可是你看起来吓坏了。]"
+
+msgid "@niko_upset2 Sorry..."
+msgstr "@niko_upset2 抱歉……"
+
+msgid "@proto1 [Truth is, the session was designed to be run only once.]"
+msgstr "@proto1 [其实那段对话本来的设计是只会发生一次。]"
+
+msgid "@proto1b [You weren't supposed to come back to this world after you are done.]"
+msgstr "@proto1b [本来结束之后你不应该再回来这个世界的。]"
+
+msgid "@proto2b [But... a lot of things that aren't supposed to happen have happened.]"
+msgstr "@proto2b [可是……也有很多其他不该发生的事发生了。]"
+
+msgid "@proto2 [...I'm willing to wager that \\p bypassed the restriction through the progress log failsafe method.]"
+msgstr "@proto2 [……我敢打赌是\\p利用进度日志的故障安全机制，规避了限制。]"
+
+msgid "@proto2b [It can restart the session, but it's an easily repeatable process.]"
+msgstr "@proto2b [这种做法可以重启对话，但也非常容易造成重复。]"
+
+msgid "@proto2b [...Which means...]"
+msgstr "@proto2b [……换言之……]"
+
+msgid "@proto1b [...it's entirely possible that \\p has brought you back more than once, too.]"
+msgstr "@proto1b [……\\p很有可能已经把你带回来不只一次。]"
+
+msgid "@proto1c [You may have carried out this mission too many times to count.]"
+msgstr "@proto1c [你执行这个任务的次数可能已经多到数不清。]"
+
+msgid "@proto2b [...might explain why your memories felt like they were from a long time ago.]"
+msgstr "@proto2b [……这或许可以解释为什么你觉得你的记忆很遥远。]"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ……"
+
+msgid "@niko_upset So...\\.\\. why can \\p... do that...."
+msgstr "@niko_upset 那……\\.\\.为什么\\p要……那样做……"
+
+msgid "@proto2 [Shh...]"
+msgstr "@proto2 [小声点……]"
+
+msgid "@proto2b [Trying to establish a connection here...]"
+msgstr "@proto2b [我正在尝试建立联接……]"
+
+msgid "@niko_eyeclosed Sorry..."
+msgstr "@niko_eyeclosed 对不起……"
+
+msgid "@silver [Hey, you okay in there?]"
+msgstr "@silver [嘿，你那边还好吗？]"
+
+msgid "@silver_eyeclosed [I did what I could with the terminals for now, and...]"
+msgstr "@silver_eyeclosed [我目前对终端机能做的都已经做了，还有……]"
+
+msgid "@silver2 [...It's you...]"
+msgstr "@silver2 [……是你……]"
+
+msgid "@silver2 [...you're the robot that insisted on living in the mines, are you not?]"
+msgstr "@silver2 [……你就是那个坚持住在矿坑里的机器人，对吧？]"
+
+msgid "@silver_eyeclosed [My friend told me to keep an eye out for you, should we ever cross paths.]"
+msgstr "@silver_eyeclosed [我的朋友说，如果有一天我们相遇，要我多关照你。]"
+
+msgid "@proto1b [...Likewise.]"
+msgstr "@proto1b [……彼此彼此。]"
+
+msgid "@proto1 [...Your...\\.\\. friend gave you something the last time you saw each other.]"
+msgstr "@proto1 [……你的\\.\\.朋友在你们上次见面的时候，有给你一样东西。]"
+
+msgid "@proto1 [Can you show me what it is?]"
+msgstr "@proto1 [可以让我看看那是什么吗？]"
+
+msgid "@silver2 [Wait...\\.\\. You know about the amber?]"
+msgstr "@silver2 [等等……\\.\\.你知道琥珀的事？]"
+
+msgid "@proto2b [I just asked to see it, didn't I?]"
+msgstr "@proto2b [对，我刚刚不是说要看吗？]"
+
+msgid "@silver2 [Oh, actually...]"
+msgstr "@silver2 [喔，其实……]"
+
+msgid "@niko_speak I needed it to fix a robot, so she gave it to me!"
+msgstr "@niko_speak 我需要那块琥珀才能修理一个机器人，所以她把它交给我了！"
+
+msgid "@proto2 [Oh?]"
+msgstr "@proto2 [哦？]"
+
+msgid "@niko_speak Here! See?"
+msgstr "@niko_speak 在这！你看！"
+
+msgid "@proto2b [Ah.]"
+msgstr "@proto2b [啊。]"
+
+msgid "@silver2 [Alright... here it is.]"
+msgstr "@silver [好吧……给你。]"
+
+msgid "@proto2b [Thought so.]"
+msgstr "@proto2b [跟我想的一样。]"
+
+msgid "@proto2 [He seemed to trust you, so I will treat you as an ally as well.]"
+msgstr "@proto2 [看来他信任你，那么我也会把你当成盟友看待。]"
+
+msgid "@silver2 [...Okay?]"
+msgstr "@silver2 [……好？]"
+
+msgid "@proto1b [Please listen carefully.]"
+msgstr "@proto1b [请仔细听我说。]"
+
+msgid "@proto1 [You need to escort the messiah for the remainder of the Barrens.]"
+msgstr "@proto1 [当救世主还在Barrens的时候，你必须陪同护卫。]"
+
+msgid "@proto2b [I predict a high concentration of square particle disruptions in the near future.]"
+msgstr "@proto2b [我预测未来不久会发生高浓度的方块粒子干扰。]"
+
+msgid "@silver2 [...No way.]"
+msgstr "@silver2 [……怎么可能。]"
+
+msgid "@proto2b [Yes....\\.\\. way.]"
+msgstr "@proto2b [会的……\\.\\.一定会。]"
+
+msgid "@proto2 [It's likely that structures in the vicinity of the messiah might be affected.]"
+msgstr "@proto2 [救世主身旁的建筑结构可能会受到影响。]"
+
+msgid "@proto2 [...Making it a far more treacherous pilgrimage than the previous....\\> \\@proto2b er, expectations.]"
+msgstr "@proto2 [……因此这次的旅途会比之前更凶险…… \\>\\@proto2b 我是说，比之前预测的更凶险。]"
+
+msgid "@proto1 [\\p and the messiah need all the extra help they can get right now.]"
+msgstr "@proto1 [\\p和救世主需要他们现在能取得的所有援助。]"
+
+msgid "@silver_eyeclosed [Understood.]"
+msgstr "@silver_eyeclosed [了解。]"
+
+msgid "@niko2 O...\\.\\. okay..."
+msgstr "@niko2 喔……\\.\\. 好……"
+
+msgid "@silver [Guess we should head back soon.]"
+msgstr "@silver [我想我们该赶快回头了。]"
+
+msgid "@silver_lookup [Even without the squares, the mines are not a safe place to be.]"
+msgstr "@silver_lookup [就算没有方块，矿区仍然不是安全的地方，不宜久留。]"
+
+msgid "@silver2 [Come on, I'll wait for you outside.]"
+msgstr "@silver2 [走吧，我会在外头等你。]"
+
+msgid "@niko3 Wait! I want to ask you-"
+msgstr "@niko3 等一下！我想问你──"
+
+msgid "@niko_eyeclosed She left."
+msgstr "@niko_eyeclosed 她走掉了。"
+
+msgid "@proto1b [...If you were going to ask her about being \"not real\", save your breath.]"
+msgstr "@proto1b [……如果你是想问她是不是“假的”，劝你别浪费力气。]"
+
+msgid "@proto1b [None of the people here know their predicament.]"
+msgstr "@proto1b [这里的人都不知道他们的困境。]"
+
+msgid "@proto1c [In fact... I don't think they can even comprehend it.]"
+msgstr "@proto1c [事实上……我认为他们连理解都没办法理解。]"
+
+msgid "@proto2 [It would be in your best interest to just... pretend like we never had this conversation.]"
+msgstr "@proto2 [假装我们这段对话从来没有发生过……这样对你是最好的。]"
+
+msgid "@proto2b [Causing mass confusion in the world's residents would likely result in unfavorable conditions for you.]"
+msgstr "@proto2b [在这世界的居民间制造大规模混乱，很可能会造成对你不利。]"
+
+msgid "@niko4 Alright..."
+msgstr "@niko4 好……"
+
+msgid "@niko3 ...wait, then what about you?"
+msgstr "@niko3 ……等等，那你呢？"
+
+msgid "@niko3 How did YOU know?"
+msgstr "@niko3 你怎么会知道？"
+
+msgid "@proto2b [...\\.\\.We never had this conversation, remember?]"
+msgstr "@proto2b [……\\.\\.我们从来没有谈过这些事，记得吗？]"
+
+msgid "@niko_eyeclosed Sigh."
+msgstr "@niko_eyeclosed 唉。"
+
+msgid "[MAP RECONFIGURATION SUCCESSFUL.]"
+msgstr "[地图重设成功。]"
+
+msgid "@silver [He says the exit is in here, but...]"
+msgstr "@silver [他说出口在这里，可是……]"
+
+msgid "@silver_eyeclosed [...must be hidden.]"
+msgstr "@silver_eyeclosed [……出口一定是隐藏起来了。]"
+
+msgid "@niko I don't think we need to use this anymore, \\p."
+msgstr "@niko \\p，这个我们应该用不到了。"
+
+msgid "[PROPHETBOT 0 BACKUP SYSTEM 1.0]\\>\\n[PLEASE INSERT DISK]"
+msgstr "[先知机器人0备份系统1.0]\\>\\n[请插入磁盘]"
+
+msgid "@niko Alright..."
+msgstr "@niko 好……"
+
+msgid "\\c[1][ERROR: BACKUP REQUEST DENIED]\\c[0]"
+msgstr "\\c[1][错误：备份请求被拒]\\c[0]"
+
+msgid "@niko_speak What?"
+msgstr "@niko_speak 什么？"
+
+msgid "[DORMITORY ASSIGNMENTS ARE NOT UP TO DATE.]"
+msgstr "[宿舍分配未更新。]"
+
+msgid "[PLEASE CONFIGURE THE RESIDENTIAL TRACKING MACHINE TO CONTINUE.]"
+msgstr "[请设定住宅区追踪机以继续。]"
+
+msgid "@niko_eyeclosed Okay then!"
+msgstr "@niko_eyeclosed 好吧！"
+
+msgid "[PREPARING BACKUP...]\\>\\n[WRITING TO DISK...]\\>\\n"
+msgstr "[正在准备备份……]\\>\\n[正在写入磁盘……]\\>\\n"
+
+msgid "[26% COMPLETE...]"
+msgstr "[26%已完成……]"
+
+msgid "[34% COMPLETE...]"
+msgstr "[34%已完成……]"
+
+msgid "[40% COMPLETE...]"
+msgstr "[40%已完成……]"
+
+msgid "[100% COMPLETE.]"
+msgstr "[100%已完成。]"
+
+msgid "[EJECTING DISK.]"
+msgstr "[正在退出磁盘。]"
+
+msgid "@niko Yup, that's a computer."
+msgstr "@niko 没错，那是一台计算机。"
+

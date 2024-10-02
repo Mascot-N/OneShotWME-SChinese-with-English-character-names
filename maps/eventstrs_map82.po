@@ -1,0 +1,57 @@
+msgid "@niko Lots of tiny shrimp swimming in this jar..."
+msgstr "@niko 罐子里有很多小虾子在游泳……"
+
+msgid "@niko It's looking a little dim..."
+msgstr "@niko 看起来有点黯淡……"
+
+msgid "$Apparently, phase 1 of the evacuation ended prematurely."
+msgstr "$撤迁的第一阶段显然提早结束了。"
+
+msgid "$The big ships started malfunctioning only after a few round trips."
+msgstr "$大船只来回几趟之后就开始故障。"
+
+msgid "$They said it was due to... something with squares?"
+msgstr "$他们说原因出在……某种方块？"
+
+msgid "$I'm not sure what they mean by that."
+msgstr "$我不太懂他们的意思。"
+
+msgid "$Bummer, looks like they won't be able to transport most of these surplus bots to the city at this rate."
+msgstr "$真烦，这样下去他们可能没办法把剩下的大部分机器人运到城市了。"
+
+msgid "$And we worked so hard on those!"
+msgstr "$我们明明那么努力在处理了！"
+
+msgid "$But I suppose the rowbots are busy enough with transporting people as is."
+msgstr "$可是我猜划船机器人光是载人就已经够忙了。"
+
+msgid "$I think it's going to be our turn soon..."
+msgstr "$应该很快就轮到我们了吧……"
+
+msgid "$Looks like they're evacuating the few tamed robots we have here."
+msgstr "$看来他们要撤走我们这里仅有的几个驯化机器人。"
+
+msgid "$Makes sense... no point in keeping them in the Barrens if all the people are already gone."
+msgstr "$这也是合理的……如果荒野都没有人了，把它们留在这里也没意义。"
+
+msgid "$I wonder if the engineer is going too..."
+msgstr "$不知道工程师会不会跟着离开……"
+
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko 我不敢爬梯子……"
+
+msgid "@niko Oh! It's another one of these small machines."
+msgstr "@niko 喔！是另一台小型机器。"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak 我的汗毛都有点立起来了……"
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko 是电池……\\n应该吧。"
+
+msgid "@niko_speak There's writing on this one too!"
+msgstr "@niko_speak 这个上面也有写！"
+
+msgid "@niko It says \"Guardian of Residential Area\"."
+msgstr "@niko 上面写着“住宅区守卫”。"
+

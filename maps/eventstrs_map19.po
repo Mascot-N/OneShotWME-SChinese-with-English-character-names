@@ -1,0 +1,237 @@
+msgid "@rowbot [.\\..\\..\\..]"
+msgstr "@rowbot [.\\..\\..\\..]"
+
+msgid "@rowbot [OH!]"
+msgstr "@rowbot [喔！]"
+
+msgid "@rowbot [THIS IS AMBER FROM THE GLEN.]"
+msgstr "@rowbot [这是来自GLEN的琥珀。]"
+
+msgid "@rowbot [I CAN REMEMBER NOW!]"
+msgstr "@rowbot [现在我想起来了！]"
+
+msgid "@rowbot [ACTIVATING TRACKING SYSTEM...]"
+msgstr "@rowbot [追踪系统启动中……]"
+
+msgid "@rowbot [SETTING COURSE...]"
+msgstr "@rowbot [航程设定中……]"
+
+msgid "@rowbot [WAIT.\\>\\nTHIS BOAT IS OVER CAPACITY.]"
+msgstr "@rowbot [等等。\\>\\n这艘船超载了。]"
+
+msgid "@rowbot [YOU'LL NEED TO LEAVE BEHIND SOME OF YOUR POSSESSIONS.]"
+msgstr "@rowbot [你必须留下一部分持有物。]"
+
+msgid "@niko Oh.\\>\\n\\@niko_eyeclosed Well... I don't think I'll be needing this crowbar anymore...\\>\\nOr this gas mask and gloves..."
+msgstr "@niko 喔。\\>\\n\\@niko_eyeclosed 嗯……我应该不会再需要这支撬棍了……\\>\\n还有防毒面具和手套……"
+
+msgid "@rowbot [THAT IS ACCEPTABLE.\\>\\nONWARDS WE GO.]"
+msgstr "@rowbot [这样可以了。\\>\\n船要出发了。]"
+
+msgid "@niko um.... \\p?"
+msgstr "@niko 那个……\\p？"
+
+msgid "@niko Is it alright if... you let me take a nap somewhere before we go?"
+msgstr "@niko 可不可以……出发前先找个地方让我睡一下？"
+
+msgid "@niko_eyeclosed I'm so tired I can't even see straight anymore..."
+msgstr "@niko_eyeclosed 我累到眼睛都看不清了……"
+
+msgid "@rowbot [HAVE YOU TALKED TO THE HEAD ENGINEER YET?]"
+msgstr "@rowbot [你跟首席工程师聊过了吗？]"
+
+msgid "@rowbot [SHE LIVES NEAR THE MINE ENTRANCE.]"
+msgstr "@rowbot [她就住在矿坑入口附近。]"
+
+msgid "@rowbot [I WOULD HAVE GIVEN YOU THE COORDINATES, BUT...]"
+msgstr "@rowbot [我很想给你坐标，可是……]"
+
+msgid "@niko_speak I need something I can use to wash the robot with!"
+msgstr "@niko_speak 我需要可以用来清洗机器人的东西！"
+
+msgid "@niko_eyeclosed A sponge alone isn't going to remove all this rust..."
+msgstr "@niko_eyeclosed 光靠海绵还刷不掉这些锈……"
+
+msgid "@niko Alright.... hold still..."
+msgstr "@niko 好……不要动喔……"
+
+msgid "@rowbot [I HAVE NO OTHER CHOICE.]"
+msgstr "@rowbot [我想动也办不到。]"
+
+msgid "@niko_speak There!"
+msgstr "@niko_speak 好了！"
+
+msgid "@niko How's that?"
+msgstr "@niko 如何？"
+
+msgid "@rowbot [...I...]"
+msgstr "@rowbot [……我……]"
+
+msgid "@rowbot [...CAN MOVE AGAIN.]"
+msgstr "@rowbot [……又能动了。]"
+
+msgid "@rowbot [THANK YOU!]"
+msgstr "@rowbot [谢谢你！]"
+
+msgid "@rowbot [I AM ABLE TO FULFILL MY PURPOSE AGAIN.]"
+msgstr "@rowbot [我又能完成我的使命了。]"
+
+msgid "@rowbot [WHERE WOULD YOU LIKE TO GO?]"
+msgstr "@rowbot [你要去哪里？]"
+
+msgid "@niko_speak Can you take me to the Tower?"
+msgstr "@niko_speak 你能带我到塔那边吗？"
+
+msgid "@rowbot [CALCULATING...]"
+msgstr "@rowbot [计算中……]"
+
+msgid "@rowbot [CLOSEST DESTINATION TO THE TOWER IS...]"
+msgstr "@rowbot [最接近塔的终点是……]"
+
+msgid "@rowbot [THE GLEN, PORT NUMBER - ]"
+msgstr "@rowbot [GLEN，港口编号──]"
+
+msgid "@rowbot [MY BUILT-IN NAVIGATION CIRCUITS HAVE FRIED.]"
+msgstr "@rowbot [我的内建导航回路烧坏了。]"
+
+msgid "@niko_speak I'm....\\.\\. \\@niko_eyeclosed gonna assume that's not good."
+msgstr "@niko_speak 我……\\.\\.\\@niko_eyeclosed 觉得这不太妙。"
+
+msgid "@rowbot [IT IS NOT GOOD AT ALL.]"
+msgstr "@rowbot [超级不妙。]"
+
+msgid "@rowbot [ONCE AGAIN I CANNOT FOLLOW MY PROGRAMMING.]"
+msgstr "@rowbot [我又无法遵循我的程序设定了。]"
+
+msgid "@niko Aw..."
+msgstr "@niko 哎呀……"
+
+msgid "@niko_speak Is there anything I can do to help?"
+msgstr "@niko_speak 我能帮得上忙吗？"
+
+msgid "@rowbot [IN THE EVENT OF AN ERROR, YOU SHOULD SPEAK WITH THE HEAD ENGINEER.]"
+msgstr "@rowbot [发生故障时，要去找首席工程师。]"
+
+msgid "@rowbot [SHE WILL KNOW WHAT TO DO.]"
+msgstr "@rowbot [她知道该怎么办。]"
+
+msgid "@niko_speak Wait! I need to protect my hands!"
+msgstr "@niko_speak 等等！我需要保护双手！"
+
+msgid "@niko_eyeclosed I don't wanna burn off my fingers..."
+msgstr "@niko_eyeclosed 我不想让手指灼伤……"
+
+msgid "@niko Hang in there!"
+msgstr "@niko 等会儿就好！"
+
+msgid "@rowbot [I AM FUNCTIONAL!]"
+msgstr "@rowbot [我又能运作了！]"
+
+msgid "@rowbot [WAS IT YOU WHO FIXED THE GENERATOR?]"
+msgstr "@rowbot [是你修好了发电机吗？]"
+
+msgid "@niko_speak Well, \\p helped me!"
+msgstr "@niko_speak 嗯，是\\p帮了我！"
+
+msgid "@niko But yeah!"
+msgstr "@niko 总之修好了！"
+
+msgid "@rowbot [HELLO. NICE TO MEET YOU.]"
+msgstr "@rowbot [你好，很高兴见到你。]"
+
+msgid "@rowbot [I AM ROWBOT #310.]"
+msgstr "@rowbot [我是划船机器人#310。]"
+
+msgid "@rowbot [WOULD YOU LIKE ME TO TAKE YOU SOMEWHERE?]"
+msgstr "@rowbot [想要我载你去哪里吗？]"
+
+msgid "@rowbot [...]"
+msgstr "@rowbot [……]"
+
+msgid "@niko_speak Are you... okay?"
+msgstr "@niko_speak 你……还好吗？"
+
+msgid "@rowbot [I CANNOT MOVE.]"
+msgstr "@rowbot [我动不了。]"
+
+msgid "@niko_eyeclosed Well, you're still really rusty..."
+msgstr "@niko_eyeclosed 啊，你生锈还是好严重……"
+
+msgid "@rowbot [THAT IS TRUE.]"
+msgstr "@rowbot [确实如此。]"
+
+msgid "@niko Hold on... \\p and I will find a way to help you!"
+msgstr "@niko 等一下喔……\\p和我会想办法帮你！"
+
+msgid "@niko I don't...think this battery is supposed to be for the robot..."
+msgstr "@niko 我觉得……这个电池应该不是给机器人用的……"
+
+msgid "@niko_speak Um... hello?"
+msgstr "@niko_speak 呃……你好？"
+
+msgid "@rowbot_off ..."
+msgstr "@rowbot_off ……"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko This robot doesn't have power."
+msgstr "@niko 这个机器人没电了。"
+
+msgid "@niko_speak It might help us get across the ocean if we fix it!"
+msgstr "@niko_speak 如果把它修好，说不定它可以帮我们渡海！"
+
+msgid "@niko \\p, are you there?"
+msgstr "@niko \\p，你还在吗？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"在\",\"不在\"]"
+
+msgid "@niko_speak Oh, good!"
+msgstr "@niko_speak 喔，太好了！"
+
+msgid "@niko_eyeclosed Aw, bummer!"
+msgstr "@niko_eyeclosed 哎，讨厌！"
+
+msgid "@niko ...wait. \\.\\.\\@niko_speak You just answered me!"
+msgstr "@niko ……等等\\.\\.\\@niko_speak 你明明回复我了！"
+
+msgid "@niko_eyeclosed ...you sure have a sense of humor, \\p..."
+msgstr "@niko_eyeclosed ……\\p，你还真幽默耶……"
+
+msgid "@niko_speak There's a robot here, attached to a boat."
+msgstr "@niko_speak 那边有一个机器人，跟船连在一块。"
+
+msgid "@niko It doesn't seem to have power, and its joints are rusted over as well."
+msgstr "@niko 它似乎没有电，而且关节都生锈了。"
+
+msgid "@niko_speak But I think we should be able to fix it!"
+msgstr "@niko_speak 但我觉得我们应该可以修好它！"
+
+msgid "@niko After all, we'll need to cross this ocean to get to the Tower..."
+msgstr "@niko 毕竟我们需要渡海才能抵达塔那边……"
+
+msgid "@rowbot [`P%\\.\\.#L\\.E  A\\.SE D0 \\.N0@\\.\\. T AP \\.PRO%\\.\\.4AC \\.\\.H]"
+msgstr "@rowbot [‵讠%\\.\\.青\\.\\.#不\\.  要\\.@\\.\\.告\\.近%\\.\\.4]"
+
+msgid "@niko3 Oh no!\\>\\nIs there anything I can do to help?"
+msgstr "@niko 糟了！\\>\\n我能帮得上忙吗？"
+
+msgid "@rowbot [IT\\. % \\.\\.IS DA-`\\.NGER\\.OU%S TO T\\.\\.RY A  ND A \\.$SIS\\.T M  E.]"
+msgstr "@rowbot [尝\\.%\\.\\.试 ──‵\\.帮\\.住%\\.\\.我  太 \\.\\.$危\\.险  了。]"
+
+msgid "@rowbot [L\\.\\.EA\\.VE  `\\.T#HIS A\\.R`E \\.A.]"
+msgstr "@rowbot [讠\\.\\.\\.离  ‵\\.#开\\.这\\.里‵。]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@niko2 Oh no...\\>\\nIt's some weird... square stuff?"
+msgstr "@niko2 糟了……\\>\\n有些奇怪的……方块？"
+
+msgid "@niko I can see a green glow in the distance."
+msgstr "@niko 我能看见远方有绿色的亮光。"
+
+msgid "@ed [The horizon glows a faint green.]"
+msgstr "@ed [地平线微微闪着绿色光芒。]"
+

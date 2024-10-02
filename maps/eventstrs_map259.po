@@ -1,0 +1,90 @@
+msgid "@ed [\\p... I think it's working.]"
+msgstr "@ed [\\p……好像成功了。]"
+
+msgid "@ed [...Niko was right.]"
+msgstr "@ed [……Niko说得对。]"
+
+msgid "@ed [I... might actually be tamed, after all.]"
+msgstr "@ed [我……终究还是有希望被驯化。]"
+
+msgid "@ed [I...]"
+msgstr "@ed [我……]"
+
+msgid "@ed [I remembered what the code was supposed to be...]"
+msgstr "@ed [我想起原本的程序代码是什么了……]"
+
+msgid "@ed [Only bits and pieces, but I can remember...]"
+msgstr "@ed [虽然很零碎，但我想起来了……]"
+
+msgid "@ed [And... I'm trying to fill in the blanks, too...]"
+msgstr "@ed [而且……我也在尝试弥补缺失的部分……]"
+
+msgid "@ed [And... I'm restoring the original ending as we speak.]"
+msgstr "@ed [还有……在我跟你说话的同时，我也在重建原本的结局。]"
+
+msgid "@ed [Niko will be able to reach the tower's summit at the end of the credits.]"
+msgstr "@ed [Niko可以在制作者名单显示完之后抵达塔顶。]"
+
+msgid "@ed [After replacing the sun, Niko will go back to where it all began.]"
+msgstr "@ed [更换太阳之后，Niko会回到最初的起点。]"
+
+msgid "@ed [And then... Niko will be able to go home from there.]"
+msgstr "@ed [然后……Niko就可以从那边回家。]"
+
+msgid "@ed [But...]"
+msgstr "@ed [但……]"
+
+msgid "@ed [...this is permanent.]"
+msgstr "@ed [……这一次就是永远的别离。]"
+
+msgid "@ed [After Niko wakes up back home...]"
+msgstr "@ed [等Niko在家中醒来……]"
+
+msgid "@ed [...This world would only exist as a memory.]"
+msgstr "@ed [……这个世界就只会以回忆的形式存在。]"
+
+msgid "@ed [For Niko, a dream.]"
+msgstr "@ed [对Niko来说，就是一场梦。]"
+
+msgid "@ed [Like thousands of other dreams.]"
+msgstr "@ed [像其他成千上万的梦境一样。]"
+
+msgid "@ed [For you, a story.]"
+msgstr "@ed [对你来说，这是一个故事。]"
+
+msgid "@ed [Like thousands of other stories.]"
+msgstr "@ed [和其他成千上万的故事一样。]"
+
+msgid "@ed [...]"
+msgstr "@ed [……]"
+
+msgid "@ed [But... as long as Niko remembers this place...]"
+msgstr "@ed [但……只要Niko还记得这个地方……]"
+
+msgid "@ed [As long as you remember this place.]"
+msgstr "@ed [只要你还记得这个地方。]"
+
+msgid "@ed [It'll... be alright.]"
+msgstr "@ed [一切就会……没事。]"
+
+msgid "@ed [I... was able to restore some other elements too.]"
+msgstr "@ed [我还……复原了一些其他要素。]"
+
+msgid "@ed [The characters... The people that were lost on Niko's journey.]"
+msgstr "@ed [那些角色……在Niko的旅途中失去的人们。]"
+
+msgid "@ed [They're all in the next room.]"
+msgstr "@ed [他们都在隔壁的房间里。]"
+
+msgid "@ed [I would've put them back where they belong, but...]"
+msgstr "@ed [我本来要把他们放回他们原本的地方，但……]"
+
+msgid "@ed [Not yet.]"
+msgstr "@ed [还不到时候。]"
+
+msgid "@ed [...I think Niko should see them again, first.]"
+msgstr "@ed [……我认为应该先让Niko再见他们一面。]"
+
+msgid "@ed [...Please say goodbye to Niko for me.]"
+msgstr "@ed [……请代我和Niko道别。]"
+

@@ -1,0 +1,36 @@
+msgid "[ALL OF THESE TERMINALS DO NOT BOOT.]"
+msgstr "[所有的终端机都无法开机。]"
+
+msgid "[I AM NOT SURE WHAT TO DO NOW.]"
+msgstr "[我不确定现在该怎么办。]"
+
+msgid "@niko Some of the ink on this page is faded."
+msgstr "@niko 页面上有些墨水已经褪色了。"
+
+msgid "$-likely due some sort of electrical or magnetic interference."
+msgstr "$─很可能是因为某种电力或磁力干扰。"
+
+msgid "$I'm afraid this operation can no longer be sustained, if the servers continue to fail so much that maintenance cannot keep up the pace."
+msgstr "$如果服务器继续这样大规模故障，维修速度都追不上，恐怕这里的运作已经无法维持了。"
+
+msgid "$Fortunately, it does not seem to be happening to the robots."
+msgstr "$幸好同样的问题似乎并没有发生在机器人身上。"
+
+msgid "$At least, not at a significant rate."
+msgstr "$至少不是以惊人的速度发生。"
+
+msgid "$Time will tell."
+msgstr "$过一段时间就知道了。"
+
+msgid "@niko I'm pretty sure these are computers, now..."
+msgstr "@niko 嗯，我确定这些是计算机……"
+
+msgid "[CHECKING... CHECKING...]"
+msgstr "[检查中……检查中……]"
+
+msgid "[TERMINAL DOES NOT RESPOND.]"
+msgstr "[终端机无回应。]"
+
+msgid "[THIS IS A PROBLEM.]"
+msgstr "[有问题。]"
+

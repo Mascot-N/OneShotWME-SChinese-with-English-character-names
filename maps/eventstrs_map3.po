@@ -1,0 +1,18 @@
+msgid "@ed [There's no water in the toilet.]"
+msgstr "@ed [马桶里没有水。]"
+
+msgid "@ed [The tub won't run.]"
+msgstr "@ed [没办法在澡盆放水。]"
+
+msgid "@ed [A \\c[7]withered plant\\c[0] sits here, stiff and dry.]"
+msgstr "@ed [这里有一棵\\c[7]枯萎的植物\\c[0]，僵硬而干枯。]"
+
+msgid "@ed [There's no need to do anything else to it.]"
+msgstr "@ed [没别的事情可做了。]"
+
+msgid "@ed [A branch snaps off.]"
+msgstr "@ed [有一根树枝断落。]"
+
+msgid "@ed [A pair of \\c[3]luminous, yellow eyes\\c[0] stares back at Niko.]"
+msgstr "@ed [一双\\c[3]发光的黄色眼睛\\c[0]回望Niko。]"
+

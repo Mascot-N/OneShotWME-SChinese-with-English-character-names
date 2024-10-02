@@ -1,0 +1,39 @@
+msgid "@rue !"
+msgstr "@rue ！"
+
+msgid "@rue You're here!!!"
+msgstr "@rue 你来了！！！"
+
+msgid "@niko2 Rue!"
+msgstr "@niko2 Rue！"
+
+msgid "@niko5 That's... you, right?"
+msgstr "@niko5 是你……对吧？"
+
+msgid "@rue Yes."
+msgstr "@rue 是我。"
+
+msgid "@rue_talk Niko!"
+msgstr "@rue_talk Niko！"
+
+msgid "@niko2 Are you... are you Rue?"
+msgstr "@niko2 你是……你是Rue？"
+
+msgid "@rue Did you... \\.\\.already meet the others?"
+msgstr "@rue 你……\\.\\.已经见过其他人了？"
+
+msgid "@niko2 Yeah... \\.\\.\\@niko_distressed2 but..."
+msgstr "@niko2 是啊……\\.\\.\\@niko_distressed2 可是……"
+
+msgid "@rue_sigh ...everything is in place, then."
+msgstr "@rue_sigh ……那么，一切都就绪了。"
+
+msgid "@rue Come on, let's go back to the clock room."
+msgstr "@rue 来吧，我们回那个有时钟的房间吧。"
+
+msgid "@niko There's no one here..."
+msgstr "@niko 这里没有人……"
+
+msgid "@niko It's a big tree, with leaves!\\>\\nHaven't seen one of these since I was back home..."
+msgstr "@niko 是一棵大树，而且有叶子！\\>\\n我离开家之后就没看过这种树了……"
+

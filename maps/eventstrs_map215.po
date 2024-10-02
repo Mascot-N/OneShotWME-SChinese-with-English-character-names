@@ -1,0 +1,216 @@
+msgid "@niko The elevator's button panel."
+msgstr "@niko 电梯的按钮面板。"
+
+msgid "@plight_worry Hey, where are you going?"
+msgstr "@plight_worry 到底去哪里了？"
+
+msgid "@plight_unknown Come ooonnnnnnn!"
+msgstr "@plight_unknown 受够了！"
+
+msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
+msgstr "@plight_unknown 我真是受够了！！！"
+
+msgid "@plight_unknown Work already!!!"
+msgstr "@plight_unknown 快点动啊！！！"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak 咦？"
+
+msgid "@niko Oh right... \\@niko_eyeclosed The elevator guy."
+msgstr "@niko 喔，对……\\@niko_eyeclosed 是那位修电梯的先生。"
+
+msgid "@plight_unknown AAAAUHGGHHHH!!!!"
+msgstr "@plight_unknown 呜啊啊啊啊啊啊！！！！"
+
+msgid "@niko_speak I think we should go talk to the guy first, \\p..."
+msgstr "@niko_speak \\p，我想我们应该先去跟那位先生谈谈……"
+
+msgid "PATH CLOSED"
+msgstr "路径已关闭"
+
+msgid "TO: OFFICE"
+msgstr "前往：办公室"
+
+msgid "@plight Come oonnn..."
+msgstr "@plight 拜托了……"
+
+msgid "@plight_wtf Come oonnnnnnn!"
+msgstr "@plight_wtf 我求你了！"
+
+msgid "@plight_wtf Now, of all times...!"
+msgstr "@plight_wtf 为什么偏偏挑这时候……！"
+
+msgid "@niko ...Uh"
+msgstr "@niko ……呃"
+
+msgid "@niko_speak ....Excuse me..."
+msgstr "@niko_speak ……不好意思……"
+
+msgid "@plight_shock Woah!"
+msgstr "@plight_shock 哇！"
+
+msgid "@plight ...you're... you!"
+msgstr "@plight ……你是……你是！"
+
+msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
+msgstr "@plight_worry （天啊，没想到我会遇到……）"
+
+msgid "@niko The elevator is missing a button, right?"
+msgstr "@niko 电梯按钮不见了，对吧？"
+
+msgid "@plight_worry ...how did you know?"
+msgstr "@plight_worry ……你怎么知道？"
+
+msgid "@niko_83c ..."
+msgstr "@niko_83c ……"
+
+msgid "@niko_speak \\p and I will help you fix it!"
+msgstr "@niko_speak \\p和我会帮你修好它！"
+
+msgid "@plight_worry2 ...seriously?"
+msgstr "@plight_worry ……你认真的？"
+
+msgid "@plight_sigh Oh thank goodness."
+msgstr "@plight_sigh 喔，谢天谢地。"
+
+msgid "@plight_worry2 The evacuees are counting on this...\\> on me..."
+msgstr "@plight_worry2 避难者都……\\>都指望我能修好它呢……"
+
+msgid "@plight_worry But... I've been here for hours and can't figure out a thing!"
+msgstr "@plight_worry 可是……我已经在这里杵了好几个小时，还是完全搞不定！"
+
+msgid "@niko2 ....\\.\\.evacuees?"
+msgstr "@niko2 ……\\.\\.避难者？"
+
+msgid "@plight Y'know... from the west apartments."
+msgstr "@plight 啊……都是从西边公寓那边来的。"
+
+msgid "@plight_worry The square stuff wrecked the place yesterday..."
+msgstr "@plight_worry 方块昨天毁了那个地方……"
+
+msgid "@niko3 Oh...."
+msgstr "@niko3 喔……"
+
+msgid "@plight_sigh Right now everyone's crowded in the cafe.\\nWe really want to get everyone to the surface as soon as possible, though."
+msgstr "@plight_sigh 现在大家都挤在咖啡馆里。\\n可是我们真的很希望能尽快让大家前往地面。"
+
+msgid "@plight3 The library on the surface doubles as a shelter for situations like this."
+msgstr "@plight3 地面的图书馆在这种时候也能当作避难所。"
+
+msgid "@niko I see..."
+msgstr "@niko 这样啊……"
+
+msgid "@niko2 ...wait... didn't we find the magnets and stuff in the apartments, \\p?"
+msgstr "@niko2 ……等等，\\p，我们当初不是在公寓找到磁铁那些东西的吗？"
+
+msgid "@plight_worry The... what?"
+msgstr "@plight_worry 你在说……什么？"
+
+msgid "@niko_eyeclosed Looks like we'll have to find some other way to fix the button, \\p..."
+msgstr "@niko_eyeclosed \\p，看来我们得想其他办法修理按钮了……"
+
+msgid "@plight_scared HOLY F\\.\\.\\@plight_worry UDGE"
+msgstr "@plight_scared 我的\\.\\.\\@plight_worry 妈啊"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@niko_eyeclosed ...Looks like \\p and I will need to find another way down altogether..."
+msgstr "@niko_eyeclosed ……看来\\p和我得另外找下去的方法了……"
+
+msgid "@plight_worry But...\\.\\. this is the only elevator in the area..."
+msgstr "@plight_worry 可是……\\.\\.这是这里仅有的电梯……"
+
+msgid "@niko We did hear about another one, but... I don't really know where it is."
+msgstr "@niko 我们听说还有另一部电梯，可是……我也不知道它在哪里。"
+
+msgid "@niko_speak Do you, \\p?"
+msgstr "@niko_speak 你知道吗，\\p？"
+
+msgid "TO: CAFE"
+msgstr "前往：咖啡馆"
+
+msgid "[NO TRESPASSING!]"
+msgstr "[禁止擅闯！]"
+
+msgid "@niko Oh...excuse me!"
+msgstr "@niko 喔……不好意思！"
+
+msgid "TO: APARTMENTS"
+msgstr "前往：公寓"
+
+msgid "TO:\\nOFFICE BUILDING AND\\nCAFE"
+msgstr "前往：\\n办公大楼及\\n咖啡馆"
+
+msgid "@niko It's an elevator."
+msgstr "@niko 一台电梯。"
+
+msgid "@niko_speak Let's find another way down!"
+msgstr "@niko_speak 我们找别的方法下去！"
+
+msgid "@plight_worry Uh..."
+msgstr "@plight_worry 呃……"
+
+msgid "@plight3 Let me know if you need my help with anything..."
+msgstr "@plight3 如果需要我帮忙，请跟我说……"
+
+msgid "@niko_speak We found some elevators!"
+msgstr "@niko_speak 我们找到了几台电梯！"
+
+msgid "@plight_shock What??"
+msgstr "@plight_shock 什么？？"
+
+msgid "@plight_worry ...seriously?"
+msgstr "@plight_worry ……真的假的？"
+
+msgid "@plight_worry2 I've literally never seen another one in this area!"
+msgstr "@plight_worry2 我在这里从来没见过有其他电梯！"
+
+msgid "@niko It WAS in a locked room..."
+msgstr "@niko 那个房间之前上了锁……"
+
+msgid "@plight_worry Oh...."
+msgstr "@plight_worry 喔……"
+
+msgid "@plight_worry2 Do they... uh... \\.\\.\\.\\@plight_worry work?"
+msgstr "@plight_worry2 那它们……呃……\\.\\.\\.\\@plight_worry 能用吗？"
+
+msgid "@niko_eyeclosed We don't know yet..."
+msgstr "@niko_eyeclosed 我们还不知道……"
+
+msgid "@niko One of them has a lever that's out of my reach."
+msgstr "@niko 其中一台有一支操纵杆，但是我够不到。"
+
+msgid "@niko_speak ...wait! You can help us!"
+msgstr "@niko_speak ……等等！你可以帮我们！"
+
+msgid "@plight_worry What..."
+msgstr "@plight_worry 什么……"
+
+msgid "@niko You should be able to reach the lever, cuz...\\>\\n\\@niko_speak You're taller than me!"
+msgstr "@niko 你应该够得着那支操纵杆，因为……\\>\\n\\@niko_speak 你比我高啊！"
+
+msgid "@plight3 Ooh... \\@plight_worry I... guess I am?"
+msgstr "@plight3 喔喔……\\@plight_worry 我……大概能吧？"
+
+msgid "@plight So...\\.\\. show me the way, I suppose..."
+msgstr "@plight 那……\\.\\.那就，请带路吧……"
+
+msgid "@niko Mhm!"
+msgstr "@niko 走吧！"
+
+msgid "[HELLO.]"
+msgstr "[你好。]"
+
+msgid "[THIS AREA IS UNAUTHORIZED FOR DEMO.]"
+msgstr "[这个区域未获展示授权。]"
+
+msgid "[SORRY ABOUT THE INCONVENIENCE.]"
+msgstr "[抱歉造成您的不便。]"
+
+msgid "@niko ...Demo?"
+msgstr "@niko ……展示？"
+
+msgid "[I CANNOT LET YOU THROUGH.]"
+msgstr "[我不能让您通过。]"
+

@@ -1,0 +1,3 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 萤火虫照亮了这间房间。"
+

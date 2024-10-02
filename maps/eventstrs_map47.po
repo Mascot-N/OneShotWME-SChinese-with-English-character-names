@@ -1,0 +1,120 @@
+msgid "@red_gatekeeper [...Interesting Book You Got There...]"
+msgstr "@red_gatekeeper [……你拿了一本有趣的书……]"
+
+msgid "@red_gatekeeper [It Is Written In A Language I Do Not Recognize.]"
+msgstr "@red_gatekeeper [它是以我无法辨识的语言写成。]"
+
+msgid "@red_gatekeeper [...Perhaps You Should Find A Way To Decipher It When You're At The Library.]"
+msgstr "@red_gatekeeper [……你该趁着在图书馆的时候，找出破译的方法。]"
+
+msgid "@red_gatekeeper [It May Be Of Help.]"
+msgstr "@red_gatekeeper [或许会有帮助。]"
+
+msgid "@red_gatekeeper [Hello Again, Messiah, Do You Need Help?]"
+msgstr "@red_gatekeeper [又见面了，救世主，你需要帮忙吗？]"
+
+msgid "@niko Well..."
+msgstr "@niko 嗯……"
+
+msgid "[\"Explain again\", \"No\"]"
+msgstr "[\"再解释一次\",\"不用\"]"
+
+msgid "@red_gatekeeper [Very Well. You Need To Find A Way To Get To The Library On The Surface.]"
+msgstr "@red_gatekeeper [好吧。你需要找出前往地表图书馆的方法。]"
+
+msgid "@red_gatekeeper [Off You Go Then, Off You Go...]"
+msgstr "@red_gatekeeper [去吧，你该走了……]"
+
+msgid "@red_gatekeeper [Ah, The Sun.]"
+msgstr "@red_gatekeeper [啊，是太阳。]"
+
+msgid "@red_gatekeeper [Hello, Messiah. Welcome To The Refuge.]"
+msgstr "@red_gatekeeper [你好，救世主，欢迎来到城市。]"
+
+msgid "@red_gatekeeper [Do You Understand What You Must Do Here?]"
+msgstr "@red_gatekeeper [你了解在这里该做什么吗？]"
+
+msgid "@niko I'm supposed to go inside the Tower, right?"
+msgstr "@niko 我要进去塔里，对吧？"
+
+msgid "@niko I already see the Tower! So I guess we must be close."
+msgstr "@niko 我已经看到塔了！我们应该很靠近了。"
+
+msgid "@niko_speak Where's the entrance?"
+msgstr "@niko_speak 入口在哪呢？"
+
+msgid "@red_gatekeeper [On The Surface.]"
+msgstr "@red_gatekeeper [在地表。]"
+
+msgid "@niko_speak The surface?"
+msgstr "@niko_speak 地表？"
+
+msgid "@red_gatekeeper [Look Down, Small One.]"
+msgstr "@red_gatekeeper [孩子，往下看。]"
+
+msgid "@niko Oooh, \\.\\.\\@niko_speak we're pretty high up!"
+msgstr "@niko 喔喔，\\.\\.\\@niko_speak 我们在好高的地方！"
+
+msgid "@niko_speak I guess I gotta get down a lot of stairs! \\>\\n\\@niko Or find an elevator."
+msgstr "@niko_speak 看来得走很长的楼梯！\\>\\n\\@niko 或是找一台电梯。"
+
+msgid "@red_gatekeeper [Correct.]"
+msgstr "@red_gatekeeper [正确。]"
+
+msgid "@red_gatekeeper [However, The Tower Is A Sacred Place.]"
+msgstr "@red_gatekeeper [不过，塔是神圣的地方。]"
+
+msgid "@red_gatekeeper [Finding The Entrance May Be Easy, But That Alone Will Not Be Enough.]"
+msgstr "@red_gatekeeper [寻找入口或许不难，但只是找到入口还不够。]"
+
+msgid "@niko What... do you mean?"
+msgstr "@niko 那是……什么意思？"
+
+msgid "@red_gatekeeper [Once You Reach The Surface, I Recommend Visiting The Library For Leads.]"
+msgstr "@red_gatekeeper [等你到达地表，建议你前往图书馆寻找线索。]"
+
+msgid "@niko Alright..."
+msgstr "@niko 好……"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 谢谢你！"
+
+msgid "@red_gatekeeper [Off You Go, Then. I Wish You Luck.]"
+msgstr "@red_gatekeeper [那么，去吧。祝你好运。]"
+
+msgid "@red_gatekeeper [I'm Afraid This Area Is Off-Limits For You.]"
+msgstr "@red_gatekeeper [恐怕这里不能让你进去。]"
+
+msgid "@red_gatekeeper [Only The Bearer Of The Sacred Kernel Is Permitted Access To The Garden.]"
+msgstr "@red_gatekeeper [只有持有神圣之核的人才能获准进入花园。]"
+
+msgid "@niko_speak Oh! \\.\\.\\@niko Like...\\.\\. a kernel of corn...?"
+msgstr "@niko_speak 喔！\\.\\.\\@niko 是像……\\.\\.玉米粒的东西吗……？"
+
+msgid "@niko_speak I have this! \\.\\.\\>\\@niko It was left behind by the plant lady in the Glen."
+msgstr "@niko_speak 我有这个！\\.\\.\\>\\@niko 是Glen的植物女士留下的。"
+
+msgid "@red_gatekeeper [...\\>That Is Indeed The Kernel.]"
+msgstr "@red_gatekeeper [……\\>\\n这是核心没错。]"
+
+msgid "@red_gatekeeper [Then, It Is Your Duty To Regrow Her.\\>\\nDo You Understand What You Must Do?]"
+msgstr "@red_gatekeeper [那么你就有义务重新把她种出来。\\>\\n你明白自己该怎么做吗？]"
+
+msgid "@niko Um..."
+msgstr "@niko 呃……"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"明白\",\"不明白\"]"
+
+msgid "@red_gatekeeper [Good.]"
+msgstr "@red_gatekeeper [很好。]"
+
+msgid "@red_gatekeeper [Take The Seed To The Garden.\\>\\nPlant It In The Pot In The Center.]"
+msgstr "@red_gatekeeper [将种子拿到花园。\\>\\n把它种在中央的花盆里。]"
+
+msgid "@red_gatekeeper [You May Now Pass Through Here To Access The Garden.]"
+msgstr "@red_gatekeeper [现在你可以通过这里，进入花园。]"
+
+msgid "@niko_eyeclosed I don't want to go back..."
+msgstr "@niko_eyeclosed 我不想回去……"
+

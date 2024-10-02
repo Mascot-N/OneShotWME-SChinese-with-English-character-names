@@ -1,0 +1,30 @@
+msgid "@alula_speak Hey!"
+msgstr "@alula_speak 嘿！"
+
+msgid "@alula I saw you going to the courtyard!\\>\\n\\@alula_speak So I thought I'd tag along!"
+msgstr "@alula 我看到你在往院子走！\\>\\n\\@alula_speak 所以我就跟来了！"
+
+msgid "@calamus_smile Same!"
+msgstr "@calamus_smile 我也一样！"
+
+msgid "@alula This is the courtyard.\\>\\n\\@alula It's got water... and... stuff..."
+msgstr "@alula 这里就是我家院子。\\>\\n\\@alula 这里有水……和……一些别的东西……"
+
+msgid "@alula_oh Oh, are you leaving now?"
+msgstr "@alula_oh 喔，你要离开了吗？"
+
+msgid "@alula_speak Good luck, Niko! \\>\\n\\@alula We believe in you!"
+msgstr "@alula_speak Niko，祝你好运！\\>\\n\\@alula 我们相信你！"
+
+msgid "@niko It's a ball."
+msgstr "@niko 一颗球。"
+
+msgid "@alula That's mine!\\>\\n\\@alula_pout It doesn't bounce around as much as it used to, though..."
+msgstr "@alula 那是我的！\\>\\n\\@alula_pout 不过它的弹性没有以前那么好了……"
+
+msgid "@calamus There's an entrance to an underground passage here.\\>\\nIt's flooded, though."
+msgstr "@calamus 这里有通往地下通道的入口。\\>\\n可是里面被水淹了。"
+
+msgid "@calamus_speak Oh, are you leaving now?\\>\\n\\@calamus_smile It was... nice, to meet you.\\>\\n\\@calamus Really. Thanks for everything."
+msgstr "@calamus_speak 喔，你要走了吗？\\>\\n\\@calamus_smile 真的很……高兴可以认识你。\\>\\n\\@calamus 真的，谢谢你做的一切。"
+

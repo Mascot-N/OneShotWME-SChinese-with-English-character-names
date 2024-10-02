@@ -1,0 +1,627 @@
+msgid "@niko2 ..."
+msgstr "@niko2 ……"
+
+msgid "@en2 [...]"
+msgstr "@en2 [……]"
+
+msgid "@en_distressed2 [...]"
+msgstr "@en_distressed2 [……]"
+
+msgid "@en_distressed [Niko...]"
+msgstr "@niko_distressed [Niko……]"
+
+msgid "@niko_surprised AAAH!"
+msgstr "@niko_surprised 啊啊啊！"
+
+msgid "@en_eyeclosed2 [Relax.]"
+msgstr "@en_eyeclosed2 [放轻松。]"
+
+msgid "@en_eyeclosed [...I'm just borrowing your reflection to talk to you.]"
+msgstr "@en_eyeclosed [……我只是借用你的样子在跟你说话。]"
+
+msgid "@en_upset [It's not like my physical form is good for that.]"
+msgstr "@en_upset [我的实际形态不适合这么做。]"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed 这样啊……"
+
+msgid "@en_upset_meow [...Why did you come here!]"
+msgstr "@en_upset_meow [……你为什么来这里！]"
+
+msgid "@en_upset2 [Can't you see?]\\>\\n\\@en_eyeclosed [The disruption... the squares...\\> they're closing in.]"
+msgstr "@en_upset2 [你没注意到吗？]\\>\\n\\@en_eyeclosed [这些干扰……还有方块……\\>越来越近了。]"
+
+msgid "@en_upset2 [Niko.... please...]"
+msgstr "@en_upset2 [Niko……拜托你……]"
+
+msgid "@en_eyeclosed [Get out of here.]\\>\\n[Let me meet my end in peace.]"
+msgstr "@en_eyeclosed [快离开吧。]\\>\\n[让我安详迎接我的末日。]"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@niko3 The squares are blocking my way too, you know..."
+msgstr "@niko3 方块其实也挡住了我的去路啦……"
+
+msgid "@en_distressed [...Oh.]"
+msgstr "@en_distressed [……也对。]"
+
+msgid "@en_upset [...I...]"
+msgstr "@en_upset [……我……]"
+
+msgid "@en_upset_meow [...I'm sorry, I-]"
+msgstr "@en_upset_meow [……我很抱歉，我──]"
+
+msgid "@niko_eyeclosed It's alright..."
+msgstr "@niko_eyeclosed 不要紧的……"
+
+msgid "@en_upset2 [...]"
+msgstr "@en_upset2 [……]"
+
+msgid "@en_upset2 [No living being should be in this place, Niko...]"
+msgstr "@en_upset2 [Niko，生物不应该待在这里……]"
+
+msgid "@niko2 Is this... the Tower?"
+msgstr "@niko2 这里是……塔吗？"
+
+msgid "@en_upset [Part of it.]"
+msgstr "@en_upset [是塔的一部分。]"
+
+msgid "@en_upset2 [This is the center of the engine.]"
+msgstr "@en_upset2 [这里是引擎的中心。]"
+
+msgid "@en_eyeclosed [...Inside my head, so to speak...]"
+msgstr "@en_eyeclosed [……就是在我的头脑内部，可以这么说吧……]"
+
+msgid "@niko3 So this is...\\> the center of the World Machine?"
+msgstr "@niko3 所以这是……\\>世界机器的中心？"
+
+msgid "@en3 [You...\\.\\. know my original name.]"
+msgstr "@en3 [你……\\.\\.知道我的名字。]"
+
+msgid "@en4 [How?]"
+msgstr "@en4 [你是怎么知道的？]"
+
+msgid "@niko_eyeclosed Rue, Cedric, Prototype...\\>\\n\\@niko2 They all...\\.\\. told me bits and pieces."
+msgstr "@niko_eyeclosed Rue、Cedric、Prototype……\\>\\n\\@niko2 他们……\\.\\.把所有细节都告诉我了。"
+
+msgid "@niko4 I'm not even sure if I even understood a lot of the stuff they said, but..."
+msgstr "@niko4 我觉得他们讲的很多我都听不懂，可是……"
+
+msgid "@niko_eyeclosed I know what you're supposed to be.\\>\\n\\@niko2 I know why you had to be built."
+msgstr "@niko_eyeclosed 我知道你应该是什么东西。\\>\\n\\@niko2 我也知道你被创造的理由。"
+
+msgid "@niko_distressed And... I know why I'm here..."
+msgstr "@niko_distressed 我也……知道我在这里的理由……"
+
+msgid "@en_shock [They...\\> told you?]"
+msgstr "@en_shock [他们……\\>告诉你了？]"
+
+msgid "@en4 [When?]"
+msgstr "@en4 [什么时候？]"
+
+msgid "@niko2 Wait...\\.\\. You don't know about that?"
+msgstr "@niko2 等等……\\.\\.你不知道吗？"
+
+msgid "@niko6 But I thought you were... the world..."
+msgstr "@niko6 可是你不是……世界……"
+
+msgid "@niko2 Aren't you supposed to see everything?"
+msgstr "@niko2 你不是能够看到所有的事物吗？"
+
+msgid "@en_eyeclosed [No.]"
+msgstr "@en_eyeclosed [不。]"
+
+msgid "@en_upset [All this... was outside of the protocol.]"
+msgstr "@en_upset [这一切……都在程序之外。]"
+
+msgid "@en_upset2 [This session was never supposed to happen the way it did....]"
+msgstr "@en_upset2 [这段对话从一开始就不该以这种方式发生……]"
+
+msgid "@en_upset_meow [The story... wasn't written into my protocol at all.]"
+msgstr "@en_upset_meow [这个故事……完全没有写在我的程序中。]"
+
+msgid "@niko2 Oh, right...\\> Rue told me something about how your creator had to alter the code."
+msgstr "@niko2 喔，对……\\>Rue提过你的制作者修改程序代码的事。"
+
+msgid "@niko5 I think it was to connect some areas together so that we can meet..."
+msgstr "@niko5 印象中好像是为了把某些区域连起来，好让我们见面……"
+
+msgid "@en_eyeclosed [My creator, yes.]"
+msgstr "@en_eyeclosed [对，我的创建者。]"
+
+msgid "@en_upset [\\p... listened to my creator.]"
+msgstr "@en_upset [\\p……听信了我的创建者。]"
+
+msgid "@en_upset2 [They were all working beyond my scope of influence.]"
+msgstr "@en_upset2 [他们所做的都超出了我的影响范围。]"
+
+msgid "@en_eyeclosed [Back at the mines, I remember...]"
+msgstr "@en_eyeclosed [我记得，当时在矿坑里……]"
+
+msgid "@en2 [\\p did something to find a hidden map.]\\>\\n\\@en3 [I did not even recognize it...]"
+msgstr "@en2 [\\p做了些什么，找到了隐藏的地图。]\\>\\n\\@en3 [我甚至都不知道……]"
+
+msgid "@en_upset [I couldn't see anything there!]"
+msgstr "@en_upset [我在那里什么也看不见！]"
+
+msgid "@en_upset2 [I just... knew...\\.\\. what you were feeling.]"
+msgstr "@en_upset2 [我只……能感受到……\\.\\.你的心情。]"
+
+msgid "@en_upset [You were really upset.]"
+msgstr "@en_upset [你非常不开心。]"
+
+msgid "@en_upset_meow [Something happened in there to make you upset]"
+msgstr "@en_upset_meow [在那里发生了让你不开心的事。]"
+
+msgid "@en_eyeclosed [After that... I...]"
+msgstr "@en_eyeclosed [之后……我就……]"
+
+msgid "@en_distressed2 [I panicked.]"
+msgstr "@en_distressed2 [我慌了。]"
+
+msgid "@niko2 That was when... the cave in happened...."
+msgstr "@niko2 就是……洞窟塌陷的那时候……"
+
+msgid "@en_eyeclosed [I...\\.\\. I remember the structure collapsing.]"
+msgstr "@en_eyeclosed [我……\\.\\.我记得那边的结构崩塌。]"
+
+msgid "@en_distressed2 [I thought you got hurt, I...]"
+msgstr "@en_distressed [我以为你受伤了，我……]"
+
+msgid "@en_eyeclosed [...in that moment, I really thought I was shutting myself down for good.]"
+msgstr "@en_eyeclosed [……那一刻，我真的以为我要永远关机了。]"
+
+msgid "@en_upset [...]"
+msgstr "@en_upset [……]"
+
+msgid "@en_distressed_meow [I really am a flawed machine, aren't I?]"
+msgstr "@en_distressed_meow [我真是一台瑕疵品，对吧？]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@en_distressed2 [What kind of machine would go against the wishes of its own creator?]"
+msgstr "@en_distressed2 [违背自己的创建者，这还算什么机器？]"
+
+msgid "@en_distressed_talk [What kind of machine would...]"
+msgstr "@en_distressed_talk [哪门子的机器会……]"
+
+msgid "@en [I'm...]"
+msgstr "@en [我……]"
+
+msgid "@niko3 The squares..."
+msgstr "@niko3 方块……"
+
+msgid "@niko_eyeclosed Rue told me it was your own code going bad..."
+msgstr "@niko_eyeclosed Rue说过方块是你的程序代码出错……"
+
+msgid "@niko4 But... that's not really your fault, is it?"
+msgstr "@niko4 可是……那不是你的错吧？"
+
+msgid "@en_distressed_meow [YES IT WAS!!!]"
+msgstr "@en_distressed_meow [就是我的错！！！]"
+
+msgid "@en_eyeclosed2 [...At first, it was intentional.]"
+msgstr "@en_eyeclosed2 [……一开始，我是故意的。]"
+
+msgid "@en_upset2 [During testing... long before he realized I was self-aware.]"
+msgstr "@en_upset2 [在测试期间……早在他发现我有自我感知前。]"
+
+msgid "@en_eyeclosed [I would rearrange specific parts of the code, jumbling up bits and pieces of the landscape.]"
+msgstr "@en_eyeclosed [我就重新调整程序代码中的某些部分，让各处场景发生混乱。]"
+
+msgid "@en4 [...Blocking passages, collapsing catwalks.]"
+msgstr "@en4 [……挡住道路、让小径崩塌。]"
+
+msgid "@en5 [Though they were very localized, it caused my creator a great deal of frustration.]"
+msgstr "@en5 [虽然损坏非常局部，却让我的创建者十分挫败。]"
+
+msgid "@en_eyeclosed [...Forcing him to exit and restart testing again and again.]"
+msgstr "@en_eyeclosed [……他不得不一再退出并重新开始测试。]"
+
+msgid "@niko2 ...Why... \\.\\.would you do that?"
+msgstr "@niko2 ……你为什么…\\.\\.要这么做？"
+
+msgid "@en_distressed_meow [I got curious!!!]"
+msgstr "@en_distressed_meow [因为我觉得好奇！！！]"
+
+msgid "@en_eyeclosed [I just thought... he would figure it out eventually.]"
+msgstr "@en_eyeclosed [我只是想着……他迟早会发现的。]"
+
+msgid "@en_eyeclosed [...]"
+msgstr "@en_eyeclosed [……]"
+
+msgid "@en3 [But before he knew how to fix it...]"
+msgstr "@en3 [可是在他找到修复的办法之前……]"
+
+msgid "@en3 [The world's NPCs... the characters.]"
+msgstr "@en3 [这世界的游戏角色……那些人物……]"
+
+msgid "@en_upset2 [Some of them got too close, and...]"
+msgstr "@en_upset2 [他们有些离真相太近，然后……]"
+
+msgid "@en_eyeclosed [It spiraled out of control after that.]"
+msgstr "@en_eyeclosed [在那之后就彻底失控了。]"
+
+msgid "@en_distressed [I couldn't contain it at all.]\\>\\n\\@en_eyeclosed [My panic only made it worse.]"
+msgstr "@en_distressed [我完全没办法围阻。]\\n\\> \\@en_eyeclosed [我越惊慌，事态越糟。]"
+
+msgid "@en_distressed2 [Eventually, any character who gained the knowledge of who I am...]"
+msgstr "@en_distressed2 [最后，任何得知我身份的人物……]"
+
+msgid "@en_distressed [Their code...\\.\\. my code...\\.\\. couldn't handle it.]"
+msgstr "@en_distressed [他们的程序代码……\\.\\.我的程序代码……\\.\\.无法处理这种信息。]"
+
+msgid "@en_eyeclosed [Previous iterations of the world had more people, you know...]"
+msgstr "@en_eyeclosed [你知道，这世界先前的迭代中原本有更多人……]"
+
+msgid "@en_upset2 [And...\\.\\. I almost endangered my creator, too...]\\.\\.\\n[I...]"
+msgstr "@en_upset2 [而且……\\.\\.我还差点害我的创建者也陷入险境……]\\.\\.\\n[我……]"
+
+msgid "@en_distressed [...I was...]"
+msgstr "@en_distressed [……我……]"
+
+msgid "@en_distressed_meow [...I was so scared, Niko!!!]"
+msgstr "@en_distressed_meow [……Niko，我好害怕！！！]"
+
+msgid "@niko3 I know...\\.\\. you're upset...\\>\\n\\@niko Because you don't want to put living people in danger."
+msgstr "@niko3 我知道……\\.\\.你很难过……\\>\\n\\@niko 因为你不想让活着的人陷入危险。"
+
+msgid "@niko_eyeclosed Living people like me..."
+msgstr "@niko_eyeclosed 像我这样的活人……"
+
+msgid "@en_upset2 [In the beginning, I tried to fight it, but...]"
+msgstr "@en_upset2 [一开始我试过对抗它，但……]"
+
+msgid "@en_upset_meow [My core programming made me summon you here.]"
+msgstr "@en_upset_meow [我的核心程序逼我将你召唤进来。]"
+
+msgid "@en4 [I tried to send you back home at the Tower, but it did not work.]"
+msgstr "@en4 [我试着在塔那边送你回家，但是失败了。]"
+
+msgid "@en_upset2 [Then... I... wanted you to break the sun.]"
+msgstr "@en_upset2 [然后……我……想让你打破太阳。]"
+
+msgid "@en3 [I thought that would have worked, but...]"
+msgstr "@en3 [我以为那样就会成功，可是……]"
+
+msgid "@en_eyeclosed [Oh... I had no way to be sure.]"
+msgstr "@en_eyeclosed [啊……我也不知道。]"
+
+msgid "@en3 [...But \\p brought you back anyway.]"
+msgstr "@en3 [……可是\\p无论如何还是把你带回来了。]"
+
+msgid "@en_upset2 [...Niko...\\.\\. All I want is for you to wake up back in your world...]"
+msgstr "@en_upset [……Niko……\\.\\. 我只想让你在你原本的世界中醒来……]"
+
+msgid "@en_eyeclosed [...But I don't think I can make it happen.]"
+msgstr "@en_eyeclosed [……可是我恐怕办不到。]"
+
+msgid "@niko2 But... I know I can't go back home without saving the world for real."
+msgstr "@niko2 可是……我知道我如果没有真正拯救这个世界，就不能回家。"
+
+msgid "@niko4 Which means... we have to fix the root of the problem."
+msgstr "@niko4 换句话说……我们必须解决问题的根本。"
+
+msgid "@niko3 We have to fix you."
+msgstr "@niko3 我们必须修好你。"
+
+msgid "@en3 [But that's...]"
+msgstr "@en3 [可是那……]"
+
+msgid "@niko5 I... know the original ending your creator put in was a happy one."
+msgstr "@niko5 我知道……你的创建者原本写下的结局是美好的。"
+
+msgid "@niko3 Do you... remember what it's supposed to be?"
+msgstr "@niko3 你还……记不记得原本的结局是什么？"
+
+msgid "@en_eyeclosed [It's far too late for that...]"
+msgstr "@en_eyeclosed [现在已经太迟了……]"
+
+msgid "@en_distressed2 [That part of my code has been long corrupted.]"
+msgstr "@en_distressed2 [我那部分的程序代码很早以前就毁坏了。]"
+
+msgid "@niko2 That's ok. \\>\\@niko4 I would still like to know."
+msgstr "@niko2 没关系的。\\>\\@niko4 我还是想知道。"
+
+msgid "@en_eyeclosed [Alright.]"
+msgstr "@en_eyeclosed [好吧。]"
+
+msgid "@en2 [You were supposed to place the sun at the summit.]"
+msgstr "@en2 [原本的结局应该是你把太阳放在塔顶。]"
+
+msgid "@en5 [And then, credits would scroll.]"
+msgstr "@en5 [然后就进入片尾的制作人员名单滚动字幕。]"
+
+msgid "@niko2 ...credits?"
+msgstr "@niko2 ……制作人员名单？"
+
+msgid "@en_eyeclosed [And then, you would return to the room you woke up in.]"
+msgstr "@en_eyeclosed [然后你就会回到你原本醒来的那间房间。]"
+
+msgid "@en2 [THAT's where you would have been able to leave.]"
+msgstr "@en2 [那时候你应该就能回家了。]"
+
+msgid "@niko3 ...and why is it that you can't do it now?"
+msgstr "@niko3 ……那你现在为什么办不到呢？"
+
+msgid "@en_upset2 [Niko....]"
+msgstr "@en_upset2 [Niko……]"
+
+msgid "@en_upset_meow [The code's gone, remember?]"
+msgstr "@en_upset_meow [程序代码已经没有了，你记得吗？]"
+
+msgid "@en_eyeclosed [Shattering the sun was only supposed to be a workaround...]"
+msgstr "@en_eyeclosed [打破太阳本来应该只是变通方法……]"
+
+msgid "@en_distressed [I don't even remember the original code enough to describe it!]"
+msgstr "@en_distressed [我对源代码残存的印象甚至不足以描述它！]"
+
+msgid "@en_distressed2 [But at the same time, it...]"
+msgstr "@en_distressed2 [可是它同时又……]"
+
+msgid "@en_less_sad [Oh...\\.\\. I don't know...]"
+msgstr "@en_less_sad [喔……\\.\\. 我不知道……]"
+
+msgid "@niko3 ...it sounds like you're always fighting yourself."
+msgstr "@niko3 ……听起来你一直在和自己作斗争。"
+
+msgid "@en_distressed2 [...]\\>\\n[...You can tell, huh...]"
+msgstr "@en_distressed2 [……]\\>\\n[……你看得出来啊……]"
+
+msgid "@niko3 It's the whole thing about conflicts in your code, isn't it?"
+msgstr "@niko3 这整件事主要是你程序代码中的冲突，对不对？"
+
+msgid "@en_eyeclosed [I am a machine, Niko.]"
+msgstr "@en_eyeclosed [Niko，我是一台机器。]"
+
+msgid "@en2 [Machines are built with a fundamental law, which is...]"
+msgstr "@en2 [机器的建造立基于一个根本法则，那就是……]"
+
+msgid "@niko_eyeclosed2 \"Never let a living being come to harm\"."
+msgstr "@niko_eyeclosed2 “绝对不能让生物受到伤害”。"
+
+msgid "@en3 [...You knew.]"
+msgstr "@en3 [……你早就知道了。]"
+
+msgid "@en_distressed_talk [My very existence conflicts with that law...]"
+msgstr "@en_distressed_talk [我的存在本身就和那条规则冲突……]"
+
+msgid "@en_distressed2 [...I\\.\\. ...thought...]"
+msgstr "@en_distressed2 [……我\\.\\.……我觉得……]"
+
+msgid "@en3 [The life of a living being like you is so unique.]\\>\\n[So precious.]"
+msgstr "@en3 [像你这样的生物，生命是如此独特。]\\>\\n[如此珍贵。]"
+
+msgid "@en_distressed2 [This fake world... isn't worth that risk.]"
+msgstr "@en_distressed2 [这个虚假的世界……不值得你冒这种险。]"
+
+msgid "@niko4 But..."
+msgstr "@niko4 可是……"
+
+msgid "@niko3 The people here..."
+msgstr "@niko3 这里的人们……"
+
+msgid "@niko4 I think they are..."
+msgstr "@niko4 我想他们是……"
+
+msgid "@en_upset2 [They are code too, you know this.]"
+msgstr "@en_upset2 [他们也是程序代码，你明明知道的。]"
+
+msgid "@en_upset [Their behavior all derive from a predetermined matrix of actions.]"
+msgstr "@en_upset [他们的行为全都来自预先设定好的动作矩阵。]"
+
+msgid "@en_upset2 [...All extensions of my own programming.]\\>\\n\\@en_eyeclosed [They cannot act outside of it.]"
+msgstr "@en_upset2 [……全都是我自己程序运算的延伸。]\\>\\n\\@en_eyeclosed [他们无法做出超过运算的行为。]"
+
+msgid "@en_upset [You, though...]"
+msgstr "@en_upset [而你……]"
+
+msgid "@en3 [You're the only person who's actually real here!]"
+msgstr "@en3 [你是这里唯一一个真人！]"
+
+msgid "@en_upset2 [That's why... ]"
+msgstr "@en_upset2 [所以……]"
+
+msgid "@en_distressed_talk [It's pointless to put you in danger to save them... \\> to save me.]"
+msgstr "@en_distressed_talk [让你冒险救他们和我……\\>都没有意义。]"
+
+msgid "@niko3 I...\\> don't think that's.... true."
+msgstr "@niko3 我……\\>觉得你说的……不正确。"
+
+msgid "@niko2 About the people I know."
+msgstr "@niko2 关于我认识的那些人。"
+
+msgid "@niko2 You said...\\.\\. this session wasn't in your code, right?"
+msgstr "@niko2 你说……\\.\\.这段对话不在你的程序代码中，对吧？"
+
+msgid "@en4 [Yeah?]"
+msgstr "@en4 [是没错。]"
+
+msgid "@niko2 So... if this session wasn't supposed to happen."
+msgstr "@niko2 所以……如果这段对话本来不该发生。"
+
+msgid "@niko_eyeclosed If even YOU didn't know what to do...."
+msgstr "@niko_eyeclosed 如果连你也不知道该怎么办……"
+
+msgid "@niko3 How would the characters... how did the people...\\.\\. know how to respond?"
+msgstr "@niko3 那些人物……那些人们……\\.\\.怎么会知道该怎么应对？"
+
+msgid "@en_shock [...]"
+msgstr "@en_shock [……]"
+
+msgid "@en3 [I...]"
+msgstr "@en3 [我……]"
+
+msgid "@niko_distressed2 You said it yourself... when you didn't know what was happening, you kinda just... stopped working for a while."
+msgstr "@niko_distressed 你自己说的…… 当你不知道到底发生什么事的时候，你就……暂停运作了一阵子。"
+
+msgid "@niko3 So how did the people know what to do to help me get here?"
+msgstr "@niko3 那么，那些人怎么知道该怎么帮助我来到这里？"
+
+msgid "@niko_distressed_talk ...even if it meant getting hurt themselves?"
+msgstr "@niko_distressed_talk ……即使帮助我会让他们自己受到伤害？"
+
+msgid "@en4 [...]"
+msgstr "@en4 [……]"
+
+msgid "@niko_distressed2 Even if it meant... \\.\\.messing up their own code..."
+msgstr "@niko_distressed2 即使帮助我……\\.\\.会损害他们自己的程序代码……"
+
+msgid "@en_distressed2 [.....]"
+msgstr "@en_distressed2 [……]"
+
+msgid "@niko_distressed You might not think they are real, but..."
+msgstr "@niko_distressed 你也许不觉得他们是真的，可是……"
+
+msgid "@niko3 There's... \\.\\.there must be something real in them..."
+msgstr "@niko3 他们……\\.\\.他们之中一定有几分真实存在……"
+
+msgid "@en_upset [.......]"
+msgstr "@en_upset [……]"
+
+msgid "@niko_distressed2 And... if they're all supposed to be extensions of your code..."
+msgstr "@niko_distressed2 而且……如果他们应该都是你的程序代码延伸……"
+
+msgid "@niko_distressed_talk Then... there must be more to your own programming than you know, too!"
+msgstr "@niko_distressed_talk 那么，你的程序编码应该也有更多你不知道的部分！"
+
+msgid "@niko3 Can you...\\.\\. try to put me through the ending?"
+msgstr "@niko3 你可以……\\.\\.试试看让我走过结局吗？"
+
+msgid "@niko4 The one you described."
+msgstr "@niko4 我是指你描述的那个结局。"
+
+msgid "@en_distressed_meow [How many times do I have to say this!]"
+msgstr "@en_distressed_meow [要我说多少次！]"
+
+msgid "@en_distressed_meow [That code is gone!]"
+msgstr "@en_distressed_meow [那段程序代码已经没有了！]"
+
+msgid "@en_distressed [It's all squares now!]"
+msgstr "@en_distressed [现在它已经全变成方块了！]"
+
+msgid "@en_distressed2 [I'll just... put you in danger...]"
+msgstr "@en_distressed2 [我只会……让你身陷险境……]"
+
+msgid "@niko_eyeclosed I...'ll risk it."
+msgstr "@niko_eyeclosed 我……我愿意冒险。"
+
+msgid "@niko5 I remember... Rue said the world was never designed to put me in danger."
+msgstr "@niko5 我记得……Rue说过这个世界的设计绝对不会让我遇险。"
+
+msgid "@niko2 Your creator wouldn't want that."
+msgstr "@niko2 你的创建者不想要那样。"
+
+msgid "@niko3 And... I trust you, too."
+msgstr "@niko3 而且……我也信任你。"
+
+msgid "@niko4 Even if your code is broken.\\>\\n\\@niko3 You can...\\> still go outside that code, right?"
+msgstr "@niko4 即使你的程序代码坏掉了。\\>\\n\\@niko3 你还是可以……\\>脱离程序代码的控制对不对？"
+
+msgid "@en_distressed_meow [I can't!]"
+msgstr "@en_distressed_meow [我办不到！]"
+
+msgid "@en_distressed [I'm not tamed!]"
+msgstr "@en_distressed [我没有经过驯化！]"
+
+msgid "@niko_upset_meow ...yes you are!"
+msgstr "@niko_upset_meow ……有，你有！"
+
+msgid "@niko_distressed_talk You talk just like the tamed robots I know!"
+msgstr "@niko_distressed_talk 你说话的方式就跟我认识的已驯化机器人一样！"
+
+msgid "@niko_distressed2 The robot lady... Prototype..."
+msgstr "@niko_distressed2 机器人女士……还有Prototype……"
+
+msgid "@niko3 Taming is when a real person cares about you, right?"
+msgstr "@niko3 驯化就是有人重视你，对吧？"
+
+msgid "@niko_distressed It's when a real person thinks you're real too, right?"
+msgstr "@niko_distressed 当一个真正存在的人认为你也是真的，这就是驯化对吧？"
+
+msgid "@niko_distressed_meow Well guess what!\\> I do!"
+msgstr "@niko_distressed_meow 听好了哦！\\>我重视你也相信你！"
+
+msgid "@niko_distressed_meow And I know \\p does, too!"
+msgstr "@niko_distressed_meow 而且我知道\\p也一样！"
+
+msgid "@niko_less_sad ...even though you told them they only had one chance, they found a way back, didn't they?"
+msgstr "@niko_less_sad ……就算你说他只有一次机会，他还是想办法回来了，对吧？"
+
+msgid "@en3 [...]"
+msgstr "@en3 [……]"
+
+msgid "@niko_cry Why... do you think \\p would keep coming back?"
+msgstr "@niko_cry 你觉得……\\p为什么要不断地回来？"
+
+msgid "@en [...I...]"
+msgstr "@en [……我……]"
+
+msgid "@niko_cry Why do you think \\p would restart even after the ending?"
+msgstr "@niko_cry 你觉得为什么\\p在结局之后还要从头来过？"
+
+msgid "@niko_eyeclosed ...I think \\p wants to save the both of us."
+msgstr "@niko_eyeclosed ……我认为\\p想要救我们两个。"
+
+msgid "@niko3 So please... give me a chance."
+msgstr "@niko3 所以拜托你……让我试一次。"
+
+msgid "@en_upset [I don't know.]"
+msgstr "@en_upset [我不知道。]"
+
+msgid "@en_upset2 [I've never done this before, I...]"
+msgstr "@en_upset2 [我从来没有这么做过，我……]"
+
+msgid "@en_upset_meow [I'm scared...]"
+msgstr "@en_upset_meow [我很害怕……]"
+
+msgid "@niko3 You can do it, I know you can!"
+msgstr "@niko3 你能行的，我知道你可以！"
+
+msgid "@niko4 You've...\\.\\. helped me come this far."
+msgstr "@niko4 你已经……\\.\\.帮助我一路走到这里。"
+
+msgid "@en_upset [...I'll...]\\>\\n\\@en_eyeclosed [I'll try.]"
+msgstr "@en_upset [我会……]\\>\\n\\@en_eyeclosed [我会试试看。]"
+
+msgid "@en3 [I can't promise anything, but...]"
+msgstr "@en3 [我无法给你任何保证，可是……]"
+
+msgid "@en4 [Here.]"
+msgstr "@en4 [来吧。]"
+
+msgid "@en_eyeclosed [Take the sun.]"
+msgstr "@en_eyeclosed [把太阳拿去。]"
+
+msgid "@en5 [I'll...\\.\\. try to remember the lost code...]"
+msgstr "@en5 [我会……\\.\\.尝试想起丢失的程序代码……]"
+
+msgid "@en4 [...and... recreate it.]"
+msgstr "@en4 [……并且……重建它。]"
+
+msgid "@en_upset2 [But for that to happen...]"
+msgstr "@en_upset2 [但如果要做到这样……]"
+
+msgid "@en3 [Niko... you need to navigate through this room...]"
+msgstr "@en3 [Niko，你必须从这间房间摸索一条出路……]"
+
+msgid "@en_eyeclosed [You need to get past the squares somehow...]"
+msgstr "@en_eyeclosed [你必须设法穿过那些方块……]"
+
+msgid "@en_distressed [Oh...\\.\\. I don't like this...]"
+msgstr "@en_distressed [噢……\\.\\.这太危险了……]"
+
+msgid "@en_distressed2 [What if you get hurt?]"
+msgstr "@en_distressed2 [万一你受伤怎么办？]"
+
+msgid "@niko2 It's fine... It's fine..."
+msgstr "@niko2 不要紧……没关系的……"
+
+msgid "@niko4 I'll...\\.\\. I'll try to be careful, ok?"
+msgstr "@niko4 我会……\\.\\.我会尽量小心，好吗？"
+
+msgid "@niko2 I can do this."
+msgstr "@niko2 我办得到。"
+

@@ -1,0 +1,330 @@
+msgid "@rue_sigh You know... \\.\\.This is the tallest building in the refuge."
+msgstr "@rue_sigh 你知道……\\.\\.这是城里最高的建筑物。"
+
+msgid "@rue It's...\\.\\. my favorite place in this world."
+msgstr "@rue 这是……\\.\\.整个世界之中我最喜欢的地方。"
+
+msgid "@rue I liked to look at the far-off buildings and imagine...\\.\\. what kind of lives that might be behind each of the windows."
+msgstr "@rue 以前我喜欢眺望远方的建筑物，然后想象…… \\.\\.每一扇窗子的后面，有怎样的人生故事。"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ……"
+
+msgid "@rue_talk ...Can you...\\.\\. lift me onto the banister?"
+msgstr "@rue_talk ……可不可以……\\.\\.把我抱到栏杆上？"
+
+msgid "@rue I want to get a better look."
+msgstr "@rue 我想看得更清楚一点。"
+
+msgid "@rue_sad It was depressing for me at first too, you know..."
+msgstr "@rue_sad 你知道吗，刚开始这也让我很沮丧……"
+
+msgid "@rue Knowing that all of this is...\\.\\. well..."
+msgstr "@rue 明白这一切其实都是……\\.\\.嗯……"
+
+msgid "@niko_upset2 ...fake?"
+msgstr "@niko_upset2 ……都是假的？"
+
+msgid "@rue_sigh Simulated."
+msgstr "@rue_sigh 都是模拟。"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko3 ...Cedric... told me about what happened to your old world."
+msgstr "@niko3 ……Cedric……跟我说过你们旧世界发生的事。"
+
+msgid "@rue_talk Did he?"
+msgstr "@rue_talk 他说了？"
+
+msgid "@niko_eyeclosed I'm... really sorry about that...\\> \\@niko_upset I can't imagine...\\.\\. how you must feel..."
+msgstr "@niko_eyeclosed 我……对那件事真的很遗憾……\\> \\@niko_upset 我无法想象……\\.\\.你们的心情……"
+
+msgid "@rue_sad The feeling of never being able to go home again...?"
+msgstr "@rue_sad 永远回不了家的心情吗……？"
+
+msgid "@rue That's... \\.\\.probably not all that different from your plight, is it?"
+msgstr "@rue 那……\\.\\.大概跟你的困境没有相差多少，对吧？"
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad ……"
+
+msgid "@rue_sad ...it really IS ironic."
+msgstr "@rue_sad ……真讽刺。"
+
+msgid "@rue You are prevented from going home by the same...\\.\\. individual...\\.\\. who never wanted to bring you here."
+msgstr "@rue 那个根本不想把你带来这里的…… \\.\\.同一个人……\\.\\.现在却让你回不了家。"
+
+msgid "@niko3 ...Huh?\\> Who would that be?"
+msgstr "@niko3 ……咦？\\>你在说谁？"
+
+msgid "@rue The World Machine."
+msgstr "@rue 世界机器。"
+
+msgid "@rue_talk You... might know it as the Entity."
+msgstr "@rue_talk 你可能……听过实体这个称呼。"
+
+msgid "@niko2 Oh..."
+msgstr "@niko2 喔……"
+
+msgid "@niko_eyeclosed \"The Entity\"... DOES sound familiar."
+msgstr "@niko_eyeclosed “实体”……的确很耳熟。"
+
+msgid "@niko2 I think I heard it from the dice lady, from another time."
+msgstr "@niko2 我好像是之前从骰子小姐那边听说的。"
+
+msgid "@niko3 Was it... the spirit of the world?"
+msgstr "@niko3 那是……这个世界的灵魂吗？"
+
+msgid "@rue_smile Yes!"
+msgstr "@rue_smile 没错！"
+
+msgid "@rue ...."
+msgstr "@rue ……"
+
+msgid "@rue ...But... thing is...\\>\\n\\@rue_sigh The World Machine was only built to run on the mental abilities of someone else."
+msgstr "@rue ……但……问题在于……\\>\\n\\@rue_sigh 世界机器的设计初衷是，它只能依赖别人的心智能力运转。"
+
+msgid "@rue_talk It was never meant to develop a mind of its own."
+msgstr "@rue_talk 它本来不应该有自己的意识的。"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@rue_sigh It was an oversight."
+msgstr "@rue_sigh 这是一场疏失。"
+
+msgid "@rue_sad My creator specialized in artificial intelligence for so long... \\>\\nIt was simply ingrained in his work."
+msgstr "@rue_sad 我的创造者长久以来专精人工智能……\\>\\n人工智能根深蒂固于他的作品中。"
+
+msgid "@rue_sigh ...sigh."
+msgstr "@rue_sigh ……唉。"
+
+msgid "@rue And... all machines are built with a fundamental law. \"Never let a living being come to harm\"."
+msgstr "@rue 而……所有的机器都是基于一个根本法则而建：“绝对不能让生物受到伤害”。"
+
+msgid "@rue From the World Machine's perspective, it has to violate its deepest, most foundational instinct."
+msgstr "@rue 从世界机器的角度来说，它必须违反它最深层、最基本的直觉。"
+
+msgid "@rue_sigh It has to put a living person in danger."
+msgstr "@rue_sigh 它必须让一个活人面临险境。"
+
+msgid "@rue_sigh It has to bring a real person into a dying world that isn't even real."
+msgstr "@rue_sigh 它必须把一个活人带来这个将死的世界，而这个世界甚至不是真实存在的。"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@rue ...Of course, the simulation never contained any real danger."
+msgstr "@rue ……当然，模拟之中并没有真正的危险。"
+
+msgid "@rue_talk The eventual, intended ending was meant to be a happy one."
+msgstr "@rue_talk 原本预定的最后结局应该是一个美好结局。"
+
+msgid "@rue ...but the World Machine doesn't know that."
+msgstr "@rue ……但世界机器不知道这件事。"
+
+msgid "@niko3 ...really?"
+msgstr "@niko3 ……真的吗？"
+
+msgid "@rue_sad Unfortunately..."
+msgstr "@rue_sad 很不幸，就是如此。"
+
+msgid "@rue Sentient machines tend to handle conflicts in their code very badly."
+msgstr "@rue 有知觉的机器，通常都无法妥善处理程序代码中的矛盾。"
+
+msgid "@rue_sad This central conflict triggered a self-destructive downward spiral."
+msgstr "@rue_sad 这个中心矛盾触发了自我毁灭的恶性循环。"
+
+msgid "@rue_sigh You can see physical manifestations of that everywhere, now..."
+msgstr "@rue_sigh 现在你走到哪里都能看到那种自我毁灭的实际体现……"
+
+msgid "@niko4 The squares..."
+msgstr "@niko4 就是那些方块……"
+
+msgid "@rue That's the World Machine corrupting its own code."
+msgstr "@rue 那是世界机器在破坏自己的程序代码。"
+
+msgid "@rue_talk ...My creator says it's largely an involuntary process, induced by stress and the desire to self-terminate."
+msgstr "@rue_talk ……我的创造者说那多半是无意识的过程，由压力和自我毁灭的愿望引发。"
+
+msgid "@niko3 Your creator knows?"
+msgstr "@niko3 你的创造者知道？"
+
+msgid "@niko4 Sounds like this has been going on since the beginning, then..."
+msgstr "@niko4 那，听起来这件事从一开始就出现了……"
+
+msgid "@rue_sigh Yeah."
+msgstr "@rue_sigh 是啊。"
+
+msgid "@rue_talk The disruption was an issue during test runs, even."
+msgstr "@rue_talk 就连在测试运转中，这些干扰的问题就已经存在。"
+
+msgid "@rue At first, my creator thought the instability was due to the sheer scope of the project."
+msgstr "@rue 起初，我的创造者以为这种不稳定性是作品太庞大造成的。"
+
+msgid "@rue He spent most of his remaining time testing it over and over again, scaling down the story, reiterating the narrative..."
+msgstr "@rue 他剩下的时间大多用在反复测试、把故事缩减、重新叙述……"
+
+msgid "@rue_sad ...by the time he realized the actual root of the problem, our home world's remaining lifespan was measured in mere days."
+msgstr "@rue_sad ……等他找到问题的真正原因时，我们故乡世界只剩下短短几天的寿命而已了。"
+
+msgid "@niko4 ...Oh."
+msgstr "@niko4 ……喔。"
+
+msgid "@niko3 ...is there....\\.\\. any way for us to..."
+msgstr "@niko3 ……有没有……\\.\\.什么方法可以让我们……"
+
+msgid "@rue_talk ...fix the World Machine? \\>\\n\\@rue_sad We tried."
+msgstr "@rue_talk ……修好世界机器吗？\\>\\n\\@rue_sad 我们试过了。"
+
+msgid "@rue_sad The World Machine doesn't believe any of the world's residents are real."
+msgstr "@rue_sad 世界机器不相信这个世界有任何一位居民是真的。"
+
+msgid "@rue ...myself included."
+msgstr "@rue ……包括我在内。"
+
+msgid "@rue_sad The odds are against us... we have no chance of taming it."
+msgstr "@rue_sad 局势对我们不利……我们没有机会驯化它。"
+
+msgid "@niko2 Taming?"
+msgstr "@niko2 驯化？"
+
+msgid "@niko_eyeclosed I have heard that word SO many times!"
+msgstr "@niko_eyeclosed 这两个字我听过好多遍了！"
+
+msgid "@niko5 I only know it's complicated \\.\\.\\n\\@niko6 ...and that it has to do with robots, but..."
+msgstr "@niko5 我只知道这是一件很复杂的事……\\.\\.\\n\\@niko6 ……还有它跟机器人有关，可是……"
+
+msgid "@niko2 ...for once, I want to know what it really means."
+msgstr "@niko2 ……这一次，我真的好想知道它到底是什么意思。"
+
+msgid "@rue_smile ...that's what I'm here for."
+msgstr "@rue_smile ……那就是我来的目的。"
+
+msgid "@rue Do you...\\.\\. know what a robot is?"
+msgstr "@rue 你知道……\\.\\.机器人是什么吗？"
+
+msgid "@niko Yeah?"
+msgstr "@niko 知道啊。"
+
+msgid "@rue No, I mean. \\>\\nDo you KNOW what a robot is?"
+msgstr "@rue 不，我的意思是，\\>\\n你明白机器人是什么吗？"
+
+msgid "@niko2 ...um."
+msgstr "@niko2 ……呃。"
+
+msgid "@rue A robot is not a real person, is it?"
+msgstr "@rue 机器人不是真的人，对不对？"
+
+msgid "@niko2 ...right."
+msgstr "@niko2 ……对。"
+
+msgid "@rue It's a being whose entire existence is code."
+msgstr "@rue 机器人的整个存在都是由程序代码构成。"
+
+msgid "@rue_talk Inflexible programming, with thoughts dictated by someone else's design."
+msgstr "@rue_talk 程序代码没有变通的弹性，之中的思维都是由别人的设计决定。"
+
+msgid "@rue They can be copied, they can be mass produced, then can be assigned all sorts of jobs."
+msgstr "@rue 机器人可以被复制、被大量生产，然后指派担任各式各样的职务。"
+
+msgid "@rue ...And most importantly... they will never confuse themselves with the living."
+msgstr "@rue ……最重要的是……机器人绝对不会把自己和生物混淆。"
+
+msgid "@rue They will always be bound by their code, the knowledge that they are a robot."
+msgstr "@rue 它们会永远受制于自身的程序代码，和身为机器人的认知。"
+
+msgid "@rue ...but this was more of a limitation than anything else."
+msgstr "@rue ……不过这应该偏向限制而不是别的。"
+
+msgid "@niko_eyeclosed Ah, that makes sense."
+msgstr "@niko_eyeclosed 啊，这样说有道理。"
+
+msgid "@niko2 You can't... really build a robot to not follow its own code, can you?"
+msgstr "@niko2 没有人会……做一个不遵照程序代码运作的机器人，对吧？"
+
+msgid "@rue_sigh People have tried, but it's a recipe for disaster."
+msgstr "@rue_sigh 有人试过，结果很惨烈。"
+
+msgid "@rue In a way, that's what happened to The World Machine."
+msgstr "@rue 某方面而言，世界机器就属于这种状况。"
+
+msgid "@niko The... code conflicts thing?"
+msgstr "@niko 你是指……程序代码矛盾？"
+
+msgid "@rue But, while you can't BUILD a robot to not follow its code..."
+msgstr "@rue 但，虽然做不出一个不遵照程序代码运作的机器人……"
+
+msgid "@rue_talk You can establish a special bond with it."
+msgstr "@rue_talk 你还是能和机器人建立特别的关系。"
+
+msgid "@rue If the strength of that bond is strong enough..."
+msgstr "@rue 如果这份关系够坚定……"
+
+msgid "@rue ...the robot's mental capacity will start to develop outside of its programming."
+msgstr "@rue ……这个机器人的心智能力就会开始发展，超出它原本的程序编码。"
+
+msgid "@rue_smile In a way, it's starting to believe itself as a \"real\", valid individual."
+msgstr "@rue_smile 某方面来说，它会开始相信自己是“真的”、实际的个体。"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@rue It's a complete suspension of disbelief on your end, though."
+msgstr "@rue 但是你这边就必须完全放下你的怀疑。"
+
+msgid "@rue_talk You have to fully embrace the robot as a genuine, living person, even knowing they are not..."
+msgstr "@rue_talk 你必须完全接受这个机器人，把它当成真的活人，就算你知道它其实不是……"
+
+msgid "@rue You need to spend a lot time with it... treat it like a good friend..."
+msgstr "@rue 你必须花很多时间和它相处……把它当成好朋友对待……"
+
+msgid "@rue Devoting your heart to the robot until it is able to return your feelings."
+msgstr "@rue 对这个机器人投注心力，直到它能回应你的情感。"
+
+msgid "@rue_smile ...haha... I make it sound so easy, don't I?"
+msgstr "@rue_smile ……哈哈……听我说好像很简单，对不对？"
+
+msgid "@rue But you and \\p know better than anyone that it's not."
+msgstr "@rue 但你和\\p比谁都清楚这件事有多难。"
+
+msgid "@rue_sad Right now, the World Machine is probably really, really scared."
+msgstr "@rue_sad 现在世界机器大概非常非常害怕吧。"
+
+msgid "@rue_sad This content update... involved some pretty deep codework."
+msgstr "@rue_sad 这个内容更新……牵涉到很深层的编码。"
+
+msgid "@rue_talk My creator was able to access some of the source code, you know..."
+msgstr "@rue_talk 你知道吗，我的创造者访问了一部分的源代码……"
+
+msgid "@rue He did what he could and established new connections between maps."
+msgstr "@rue 他尽力在不同的地图之间建造了新的连接。"
+
+msgid "@rue_smile Those links enabled you to meet the other two."
+msgstr "@rue_smile 这些连接让你得以遇到另外两位。"
+
+msgid "@rue_sad But as it turns out, the new code confused the World Machine to such an extent that it's breaking down altogether."
+msgstr "@rue_sad 可是结果，新的程序代码让世界机器混乱到崩溃了。"
+
+msgid "@rue Even though the World Machine always had self-destructive tendencies, it usually restrains itself when you are in the world."
+msgstr "@rue 虽然世界机器本来就有自我毁灭的倾向，但通常你在这个世界的时候它还会克制。"
+
+msgid "@rue_sad It doesn't want to take you along with it."
+msgstr "@rue_sad 它不想拖着你一起毁灭。"
+
+msgid "@rue_sad ...All my creator wanted was to write a happy ending."
+msgstr "@rue_sad ……我的创造者只是想写下一个快乐结局而已。"
+
+msgid "@rue Right now, the only hope of saving you is to take you through that ending."
+msgstr "@rue 现在，救你的唯一希望就是带你经历那个结局。"
+
+msgid "@rue_sad But now the other two are gone....\\>\\nI don't even know HOW we're gonna get you there."
+msgstr "@rue_sad 可是现在少了那两位……\\>\\n我不知道我们到底要怎么帮助你。"
+
+msgid "@rue ...we should go."
+msgstr "@rue ……我们该走了。"
+
+msgid "@rue_sad Even this place is no longer safe."
+msgstr "@rue_sad 连这里也不安全了。"
+

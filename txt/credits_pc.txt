@@ -1,0 +1,234 @@
+﻿制作人员名单
+=======
+
+编程
+-----------
+
+* Eliza Velasquez
+* Michael Shirt
+
+图像
+--------
+
+* Nightmargin (Casey Gu)
+
+角色设计
+----------------
+
+* Nightmargin
+* Maize and George by Eliza
+
+原声音乐
+----------
+
+* Nightmargin
+* 额外曲目由Eliza与Michael创作
+* 部分音乐采样由FreeSound.org用户提供
+  Jovica、Dymewiz、hanstimm与Freed
+
+故事创作
+-----
+
+* 玩法概念：Eliza
+* 整体情节与世界观设计：Nightmargin，Eliza
+* 写作：Nightmargin, Eliza, Michael
+* 写作（朋友档案）：Taeler Dixon
+
+企鹅贡献者
+--------------------
+
+* Matthew Martinez
+* Alexander McCaskey
+* Taeler Dixon
+
+系统编程
+-------------------
+
+* Michael Shirt
+* Taeler Dixon
+
+制作人（2016版）
+-----------------------
+
+* Mark Conforti
+
+2016版测试员
+------------------
+
+* Jason Black
+* Sin Aria
+* Omer Oztas
+
+主机版测试员
+------------------
+
+* Dunc Graham
+* durrbill
+* Hiino
+* Konasumi
+* Laurie DeNicola
+* Robin \"Rezllen\" Crew
+
+壁纸画师
+----------------
+
+Marina "Sylladexter" K
+* 梅丝
+* 秘密公羊俱乐部
+
+Missusruin
+* 图书馆漫步
+
+Saren Stone
+* 众先知
+
+Temmie Chang
+* 咖啡厅
+
+T. C.
+* 前哨站
+* 工厂
+
+
+OneShot主机版翻译人员
+------------------------------------
+
+法语翻译
+* Mahmoud Khabatou
+
+法语审校
+* Mohamed Khabatou
+
+法语LQA
+* Mahmoud Khabatou
+
+西班牙语翻译
+* Edgar Rangel
+
+西班牙语审校
+* Sebastián Herrera
+
+西班牙语LQA
+* Jair Casillas
+
+韩语翻译
+* So-jung Jung
+
+汉语审校与LQA
+* Seo-Mi Ha
+
+巴西葡萄牙语翻译
+* Jay Ruas
+
+巴西葡萄牙语审校与LQA
+* Karina Peixe
+* Jay Ruas
+
+日语翻译与LQA
+* Sakura Yamaguchi
+
+日语审校
+* Yoshiki Kono
+
+
+游戏中使用的资源
+---------
+
+* 像素界面使用的字体为Volter (Goldfish)。
+* 拉丁文部分使用的字体为Terminus。东亚文字使用文泉驿微米黑体。另有额外界面文本使用Jenna Sue与RM Typerighter字体。详见\[授权部分\]。
+* 日文版本所用字体为東青梅ゴシック。
+* Noto Sans与Noto Sans JP为本游戏用以表示特殊符号的备用字体。
+* 以下音乐采样由FreeSound.org用户提供：
+    Black Snow              conleec
+    rivernile7              jacobalcook
+    reinsamba               kantouth
+    martinimeniscus         elliottmoo
+    Adam_N                  RHumphries
+    luffy                   samararaine
+    chrisw92                grunz
+    Autistic Lucario        fins
+    Mydo1                   kklab5050
+    D W                     Kyle1Katarn
+    LG                      soundmary
+    THE_bizniss             MAJ061785
+    mmaruska                bevangoldswair
+    Trautwein               Yoyodaman234
+    pempi                   Vosvoy
+    RutgerMuller            PatrickLieberkind
+    pakasit21               MikaF
+    nodelete                neohylanmay
+    Chocktaw                steffcaffrey
+    thearxx08               blukotek
+    are16ocean              CGEffex
+    ximian                  Werra
+    ThompsonMan             crk365
+    satanicupsman           cjosephwalker
+    Illud                   ProjectsU012
+    gerainsan               metmass
+    ludvique                plasterbrain
+    noirenex                crcavol
+    Ayliffe                 lwdickens
+    speedygonzo
+* 本游戏使用\[Bfxr\]（http://www.bfxr.net/）生成部分额外音效。
+* 地图与门扉的纹理来自\[wildtextures\]（http://www.wildtextures.com/）。另有部分资源来自Textures.com。
+* Devin Elle Kurtz（纹理笔刷）
+* Dalton Maag LtD (Aller Display字体)
+
+特别鸣谢
+-----------------
+
+* Saniblues：测试与反馈
+* Redoplus：测试与反馈
+* Almond-Goddess：测试与反馈
+* FelixTheJudge：音乐反馈
+* Albatrosssoup：音乐反馈
+* auraen：音乐反馈
+* Stanhoff：物理顾问
+* Kalkie：客串角色
+* Kitsiinabox：客串角色
+* Noxid：做自己
+* 原版*OneShot*的测试员们：
+    * DolphinsAreEvil
+    * Kyne
+    * TangyOranges
+    * letty
+    * ZeroGuilt
+    * Michael
+    * Mraof
+    * psychoTR2
+    * Nekkowe
+    * Divinuss
+    * M3ltd0wn
+    * Felix
+* 自原版发售以来支持我们的所有人。
+* 还有你！
+
+授权信息
+--------
+
+本游戏使用Firelight Technologies Pty Ltd.出品的FMOD Studio制作。
+（https://www.fmod.com/attribution）
+
+游戏中所使用的FreeSound.org音频基于以下许可：
+* \[CC0 1.0 Universal\]（http://creativecommons.org/publicdomain/zero/1.0/）
+
+* \[Attribution 3.0 Unported\]（http://creativecommons.org/licenses/by/3.0/）
+
+Terminus基于\[开源字体许可\]（http://scripts.sil.org/OFL）。
+
+Noto Sans与Noto Sans JP基于\[开源字体许可\]（http://scripts.sil.org/OFL）。
+
+東青梅ゴシック基于\[SIL开源字体许可\]（https://scripts.sil.org/OFL_web）。
+
+Jenna Sue字体已获授权，并支付相应使用费用。（http://www.jennasuedesign.com/）
+
+RM Typerighter基于\[CC BY-ND\]（https://creativecommons.org/licenses/by-nd/3.0/）。
+
+由“30100flo”创作的FontStruction字体“Thirteen Pixel Fonts”（http://fontstruct.com/fontstructions/show/761985）基于Creative Commons Attribution Share Alike许可（http://creativecommons.org/licenses/by-sa/3.0/）。
+
+文泉驿微米黑体基于\[Apache License 2.0\]（http://wenq.org/wqy2/index.cgi?Apache_License_2.0）与\[GNU General Public License v3\]（http://www.gnu.org/copyleft/gpl.html）两种许可，字体嵌入的情况除外。
+
+游戏中所使用的wildtexture纹理资源
+\[可免费商用\]（http://www.wildtextures.com/terms-of-use/）。
+
+Textures.com使用条款参见\[此处\]（https://www.textures.com/about/terms-of-use）。

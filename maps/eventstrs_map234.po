@@ -1,0 +1,3 @@
+msgid "@niko_speak It's a big fishtank!"
+msgstr "@niko_speak 好大的鱼缸！"
+

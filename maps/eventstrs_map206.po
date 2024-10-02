@@ -1,0 +1,165 @@
+msgid "@alula_pout ...Niko!"
+msgstr "@alula_pout ……Niko！"
+
+msgid "@alula_oh Niko? What's wrong?"
+msgstr "@alula_oh Niko？你还好吗？"
+
+msgid "@calamus_shock You looked like you were about to faint!"
+msgstr "@calamus_shock 你刚才像是快要晕倒了一样！"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko2 It's... not the first time it's happened."
+msgstr "@niko2 这……不是第一次发生。"
+
+msgid "@calamus ...oh?"
+msgstr "@calamus ……等等。"
+
+msgid "@niko_speak Earlier I was in the Barrens, and I...\\>\\n\\@niko6 saw something like this too."
+msgstr "@niko_speak 我之前在Barrens……\\>\\n\\@niko6 也看过类似的东西。"
+
+msgid "@niko2 It was like a dream, but only for a split second..."
+msgstr "@niko2 好像做梦一样，但是只有一瞬间……"
+
+msgid "@calamus ...sounds like a vision."
+msgstr "@calamus ……像是某种异象。"
+
+msgid "@calamus_speak Like something a prophet would see!"
+msgstr "@calamus_speak 就像预言机器人可以看到的那些东西！"
+
+msgid "@niko2 I... guess?\\n\\>\\@niko_eyeclosed The robot lady I was with earlier had a fancy word for it, though..."
+msgstr "@niko2 大概吧……？\\n\\>\\@niko_eyeclosed 不过之前跟我在一起的机器人女士有个花俏的词汇形容它……"
+
+msgid "@niko2 Wait..."
+msgstr "@niko2 等等……"
+
+msgid "@niko6 Lemme... check something."
+msgstr "@niko5 我……要确认一件事。"
+
+msgid "@niko_speak Oh!\\>\\nI was right!"
+msgstr "@niko_speak 喔！\\>\\n我想得没错！"
+
+msgid "@calamus ...huh?"
+msgstr "@calamus ……咦？"
+
+msgid "@niko When I had the vision back at the Barrens... the book started glowing too!"
+msgstr "@niko 当我在Barrens看到异象时，这本书也一样发光了！"
+
+msgid "@niko2 I wanted to see if I could get it to happen again, and..."
+msgstr "@niko2 我想看看能不能让它再发光一次，然后……"
+
+msgid "@alula_gasp Where did you get that!!!"
+msgstr "@alula_gasp 你在哪拿到那个的！！！"
+
+msgid "@niko Oh, uh... \\>\\@niko_speak I had it with me when I woke up in this world!"
+msgstr "@niko 喔，这本书吗……\\>\\@niko_speak 我在这个世界醒来的时候就带着了！"
+
+msgid "@alula_speak It looks like one of our friend's books!"
+msgstr "@alula_speak 像是我们朋友的书耶！"
+
+msgid "@alula ...Except it's glowy!"
+msgstr "@alula ……只不过这本在发光！"
+
+msgid "@niko2 ...that's what the lady said too..."
+msgstr "@niko2 ……那位女士也这么说……"
+
+msgid "@niko_eyeclosed Hm..."
+msgstr "@niko_eyeclosed 嗯……"
+
+msgid "@niko \\p... let's see if we can do anything with the journal in this room..."
+msgstr "@niko \\p……我们试试看在这间房间里能不能用这本日志做什么吧……"
+
+msgid "@alula I wonder when our friend will come back..."
+msgstr "@alula 不知道我们的朋友什么时候才回来……"
+
+msgid "@alula_gasp Woah!"
+msgstr "@alula_gasp 哇啊！"
+
+msgid "@calamus_shock How did that boat get there?"
+msgstr "@calamus_shock 那艘船怎么跑到那里的？"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ……"
+
+msgid "@niko Okay, I'm pretty sure it has to do with this journal, now..."
+msgstr "@niko 好，现在我能确定这一定跟这本日志有关了……"
+
+msgid "@niko2 The exact same thing happened back at the Barrens."
+msgstr "@niko2 在Barrens发生过一模一样的事。"
+
+msgid "@calamus_speak Seriously?"
+msgstr "@calamus_speak 真的假的？"
+
+msgid "@niko The journal was glowing, so I wanted to take a closer look at it."
+msgstr "@niko 当时日志在发光，所以我想仔细看看。"
+
+msgid "@niko2 Then, I found a page that looked like a drawing of the room we were in, and then..."
+msgstr "@niko2 我翻到其中一页，上面的图和当时的房间布置一样， 然后……"
+
+msgid "@niko_speak A minecart showed up!"
+msgstr "@niko_speak 就出现了一台矿车！"
+
+msgid "@calamus_shock What!"
+msgstr "@calamus_shock 什么！"
+
+msgid "@alula_gasp What!"
+msgstr "@alula_gasp 什么！"
+
+msgid "@calamus_speak That sounds freaky..."
+msgstr "@calamus_speak 听起来有点诡异……"
+
+msgid "@alula_speak No it doesn't!"
+msgstr "@alula_speak 才不呢！"
+
+msgid "@alula_gasp \\p must've done something!"
+msgstr "@alula_gasp 一定是\\p做了什么！"
+
+msgid "@calamus Still..."
+msgstr "@calamus 可是……"
+
+msgid "@alula_gasp ...Hey! We have a boat now!"
+msgstr "@alula_gasp ……嘿！现在我们有船了！"
+
+msgid "@alula_speak We can go to the burial grounds and visit mom again!"
+msgstr "@alula_speak 我们又可以去墓地探望妈妈了！"
+
+msgid "@calamus But..."
+msgstr "@calamus 可是……"
+
+msgid "@alula_speak Come on, Calamus!"
+msgstr "@alula_speak 求你了，哥～！"
+
+msgid "@alula Niko and \\p are with us!"
+msgstr "@alula 有Niko和\\p跟我们一起啊！"
+
+msgid "@calamus Well... \\.\\.\\nif \\p made the boat appear... it should be safe..."
+msgstr "@calamus 好吧……\\.\\.\\n如果是\\p让船出现的，应该很安全吧……"
+
+msgid "@niko2 What...\\.\\. do you think, \\p?"
+msgstr "@niko2 你……\\.\\.觉得如何，\\p？"
+
+msgid "@alula_gasp Can we go yet?"
+msgstr "@alula_gasp 可以出发了吗？"
+
+msgid "@alula_gasp Here we go!"
+msgstr "@alula_gasp 出发！"
+
+msgid "@calamus This passage must be where fireflies congregate..."
+msgstr "@calamus 这条小径一定就是萤火虫聚集处……"
+
+msgid "@calamus I wonder how long this passage is..."
+msgstr "@calamus_speak 不知道这条路多长……"
+
+msgid "@calamus_speak Looks like there's some lights at the end..."
+msgstr "@calamus_speak 看起来终点那边有些光芒……"
+
+msgid "@alula_speak Those are fireflies!"
+msgstr "@alula_speak 是萤火虫！"
+
+msgid "@calamus_smile We can leave whenever you're ready."
+msgstr "@calamus_smile 等你准备好，我们随时可以出发。"
+
+msgid "@niko It's a clover."
+msgstr "@niko 一片三叶草。"
+

@@ -1,0 +1,84 @@
+msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
+msgstr "@niko 罐子里有很多发光的小虾在游。"
+
+msgid "@niko A page with faded ink."
+msgstr "@niko 一页纸，上面墨迹已经褪色了。"
+
+msgid "$-able to provide power to all robots and machinery in the area via a large electromagnetic field."
+msgstr "$─能够通过大型电磁场，为区域中所有机器人及机械提供电力。"
+
+msgid "$Maintenance efforts are quite high, as expected."
+msgstr "$需要的维护工作相当繁重，一如预期。"
+
+msgid "$We have provided customized backup cells for the few most important robots."
+msgstr "$我们已经为少数最重要的机器人提供定制化的备用电池。"
+
+msgid "$Their electromagnetic fields are much weaker, and the signals are highly specific."
+msgstr "$它们的电磁场弱得多，而且信号更加定向。"
+
+msgid "$In other words, these small cells can only charge one single-"
+msgstr "$换言之，这些小型电池只能充——"
+
+msgid "@niko The rest of the page is unreadable."
+msgstr "@niko 剩下的部分没办法读了。"
+
+msgid "@niko_speak I don't wanna get shocked again, \\p!"
+msgstr "@niko_speak \\p，我不想再触电一次！"
+
+msgid "@niko_what Ow!"
+msgstr "@niko_what 哎哟！"
+
+msgid "@niko_eyeclosed I just got shocked..."
+msgstr "@niko_eyeclosed 我触电了……"
+
+msgid "@niko Dusty shelves."
+msgstr "@niko 布满灰尘的架子。"
+
+msgid "@niko_speak The battery fits the slot perfectly!"
+msgstr "@niko_speak 电池刚好可以装进插槽里！"
+
+msgid "@niko Looks like we're on the right track."
+msgstr "@niko 看来我们的方向没有错。"
+
+msgid "@niko ...but ...nothing happened."
+msgstr "@niko ……可是……什么也没发生。"
+
+msgid "@niko_speak Let's hope the charged battery does something!"
+msgstr "@niko_speak 希望充满的电池会起作用！"
+
+msgid "@niko_pancakes Whoa!"
+msgstr "@niko_pancakes 哇啊！"
+
+msgid "@niko_speak That's a big machine!"
+msgstr "@niko_speak 好大的机器！"
+
+msgid "@niko It doesn't seem to be doing anything, though..."
+msgstr "@niko 不过看起来似乎没有在运转……"
+
+msgid "@niko There's a rectangle-shaped hole in the middle."
+msgstr "@niko 中间有一个矩形的洞。"
+
+msgid "@niko_speak Looks like something used to fit in here..."
+msgstr "@niko_speak 看起来好像本来装着某样东西……"
+
+msgid "@niko Some sort of small machine."
+msgstr "@niko 某种小型机器。"
+
+msgid "@niko I wonder what it does?"
+msgstr "@niko 不知道是做什么用的。"
+
+msgid "@niko_speak I can feel my hair standing up a little..."
+msgstr "@niko_speak 我的汗毛都有点立起来了……"
+
+msgid "@niko It's a power cell...\\nI think."
+msgstr "@niko 应该……\\n是电池吧。"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko_speak The word \"Prophetbot\" is written on the side."
+msgstr "@niko_speak 旁边写了“先知”二字。"
+
+msgid "@niko Didn't notice that earlier."
+msgstr "@niko 之前都没注意到。"
+

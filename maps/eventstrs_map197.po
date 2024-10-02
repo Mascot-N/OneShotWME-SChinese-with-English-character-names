@@ -1,0 +1,126 @@
+msgid "@silver_rip [...ughh]"
+msgstr "@silver_rip [……呃]"
+
+msgid "@niko_surprised ARE YOU OKAY?!"
+msgstr "@niko_surprised 你还好吗！？"
+
+msgid "@silver_rip0 [I'm fine, I'm fine-]"
+msgstr "@silver_rip0 [我没事，没事──]"
+
+msgid "@silver_rip [I can still hold it up, but you two need to-]"
+msgstr "@silver_rip [我还撑得住，但你们两个得──]"
+
+msgid "@silver_rip2 [AUGH!]"
+msgstr "@silver_rip2 [呜啊！]"
+
+msgid "@proto_gasp2 [...]"
+msgstr "@proto_gasp2 [……]"
+
+msgid "@silver_rip0 [YOU! Robot!]"
+msgstr "@silver_rip0 [喂！机器人！]"
+
+msgid "@silver_rip0 [What are you waiting for!!!]"
+msgstr "@silver_rip0 [你还在等什么！！！]"
+
+msgid "@silver_getout [Take the child and get out!]"
+msgstr "@silver_getout [快点带这孩子出去！]"
+
+msgid "@proto2b [Come on.]"
+msgstr "@proto2b [走吧。]"
+
+msgid "@niko3 But what about her?"
+msgstr "@niko3 可是那她怎么办？"
+
+msgid "@niko_shock AAH!!"
+msgstr "@niko_shock 啊啊！！"
+
+msgid "@silver_square1 [`G\\.\\.\\.%ET\\|\\@silver_square2  `/O \\.\\.U . T`%\\.\\.!!\\.!]"
+msgstr "@silver_square1 [‵快\\.\\.%\\|\\@silver_square2  ‵/逃\\.\\.%\\.\\.！！\\.！]"
+
+msgid "@proto_eyeclosed [Come on.]"
+msgstr "@proto_eyeclosed [走吧。]"
+
+msgid "@niko_upset \\p..."
+msgstr "@niko_upset \\p……"
+
+msgid "@niko_upset2 I don't... understand..."
+msgstr "@niko_upset2 我……我不懂……"
+
+msgid "@niko3 The world...."
+msgstr "@niko3 这世界……"
+
+msgid "@niko_upset2 The Prophetbot... what he was saying..."
+msgstr "@niko_upset2 先知机器人……他刚刚说的……"
+
+msgid "@niko3 Is this world really just....\\> just......"
+msgstr "@niko3 这个世界难道真的就是……\\>就是……"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ……"
+
+msgid "@niko_distressed Is it?"
+msgstr "@niko_distressed 他说的那样吗？"
+
+msgid "[\"Yes.\", \"No.\"]"
+msgstr "[\"是的。\",\"不是。\"]"
+
+msgid "@niko_upset ..."
+msgstr "@niko_upset ……"
+
+msgid "@niko_upset2 ...you're just saying that..."
+msgstr "@niko_upset2 ……你刚刚是说……"
+
+msgid "@niko_eyeclosed Normally I wouldn't believe it, but..."
+msgstr "@niko_eyeclosed 正常来讲我不会相信，可是……"
+
+msgid "@niko_distressed2 It just... adds up."
+msgstr "@niko_distressed 都可以……说得通。"
+
+msgid "@niko_distressed Everything...\\.\\. adds up."
+msgstr "@niko_distressed 一切都……\\.\\.说得通了。"
+
+msgid "@niko_distressed We can't go back..."
+msgstr "@niko_distressed 我们回不去了……"
+
+msgid "@niko_upset ...he said... you can bring me back..."
+msgstr "@niko_upset ……他说……你可以把我带回来……"
+
+msgid "@niko_upset2 ...and... he needs my help to fix things?"
+msgstr "@niko_upset2 ……还有……他需要我帮忙修正一些事？"
+
+msgid "@niko_distressed_talk ...I don't...\\.\\. get it!!!"
+msgstr "@niko_distressed_talk ……我……\\.\\.不懂！！！"
+
+msgid "@niko_distressed_meow Why didn't you tell me anything???"
+msgstr "@niko_distressed_meow 你为什么都不告诉我？？？"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@niko_distressed2 They're....."
+msgstr "@niko_distressed2 他们……"
+
+msgid "@niko_distressed They're both....."
+msgstr "@niko_distressed 两个都……"
+
+msgid "@niko_eyeclosed ....."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_distressed_talk I... don't know what I'm supposed to do!"
+msgstr "@niko_distressed_talk 我……我已经不知道该怎么办了！"
+
+msgid "@niko_upset If I can't fix the world... I can't go back home..."
+msgstr "@niko_upset 如果我修不好这个世界……我就回不了家……"
+
+msgid "@niko_upset But the world is...\\.\\. already so messed up..."
+msgstr "@niko_upset 可是这个世界……\\.\\.早就是一团乱……"
+
+msgid "@niko_distressed2 ...if the squares don't get fixed...\\.\\. what will happen to the world?"
+msgstr "@niko_distressed2 ……如果解决不了方块……\\.\\.这个世界会怎么样？"
+
+msgid "@niko_upset2 Where would I even go???"
+msgstr "@niko_upset2 我又会到哪里去呢？？？"
+
+msgid "@niko_distressed2 ..........."
+msgstr "@niko_distressed2 ……"
+

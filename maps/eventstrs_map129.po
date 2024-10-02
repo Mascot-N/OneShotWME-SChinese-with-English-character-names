@@ -1,0 +1,42 @@
+msgid "@niko_eyeclosed ...The remains of a potted plant."
+msgstr "@niko_eyeclosed ……盆栽的残迹。"
+
+msgid "@niko The title is \"City Life: What to Expect\""
+msgstr "@niko 标题是《城市生活的愿景》”"
+
+msgid "@niko_speak Something has been chewing on this plant..."
+msgstr "@niko_speak 植物看起来被什么啃过……"
+
+msgid "I just moved here from the Glen. Things are so different in the city...."
+msgstr "我刚从Glen搬来这里。城市中的事物很不一样啊……"
+
+msgid "You've been to the Glen, right?"
+msgstr "你去过Glen那边吧？"
+
+msgid "@niko Yeah!"
+msgstr "@niko 是的！"
+
+msgid "Everything's so green back there...."
+msgstr "那边放眼所见都是绿意……"
+
+msgid "I really miss it!"
+msgstr "我真的很想念那里！"
+
+msgid "My neighbor gave me some plants to cheer me up, but..."
+msgstr "邻居送了我一些植物，想让我打起精神，可是……"
+
+msgid ".....I should probably get a muzzle for Betsy there."
+msgstr "……我该帮贝奇弄个嘴套。"
+
+msgid "@niko It's a landscape portrait of the Glen."
+msgstr "@niko 一幅Glen的风景画。"
+
+msgid "@niko A picture of a ram, wearing a little pink bow."
+msgstr "@niko 公羊的照片，他戴着一个小小的粉红蝴蝶结。"
+
+msgid "@niko_eyeclosed Not much is left of this plant..."
+msgstr "@niko_eyeclosed 植物被啃得所剩无几了……"
+
+msgid "@niko_eyeclosed ...The entire plant was eaten..."
+msgstr "@niko_eyeclosed ……整棵植物都被啃光了……"
+

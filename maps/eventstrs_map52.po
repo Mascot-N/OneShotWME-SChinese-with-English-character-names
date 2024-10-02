@@ -1,0 +1,6 @@
+msgid "CAFE"
+msgstr "咖啡馆"
+
+msgid "MEOW"
+msgstr "喵"
+

@@ -1,0 +1,378 @@
+msgid "@niko Something is poking out from this shelf."
+msgstr "@niko 架子上有什么东西伸了出来。"
+
+msgid "@niko_speak It's a tube of glitter glue."
+msgstr "@niko_speak 一管亮片胶水。"
+
+msgid "@kip You can have that if you want!"
+msgstr "@kip 想要的话可以给你！"
+
+msgid "@kip_wink Never know when you need to glitter things up, right?"
+msgstr "@kip_wink 万一会需要在东西上弄点亮片呢，对吧？"
+
+msgid "@niko Oh! Are you sure?"
+msgstr "@niko 喔！真的可以吗？"
+
+msgid "@kip_wink Yeah! I have tons of those!"
+msgstr "@kip_wink 真的！这玩意我有一大堆！"
+
+msgid "@niko Thank you!"
+msgstr "@niko 谢谢你！"
+
+msgid "@kip You should hold on to that amber, okay?"
+msgstr "@kip 好好留着那块琥珀，好吗？"
+
+msgid "@niko_speak I will!"
+msgstr "@niko_speak 我会的！"
+
+msgid "@kip_huh ....oh?"
+msgstr "@kip_huh ……哦？"
+
+msgid "@kip_pout T...\\. that's....."
+msgstr "@kip_pout 那……\\.那是……"
+
+msgid "@kip2 How...\\. did you get this?"
+msgstr "@kip2 你是……\\.怎么拿到这个的？"
+
+msgid "@niko This robot lady in the Barrens gave it to me!"
+msgstr "@niko Barrens的机器人女士给我的！"
+
+msgid "@niko_speak She looked... kinda like you?"
+msgstr "@niko_speak 她长得……和你有点像？"
+
+msgid "@kip_sigh I see..."
+msgstr "@kip_sigh 原来如此……"
+
+msgid "@kip_sad ..."
+msgstr "@kip_sad ……"
+
+msgid "@kip_sigh Sigh. \\>\\nIt was supposed to be such a breakthrough, y'know?"
+msgstr "@kip_sigh 唉。\\>\\n你知道吗？那本来应该是一项重大技术突破。"
+
+msgid "@kip_pout I even based her on myself so I'll KNOW it works!"
+msgstr "@kip_pout 我甚至是按照我自己样子做的，所以我有把握会成功！"
+
+msgid "@niko_speak Break... through?"
+msgstr "@niko_speak 技术……突破？"
+
+msgid "@kip2 We wanted to build a robot that acts like a person, thinks like a person..."
+msgstr "@kip2 我们想打造一个行为思考都像人类的机器人……"
+
+msgid "@kip_pout ...a robot that isn't bound by its own code."
+msgstr "@kip_pout ……一个不受制于自己程序的机器人。"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@kip_sigh But turns out, you can't really BUILD something like that."
+msgstr "@kip_sigh 结果事实证明，我们没办法真的做出这种东西。"
+
+msgid "@kip_pout Too many contradictions in the code... made her unstable."
+msgstr "@kip_pout 程序中有太多矛盾……让她变得不稳定。"
+
+msgid "@kip_sad ...that was the only time I've ever seen a robot go rogue."
+msgstr "@kip_sad ……那是我唯一一次见到机器人暴走。"
+
+msgid "@kip_sigh Scariest day of my life, tell you what!"
+msgstr "@kip_sigh 跟你说，那是我人生中最恐怖的一天！"
+
+msgid "@niko_speak ...rogue?"
+msgstr "@niko_speak ……暴走？"
+
+msgid "@niko But...\\| \\@niko2 she seemed so nice when we talked!"
+msgstr "@niko 可是……\\|\\@niko2 和她讲话的时候感觉她是个好人！"
+
+msgid "@niko_eyeclosed ...even if she talked a little weird..."
+msgstr "@niko_eyeclosed ……虽说她讲话有点奇怪吧……"
+
+msgid "@kip2 Ah, she's been repaired for some time now."
+msgstr "@kip2 啊，她已经修好一阵子了。"
+
+msgid "@kip_pout My friend was able to stabilize her volatile state through his own means."
+msgstr "@kip_pout 我的朋友用自己的方法，让她从喜怒无常的状态稳定下来。"
+
+msgid "@kip2 A real miracle worker, that..."
+msgstr "@kip2 他真的创造了奇迹……"
+
+msgid "@kip_pout After he was through, she ended up turning out just like how I wanted."
+msgstr "@kip_pout 经过他处理后，她完全变成了我想要的样子。"
+
+msgid "@kip_sad ...but the damage was already done."
+msgstr "@kip_sad ……可是伤痕已无法抹去。"
+
+msgid "@kip_sigh ...\\|I gave up on her back then... we all did."
+msgstr "@kip_sigh ……\\|当时我放弃她了……我们都放弃了她。"
+
+msgid "@kip_pout I'm sure she realized that...\\n\\>\\@kip_sigh and now she won't ever come back."
+msgstr "@kip_pout 她一定也明白……\\n\\>\\@kip_sigh 所以现在她再也不会回来这里。"
+
+msgid "@kip_sad She won't even answer my letters..."
+msgstr "@kip_sad 她甚至不肯回我的信……"
+
+msgid "@niko_eyeclosed I'm sorry..."
+msgstr "@niko_eyeclosed 我很遗憾……"
+
+msgid "@kip_pout Ah, sorry for rambling."
+msgstr "@kip_pout 哎，抱歉跟你扯这些。"
+
+msgid "@kip Oh! I see you put your own photo on there!\\>\\n\\@kip_wink Does that mean your name is Kip now?"
+msgstr "@kip 喔！你把你自己的照片放上去了！\\>\\n\\@kip_wink 也就是说你改名叫Kip了吗？"
+
+msgid "@kip ...that was a joke."
+msgstr "@kip ……开玩笑的啦。"
+
+msgid "@kip Is there anything else you need?"
+msgstr "@kip 还有需要什么吗？"
+
+msgid "@niko Nope!"
+msgstr "@niko 没有！"
+
+msgid "@kip_wink Well, feel free to stick around if you want!"
+msgstr "@kip_wink 嗯，愿意的话欢迎留在这里喔！"
+
+msgid "@kip Oh hey, you're back!"
+msgstr "@kip 喔嘿，你回来了！"
+
+msgid "@kip Can I help you with anything else?"
+msgstr "@kip 还有什么我能帮忙的吗？"
+
+msgid "@niko Yeah..."
+msgstr "@niko 嗯……"
+
+msgid "@niko Do you know how I can get a library card?"
+msgstr "@niko 你知道要去哪里办借书证吗？"
+
+msgid "@kip_huh A library card?"
+msgstr "@kip_huh 借书证？"
+
+msgid "@kip You'll have to ask the library for that!"
+msgstr "@kip 那要去问图书馆的人喔！"
+
+msgid "@niko_eyeclosed I tried..."
+msgstr "@niko_eyeclosed 我试过了……"
+
+msgid "@niko I need it to see the head librarian, but I can't get to see her without a library card."
+msgstr "@niko 我要有借书证才能见到图书馆馆长，没有借书证就无法见她"
+
+msgid "@niko_eyeclosed ...but at the same time, she's the one who gives out library cards..."
+msgstr "@niko_eyeclosed ……可是，借书证都是她发的……"
+
+msgid "@kip_huh Really..."
+msgstr "@kip_huh 这样啊……"
+
+msgid "@kip_heh Heh... that sounds like George alright!"
+msgstr "@kip_heh 嘿……那真的很像George的作风！"
+
+msgid "@kip_huh I'm sorry you caught her on a bad day!"
+msgstr "@kip_huh 可惜你找她的时间不对！"
+
+msgid "@niko Aw..."
+msgstr "@niko 唉……"
+
+msgid "@kip2 ...wait, I know!"
+msgstr "@kip2 ……等等，我想到一个主意！"
+
+msgid "@kip_wink I can just give you my library card!"
+msgstr "@kip_wink 我可以给你我的借书证啊！"
+
+msgid "@kip It won't be hard for me to get another one."
+msgstr "@kip 我补办个新证很容易的。"
+
+msgid "@niko_speak Wow, thanks!"
+msgstr "@niko_speak 哇，谢谢！"
+
+msgid "@kip There! You're all set, I think..."
+msgstr "@kip 来！这样应该就没问题了……"
+
+msgid "@kip_huh Wait."
+msgstr "@kip_huh 等等。"
+
+msgid "@kip_huh Shoot!"
+msgstr "@kip_huh 糟糕！"
+
+msgid "@kip_heh I forgot... the front desk library bots have facial recognition"
+msgstr "@kip_heh 我忘了……柜台的图书馆机器人有脸部辨识功能"
+
+msgid "@kip_heh And my photo on the card won't match you..."
+msgstr "@kip_heh 借书证上面是我的照片，和你的脸不一样……"
+
+msgid "@kip_wink ...unless I tape a photo of my face to your face!"
+msgstr "@kip_wink ……除非把我的正面照片贴在你脸上！"
+
+msgid "@niko Um-"
+msgstr "@niko 呃——"
+
+msgid "@kip That was a joke."
+msgstr "@kip 开玩笑的啦。"
+
+msgid "@kip2 Who knows, maybe you'll get lucky and the robot will take it anyway!"
+msgstr "@kip2 谁知道，说不定你运气好，机器人会直接放行呢！"
+
+msgid "@kip Worse comes to worse, you can always find somewhere to take a photo."
+msgstr "@kip 就算是最坏的情况，你还是可以找地方照张相。"
+
+msgid "@kip_wink Don't overwork yourself, okay?"
+msgstr "@kip_wink 别太勉强自己，好吗？"
+
+msgid "@kip Your journey is just as important as your end goal."
+msgstr "@kip 享受旅程和达成最终目标一样重要。"
+
+msgid "@kip_wink Cliche, but true!"
+msgstr "@kip_wink 虽然陈腔滥调，但是是真的！"
+
+msgid "@kip So..."
+msgstr "@kip 所以……"
+
+msgid "@kip_wink You've been walking all over the world, huh?"
+msgstr "@kip_wink 你一直都是徒步走遍整个世界吗？"
+
+msgid "@niko M-hm!"
+msgstr "@niko 嗯哼！"
+
+msgid "@kip Geez... I can't imagine..."
+msgstr "@kip 天啊……我无法想象……"
+
+msgid "@kip_huh Do you get really tired sometimes?"
+msgstr "@kip_huh 你会不会有时候觉得很累呀？"
+
+msgid "@niko_eyeclosed Kinda..."
+msgstr "@niko_eyeclosed 有一点……"
+
+msgid "@niko_speak But I don't mind!\\n\\@niko_pancakes It's actually really pretty!"
+msgstr "@niko_speak 但我没关系！\\n\\@niko_pancakes 风景真的很漂亮！"
+
+msgid "@kip_wink Haha, I'm glad you think so!"
+msgstr "@kip_wink 哈哈，很高兴你这么想！"
+
+msgid "@kip Even with the sun gone, the world is still a beautiful place."
+msgstr "@kip 就算没有了太阳，这个世界依旧美丽。"
+
+msgid "@niko_speak What did the world look like with the sun?"
+msgstr "@niko_speak 以前有太阳的时候，这个世界是什么样子呢？"
+
+msgid "@kip_huh Oh, \\>\\@kip2 uh..."
+msgstr "@kip_huh 喔，\\>\\@kip2 呃……"
+
+msgid "@kip_sigh ...y'know, it's kind of embarassing to admit how little of it I have actually seen."
+msgstr "@kip_sigh ……你知道吗，我实在不好意思承认，我亲眼看过的地方少之又少。"
+
+msgid "@niko_speak ...oh?"
+msgstr "@niko_speak ……咦？"
+
+msgid "@kip_heh Ironic, isn't it?"
+msgstr "@kip_heh 很讽刺吧？"
+
+msgid "@kip2 Even though I'm the world's leading researcher...\\>\\n\\@kip_sigh ...All I do is stay here and build robots."
+msgstr "@kip2 即使我是这世界首屈一指的研究员……\\>\\n\\@kip_sigh ……我这辈子就是一直都待在这里建造机器人。"
+
+msgid "@kip_sigh They're the ones exploring the world, I just write down the data, crunch numbers, generate graphs..."
+msgstr "@kip_sigh 那些机器人才是跑出去探索世界的，我只负责记下资料、计算数字、制作图表……"
+
+msgid "@niko Right... \\.\\.\\@niko_speak I've been seeing robots everywhere!"
+msgstr "@niko 对喔……\\.\\.\\@niko_speak 我走到哪都看到机器人！"
+
+msgid "@niko I just thought it was cuz the world was too dangerous for most people to explore..."
+msgstr "@niko 我以为是因为这世界对大多数人来说都太危险，不适合探索……"
+
+msgid "@kip2 That's not far from the truth, actually."
+msgstr "@kip2 倒也差不多啦。"
+
+msgid "@kip But I know someone who still does his research firsthand!"
+msgstr "@kip 不过我知道有个人还在做第一手研究！"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 哦？"
+
+msgid "@kip2 ...even after segments of land started collapsing and access to the more remote areas became difficult."
+msgstr "@kip2 ……即使有些区域开始崩塌，偏远地带变得更难前往，他却还在坚持。"
+
+msgid "@kip_huh I mean, he outright built a machine that could fly! \\>\\n\\@kip_huh Something we all thought was not physically possible!"
+msgstr "@kip_huh 重点是，他直接做了一台可以飞的机器！\\>\\n\\@kip_huh 大家都觉得这种东西在物理上根本不可能做出来的！"
+
+msgid "@niko_speak Oh! That's..."
+msgstr "@niko_speak 喔！那是……"
+
+msgid "@kip I asked him about working with us, so he provides us with all sorts of insights from time to time."
+msgstr "@kip 我有邀请他一起合作，所以他时不时会提供各种深入的见解。"
+
+msgid "@kip_heh ...but for some reason, he REALLY didn't want to build robots."
+msgstr "@kip_huh ……可是不知道为什么，他真的很不愿意做机器人。"
+
+msgid "@kip_sigh Or, more specifically, coding them."
+msgstr "@kip_sigh 更明确地说，不愿意为机器人写程序。"
+
+msgid "@niko_speak How come?"
+msgstr "@niko_speak 为什么啊？"
+
+msgid "@kip2 Beats me!\\> \\@kip_huh I mean, he's happy to work with robots!"
+msgstr "@kip2 我也不懂！\\> \\@kip_huh 他明明就很喜欢和机器人一起工作啊！"
+
+msgid "@kip In fact, he even- \\.\\@kip2 ..."
+msgstr "@kip 事实上，他甚至——\\.\\@kip2 ……"
+
+msgid "@kip_heh ...ah. It's been a while since we last talked.\\@kip \\>\\nHe must be busy with his books now, yeah."
+msgstr "@kip_heh ……啊，我有一阵子没跟他联系过了。\\>\\n\\@kip 嗯，他一定忙着写他的书呢。"
+
+msgid "@niko ...Hello?"
+msgstr "@niko ……有人在吗？"
+
+msgid "@kip_huh Oh, shoot!"
+msgstr "@kip_huh 喔，糟了！"
+
+msgid "@kip_huh If I had known you would be here so soon, I would've turned off the darned lock!"
+msgstr "@kip_huh 早知道你来这么快，我就会先解除这个破烂锁了！"
+
+msgid "@kip Hello there!"
+msgstr "@kip 你好啊！"
+
+msgid "@kip_heh Sorry about the weird... security measures."
+msgstr "@kip_heh 抱歉喔，这里有这些……奇怪的安保措施。"
+
+msgid "@niko It's okay!"
+msgstr "@niko 没关系！"
+
+msgid "@niko \\p helped me solve it!"
+msgstr "@niko \\p帮我解开了！"
+
+msgid "@kip Did they now!"
+msgstr "@kip 真的吗！"
+
+msgid "@kip So... can I help you with anything?"
+msgstr "@kip 那么……我能帮你什么吗？"
+
+msgid "@kip_wink Heh... that sounds like George alright!"
+msgstr "@kip_wink 嘿……那真的很像George的作风！"
+
+msgid "@kip ...wait, I know!"
+msgstr "@kip ……等等，我想到了！"
+
+msgid "@kip_heh I forgot... the front desk library bots have facial recognition."
+msgstr "@kip_heh 我忘了……柜台的图书馆机器人有脸部辨识功能。"
+
+msgid "@kip_huh If I had known you would be here so soon, I would've turned off the system!"
+msgstr "@kip_huh 早知道你来这么快，我就会先关闭系统了！"
+
+msgid "@niko Yeah, where's the library?"
+msgstr "@niko 对啊，图书馆在哪里？"
+
+msgid "@kip_huh The library? That's all the way on the other side of town!"
+msgstr "@kip_huh 图书馆？那在镇上远远的另一边喔！"
+
+msgid "@kip2 The fastest route is where you take the shortcut through the backalley, but..."
+msgstr "@kip2 最快的路径是抄小路走后巷，可是……"
+
+msgid "@niko I think that's how we got here, actually!"
+msgstr "@niko 我们其实就是走那条路来的！"
+
+msgid "@kip Oh good!"
+msgstr "@kip 喔，很好！"
+
+msgid "@kip2 You should head back to that direction and walk to the east a bit."
+msgstr "@kip2 那你就回头按那个方向，往东走一段路。"
+
+msgid "@kip You'll find it eventually!"
+msgstr "@kip 继续走就会看到了！"
+
+msgid "@niko_speak Thank you!"
+msgstr "@niko_speak 谢谢你！"
+

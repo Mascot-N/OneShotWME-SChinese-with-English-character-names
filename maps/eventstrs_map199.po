@@ -1,0 +1,39 @@
+msgid "@niko3 The bridge is out..."
+msgstr "@niko3 桥断了……"
+
+msgid "@niko4 They're in the door..."
+msgstr "@niko4 大门里都是方块……"
+
+msgid "@niko4 The bridge is broken..."
+msgstr "@niko4 桥断了……"
+
+msgid "@niko2 ...\\>\\nHe has no power..."
+msgstr "@niko2 ……\\>\\n他没电了……"
+
+msgid "@green_gatekeeper [P\\.#L.%%E\\.AS;E D\\.o No//t AP\\.PR#OACH.]"
+msgstr "@green_gatekeeper [讠\\.#青.%%\\.不；\\.要//告\\.近#。]"
+
+msgid "@green_gatekeeper [TH\\.#e.%%G\\.AT;E IS\\. C//L OSE\\.D UN\\.T\\.#IL FU\\.#RT\\|HER N\\.%O\\.TIC\\.E.]"
+msgstr "@green_gatekeeper [大\\.#%%门；\\.已\\.关//关\\.闭\\.开\\.放#\\日寺\\.%间#另\\|行\\.通%\\.矢口。]"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@niko3 Isn't that...\\.\\. the city gate?"
+msgstr "@niko3 那不是……\\.\\.城市大门吗？"
+
+msgid "@niko4 It's..."
+msgstr "@niko4 它……"
+
+msgid "@niko2 ...looks like parts of the ground is missing."
+msgstr "@niko2 ……有些地面消失。"
+
+msgid "@niko_eyeclosed I wonder if it's safe to walk across these vines..."
+msgstr "@niko_eyeclosed 不知道能不能从这些藤蔓上面安全走过去……"
+
+msgid "@niko6 ...one way to find out, I guess..."
+msgstr "@niko6 ……这大概也是一种确认方法……"
+
+msgid "@niko_eyeclosed They're safe..."
+msgstr "@niko_eyeclosed 还挺安全的……"
+

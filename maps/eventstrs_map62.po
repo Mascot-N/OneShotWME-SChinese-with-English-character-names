@@ -1,0 +1,84 @@
+msgid "@niko ...\\>\\n\\@niko_speak Sure is taking a while..."
+msgstr "@niko ……\\>\\n\\@niko_speak 真的好慢哦……"
+
+msgid "@niko I guess this elevator leads to the top of the Tower, \\p..."
+msgstr "@niko \\p，这台电梯会通往塔顶吧……"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_speak ...are you excited, \\p?\\>\\n\\@niko We're finally gonna save the world..."
+msgstr "@niko_speak ……\\p，你兴奋吗？\\>\\n\\@niko 我们终于要拯救世界了……"
+
+msgid "@niko_speak And I know it's for real this time, cuz you're here!"
+msgstr "@niko_speak 而且我知道这次是来真的，因为有你在！"
+
+msgid "@niko And then...\\>\\n\\@niko_speak ...I'll get to go home for real this time, too!"
+msgstr "@niko 还有……\\>\\n\\@niko_speak ……这次我也真的可以回家了！"
+
+msgid "@niko I can't wait to see everyone again..."
+msgstr "@niko 我真等不及想再看到大家……"
+
+msgid "@niko_speak Are you okay, \\p?\\>\\n\\@niko You seem a little quiet..."
+msgstr "@niko_speak \\p，你还好吗？\\>\\n\\@niko 感觉你有点安静……"
+
+msgid "[\"Niko.\", \"...\"]"
+msgstr "[\"霓光。\",\"……\"]"
+
+msgid "@niko_speak ...yeah?"
+msgstr "@niko_speak ……怎么了？"
+
+msgid "@niko_speak ...?"
+msgstr "@niko_speak ……？"
+
+msgid "[\"I need to tell you something.\", \"...\"]"
+msgstr "[\"有件事我必须告诉你。\",\"……\"]"
+
+msgid "@niko ...I'm listening."
+msgstr "@niko ……我在听。"
+
+msgid "@niko_speak What's going on, \\p?"
+msgstr "@niko_speak \\p，怎么了？"
+
+msgid "[\"We can't save both.\"]"
+msgstr "[\"我们没办法两边都救。\"]"
+
+msgid "@niko ...?"
+msgstr "@niko ……？"
+
+msgid "[\"The world... and you...\"]"
+msgstr "[\"我是说这世界……和你……\"]"
+
+msgid "@niko ...wh \\>\\@niko3 ...what's that supposed to mean, \\p?"
+msgstr "@niko ……什\\>\\@niko3 ……这是什么意思，\\p？"
+
+msgid "[\"To send you home...\"]"
+msgstr "[\"如果要送你回家……\"]"
+
+msgid "[\"We must break the lightbulb.\"]"
+msgstr "[\"我们就得打破灯泡。\"]"
+
+msgid "@niko_shock What??\\>\\n\\@niko3 ...But won't that... \\>\\n\\@niko_distressed2 ...But won't that end the world?"
+msgstr "@niko_shock 什么？？\\>\\n\\@niko3 ……可是那样不是……\\>\\n\\@niko_distressed2 ……不是会让这个世界毁灭吗？"
+
+msgid "[\"Yeah.\", \"...\"]"
+msgstr "[\"是啊。\",\"……\"]"
+
+msgid "@niko_eyeclosed I don't want that to happen..."
+msgstr "@niko_eyeclosed 我不希望事情变成那样……"
+
+msgid "@niko2 So... what happens when we save the world?\\>\\n\\@niko_distressed ...what happens to me...?"
+msgstr "@niko2 那……如果我们救了世界会怎样？\\>\\n\\@niko_distressed ……我会变成怎样……？"
+
+msgid "[\"I don't know.\", \"...\"]"
+msgstr "[\"我不知道。\",\"……\"]"
+
+msgid "@niko_shock You... don't?"
+msgstr "@niko_shock 你……不知道？"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@niko_distressed2 ....."
+msgstr "@niko_distressed2 ……"
+

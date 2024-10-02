@@ -1,0 +1,1728 @@
+msgid "@niko The fridge is full of bottled water and take-out boxes."
+msgstr "@niko 冰箱放满了瓶装水和外带餐盒。"
+
+msgid "@niko A small bed."
+msgstr "@niko 一张小床。"
+
+msgid "@niko I guess she lives here..."
+msgstr "@niko 她应该就住在这里吧……"
+
+msgid "@george1_smug Thanks to my superb organizational skills..."
+msgstr "@george1_smug 多亏了我超凡入圣的整理功力……"
+
+msgid "@george1 I have kept a copy of every single one of The Author's books in the archival room!"
+msgstr "@george1 我的档案库里有那个作者出的每一本书！"
+
+msgid "@george1 Feel free to peruse the mass sea of knowledge that I helped contribute!"
+msgstr "@george1 欢迎你细细品味我也贡献了一份心力的知识汪洋！"
+
+msgid "@george2_grr Everything that I ever helped him publish is here."
+msgstr "@george2_grr 我帮他出版过的每一本书都在这。"
+
+msgid "@george2_stress What? You wanna read them or something??"
+msgstr "@george2_stress 怎样？你是要还是不要读？"
+
+msgid "@niko_speak"
+msgstr "@niko_speak"
+
+msgid "[\"Y-yes?\", \"N-no?\"]"
+msgstr "[\"我、我要。\",\"不、我不想。\"]"
+
+msgid "@george2_stress Well what are you waiting for!!"
+msgstr "@george2_stress 那你还等什么！！"
+
+msgid "@george2_grr And let all my hard work go to waste?"
+msgstr "@george2_grr 然后你就这样让我做白工？"
+
+msgid "@george2_sigh Fiiiine."
+msgstr "@george2_sigh 算了。"
+
+msgid "@george3_sad I have a copy of everything I helped him publish so far."
+msgstr "@george3_sad 目前为止，我帮他出版的每一本书都有留一份在这里。"
+
+msgid "@george3 It's not a lot, but you can read some if you want..."
+msgstr "@george3 数量不多，不过你想要的话可以读一下……"
+
+msgid "@george4 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george4 我帮他出版过的每一本书都有留一份在档案库里！"
+
+msgid "@george4_smile You can read some of it if you want! \\>\\n\\@george4 Some of them are even illustrated!"
+msgstr "@george4_smile 如果你想要，可以拿一些来读！\\>\\n\\@george4 有些甚至有插画喔！"
+
+msgid "@george4_smile Kids like pictures, right?"
+msgstr "@george4_smile 孩子们都喜欢图画吧？"
+
+msgid "@george5 I keep a copy of every single book I helped him publish!"
+msgstr "@george5 我帮他出版过的每一本书都留了一份！"
+
+msgid "@george5_smile Feel free to read anything you'd like, dear."
+msgstr "@george5_smile 亲爱的孩子，你想读哪本都可以喔。"
+
+msgid "@george5 There's a couple of picture books that you might be interested in!"
+msgstr "@george5 这里有几本绘本，你或许会有兴趣！"
+
+msgid "@niko Oh!"
+msgstr "@niko 喔！"
+
+msgid "@george6 I keep a copy of everything that I published for him in the archival room!"
+msgstr "@george6 我帮他出版过的每一本书都有留一份在档案库里！"
+
+msgid "@george6_smile You can like, totally read some of it."
+msgstr "@george6_smile 都可以拿起来看喔。"
+
+msgid "@george6_shrug If you want, I mean."
+msgstr "@george6_shrug 如果你想看的话啦。"
+
+msgid "@niko There's a black clover symbol on the cover of this book."
+msgstr "@niko 这本书的封面上有黑三叶草标志。"
+
+msgid "@niko_speak Hey, and this other book has a clover on its spine!"
+msgstr "@niko_speak 哇，另外这本的书脊上有三叶草图案！"
+
+msgid "@niko And... the rest of these books too."
+msgstr "@niko 然后……其他的书上也有。"
+
+msgid "@niko_speak Are they all... about clovers?"
+msgstr "@niko_speak 这些书都是……在写三叶草吗？"
+
+msgid "@george1_smile A black clover is the mark of The Author!"
+msgstr "@george1_smile 黑三叶草是那个作者的标志！"
+
+msgid "@niko Oh?"
+msgstr "@niko 是吗？"
+
+msgid "@george1_hm Since he never entrusted me or anyone else with his name, we identify his works by the mark."
+msgstr "@george1_hm 他不曾向我或任何人透漏他的名字， 所以我们是凭这个标志辨认他的作品。"
+
+msgid "@niko So... he wrote ALL of these books?"
+msgstr "@niko 所以……这些书全都是他写的？"
+
+msgid "@george1 I told you he was a genius!"
+msgstr "@george1 我说过他是个天才吧！"
+
+msgid "@george1_smug ....and, by extension, me!"
+msgstr "@george1_smug ……这样看来，我也是！"
+
+msgid "@george2_stress WHAT? Of course not!!"
+msgstr "@george2_stress 什么？当然不是！！"
+
+msgid "@george2_grr That's just how The Author marks his work!"
+msgstr "@george2_grr 那只是那个作者标示自己作品的方式！"
+
+msgid "@george2_sigh Because he has to keep up with his ~~~~MYSTERIOUS PERSONA~~~~ I GUESS!!!"
+msgstr "@george2_sigh 因为他必须保持他的～神秘身份～大概吧！！！"
+
+msgid "@george2 He's never even told me his name!"
+msgstr "@george2 他甚至不曾告诉我他的名字！"
+
+msgid "@niko_speak Wait, so he wrote ALL of these books?"
+msgstr "@niko_speak 等等，所以这些书全都是他写的？"
+
+msgid "@george2_sigh ....*deep breath*"
+msgstr "@george2_sigh ……*深呼吸*"
+
+msgid "@george2_grr Yes, yes he did."
+msgstr "@george2_grr 对，都是他写的。"
+
+msgid "@george3_sad That's just what The Author uses to mark his works."
+msgstr "@george3_sad 那只是那个作者用来标示他作品的方式。"
+
+msgid "@george3_sigh I don't even know his name..."
+msgstr "@george3_sigh 我连他的名字都不知道……"
+
+msgid "@niko_speak Oh! So he wrote ALL of these books?"
+msgstr "@niko_speak 这样啊！所以这些书全都是他写的？"
+
+msgid "@george3_sad Yeah..."
+msgstr "@george3_sad 是啊……"
+
+msgid "@george4_smile Oh no, no!"
+msgstr "@george5_smile 喔，不是的！"
+
+msgid "@george4 A black clover symbol just means it's written by The Author."
+msgstr "@george4 黑三叶草标志只是代表这本是那个作者写的。"
+
+msgid "@george4_golly He doesn't want to tell anyone his name. So he marks all his works with this symbol instead!"
+msgstr "@george4_golly 他不想让任何人知道他的名字，所以他所有的作品都用这个标志标示，取代署名！"
+
+msgid "@niko_pancakes He wrote ALL of these books?"
+msgstr "@niko_pancakes 这些书全部都是他写的？"
+
+msgid "@george4_smile He sure did!"
+msgstr "@george4_smile 对啊！"
+
+msgid "@george5_smile Of course not, dear!"
+msgstr "@george5_smile 亲爱的孩子，不是这样的！"
+
+msgid "@george5 The black clover is sort of The Author's name, you see!"
+msgstr "@george5 黑三叶草算是那个作者的名字吧！"
+
+msgid "@george5_hmm Actually, we don't know his name! He just uses a clover to mark his works is all."
+msgstr "@george5_hmm 事实上，我们不知道他的名字！ 只知道他只用三叶草标志标示他的作品。"
+
+msgid "@niko_speak So... he wrote ALL of these books?"
+msgstr "@niko_speak 所以……这些书全都是他写的？"
+
+msgid "@george5_smile He's a trooper, that!"
+msgstr "@george5_smile 他真的很厉害呢！"
+
+msgid "@george6_smile LOL nope."
+msgstr "@george6_smile 哈哈，不是啦。"
+
+msgid "@george6 That's like, just what The Author calls himself."
+msgstr "@george6 那个啊，应该说是那个作者的自称吧。"
+
+msgid "@george6_shrug He don't tell anyone his name. He just uses this symbol on his works so we know it's him."
+msgstr "@george6_shrug 他都不告诉别人他叫什么名字，只会在作品上放这个标志表示是他写的。"
+
+msgid "@niko_pancakes ...he wrote ALL of these books?"
+msgstr "@niko_pancakes ……这些书全部都是他写的？"
+
+msgid "@george6_fingerguns I know right!!!"
+msgstr "@george6_fingerguns 很厉害吧！！！"
+
+msgid "@george1_smile I guess brilliant minds gotta stick together, eh?"
+msgstr "@george1_smile 聪明的人合作总是一拍即合，对吧？"
+
+msgid "@george2_no WORK! WORK! WORK! WORK!"
+msgstr "@george2_no 工作！工作！工作！工作！"
+
+msgid "@george3_sigh I wish I worked faster..."
+msgstr "@george3_sigh 真希望我工作速度能再快一点……"
+
+msgid "@george4_smile Work work work work work~!"
+msgstr "@george4_smile 工作工作工作工作工作～！"
+
+msgid "@george5_hmm I hope that nice gentleman is alright!"
+msgstr "@george5_hmm 希望那位绅士平安无事！"
+
+msgid "@george5_hmm If I knew where he lived, I would've sent him some soup or a nice blanket..."
+msgstr "@george5_hmm 如果我知道他住在哪，我就可以帮他送碗汤或一条舒服的毯子过去……"
+
+msgid "@george6 I wish we could hang out sometime, he's a chill dude."
+msgstr "@george6 真希望我们有机会聚一下，那家伙挺好相处的。"
+
+msgid "@george1 I simply MUST finish all the manuscripts in that box by the end of the week!"
+msgstr "@george1 我只是必须在这周末之前处理完那个箱子里所有的稿子！"
+
+msgid "@george1 There are literally people lining up to read his works, you know!"
+msgstr "@george1 等着拜读他作品的人都在排队了，你知道吗！"
+
+msgid "@george1_smug They all have me to thank, of course."
+msgstr "@george1_smug 当然，他们都要感谢我。"
+
+msgid "@niko Oh? \\>\\@niko_speak What does he write about?"
+msgstr "@niko 哦？\\>\\@niko_speak 他的书上都写些什么呢？"
+
+msgid "@george1 What DOESN'T he write about?"
+msgstr "@george1 有什么是他没写到的？"
+
+msgid "@george1 He cranks out those scripts at the speed of light!"
+msgstr "@george1 他飙原稿的速度根本就是光速！"
+
+msgid "@george1_hm Which is 299,792,458 meters per second, by the way."
+msgstr "@george1_hm 说到这个，光速是299792458米每秒。"
+
+msgid "@george2_stress DON'T TOUCH THAT I HAVE TO FINISH THIS BY THE END OF THE WEEK."
+msgstr "@george2_stress 不准碰那个我要赶在这个周末之前把这些全部弄完。"
+
+msgid "@niko_what Oh, sorry..."
+msgstr "@niko_what 喔，抱歉……"
+
+msgid "@george2_stress PEOPLE ARE LITERALLY LINING UP TO READ HIS BOOKS!"
+msgstr "@george2_stress 读者都在排队等他的书！"
+
+msgid "@george2_grr WHAT DOESN'T HE WRITE ABOUT."
+msgstr "@george2_grr 没什么是他不写的。"
+
+msgid "@george2_stress \"HEY GEORGE I JUST WROTE ABOUT THE ENTIRE UNIVERSE WHILE YOU WERE TAKING A COFFEE BREAK.\""
+msgstr "@george2_stress “嘿！George，我趁你休息喝咖啡的空档写完了整个宇宙。”"
+
+msgid "@george2_stress \"IT'S SEVERAL MILLION VOLUMES.\""
+msgstr "@george2_stress “只有好几百万卷啦。”"
+
+msgid "@george2_no WHERE DOES THAT GUY GET ALL THAT FREE TIME!!!"
+msgstr "@george2_no 那家伙哪来那么多闲功夫！！！"
+
+msgid "@george3_sad Sigh....... And I haven't even finished this box yet..."
+msgstr "@george3_sad 唉……我连这个箱子里的都还没弄完……\\>\\n"
+
+msgid "@george3_sigh ...maybe I shouldn't be his editor after all..."
+msgstr "\\@george3_sigh ……也许我不该当他的编辑……"
+
+msgid "@george3_sad His books are in such high demand all the time!"
+msgstr "@george3_sad 他的书不管什么时候都炙手可热！"
+
+msgid "@george3 People would even wait in line to loan a copy...."
+msgstr "@george3 连借书的人都大排长龙……"
+
+msgid "@george3_sad What doesn't he write about..."
+msgstr "@george3_sad 有什么是他不写的……"
+
+msgid "@george3_sigh He's just... too good..."
+msgstr "@george3_sigh 他就是……太厉害了……"
+
+msgid "@george4 Ah! That box is for the book I'll get to publish this week!"
+msgstr "@george4 啊！这个箱子里是我这周要出版的书！"
+
+msgid "@george4_omg I'm so excitedddd~"
+msgstr "@george4_omg 我超兴奋的～"
+
+msgid "@george4_smile His books are in high demand, y'know?"
+msgstr "@george4_smile 他的书都超热门，你知道吗？"
+
+msgid "@george4 We literally have people lining up to read them!"
+msgstr "@george4 不夸张，等着读他作品的人都在排队了！"
+
+msgid "@george4_smile Haha, what DOESN'T he write about?"
+msgstr "@george4_smile 哈哈，有什么是他不写的？"
+
+msgid "@george4 It's really impressive how fast he can crank these scripts out!"
+msgstr "@george4 他写作的速度真的很惊人！"
+
+msgid "@george4_golly Like, where does that guy get all that time?"
+msgstr "@george4_golly 真不懂他哪来那么多时间？"
+
+msgid "@george5_smile This is the box I'll get to publish this week!"
+msgstr "@george5_smile 这一箱是我这礼拜要出版的书！"
+
+msgid "@george5 Oh, oh! Did I mention this gentleman's books are quite popular?"
+msgstr "@george5 喔，还有！我有说过他的书非常受欢迎吗？"
+
+msgid "@george5_smile You might be a little too young to understand them, but the older kids love them!"
+msgstr "@george5_smile 你可能还太小，读不懂他的作品，不过大一点的孩子们都很喜欢！"
+
+msgid "@george5_smile Lots and lots of things!"
+msgstr "@george5_smile 很多很多东西！"
+
+msgid "@george5 Everything from plants and animals to machines and robots!"
+msgstr "@george5 从动植物到机器和机器人，无所不写！"
+
+msgid "@george5_smile Some of his books even have pictures!"
+msgstr "@george5_smile 他有些作品甚至有插画呢！"
+
+msgid "@george6 That box's got stuff I can publish this week!"
+msgstr "@george6 那一箱里装的是我这礼拜可以出版的东西！"
+
+msgid "@george6_point I better up my game, dude.\\> Peeps are lining up to read his books!"
+msgstr "@george6_point 小鬼，我最好认真点工作了。\\>读者已经在排队等他的书了！"
+
+msgid "@george6_shrug Dude, what DOESN'T he write about!"
+msgstr "@george6_shrug 拜托，有什么是他不写的！"
+
+msgid "@george6_smile Like I said, he's got passion, lots of it!"
+msgstr "@george6_smile 我说过，他满怀热情，满满的！"
+
+msgid "@george6_shrug It's like every time I turn around he just writes another huge anthology about the universe."
+msgstr "@george6_shrug 感觉简直像每次我一转身，他就又写了一整部宇宙全集。"
+
+msgid "@george6 Gotta respect that."
+msgstr "@george6 实在让人敬佩啊。"
+
+msgid "@niko These boxes are full of loose papers and notebooks."
+msgstr "@niko 这些箱子装满了活页纸和笔记本。"
+
+msgid "@george1 Oh! I see you are curious about my job."
+msgstr "@george1 喔！你似乎对我的工作很好奇。"
+
+msgid "@george1_hm ...My very important job!"
+msgstr "@george1_hm ……我意义非凡的工作！"
+
+msgid "@george1_smug You see, The Author has entrusted ME with his all his ideas!"
+msgstr "@george1_smug 你看，那个作者把他所有的灵感都托付给我了！"
+
+msgid "@george1_hm That's right... the author sends his manuscripts directly to ME!"
+msgstr "@george1_hm 没错……他把他的手稿直接交给我！"
+
+msgid "@george1_smug I am in charge of publishing all of his books that everyone loves!"
+msgstr "@george1_smug  我负责出版他所有的书，大家都爱看！"
+
+msgid "@niko_speak Wow!"
+msgstr "@niko_speak 哇！"
+
+msgid "@george1 Although... he hasn't been sending me anything as of late!"
+msgstr "@george1 虽然说……他最近都没寄稿子给我！"
+
+msgid "@george1_hm I wonder, I wonder..."
+msgstr "@george1_hm 真不知道怎么了……"
+
+msgid "@george1_smile Perhaps he decided that, since I work so hard, I deserve a break?"
+msgstr "@george1_smile 也许他想通了，我那么努力工作，也该休息一下？"
+
+msgid "@george1 As brilliant as I am, I still can't keep up with him!"
+msgstr "@george1 就算我这么厉害，还是追不上他！"
+
+msgid "@george1 Even AFTER he stopped sending me things, I still can't catch up."
+msgstr "@george1 即使他不再寄稿子给我，我还是赶不完进度。"
+
+msgid "@george1_hm Of course, I have published book after book after book, but..."
+msgstr "@george1_hm 当然，我出版书是一本接着一本，但……"
+
+msgid "@george1 The box of manuscripts just seems to be growing on its own!"
+msgstr "@george1 这几箱手稿就像是会自己变多一样！"
+
+msgid "@george2_grr What? You ain't never seen manuscripts before?"
+msgstr "@george2_grr 什么？你以前没看过手稿吗？"
+
+msgid "@george2_sigh That's what books look like before they get published, kid."
+msgstr "@george2_sigh 书本还没出版之前就长这样，小鬼。"
+
+msgid "@niko I see!"
+msgstr "@niko 知道了！"
+
+msgid "@niko Do you help him publish books?"
+msgstr "@niko 你帮他出版书，是吗？"
+
+msgid "@george2_stress Well, DUH!\\>\\n\\@george2_grr Why do you THINK I have literal mountains of his manuscripts, here?"
+msgstr "@george2_stress 喔，当然！\\>\\n\\@george2_grr 不然你以为我这边为什么有堆积如山的手稿？"
+
+msgid "@george2 He just WOULDN'T STOP SENDING ME THINGS!!!"
+msgstr "@george2 他总是不停地不停地把稿子送来我这里！"
+
+msgid "@george2_grr Like, man oh MAN does that guy work fast.\\>\\n\\@george2_sigh I just couldn't keep up!"
+msgstr "@george2_grr 我的天，那家伙写作的速度真的太快。\\>\\n@george2_sigh 我就是跟不上！"
+
+msgid "@george2 But one day he just, stopped.\\>\\n\\@george2_sigh ABOUT TIME, I would say.\\>\\n\\@george2 But it's also weird since it's HIM."
+msgstr "@george2 可是有一天他忽然停了。\\>\\n\\@george2_sigh 要我说的话，也该停了。\\>\\n\\@george2 但因为是他，所以这也很奇怪。"
+
+msgid "@george2_grr BUT! Worst part of all?"
+msgstr "@george2_grr 可是！最糟的部分是什么？"
+
+msgid "@george2_stress Even after he stopped bombarding me, the piles of material I have on hand never seem to get any smaller!"
+msgstr "@george2_Stress 就算他停止轰炸我，我手边这一大堆稿子好像永远都不会减少！"
+
+msgid "@george2_no IT'S LIKE THE BOXES ARE MAGICALLY FILLING THEMSELVES BACK UP EVERY TIME I TURN AROUND!!!!"
+msgstr "@george2_no 就好像每次我一转身这些箱子就会自动补满原稿一样！！！！"
+
+msgid "@george2_stress WHAT IS EVEN HAPPENING!"
+msgstr "@george2_stress 这到底是怎么回事！"
+
+msgid "@niko_huh Are you okay?"
+msgstr "@niko_huh 你还好吗？"
+
+msgid "@george2_no NO!!!!!!"
+msgstr "@george2_no 不好！！！！！！"
+
+msgid "@george3_sad Siiiigh..."
+msgstr "@george3_sad 唉……"
+
+msgid "@george3_sigh You just had to remind me..."
+msgstr "@george3_sigh 你非得提醒我不可吗……"
+
+msgid "@niko_speak What's wrong?"
+msgstr "@niko_speak 怎么了？"
+
+msgid "@george3_sad The author hasn't shown up lately, nor has he sent me any new manuscripts..."
+msgstr "@george3_sad 作者最近都没出现，也没有给我任何新的手稿……"
+
+msgid "@george3_sad I'm his editor and publisher, you know..."
+msgstr "@george3_sad 我是他的编辑兼出版者，你知道吗……"
+
+msgid "@george3_cry What if he doesn't want me to help him anymore?"
+msgstr "@george3_cry 万一他再也不要我帮忙了怎么办？"
+
+msgid "@george3_worry He's brilliant, he works so fast...."
+msgstr "@george3_worry 他很厉害，写作速度非常快……"
+
+msgid "@george3_worry I'm so behind with publishing his books... what if he thinks I'm too slow..."
+msgstr "@george3_worry 我出版他作品的进度都跟不上……万一他觉得我动作太慢呢……"
+
+msgid "@george3_sigh Even after he's stopped sending me things, I still can't keep up..."
+msgstr "@george3_sigh 即使他不再寄稿子给我，我还是赶不完进度……"
+
+msgid "@george3_sad The pile seems to just keep growing..."
+msgstr "@george3_sad 这堆原稿简直像会自己变多一样……"
+
+msgid "@george4_omg Oh! These are the manuscripts The Author sent me!"
+msgstr "@george4_omg 喔！这些是那个作者拿来的手稿！"
+
+msgid "@george4 As the head librarian, it's my job to help him with the publication process."
+msgstr "@george4 身为图书馆长，帮他处理出版流程是我的工作。"
+
+msgid "@george4_golly But ah... lately he hasn't been sending me anything."
+msgstr "@george4_golly 不过啊……他这阵子都没寄东西给我。"
+
+msgid "@george4_golly This isn't like him..."
+msgstr "@george4_golly 这不是他的作风呢……"
+
+msgid "@george4 I mean, I guess it does give me some extra time to work through this backlog!"
+msgstr "@george4 不过，这的确让我有更多时间处理这堆积压的工作！"
+
+msgid "@george4_oops To be honest, I'm a little behind, haha!"
+msgstr "@george4_oops 老实说，我进度有点落后，哈哈！"
+
+msgid "@george4_omg That guy works really fast!"
+msgstr "@george4_omg 那个人工作速度超快的！"
+
+msgid "@niko I see..."
+msgstr "@niko 这样啊……"
+
+msgid "@george4 ...the weird part is,\\>\\nI've been publishing book after book AFTER he stopped sending me things, right?"
+msgstr "@george4 ……奇怪的是，\\>\\n在他停止寄稿子给我之后，我还是一本接一本在出版他的书，对吧？"
+
+msgid "@george4_golly But the pile of manuscripts never seems to get any smaller!"
+msgstr "@george4_golly 可是感觉这堆手稿一点都没有减少的迹象！"
+
+msgid "@george4_golly ...at all!"
+msgstr "@george4_golly ……完全没有！"
+
+msgid "@george4_oops Golly, you think I'm going bonkers?"
+msgstr "@george4_oops 天啊，我是不是脑筋瓦特了？"
+
+msgid "@george5_smile I see you've taken an interest to the manuscripts!"
+msgstr "@george5_smile 你似乎对那些手稿很感兴趣！"
+
+msgid "@niko What are they for?"
+msgstr "@niko 这是做什么用的啊？"
+
+msgid "@george5_aww Well, aren't you curious, little one!"
+msgstr "@george5_aww 喔，小家伙，你很好奇嘛！"
+
+msgid "@george5 The Author passed these drafts to me, you see!"
+msgstr "@george5 你看，是那个作者把这些原稿给我的！"
+
+msgid "@george5_smile Since I'm the head librarian, I am supposed to help him publish these!"
+msgstr "@george5_smile 因为我是图书馆长，所以我要帮他出版这些作品！"
+
+msgid "@george5_hmm But... oh, I haven't seen that gentleman lately...."
+msgstr "@george5_hmm 不过……嗯，我这阵子都没见到那位先生……"
+
+msgid "@george5 Which is quite strange! Usually he delivers these manuscripts to me faster than I can work on them!"
+msgstr "@george5 这还蛮奇怪的！通常他给我原稿的速度远超过我帮他编辑出版的速度呢！"
+
+msgid "@george5_heh I guess now it just means I get a little more breathing room, hohoho!"
+msgstr "@george5_heh 我猜这代表我多了一点喘息空间，呵呵！"
+
+msgid "@niko_speak That's good!\\> \\@niko ...right?"
+msgstr "@niko_speak 这样也好啊！\\>\\@niko ……对吧？"
+
+msgid "@george5_hmm I don't know! I AM quite worried about him."
+msgstr "@george5_hmm 我也不知道！我蛮担心他的。"
+
+msgid "@george5_hmm I hope he hasn't fallen ill from all that stress!"
+msgstr "@george5_hmm 希望他没有因为压力太大而生病！"
+
+msgid "@george5_smile At least I got my hands full for the time being."
+msgstr "@george5_smile 不过至少现在我还是很忙的。"
+
+msgid "@george5 Even though he's stopped sending me things, it doesn't feel like he did at all!"
+msgstr "@george5 即使他停止寄原稿给我，感觉一点都不像他有停下来！"
+
+msgid "@george5_heh The pile of manuscripts I still need to proofread doesn't seem to get smaller, haha!"
+msgstr "@george5_heh 我要校阅的这堆原稿感觉永远不会减少，哈哈！"
+
+msgid "@niko This box is full of loose papers and notebooks."
+msgstr "@niko 这个箱子装满活页纸和笔记本。"
+
+msgid "@george6_point Yo, these are the manuscripts The Author gave me."
+msgstr "@george6_point 嘿，那些是那个作者给我的手稿。"
+
+msgid "@george6_smile I'm supposed to like, help him publish and stuff."
+msgstr "@george6_smile 因为我要、嗯、帮他出版什么的。"
+
+msgid "@george6 But he hasn't shown his face 'round these parts lately."
+msgstr "@george6 不过他这阵子都没露面。"
+
+msgid "@george6 That's like, throwin off my groove, man."
+msgstr "@george6 这样会打乱我的节奏呢，哎。"
+
+msgid "@george6_shrug Like, I'm used to him sending me new stuff all the time."
+msgstr "@george6_shrug 因为啊，我已经习惯他一直不断寄新的稿子来了。"
+
+msgid "@george6 I mean, of course I can't keep up with the pace that he's writin', but he don't mind."
+msgstr "@george6 我是说，当然我跟不上他写作的速度，不过他也不介意。"
+
+msgid "@george6_fingerguns Guy's just tooootally passionate 'bout his job!"
+msgstr "@george6_fingerguns 那家伙就是对自己的工作超～级热衷！"
+
+msgid "@george6_smile Makes me wanna work hard too, so I do!"
+msgstr "@george6_smile 看得我都想认真工作了，所以我也很努力！"
+
+msgid "@george6 I've been playin catchup with the stuff I haven't gotten to finish yet."
+msgstr "@george6 我一直都在想办法赶上还没完成的工作进度。"
+
+msgid "@george6_point But you know what's weird?"
+msgstr "@george6_point 可是你知道奇怪的地方是什么吗？"
+
+msgid "@niko What?"
+msgstr "@niko 是什么？"
+
+msgid "@george6_shrug The stuff I'm supposed to finish don't get finished."
+msgstr "@george6_shrug 我该处理完的东西一直没完没了。"
+
+msgid "@george6 Like I've put out book after book but the work pile don't get any smaller."
+msgstr "@george6 我一本接一本出版，可是稿子永远都是这么大一堆，完全没变少。"
+
+msgid "@george6_shrug ...Have I really been slackin' that much?"
+msgstr "@george6_shrug ……我有那么怠惰吗？"
+
+msgid "@niko It's a bookshelf."
+msgstr "@niko 一座书架。"
+
+msgid "@niko_speak The computer screen says something about \"updated databases\"."
+msgstr "@niko_speak 计算机屏幕上显示“数据库已更新”什么的。"
+
+msgid "@george1 So!\\>\\n\\@george1_smug Someone here to see the brilliant George, eh?"
+msgstr "@george1 喔！\\>\\n@george1_smug 有人来拜访才气纵横的George，是吗？"
+
+msgid "@george1_smug Caught wind of my genius and couldn't help but come see for yourself, eh?"
+msgstr "@george1_smug 听说了我的天才事迹，忍不住想要来亲眼看看是吧？"
+
+msgid "@niko Um-"
+msgstr "@niko 呃——"
+
+msgid "@george1 ...don't answer!\\>\\n\\@george1_smug Of course you are."
+msgstr "@george1 ……不用说！\\>\\n\\@george1_smug 显然是的。"
+
+msgid "@george1_smile What else could you ~possibly~ want?"
+msgstr "@george1_smile 不然难道有别的理由吗？"
+
+msgid "@niko Actually... \\@niko_speak I need your help!\\>\\n\\@niko_speak Can you tell me what I need to do?"
+msgstr "@niko 其实是……\\@niko_speak 我需要你帮忙！\\>\\n\\@niko_speak 你能告诉我该做什么吗？"
+
+msgid "@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko 我想……我应该要进去塔里……"
+
+msgid "@george1_smug Ah, but of course I can help!"
+msgstr "@george1_smug 啊，我当然可以帮你！"
+
+msgid "@george1 For I... the brilliant and intelligent head librarian George, beholder of all knowledge........"
+msgstr "@george1 因为我，才华洋溢又聪慧过人的图书馆长George，吸收了世界上所有的知识……"
+
+msgid "@george1_hm ...Believe you're supposed to go in the Tower!"
+msgstr "@george1_hm ……认为你是应该要到塔里！"
+
+msgid "@niko_eyeclosed That's what I said...\\>\\n\\@niko_speak But how, exactly?"
+msgstr "@niko_eyeclosed 我刚说过了啦……\\>\\n\\@niko_speak 可是我到底要怎么进去塔里呢？"
+
+msgid "@george1 Through the Tower entrance room!"
+msgstr "@george1 从塔的入口房间走进去就好啦！"
+
+msgid "@george1_hm Alas, going beyond that small entrance room requires ancient, forbidden knowledge that eludes even George."
+msgstr "@george1_hm 哎呀，过了那间入口小房间，就需要禁忌的古老知识了，那是连George也不知道的知识。"
+
+msgid "@george1 ...but fear not!"
+msgstr "@george1 ……可是不用担心！"
+
+msgid "@george1 If that knowledge happens to be recorded in some cryptic tome in a long-dead language..."
+msgstr "@george1 如果那些知识是用早就失传的语言记录在某些神秘著作里……"
+
+msgid "@george1_smug Then know that I, George, am fluent in several dead languages!"
+msgstr "@george1_smug 那我告诉你，我George精通好几种失传的语言！"
+
+msgid "@niko I... see!"
+msgstr "@niko 我、我知道了！"
+
+msgid "@niko Excuse me..."
+msgstr "@niko 不好意思……"
+
+msgid "@george2_stress Hey!!!"
+msgstr "@george2_stress 喂！！！"
+
+msgid "@george2_grr Who the heck do you think you are, barging in here like that?"
+msgstr "@george2_grr 竟敢这样闯进来，你以为你是谁啊？"
+
+msgid "@george2_NO I don't care if you're the Messiah, manners are still a thing!"
+msgstr "@george2_NO 管你是不是救世主，礼貌还是很重要的！"
+
+msgid "@niko I'm... \\>\\@niko_speak sorry?"
+msgstr "@niko 我……\\>\\@niko_speak 很抱歉……"
+
+msgid "@george2 Well? Are you just here to apologize?"
+msgstr "@george2 怎样？你来就只是为了道歉吗？"
+
+msgid "@niko ...Yes? \\.\\.\\n\\@niko_speak I mean, no!"
+msgstr "@niko ……对啊？\\.\\.\\n\\@niko_speak 呃，不是啦！"
+
+msgid "@niko_eyeclosed I mean, I need your help...\\>\\n\\@niko I'm not sure what I need to do next."
+msgstr "@niko_eyeclosed 我要说的是，我需要你帮忙……\\>\\n\\@niko 我不知道接下来该做什么。"
+
+msgid "@niko I think I need to go in the Tower?"
+msgstr "@niko 我想我应该要进去塔里？"
+
+msgid "@george2 Seriously? You haven't figured that one out yet?"
+msgstr "@george2 真的假的？你还搞不清楚该怎么做吗？"
+
+msgid "@niko_speak I don't know how to get in!"
+msgstr "@niko_speak 我不知道该怎么进去！"
+
+msgid "@george2_grr Well, I don't know either.\\n\\>\\@george2 Shouldn't \\p help you with that?"
+msgstr "@george2_grr 喔，我也不知道。\\n\\>\\@george2 \\p不是应该帮你解决吗？"
+
+msgid "@george2_sigh All I know is that nobody from this world can get in there."
+msgstr "@george2_sigh 我只知道这世界的人没有一个可以进去。"
+
+msgid "@george2_grr Not beyond that tiny entrance room, anyway."
+msgstr "@george2_grr 最多只能走到那间迷你入口间。"
+
+msgid "@george2 If anything, there might be a book on how the Messiah of all people can get in."
+msgstr "@george2 硬要说的话，或许会有记载万中选一的救世主怎么进去的书吧。"
+
+msgid "@george2_sigh But I don't got anything like that in MY collection."
+msgstr "@george2_sigh 但我的藏书之中没有那样的书。"
+
+msgid "@george2_grr Would like to, though."
+msgstr "@george2_grr 虽然我也希望我有。"
+
+msgid "@george3_sad Si\\.i\\.i\\.\\.i\\.\\.igh."
+msgstr "@george3_sad 唉\\.唉\\.唉\\.\\.唉\\.\\.唉。"
+
+msgid "@niko Um... hi?"
+msgstr "@niko 那个……你好？"
+
+msgid "@george3_sigh ...\\.Hi."
+msgstr "@george3_sigh ……\\.你好。"
+
+msgid "@niko_speak Are you alright?"
+msgstr "@niko_speak 你还好吗？"
+
+msgid "@george3_sad .\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\.."
+msgstr "@niko .\\..\\..\\.."
+
+msgid "@george3_worry Can I... help you..."
+msgstr "@george3_worry 有……我能帮忙的吗……"
+
+msgid "@niko_speak Yeah!"
+msgstr "@niko_speak 确实！"
+
+msgid "@niko I was wondering if you can tell me what I should do next?"
+msgstr "@niko 不知道你能不能告诉我接下来该做什么？"
+
+msgid "@niko I... think I'm supposed to go in the Tower."
+msgstr "@niko 我想……我应该要进去塔里。"
+
+msgid "@george3_sad ...the Tower....\\>\\n\\@george3_sigh A grim obelisk... \\>\\@george3_sigh a solemn reminder of our fate."
+msgstr "@george3_sad ……塔……\\>\\n\\@george3_sigh 那个阴郁的纪念碑……\\>\\@george3_sigh 严肃地提醒我们眼前的命运。"
+
+msgid "@george3_cry We're all gonna dieeeeeee...."
+msgstr "@george3_cry 我们都要死了啊啊啊啊……"
+
+msgid "@niko_what Um..."
+msgstr "@niko_what 呃……"
+
+msgid "@niko_what ...so...\\> \\@niko_eyeclosed how do I... \\>\\@niko_speak get in?"
+msgstr "@niko_what ……那个……\\>\\@niko_eyeclosed 我要怎么……\\>\\@niko_speak 进去？"
+
+msgid "@george3_cry I don't know...!!!\\>\\n\\@george3_sad I've been reading and studying all my life, and yet..."
+msgstr "@george3_cry 我不知道啊……！！！\\>\\n\\@george3_sad 我读书研究了一辈子，可是还是……"
+
+msgid "@george3_cry I haven't even found any books about entering the Tower!"
+msgstr "@george3_cry 还是连关于进入塔的书都没有找到半本！"
+
+msgid "@george3 Oh, I know there's a small room you can go in, but...\\>\\n\\@george3_cry Everybody knows that!"
+msgstr "@george3 喔，我知道有一间小房间，可以进去那里，可是……\\>\\n\\@george3_cry 大家都知道！"
+
+msgid "@george4_smile Helloooo~!\\>\\nYou must be the savior!"
+msgstr "@george4_smile 你好啊～！\\>\\n你一定就是救世主吧！"
+
+msgid "@george4_omg I'm soooo happy I actually get to meet you! <3"
+msgstr "@george4_omg 能亲眼见到你，真是太开心了！<3"
+
+msgid "@niko_speak It's nice to meet you too, miss!"
+msgstr "@niko_speak 我也很高兴见到你，小姐！"
+
+msgid "@george4 So! Are you here to check out the archives?\\>\\n\\@george4_omg I can give you a tour!"
+msgstr "@george4 那么！你是来书库找书的吗？\\>\\n\\@george4_omg 我可以帮你带路！"
+
+msgid "@niko Actually... \\>\\n\\@niko_speak I need your help!"
+msgstr "@niko 其实……\\>\\n\\@niko_speak 我需要你帮忙！"
+
+msgid "@niko_speak Can you tell me what I need to do next?\\>\\n\\@niko I think... I'm supposed to go in the Tower..."
+msgstr "@niko_speak 你能告诉我接下来该做什么吗？\\>\\n\\@niko 我想……我应该要进去塔里……"
+
+msgid "@george4 Yup!"
+msgstr "@george4 没错！"
+
+msgid "@niko Do you know how I can get in?"
+msgstr "@niko 你知道要怎么进去吗？"
+
+msgid "@george4 Nope!"
+msgstr "@george4 不知道耶！"
+
+msgid "@george4_golly Gosh, I don't think ANYONE's supposed to get inside the Tower!"
+msgstr "@george4_golly 天啊，我想应该谁都不能进去塔里面吧！"
+
+msgid "@george4 I mean, there's a little room that you can go into...\\>\\n\\@george4_golly But there's no stairs or elevators or anything else..."
+msgstr "@george4 我的意思是，那边有一间小房间可以进去……\\>\\n\\@george4_golly 但那里完全没有楼梯啦、或是电梯之类的……"
+
+msgid "@george4 If you want my guess, you'll probably need \\p's help?"
+msgstr "@george4 要我猜的话，你可能需要\\p帮忙吧？"
+
+msgid "@george4_oops I don't know how exactly..."
+msgstr "@george4_oops 具体的方法我就不知道了……"
+
+msgid "@george4 In my experience, that kind of knowledge is usually recorded in some sort of cryptic book."
+msgstr "@george4 依照我的经验，那种知识通常会记录在某种神秘的书里。"
+
+msgid "@george4_golly But I haven't read anything like that before...\\>\\n\\@george4_oops Sorry!"
+msgstr "@george4_golly 不过我从来没读过那样的书……\\>\\n\\@george4_oops 抱歉啦！"
+
+msgid "@niko Ah..."
+msgstr "@niko 啊……"
+
+msgid "@george5 Oh, hello there!"
+msgstr "@george5 喔，你好啊！"
+
+msgid "@george5_smile You must be the savior!"
+msgstr "@george5_smile 你一定就是救世主吧！"
+
+msgid "@george5_aww And also, the cutest darn thing I have ever seen!"
+msgstr "@george5_aww 同时还是我见过最可爱的小家伙！"
+
+msgid "@niko U-um... \\>\\n\\@niko_speak Thank you!"
+msgstr "@niko 呃、嗯……\\>\\n\\@niko_speak 谢谢你！"
+
+msgid "@george5_smile Can I help you with anything, sweetie?"
+msgstr "@george5_smile 小可爱，有什么我能帮忙的吗？"
+
+msgid "@niko Mhm!\\>\\n\\@niko I want to know what I should do next!"
+msgstr "@niko 有！\\>\\n\\@niko 我想知道接下来该做什么！"
+
+msgid "@niko I think I'm supposed to go in the Tower?"
+msgstr "@niko 我想我应该要进去塔里？"
+
+msgid "@george5 Oooh that's right, the Tower!"
+msgstr "@george5 喔喔，没错，去塔里！"
+
+msgid "@george5_smile I know there's a small room that you can go into, but..."
+msgstr "@george5_smile 我知道那边有一间小房间可以进去，不过……"
+
+msgid "@george5_hmm ...I'm afraid nobody knows how to get in beyond that!"
+msgstr "@george5_hmm ……恐怕没有人知道该怎么通过那间房间！"
+
+msgid "@george5_heh Not even silly ol' me, who spent her entire life reading books about the world..."
+msgstr "@george5_heh 连我这个一辈子都在阅读理解这个世界的书虫都不知道……"
+
+msgid "@george5 I think you need some help from \\p, but I don't know any details!"
+msgstr "@george5 我想你可能需要\\p帮忙，但细节我就不知道了！"
+
+msgid "@george5_hmm I've never found any books about this before...\\>\\n\\@george5_smile You'd think there would be at least ONE book on this, but I guess that's just how it is!"
+msgstr "@george5_hmm 我从来没有找到关于这方面的书……\\>\\n\\@george5_smile 你或许会想应该起码有一本吧，但真的没有呀！"
+
+msgid "@george5_hmm Goodness, this is quite the dilemma!"
+msgstr "@george5_hmm 天啊，这真是难题呢。"
+
+msgid "@george6 Hey, lil' fella!"
+msgstr "@george6 嘿，小家伙！"
+
+msgid "@niko_speak Hello!"
+msgstr "@niko_speak 你好！"
+
+msgid "@george6_point So you're gonna like, save the world and stuff!\\>\\n\\@george6_smile Didn't think I'd run into ya. But now I did!"
+msgstr "@george6_point 所以说你会拯救世界对不对！\\>\\n\\@george6_smile 没想过我会遇见你，不过现在我们见面了！"
+
+msgid "@george6_fingerguns Eyyyyyy."
+msgstr "@george6_fingerguns 就～是说啊。"
+
+msgid "@niko_speak Um, thanks?"
+msgstr "@niko_speak 呃，谢谢？"
+
+msgid "@george6 So like, what up?\\>\\n\\@george6_smile Can I getcha anything?"
+msgstr "@george6 那，找我有什么事？\\>\\n\\@george6_smile 我能帮你什么吗？"
+
+msgid "@niko_speak Yeah! I heard you can help me!"
+msgstr "@niko_speak 是的！听说你可以帮我！"
+
+msgid "@niko I'm not sure what I'm supposed to do now..."
+msgstr "@niko 我不知道现在应该要做什么……"
+
+msgid "@niko_speak I think I'm supposed to go in the Tower...\\>\\n\\@niko But how do I do that?"
+msgstr "@niko_speak 我想我应该要进去塔里……\\>\\n\\@niko 可是要怎么进去呢？"
+
+msgid "@george6 Ya don't.\\>\\n\\@george6_shrug At least, WE don't."
+msgstr "@george6 进不去啦。\\>\\n\\@george6_shrug 至少我们进不去。"
+
+msgid "@george6 The Tower's only got one teeny room in it, it ain't even got stairs!"
+msgstr "@george6 塔里只有一间小房间，而且还没有楼梯！"
+
+msgid "@george6_point I bet you need \\p's help on this one, pal...\\>\\n\\@george6_shrug Exactly how? I dunno."
+msgstr "@george6_point 小朋友，我得说你得靠\\p解决这个问题咯……\\>\\n\\@george6_shrug 至于到底怎么解决，我也不知道。"
+
+msgid "@george6 But I bet'cha anything that sorta knowledge is in some mystery book somewhere."
+msgstr "@george6 不过我敢打赌，那方面的知识一定写在某本神秘的书上，藏在某处。"
+
+msgid "@george6_shrug Nothin' in my collection fits the description, tho."
+msgstr "@george6_shrug 可是我的藏书之中没有那种书。"
+
+msgid "@niko A book is poking out from the shelf."
+msgstr "@niko 有一本书从这个架子上突出来。"
+
+msgid "@niko A box full of notebooks."
+msgstr "@niko 满满一箱笔记本。"
+
+msgid "@george1 Oh, do you need George to tell you what to do again?"
+msgstr "@george1 喔，你需要George再说一次你需要做的事吗？"
+
+msgid "@niko_speak Yes please!"
+msgstr "@niko_speak 是的，请你帮我！"
+
+msgid "@george1 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george1 根据日志，你必须持有旧太阳的三块碎片，然后前往塔底的小房间。"
+
+msgid "@george1 With those three items at hand, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george1 拿着那三样东西，你必须站在房间里，然后\\p要处理地板花纹和窗口。"
+
+msgid "@niko Alright... thank you!"
+msgstr "@niko 好的……谢谢你！"
+
+msgid "@george1_smile Good luck on your journey, small child!"
+msgstr "@george1_smile 祝你一路顺风了，孩子！"
+
+msgid "@george1 George shall bid you farewell now."
+msgstr "@george1 George现在要向你道别了。"
+
+msgid "@george1 I've done it!"
+msgstr "@george1 我完成了！\\>\\n"
+
+msgid "@george1_smile I have finished the daunting task of translating this journal!"
+msgstr "@george1_smile 我完成了翻译这本日志的艰巨任务！"
+
+msgid "@niko_speak Oh! That was fast!"
+msgstr "@niko_speak 哇！好快！"
+
+msgid "@george1_smug But of course! I AM the speediest translator in recent history."
+msgstr "@george1_smug 那当然！我可是近代史上最快速的翻译家！"
+
+msgid "@george1 Anyway, I made you a line-by-line transcript. \\>\\nIt looks like this journal might be meant for \\p."
+msgstr "@george1 总之，我帮你写了一份逐行的翻译稿。\\>\\n看来这本日志大概是写给\\p看的。"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 哦？"
+
+msgid "@george1 Here, take a look yourself."
+msgstr "@george1 拿去，你自己看吧。"
+
+msgid "@george1 There, that's the last of it."
+msgstr "@george1 你看，那就是最后了。"
+
+msgid "@george1 The rest of the pages are torn out.\\>\\n\\@george1_hm You didn't do this, did you?"
+msgstr "@george1 剩下的页面被撕掉了。\\>\\n\\@george1_hm 不是你撕的吧？"
+
+msgid "@niko_speak No!"
+msgstr "@niko_speak 不是我！"
+
+msgid "@george1 A shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george1 Ah well, I guess \\p will have to figure out that one."
+msgstr "@george1 真可惜！我很想知道上面写的“窗口”是什么意思。\\>\\n\\@george1 哎，看来\\p得自己找出答案了。"
+
+msgid "@niko Right..."
+msgstr "@niko 嗯……"
+
+msgid "@niko_speak By the way, what does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak 对了，上面写的“三块旧太阳”是什么意思啊？\\>\\n\\@niko 我只有这个太阳……"
+
+msgid "@george1_hm Aha!\\>\\nThat... \\@george1_smug is a question George can answer!"
+msgstr "@george1_hm 啊哈！\\>\\n那个……\\@george1_smug 是George可以回答的问题！"
+
+msgid "@george1 It means you need items containing yellow phosphor, the rarest of the phosphors.\\>\\n\\@george1 ...said to absorb sunlight for the longest time and never fade out."
+msgstr "@george1 那代表你需要含有最稀有的燐矿——黄燐的物品。\\>\\n\\@george1 ……据说黄燐吸收阳光的时间最久，而且它的光能永远不会消退。"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak 这样啊！\\>\\n\\@niko 我是有一块琥珀和一根羽毛，这两样东西都会发黄光……"
+
+msgid "@george1_hm But alas, you are missing the third, no?"
+msgstr "@george1_hm 哎呀，不过你还缺第三样东西吧？"
+
+msgid "@george1 Fear not! For George, collector of rare artifacts... \\@george1_hm will assist you!\\>\\n\\@george1 Here."
+msgstr "@george1 别怕！因为稀有物品的收藏家George……\\@george1_hm  会帮助你！\\>\\n\\@george1 拿去。"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko_huh ...like you?"
+msgstr "@niko 哇……\\>\\n\\@niko_speak 它看起来有点……\\@niko_huh ……像你？"
+
+msgid "@george1_smile Yes!"
+msgstr "@george1_smile 对啊！"
+
+msgid "@george1_smile Now you'll never forget my face! \\>\\n\\@george1 The face... \\>\\@george1_hm of knowledge."
+msgstr "@george1_smile 这下你就不会忘记我的长相了！\\>\\n\\@george1 这是……\\>\\@george1_hm 智慧的容颜。"
+
+msgid "@niko_speak Ah, thank you!"
+msgstr "@niko_speak 啊，谢谢你！"
+
+msgid "@george1 Yes, even someone as great as I must put the proper thought and care into a task like this."
+msgstr "@george1 是的，就连我这么伟大的人， 面对这样的任务都必须深谋远虑。\\>\\n"
+
+msgid "@niko_yawn *yawn*..."
+msgstr "@niko_yawn *打呵欠*……"
+
+msgid "@niko_eyeclosed Excuse me.... \\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed 不好意思……\\>\\n\\@niko ……再打扰一下。"
+
+msgid "@george1 Go take a nap, small child! \\>\\n\\@george1_smug Take a nap and appreciate my hospitality!"
+msgstr "@george1 去睡一下吧，孩子！\\>\\n\\@george1_smug 小睡一下，好好感谢我的热情款待！"
+
+msgid "@george1 Guest room's in the attic down the hall, in case you forgot."
+msgstr "@george1 提醒你一下，客房就在走道尽头的阁楼。"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko I do have this book, though!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko 不过我是有这本书！\\>\\n\\@niko_speak 我……觉得这应该是某种……我不认得的文字写成的。"
+
+msgid "@george1 Aha!\\>\\nAn ancient book!\\>\\nWritten by no less than the most ancient... wait a minute."
+msgstr "@george1 啊哈！\\>\\n一本古书！\\>\\n作者还是最古老的……等等。"
+
+msgid "@george1_hm This isn't ancient at all!\\>\\n\\@george1 But it's written in a dead language nevertheless."
+msgstr "@george1_hm 这一点都不古老！\\>\\n\\@george1 但是还是用已经失传的语言写的。"
+
+msgid "@george1_hm It's time... for me to unleash my brilliance!"
+msgstr "@george1_hm 现在……该我好好露一手了！"
+
+msgid "@george1 For George (me),\\npossessor of at least one PhD...\\>\\n\\@george1_smug shall translate this!"
+msgstr "@george1 因为我George，\\n拥有不止一个博士学位的人……\\>\\n\\@george1_smug 将要翻译这本书！"
+
+msgid "@george1 ...this will take some time, however."
+msgstr "@george1 ……不过这得花上一点时间。"
+
+msgid "@niko I see...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko 我知道了……\\>\\n\\@niko_yawn *打呵欠*……"
+
+msgid "@niko_eyeclosed Excuse me...."
+msgstr "@niko_eyeclosed 不好意思……"
+
+msgid "@george1_hm Oh? What's this? \\>\\nYou are sleepy?"
+msgstr "@george1_hm 嗯？怎么啦？\\>\\n想睡觉了？"
+
+msgid "@niko_eyeclosed A little...."
+msgstr "@niko_eyeclosed 有一点……"
+
+msgid "@george1_smile Fear not! \\>Because I have read a book on hospitality before!"
+msgstr "@george1_smile 别担心！\\>因为我以前读过待客之道的书！"
+
+msgid "@george1_smug ...and thus, have prepared for this exact situation!"
+msgstr "@george1_smug ……所以我也为这种情形做好了准备！"
+
+msgid "@george1 ...Guest room's in the attic down the hall."
+msgstr "@george1 ……客房就在走道尽头的阁楼。"
+
+msgid "@niko So...."
+msgstr "@niko 那……"
+
+msgid "@george1 If you have any questions regarding books, then fear not."
+msgstr "@george1 如果有任何关于书的问题，都不用担心。"
+
+msgid "@george1_smug For I, George the head librarian, know a lot about \\c[3]books\\c[0]."
+msgstr "@george1_smug 我George身为图书馆长，知道非常多关于\\c[3]书\\c[0]的知识。"
+
+msgid "@george2_grr What? You need me to explain again?"
+msgstr "@george2_grr 什么？你需要我再解释一遍？"
+
+msgid "@george2_sigh FINE."
+msgstr "@george2_sigh 好吧。"
+
+msgid "@george2 The Journal says you have to go to the small room at the base of the Tower while holding three pieces of the previous sun."
+msgstr "@george2 日志上写道，你必须持有旧太阳的三片碎片，然后前往塔底的小房间。"
+
+msgid "@george2 Since you already have those, you must stand in the room and wait for \\p to do something about floor patterns and windows."
+msgstr "@george2 你已经有必要的东西了，接着你就必须站在房间里，等\\p处理地板花纹和窗口。"
+
+msgid "@niko Alright... that makes sense.\\>\\n\\@niko Thank you!"
+msgstr "@niko 好的……我能理解。\\>\\n\\@niko 谢谢你！"
+
+msgid "@george2_sigh Well, bye."
+msgstr "@george2_sigh 嗯，拜拜。"
+
+msgid "@george2_grr THERE. FINALLY.\\>\\n\\@george2_sigh ...the translation is done."
+msgstr "@george2_grr 终于好啦。\\>\\n\\@george2_sigh ……翻译完成了。"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko That was faster than I thought!"
+msgstr "@niko_speak 哇！\\>\\n\\@niko 比我想的还要快！"
+
+msgid "@george2_grr Well, YEAH!\\>\\n\\@george2_stress You've been asleep for hours!"
+msgstr "@george2_grr 嗯，是啊！\\>\\n\\@george2_stress 你睡了好几个小时！"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 喔……"
+
+msgid "@george2_sigh Anyway...\\>\\n\\@george2_grr It looks like this journal was meant for \\p."
+msgstr "@george2_sigh 总之呢……\\>\\n\\@george2_grr 看来这本日志是写给\\p看的。"
+
+msgid "@george2_sigh Here. Read it yourself."
+msgstr "@George2_sigh 拿去，你自己看吧。"
+
+msgid "@george2_grr That's all there is.\\>\\n\\@george2_sigh Someone tore out the other pages."
+msgstr "@george2_grr 这就是全部了。\\>\\n\\@george2_sigh 其他页都被撕掉了。"
+
+msgid "@george2_grr Did YOU do this???"
+msgstr "@george2_grr 是你撕的吗？？？"
+
+msgid "@niko_huh No!"
+msgstr "@niko_huh 不是我！"
+
+msgid "@george2_sigh Then you're on your own, kid. I'm not sure what \"window\" means here.\\>\\n\\@george2 Maybe \\p will have to figure out that one."
+msgstr "@george2_sigh 那我就帮不上忙了，小鬼。我不知道这边写的“窗口”是什么意思。 \\>\\n\\@george2 \\p可能得自己找出答案了。"
+
+msgid "@george2_grr Do I have to explain EVERYTHING..."
+msgstr "@george2_grr 我非得一样一样解释是不是……"
+
+msgid "@george2_sigh Sigh.\\>\\n\\@george2_grr It's just a fancy word for objects containing yellow phosphor."
+msgstr "@george2_sigh 唉。\\>\\n\\@george2_grr 那只是含有黄燐的东西的美称而已。"
+
+msgid "@george2_sigh Y'know, stuff that glows yellow."
+msgstr "@george2_sigh 你知道，就是那些会发黄光的玩意。"
+
+msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather!"
+msgstr "@niko_speak 喔！\\>\\n\\@niko 我是有一块琥珀和一根羽毛！"
+
+msgid "@niko_speak They fit the description, right...?"
+msgstr "@niko_speak 它们符合描述，对吧……？"
+
+msgid "@george2_grr Yeah, but you only have TWO of them."
+msgstr "@george2_grr 对，但你只有两样。"
+
+msgid "@george2_grr And they're super rare so it's not like you're just gonna find something like that on the ground."
+msgstr "@george2_grr 而且这些东西非常稀有，不是你随便在地上就能捡到的。"
+
+msgid "@niko_eyeclosed Right..."
+msgstr "@niko_eyeclosed 对喔……"
+
+msgid "@george2_sigh ...\\>\\@george2_grr ...okay."
+msgstr "@george2_sigh ……\\>\\@george2_grr ……好吧。"
+
+msgid "@george2 Here. You can have this."
+msgstr "@george2 拿去，这个给你。"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks... \\@niko ...kinda like you?"
+msgstr "@niko 喔……\\>\\n\\@niko_speak 它看起来有点……\\@niko ……像你？"
+
+msgid "@george2_grr What? Never seen dice before?"
+msgstr "@george2_grr 什么？你没见过骰子吗？"
+
+msgid "@niko_speak No!\\> I mean yes!\\>\\n\\@niko I mean, it's just..."
+msgstr "@niko_speak 没有！\\>呃其实有！\\>\\n\\@niko 我的意思是，这个……"
+
+msgid "@niko_eyeclosed Nevermind."
+msgstr "@niko_eyeclosed 算了。"
+
+msgid "@george2_grr So... yeah.\\>\\nNeed anything else?"
+msgstr "@george2_grr 嗯……好啦。\\>\\n还需要其他东西吗？"
+
+msgid "@niko_speak I'm good, thank you!"
+msgstr "@niko_speak 不用了，谢谢你！"
+
+msgid "@george2_grr ...Off you go, then.\\>\\n\\@george2_sigh Don't screw this up, okay?"
+msgstr "@george2_grr ……去吧。\\>\\n\\@george2_sigh 别搞砸了，知道吗？"
+
+msgid "@george2_grr What? Couldn't find it?\\>\\n\\@george2_sigh It's down the hall and upstairs!"
+msgstr "@george2_grr 什么？你找不到？\\>\\n\\@george2_sigh 走廊尽头上楼就是了！"
+
+msgid "@george2_grr Just go take a nap. \\>\\@george2_sigh Translating's gonna take a while anyway."
+msgstr "@george2_grr 去睡一下吧。\\>\\@george2_sigh 反正我翻译也需要一点时间。"
+
+msgid "@niko I have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko 我有这本书！\\>\\n\\@niko_speak 我……觉得这应该是某种……我不认得的文字写成的。"
+
+msgid "@george2 Oh? \\>\\nLemme see..."
+msgstr "@george2 哦？\\>\\n我瞧瞧……"
+
+msgid "@george2_grr ...oh.\\>\\n\\@george2_stress Of course... \\>\\@george2_NO OF COURSE!!!"
+msgstr "@george2_grr ……喔。\\>\\n\\@george2_stress 我就知道……\\>\\@george2_NO 我就知道！！！"
+
+msgid "@niko Um..."
+msgstr "@niko 呃……"
+
+msgid "@george2_sigh More work for George, FINE."
+msgstr "@george2_sigh George的工作量又增加了，好吧。"
+
+msgid "@george2_grr Hey uh, \\>\\@george2 kid..."
+msgstr "@george2_grr 喂，呃，\\>\\@george2 小鬼……"
+
+msgid "@niko_speak Niko!"
+msgstr "@niko_speak 我叫Niko！"
+
+msgid "@george2_grr Looks like I'm gonna have to translate this for you.\\>\\n\\@george2_sigh Might take a while."
+msgstr "@george2_grr 看来我得帮你翻译了。\\>\\n\\@george2_sigh 可能需要一点时间。"
+
+msgid "@niko Alright...\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko 好的……\\>\\n\\@niko_yawn *打呵欠*……"
+
+msgid "@george2_grr I know that feel, kid. \\>\\n\\@george2_stress I haven't had a good night's sleep in weeks!"
+msgstr "@george2_grr 我懂你的感觉，小鬼。\\>\\n\\@george2_stress 我已经好几个礼拜没有好好睡一觉了！"
+
+msgid "@niko_yawn *yawn*...\\>\\n\\@niko_eyeclosed ...\\.that's...\\.\\. not good..."
+msgstr "@niko_yawn *打呵欠*……\\>\\n\\@niko_eyeclosed ……\\.那可……不太好……"
+
+msgid "@george2_grr ...You know what?\\>\\n\\@george2_sigh I have a guest room in the attic down the hall."
+msgstr "@george2_grr ……跟你说。\\>\\n\\@george2_sigh 走廊尽头的阁楼有客房。"
+
+msgid "@george2 Go take a nap!\\>\\n\\@george2_stress Just looking at you getting tired is making me tired!"
+msgstr "@george2 去睡一下！\\>\\n\\@george2_stress 你累成这个样子，看得我都累了！"
+
+msgid "@george2_sigh Well, since you're already here.\\>\\n\\@george2_grr It'd be rude for me to tell you to leave."
+msgstr "@george2_sigh 哎，既然你都来了。\\>\\n\\@george2_grr 叫你滚好像太没礼貌了。"
+
+msgid "@george2 Do you uh...\\. got any questions about \\c[3]books\\c[0]..."
+msgstr "@george2 你、呃……\\.有任何关于\\c[3]书\\c[0]的问题吗……"
+
+msgid "@george2_sigh Or you can read something here, I don't care. \\>\\n\\@george2_grr Just don't make a mess!"
+msgstr "@george2_sigh 或是你可以在这里看书，随便。\\>\\n\\@george2_grr 别把这里弄得乱七八糟就好！"
+
+msgid "@george3_sad Ohh... are you still lost?"
+msgstr "@george3_sad 喔……你还是不明白吗？"
+
+msgid "@george3_sigh I KNEW I didn't explain it well enough..."
+msgstr "@george3_sigh 我就知道我解释得不够清楚……"
+
+msgid "@george3_sad Alright... the journal says you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george3_sad 好吧…… 日志上说你必须拿着旧太阳的三片碎片前往塔底的小房间。"
+
+msgid "@george3_sad And... since you have the three items... you need to stand in the room, and \\p will do something about floor patterns and windows..."
+msgstr "@george3_sad 然后……既然你已经有这三样东西了……你必须站在房间里，然后\\p要处理地板花纹和窗口……"
+
+msgid "@niko That makes sense, thank you!"
+msgstr "@niko 这样我懂了，谢谢你！"
+
+msgid "@george3_sad Yeah... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad 嗯……\\>\\@george3_sigh 那就再见咯……"
+
+msgid "@george3_sad .\\..\\..\\..\\.."
+msgstr "@george3_sad .\\..\\..\\..\\.."
+
+msgid "@george3_sigh It's done..."
+msgstr "@george3_sigh 完成了……"
+
+msgid "@niko_speak That was fast! Thank you!"
+msgstr "@niko_speak 好快喔！谢谢你！"
+
+msgid "@george3_sad ...not... really."
+msgstr "@george3_sad ……没……没有啦。"
+
+msgid "@george3_sigh You've just been sleeping...."
+msgstr "@george3_sigh 你只是在睡觉所以不觉得久……"
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed 对喔。"
+
+msgid "@george3_worry Anyway... \\.he...\\. this person... wrote this journal for \\p... I think..."
+msgstr "@george3_worry 总之……\\.他……\\.这个人……这本日志是写给\\p看的……应该是……"
+
+msgid "@george3 I made you a transcript... here."
+msgstr "@george3 我整理了一份译稿……拿去。"
+
+msgid "@george3_cry Th...that was the last of it."
+msgstr "@george3_cry 那……就是最后了。"
+
+msgid "@george3_worry A lot of the pages were torn out...\\>\\n\\@george3_cry Do you know what happened?"
+msgstr "@george3_worry 有很多页都被撕掉了……\\>\\n\\@george3_cry 你知道这是怎么回事吗？"
+
+msgid "@george3_sad Ah... I don't know what \"window\" is supposed to mean.\\>\\n\\@george3_worry Maybe \\p will know..."
+msgstr "@george3_sad 啊……我不懂这个“窗口”是指什么。\\>\\n\\@george3_worry 也许\\p知道吧……"
+
+msgid "@george3 Oh."
+msgstr "@george3 喔。"
+
+msgid "@george3_sigh That's just referring to things with yellow phosphor in them.\\>\\n\\@george3 They uh... they glow for a long time!"
+msgstr "@george3_sigh 那只是在说含有黄燐的东西。\\>\\n\\@george3 那些东西、呃……会长时间发光！"
+
+msgid "@george3_worry But they're really rare..."
+msgstr "@george3_worry 不过这种东西非常稀有……"
+
+msgid "@niko_speak Ooooh.\\>\\n\\@niko I have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak 这样啊。\\>\\n\\@niko 我是有一块琥珀和一根羽毛，这两样东西都会发黄光……"
+
+msgid "@george3_worry But that's just two..."
+msgstr "@george3_worry 那只有两样而已……"
+
+msgid "@george3_sigh ...\\>\\n\\@george3 Here, you can have this."
+msgstr "@george3_sigh ……\\>\\n\\@george3 来，这个给你。"
+
+msgid "@george3_sigh I... guess? It's just a die..."
+msgstr "@george3_sigh 应该……可以吧？这不过是颗骰子……"
+
+msgid "@george3_worry Ohhhh, but \"die\" isn't a good word!\\>\\nWhat if I jinx your mission by giving you this?"
+msgstr "@george3_worry 哎呀，什么骰子，投河觅井的多不吉利！\\>\\n万一给你这个反而为你的任务带来厄运怎么办？"
+
+msgid "@george3_cry THE WORLD IS GONNA DIE AND IT'S GONNA BE MY FAULT!"
+msgstr "@george3_cry 这个世界要完蛋了，都是我不好！"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ……"
+
+msgid "@niko I... think we'll be fine, miss!"
+msgstr "@niko 我……觉得应该没问题的，小姐！"
+
+msgid "@george3_sad Are you sure?"
+msgstr "@george3_sad 你确定？"
+
+msgid "@niko_speak Yeah!\\> Thank you for helping us, by the way!"
+msgstr "@niko_speak 嗯！\\>还有，谢谢你帮助我们！"
+
+msgid "@george3_sad Alright... \\>\\@george3_sigh see you around, I guess..."
+msgstr "@george3_sad 好吧……\\>\\@george3_sigh 那就再见咯……"
+
+msgid "@george3_cry I'm working as fast as I can...!!"
+msgstr "@george3_cry 我已经尽量在赶工了……！！"
+
+msgid "@niko No worries!"
+msgstr "@niko 没问题！"
+
+msgid "@niko_yawn *yawn*... \\>\\n\\@niko_eyeclosed Excuse me...\\. again."
+msgstr "@niko_yawn *打呵欠*……\\>\\n\\@niko_eyeclosed 不好意思……\\.再打扰一下。"
+
+msgid "@george3_sad You can go take a nap if you want..."
+msgstr "@george3_sad 想睡的话可以去睡一下……"
+
+msgid "@george3_sad If you forgot, the guest room is down the hall and upstairs..."
+msgstr "@george3_sad 如果你忘了，客房就在走廊尽头的楼上……"
+
+msgid "@niko_speak Excuse me!"
+msgstr "@niko_speak 不好意思！"
+
+msgid "@niko I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko 我有这本书！\\>\\n\\@niko_speak 我……觉得这应该是某种……我不认得的文字写成的。"
+
+msgid "@george3 Lemme see..."
+msgstr "@george3 我看看……"
+
+msgid "@george3_sad Oh...\\>\\n\\@george3_worry Oh, dear...."
+msgstr "@george3_sad 喔……\\>\\n\\@george3_worry 喔，天啊……"
+
+msgid "@niko Hm?"
+msgstr "@niko 咦？"
+
+msgid "@george3_sad Hey uh... is it alright if I... borrow this..."
+msgstr "@george3_sad 嘿，呃……这个……可以借我吗……"
+
+msgid "@george3_worry There's no mistake... I have to translate it."
+msgstr "@george3_worry 别误会了……我要翻译它。"
+
+msgid "@niko_speak Oh, no problem!"
+msgstr "@niko_speak 喔，可以啊！"
+
+msgid "@george3_sad I'll try my best, but... \\>\\@george3_sigh It probably won't be very fast."
+msgstr "@george3_sad 我会尽力的，可是……\\>\\@george3_sigh 可能没办法很快完成。"
+
+msgid "@niko That's okay.\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko 不要紧的。\\>\\n\\@niko_yawn *打呵欠*……"
+
+msgid "@george3_worry Oh dear, are you... tired?"
+msgstr "@george3_worry 喔天啊，你……累了吗？"
+
+msgid "@george3_sad Ah, well...\\>\\n\\@george3 I do have a guest room upstairs...\\>\\n\\@george3_sad Ah, but it's in the attic though..."
+msgstr "@george3_sad 啊，那……\\>\\n\\@george3 我楼上有一间客房……\\>\\n\\@george3_sad 啊，不过它在阁楼里……"
+
+msgid "@george3_sigh Sorry if it's not very comfortable..."
+msgstr "@george3_sigh 可能不是很舒适，抱歉喔……"
+
+msgid "@george3_sigh So... do you have any questions about \\c[3]books\\c[0]..."
+msgstr "@george3_sigh 那……你有任何关于\\c[3]书\\c[0]的问题吗……"
+
+msgid "@george3_cry It's all I'm good forrrrrrr......."
+msgstr "@george3_cry 我只懂这个而已……"
+
+msgid "@george4_golly Oh, do you need me to explain again?"
+msgstr "@george4_golly 喔，需要我再说明一次吗？"
+
+msgid "@george4 Alright!"
+msgstr "@george4 好啊！"
+
+msgid "@george4_golly The journal says... you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george4_golly 日志上写说…… 你必须持有旧太阳的三片碎片前往塔底的小房间。"
+
+msgid "@george4 And then, you'll stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george4 然后你要站在房间里，让\\p处理地板花纹和窗口。"
+
+msgid "@george4_smile That's all there is to it!"
+msgstr "@george4_smile 上面就写这样！"
+
+msgid "@niko Thank you!"
+msgstr "@niko 谢谢你！"
+
+msgid "@george4 No problem! See you later!"
+msgstr "@george4 不客气！回头见咯！"
+
+msgid "@george4 Heya! Had a good nap?"
+msgstr "@george4 嗨！睡得好吗？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 对啊！"
+
+msgid "@george4 Goody!\\>\\n\\@george4_smile I finished translating the journal, by the way!"
+msgstr "@george4 好耶！\\>\\n\\@george4_smile 对了，日志我翻译完了喔！"
+
+msgid "@george4_oops Well, you were out for a while.\\>\\n\\@george4_golly Anyway, it looks like this journal might be meant for \\p!"
+msgstr "@george4_oops 嗯，你睡了一段时间。\\>\\n\\@george4_golly 总之，这本日志似乎是写给\\p看的！"
+
+msgid "@george4 Here, take a look yourself!"
+msgstr "@george4 来，你自己看看吧！"
+
+msgid "@niko Is that all?"
+msgstr "@niko 这就是全部吗？"
+
+msgid "@george4_golly Yeah... the rest of the pages were torn out..."
+msgstr "@george4_golly 对啊……其他的页面都被撕掉了……"
+
+msgid "@george4 I... guess you don't know what happened to those?"
+msgstr "@george4 我猜……你也不知道被撕掉的页面怎么了吧？"
+
+msgid "@niko_eyeclosed Nope..."
+msgstr "@niko_eyeclosed 不知道……"
+
+msgid "@george4_oops Aww... I was wondering what \"window\" was supposed to mean.\\>\\n\\@george4_golly Ah well, I guess \\p will have to figure out that one."
+msgstr "@george4_oops 哎呀……我还在想“窗口”到底是什么意思。\\>\\n\\@george4_golly 算了，只能让\\p自己去找答案咯。"
+
+msgid "@george4_omg Oh! Of course!"
+msgstr "@george4_omg 喔！当然咯！"
+
+msgid "@george4_smile That just means you need things that contain yellow phosphor!\\>\\n\\@george4 They glow for a long time!"
+msgstr "@george4_smile 那个意思只是说你需要含有黄燐的东西！\\>\\n\\@george4 这种东西会长时间发光！"
+
+msgid "@niko_speak Ooh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
+msgstr "@niko_speak 这样啊！\\>\\n\\@niko 我是有一块琥珀和一根羽毛，这两样东西都会发黄光……"
+
+msgid "@george4_golly Aww, just two?"
+msgstr "@george4_golly 哎呀，只有两样吗？"
+
+msgid "@george4 Here, you can have this then!"
+msgstr "@george4 那这个给你，来！"
+
+msgid "@niko Oh...\\>\\n\\@niko_speak It looks..."
+msgstr "@niko 喔……\\>\\n\\@niko_speak 它看起来……"
+
+msgid "@george4_smile Like me, right?"
+msgstr "@george4_smile 很像我对吧？"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak 对啊！"
+
+msgid "@george4_smile Now you have a little keepsake from the library!"
+msgstr "@george4_smile 这样你就有图书馆的纪念品了！"
+
+msgid "@george4 No problem! Looks like you're all set!"
+msgstr "@george4 不客气！看来你都准备好咯！"
+
+msgid "@george4_smile Good luck now!"
+msgstr "@george4_smile 祝你好运！"
+
+msgid "@george4_oops Haha... it won't be done for a while, sorry!"
+msgstr "@george4_oops 哈哈……还需要一点时间，抱歉啦！"
+
+msgid "@niko_eyeclosed Excuse me...\\.\\. again...."
+msgstr "@niko_eyeclosed 不好意思……\\.\\.再打扰一下……"
+
+msgid "@george4_golly Seriously, you should go take a nap before you overexert yourself!\\>\\n\\@george4 The guest room is in the attic down the hall, if you forgot!"
+msgstr "@george4_golly 说真的，你该去睡一下，免得累坏了！\\>\\n\\@george4 提醒你一下，客房就在走廊尽头的阁楼里！"
+
+msgid "@niko_speak Oh! I do have this!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak 喔！ 我有这个！\\>\\n\\@niko_speak 我……觉得这应该是某种……我不认得的文字写成的。"
+
+msgid "@george4_golly Oh my gosh!"
+msgstr "@george4_golly 喔，天啊！"
+
+msgid "@george4 It's.... \\.\\.\\@george4_omg A book!"
+msgstr "@george4 这是……\\.\\.\\@george4_omg 一本书！"
+
+msgid "@george4 And not just any book! \\>\\@george4_golly Golly... where did you find this?"
+msgstr "@george4 而且不是普通的书！\\>\\@george4_golly 哇啊……你在哪找到这个的？"
+
+msgid "@niko I woke up with it."
+msgstr "@niko 我醒来的时候就有了。"
+
+msgid "@niko Somewhere in the barrens!\\>\\n\\@niko_speak Oh! We found it in a safe!\\> Right, \\p?"
+msgstr "@niko 在Barrens的某处！\\>\\n\\@niko_speak 喔！我们是在保险箱里找到的！\\>对吧，\\p？"
+
+msgid "@george4 Is that so!"
+msgstr "@george4 这样啊！"
+
+msgid "@george4_smile In that case, I know what I have to do now!"
+msgstr "@george4_smile 既然如此，那我知道我现在要做什么了！"
+
+msgid "@george4 I need to borrow this journal for a bit, okay?\\>\\n\\@george4_omg Gotta translate it!"
+msgstr "@george4 这本日志借我一下好吗？\\>\\n\\@george4_omg 我要翻译它！"
+
+msgid "@niko_speak Oh, cool!"
+msgstr "@niko_speak 喔，好啊！"
+
+msgid "@george4_oops It... might take a while, though..."
+msgstr "@george4_oops 不过……可能需要一点时间就是了……"
+
+msgid "@niko_speak That's fine!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak 没关系的！\\>\\n\\@niko_yawn *打呵欠*……"
+
+msgid "@george4_golly Gosh! You look really tired!"
+msgstr "@george4_golly 天啊！你看起来累坏了！"
+
+msgid "@niko_eyeclosed A little, yeah...."
+msgstr "@niko_eyeclosed 有一点……"
+
+msgid "@george4_smile No worries! I have a guest room in the attic down the hall!"
+msgstr "@george4_smile 没问题！我这边有客房，就在走廊尽头的阁楼！"
+
+msgid "@george4 If you want, you can go take a nap!\\>\\n\\@george4_smile ...a catnap!"
+msgstr "@george4 想要的话，可以去睡一下！\\>\\n\\@george4_smile ……睡个猫打盹！"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@george4 Well, since you're already here, feel free to check out my archives!"
+msgstr "@george4 嗯，既然你都来了，欢迎去我的书库翻翻！"
+
+msgid "@george4_omg Or better yet! If you have any questions about \\c[3]books\\c[0], I can answer them!"
+msgstr "@george4_omg 还有更好的！如果你有任何关于\\c[3]书\\c[0]的问题，我都能回答！"
+
+msgid "@george4 I love books.... books books books!"
+msgstr "@george4 我最爱书了……书书书～！"
+
+msgid "@george5 Oh! Would you like me to explain again?"
+msgstr "@george5 喔！你需要我再说明一次吗？"
+
+msgid "@george5 According to the journal, you must go to the small room at the base of the Tower while having three pieces of the previous sun in your possession."
+msgstr "@george5 根据日志，你必须持有旧太阳的三片碎片，去塔底的小房间。"
+
+msgid "@george5 ...and then, you must stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@geroge5 ……然后你必须站在房间里，让\\p处理地板花纹和窗口。"
+
+msgid "@niko Ooo, makes sense, thank you!"
+msgstr "@niko 喔喔，这样我懂了，谢谢你！"
+
+msgid "@george5 Best of luck, sweetie!"
+msgstr "@george5 亲爱的，祝你好运！"
+
+msgid "@george5_smile Had a good nap, dear?"
+msgstr "@george5_smile 亲爱的孩子，睡得好吗？"
+
+msgid "@george5_smile Wonderful!"
+msgstr "@george5_smile 太好了！"
+
+msgid "@george5 I have the translation ready for you now.\\>\\n\\@george5_hmm It looks like this journal might be meant for \\p."
+msgstr "@george5 我已经完成翻译了。\\>\\n\\@george5_hmm 这本日志应该是写给\\p看的。"
+
+msgid "@george5 Here, why don't you take a look?"
+msgstr "@george5 来，你看一下吧？"
+
+msgid "@george5_hmm That is all there is to translate...\\>\\nLooks like the other pages have been torn out."
+msgstr "@george5_hmm 能翻译的就这些……\\>\\n看来其他页面都被撕掉了。"
+
+msgid "@niko Oh..."
+msgstr "@niko 喔……"
+
+msgid "@george5_hmm Quite a shame! I was wondering what \"window\" was supposed to mean.\\>\\n\\@george5 Ah well, I guess \\p can figure that one out!"
+msgstr "@george5_hmm 真可惜！我一直在想这个“窗口”是什么意思。\\>\\n\\@george5 哎，没关系，\\p应该可以找到答案吧！"
+
+msgid "@niko_speak Oh! What does it mean by \"three pieces of the previous sun\"?\\>\\n\\@niko I only have this sun..."
+msgstr "@niko_speak 对了，上面写的“三块旧太阳”是什么意思啊？\\>\\n\\@niko 我只有这个太阳……"
+
+msgid "@george5 That means the stuff containing yellow phosphor!\\>\\n\\@george5_smile They glow for a very long time, so people call them \"pieces of the sun\" sometimes!"
+msgstr "@george5 那是指含有黄燐的东西！\\>\\n\\@george5_smile 这种东西会长时间发光，所以有时候人们会称之为“太阳的碎片”！"
+
+msgid "@george5 Very good, dear!\\>\\n\\@george5_smile And I can help you with the last one!"
+msgstr "@george5 很好，亲爱的孩子！\\>\\n\\@george5_smile 缺少的最后一块，我能帮你！"
+
+msgid "@george5_heh I know! Isn't it silly?\\>\\n\\@george5 But now you'll have something to remind you of the library!"
+msgstr "@george5_heh 我知道！有点好笑吧？\\>\\n\\@george5 但这样你就有让你怀念图书馆的东西了！"
+
+msgid "@george5_smile Good luck now, sweetie!\\>\\n\\@george5 I wish you safe travels!"
+msgstr "@george5_smile 亲爱的，祝你好运咯！\\>\\n\\@george5 祝你一路平安！"
+
+msgid "@george5_smile Don't wear yourself out now, dear!\\>\\n\\@george5 The guest room is just down the hall to the right."
+msgstr "@george5_smile 亲爱的孩子，别把身体累坏了！\\>\\n\\@george5 客房就在走廊尽头的右手边。"
+
+msgid "@niko_speak Oh! I do have this book!\\>\\n\\@niko_speak I... think it's written in some sort of... words I don't recognize?"
+msgstr "@niko_speak 喔！我有这本书！\\>\\n\\@niko_speak 我……觉得这应该是某种……我不认得的文字写成的。"
+
+msgid "@george5 Really now!\\>\\n\\@george5_hmm May I take a closer look, dear?"
+msgstr "@george5 真的吗！\\>\\n\\@george5_hmm 亲爱的孩子，我可以仔细看一看吗？"
+
+msgid "@niko Here!"
+msgstr "@niko 给你！"
+
+msgid "@george5 Oh!\\>\\n\\@george5_hmm Oh my! Where did you find this?"
+msgstr "@george5 喔！\\>\\n\\@george5_hmm 天啊！你在哪里找到这个的？"
+
+msgid "@george5_hmm Hmm...\\>\\n\\@george5 I think...\\.\\. I'm supposed to translate this for you!"
+msgstr "@george5_hmm 嗯……\\>\\n\\@george5 我想……\\.\\.我应该帮你翻译它！"
+
+msgid "@george5_hmm Is it alright if I hold on to the journal for now, sweetheart?\\>\\n\\@george5 It might take a little while, I'm afraid!"
+msgstr "@george5_hmm 亲爱的，暂时让我保管这本日志可以吗？\\>\\n\\@george5 恐怕需要一点时间！"
+
+msgid "@niko_speak Go for it!\\>\\n\\@niko_yawn *yawn*..."
+msgstr "@niko_speak 没问题！\\>\\n\\@niko_yawn *打呵欠*……"
+
+msgid "@george5_aww Aww, you poor baby!\\>\\n\\@george5 Goodness, you must've worked so hard to help us!"
+msgstr "@george5_aww 哎呀，小可怜！\\>\\n\\@george5 天啊，你为了帮助我们，一定非常拼命吧！"
+
+msgid "@george5_smile I think you deserve a nap, no?"
+msgstr "@george5_smile 我想你需要睡一觉，你说呢？"
+
+msgid "@niko_yawn A nap does sounds nice..."
+msgstr "@niko_yawn 听起来是个好主意……"
+
+msgid "@george5 I have a guest room upstairs! It's just down the hall to the right."
+msgstr "@george5 我楼上有间客房！走廊尽头右手边就是了。"
+
+msgid "@george5_smile Can I help you with anything else, dear?"
+msgstr "@george5_smile 亲爱的孩子，还有什么我能帮忙的吗？"
+
+msgid "@george5 If you have any questions about \\c[3]books\\c[0], well...\\>\\n\\@george5_heh I AM a librarian!"
+msgstr "@george5 如果你有任何关于\\c[3]书\\c[0]的问题，那么……\\>\\n\\@george5_heh 我就是图书馆员喔！"
+
+msgid "@george6_point You look a lil' lost still. Want some hot tips?"
+msgstr "@george6_point 你看起来还有点困惑。需要来点好用的提示吗？"
+
+msgid "@george6 Says here in this book that you gots'ta go to the teeny room at the base of the Tower, all while holding those three pieces of the awesome glowy stuff."
+msgstr "@george6 这本书上说你得到塔底那间迷你小房间，去的时候要带三个超酷的发光物体。"
+
+msgid "@george6 Once you got 'em (which you do), just stand in the room, and \\p will do something about floor patterns and windows."
+msgstr "@george6 拿到那些东西之后（你是有啊），你只要站在房间里，然后\\p会处理地板花纹和窗口。"
+
+msgid "@niko Alright...\\.\\. \\@niko_speak Thank you!"
+msgstr "@niko 好的……\\.\\.\\@niko_speak 谢谢你！"
+
+msgid "@george6_fingerguns You're toooootally welcome!"
+msgstr "@george6_fingerguns 不～客气～！"
+
+msgid "@niko Well, I guess we'll be on our way?"
+msgstr "@niko 嗯，那我出发咯？"
+
+msgid "@george6_smile Peace out, little fella!"
+msgstr "@george6_smile 一路顺风啊，小家伙！"
+
+msgid "@george6 You'll do us good, I know it."
+msgstr "@george6 你会帮助我们，我知道的。"
+
+msgid "@george6_fingerguns Eyyyyy, you're up!"
+msgstr "@george6_fingerguns 嘿～你起床了！"
+
+msgid "@george6 Just finished translating this book for ya!"
+msgstr "@george6 我刚翻译完你这本书！"
+
+msgid "@george6_fingerguns What can I say? I'm all that and a bag of chips!"
+msgstr "@george6_fingerguns 我能说什么呢？我就是这么特别！"
+
+msgid "@george6 By the by, it looks like this journal might be meant for \\p."
+msgstr "@george6 对了，看来这本日志是写给\\p看的。"
+
+msgid "@george6_point Here, check it out."
+msgstr "@george6_point 喏，你看。"
+
+msgid "@george6 That's all, we juiced it!"
+msgstr "@george6 就是这样，榨干了！"
+
+msgid "@niko_what ...juiced what?"
+msgstr "@niko_what ……什么榨干了？"
+
+msgid "@george6_fingerguns I'm just sayin' that's the end of the book!"
+msgstr "@george6_fingerguns 我的意思是那就是这本书的结尾啦！"
+
+msgid "@george6_shrug Rest of the pages are torn out.\\>\\n\\@george6 Do you know what happened here?"
+msgstr "@george6_shrug 剩下的页面都被撕掉了。\\>\\n\\@george6 你知道这边怎么了吗？"
+
+msgid "@george6_shrug Bummer! I was hoping to figure out what he meant by saying \"window\" here.\\>\\n\\@george6 Guess we'll leave that up to \\p, huh?"
+msgstr "@george6_shrug 伤脑筋！我本来希望能破解这边的“窗口”是什么意思。\\>\\n\\@george6 看来我们只能让\\p自己解决咯？"
+
+msgid "@george6_point Oh! That's just stuff with yellow phosphor in 'em!\\>\\n\\@george6 The kind of stuff that glows forever, dude."
+msgstr "@george6_point 喔！那只是含有黄燐的东西啦！\\>\\n\\@george6 那种东西会发光到天荒地老，小鬼。"
+
+msgid "@george6_fingerguns Eyyyy! Now that's what I'm talkin about!"
+msgstr "@george6_fingerguns 嘿！我说的就是这种东西！"
+
+msgid "@george6 ...Hold up, you only have two."
+msgstr "@george6 ……等等，你只有两个。"
+
+msgid "@george6_point But we coo'!\\>\\n\\@george6_fingerguns I gotcha covered, lil' fella!\\>\\n\\@george6 Here ya go."
+msgstr "@george6_point 但是没问题！\\>\\n\\@george6_fingerguns 小家伙，我可以帮忙！\\>\\n\\@george6 这个给你。"
+
+msgid "@george6_fingerguns The freshest face you've ever seen, ehhhhh?\\>\\n\\@george6 And it's all yours."
+msgstr "@george6_fingerguns 是你最近看到的脸，对吧？\\>\\n\\@george6 而且它是你的了。"
+
+msgid "@george6_smile Peace out, lil' fella!"
+msgstr "@george6_smile 一路顺风啊，小家伙！"
+
+msgid "@george6_shrug Bruh, it's gonna take some time to make this book readable, know what I'm sayin'?"
+msgstr "@george6_shrug 话说， 我得花点时间让这本书变得可以阅读，懂我意思吗？"
+
+msgid "@niko_eyeclosed Excuse me....\\>\\n\\@niko ...again."
+msgstr "@niko_eyeclosed 不好意思……\\>\\n\\@niko ……再打扰一下。"
+
+msgid "@george6 Don't sweat it!\\>\\n\\@george6_fingerguns Go catch some Z's!"
+msgstr "@george6 别担心！\\>\\n\\@george6_fingerguns 去躺一下吧！"
+
+msgid "@george6 Guest room's in the attic down the hall, FYI."
+msgstr "@george6 顺便说下，客房就在走廊尽头的阁楼。"
+
+msgid "@niko_speak Oh! I do have this book!"
+msgstr "@niko_speak 喔！我有这本书！"
+
+msgid "@george6 ...yo."
+msgstr "@george6 ……喂。"
+
+msgid "@george6_point .....YOOOOO."
+msgstr "@george6_point ……喂喂喂。"
+
+msgid "@george6 Where'd you find this?"
+msgstr "@george6 你在哪找到这个的？"
+
+msgid "@niko Somewhere in the Barrens!"
+msgstr "@niko 在Barrens的某处！"
+
+msgid "@george6 Cuz that's..."
+msgstr "@george6 因为那上面……"
+
+msgid "@george6_point ...got that symbol and everything."
+msgstr "@george6_point ……有那个符号还有那些东西。"
+
+msgid "@george6 Here, lemme read it..."
+msgstr "@george6 好，我看看……"
+
+msgid "@george6 ...aw seriously? He even used that language..."
+msgstr "@george6 ……噢，搞什么啊？他连那个语言都用上了……"
+
+msgid "@george6 I gotta translate this, man.\\>\\nMind if I borrow this?"
+msgstr "@george6 天啊，我一定要翻译这个。\\>\\n可以借我吗？"
+
+msgid "@niko_speak Not at all!"
+msgstr "@niko_speak 没问题！"
+
+msgid "@george6 Sweeeeet.\\>\\n\\@george6_point It's gon' take a while tho, you cool with that?"
+msgstr "@george6 太～棒～啦。\\>\\n\\@george6_point 需要一点时间就是了，没关系吧？"
+
+msgid "@george6 Whoa dude, you look wiped, kiddo!"
+msgstr "@george6 哇塞，小鬼，你看起来累翻了！"
+
+msgid "@niko ...Huh?"
+msgstr "@niko ……咦？"
+
+msgid "@george6_point You look totally tapped out, dude!"
+msgstr "@george6_point 你看起来像放弃治疗了！"
+
+msgid "@niko_speak I look... what?"
+msgstr "@niko_speak 我看起来……什么？"
+
+msgid "@george6 You look like you're ready to take five, bruh!"
+msgstr "@george6 看起来你需要去眯一下啦！"
+
+msgid "@niko_eyeclosed ...yeah I don't get it."
+msgstr "@niko_eyeclosed ……呃，我听不懂。"
+
+msgid "@george6 Don't worry I gotcha.\\>\\n\\@george6_smile I got a guest room in the attic down the hall!"
+msgstr "@george6 没问题，我罩你。\\>\\n\\@george6_smile 走廊尽头的阁楼有客房！"
+
+msgid "@george6 If you wanna crash there, go for it!"
+msgstr "@george6 想去睡一下就去吧！"
+
+msgid "@george6 So how do you like my books, bruh."
+msgstr "@george6 嗯，你觉得我的书怎么样啊？"
+
+msgid "@niko They're... nice?"
+msgstr "@niko 它们……很不错。"
+
+msgid "@niko_speak Ah, this looks like a sketchbook of some sort!"
+msgstr "@niko_speak 啊，这看起来像某种素描簿！"
+
+msgid "@niko Even the painting is books."
+msgstr "@niko 连图画都订成书了。"
+
+msgid "@niko_speak Hey!"
+msgstr "@niko_speak 嘿！"
+
+msgid "@niko I think this book is actually about clovers..."
+msgstr "@niko 我想这本书是在讲三叶草……"
+
+msgid "@niko Looks like a scanner."
+msgstr "@niko 看起来像扫描器。"
+
+msgid "@niko Looks like a printer."
+msgstr "@niko 看起来像打印机。"
+

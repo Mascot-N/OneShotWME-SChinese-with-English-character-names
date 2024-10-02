@@ -1,0 +1,33 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 萤火虫照亮了这间房间。"
+
+msgid "@niko A couple of fireflies are buzzing about in this jar."
+msgstr "@niko 有几只萤火虫在这个罐子里飞舞。"
+
+msgid "Don't be afraid to ask if you guys want some stew!"
+msgstr "如果你们想来点炖菜，尽管开口喔！"
+
+msgid "@alula_speak Thank you!"
+msgstr "@alula_speak 谢谢你！"
+
+msgid "Don't be afraid to ask if you want some stew!"
+msgstr "如果你们想来点炖菜，尽管开口喔！"
+
+msgid "It's not ready yet, but...\\nWould you kids like some stew?"
+msgstr "虽然还没煮好，不过……\\n孩子们，你们要不要吃炖菜？"
+
+msgid "@niko_speak I'm not hungry...\\nBut thank you!"
+msgstr "@niko_speak 我不饿……\\n不过谢谢你！"
+
+msgid "@alula Same!"
+msgstr "@alula 我也是！"
+
+msgid "Well, don't be afraid to ask when you do get hungry!"
+msgstr "嗯，如果饿了随时欢迎你们来喔！"
+
+msgid "It's not ready yet, but...\\nWould you like some stew?"
+msgstr "虽然还没煮好，不过……\\n你们要不要吃炖菜？"
+
+msgid "It's the least I can offer the savior!"
+msgstr "我至少还能给救世主这点东西！"
+

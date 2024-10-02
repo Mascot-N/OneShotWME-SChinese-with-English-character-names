@@ -1,0 +1,3 @@
+msgid "FACTORY"
+msgstr "工厂"
+

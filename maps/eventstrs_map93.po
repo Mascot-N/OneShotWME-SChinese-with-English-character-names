@@ -1,0 +1,69 @@
+msgid "[HELLO, PERSON.]"
+msgstr "[人类，你好。]"
+
+msgid "[THE ROBOT ASSEMBLY AND REPAIR SERVICES HAVE BEEN DISCONTINUED AT THE BARRENS.]"
+msgstr "[荒野的机器人组装及维修服务都已经停止。]"
+
+msgid "[IF YOU HAVE FURTHER INQUIRY, PLEASE CONTACT THE HEAD ENGINEER.]"
+msgstr "[如有其他问题，请联系首席工程师。]"
+
+msgid "@niko This seems to be a page ripped out of a book."
+msgstr "@niko 看起来是从书上撕下来的一页。"
+
+msgid "$-cannot overstate the importance of cleaning solvents in this environment."
+msgstr "$——清洁溶剂在当下环境中至关重要。"
+
+msgid "$Here is a simple recipe using the alternative method discussed in the last chapter, utilizing the natural properties of blue phosphor."
+msgstr "$以下是一个简单的配方， 使用前一章探讨的替代方法，利用蓝燐的天然特性。"
+
+msgid "$Reagents:"
+msgstr "$反应剂："
+
+msgid "$-Acidic gas"
+msgstr "$─酸性气体"
+
+msgid "$-Blue phosphor (rare form)"
+msgstr "$─蓝燐（稀有形态）"
+
+msgid "$Instructions:"
+msgstr "$指示："
+
+msgid "$1) In a well-ventilated area, direct the gas into your container of choice."
+msgstr "$1）在通风良好处，把气体装进你选择的容器。"
+
+msgid "$Seal immediately."
+msgstr "$立刻密封。"
+
+msgid "@niko That's the end of the page..."
+msgstr "@niko 这页到头了……"
+
+msgid "@niko_speak You...want me to smash the boards with the pipe?"
+msgstr "@niko_speak 你……要我用铁管砸破这些木板吗？"
+
+msgid "@niko I can't do that! We'll have to pry them off!"
+msgstr "@niko 办不到啦！我们得把它们撬下来！"
+
+msgid "@niko_eyeclosed But I don't think I can do that with a pipe..."
+msgstr "@niko_eyeclosed 但是用铁管应该没办法做到……"
+
+msgid "@niko_speak Good thing I kept this crowbar!"
+msgstr "@niko_speak 还好我留着这支撬棍！"
+
+msgid "@niko_eyeclosed What a workout..."
+msgstr "@niko_eyeclosed 花了好多力气喔……"
+
+msgid "@niko The door is all boarded up..."
+msgstr "@niko 门上钉满木板封死了……"
+
+msgid "@niko_speak The boards seem loose, though! I should be able to pull them off with the right tool..."
+msgstr "@niko_speak 不过这些板子看起来有点松！有适合的工具应该就拔得起来……"
+
+msgid "[WELCOME TO THE OLD CHEMICAL PROCESSING PLANT.]"
+msgstr "[欢迎来到旧化学处理厂。]"
+
+msgid "[MOST OF THE EQUIPMENT HAS ALREADY BEEN RELOCATED.]"
+msgstr "[大部分的设备都已经运走。]"
+
+msgid "@niko It's a pair of rubber gloves.\\nThey're a bit heavy."
+msgstr "@niko 一双橡胶手套。\\n有点重。"
+

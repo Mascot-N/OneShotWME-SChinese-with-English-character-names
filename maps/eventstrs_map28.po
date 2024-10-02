@@ -1,0 +1,93 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak 是炖鱼！"
+
+msgid "@niko A fishing pole."
+msgstr "@niko 一根钓竿。"
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp 我哥也会钓鱼！"
+
+msgid "@alula But I don't!"
+msgstr "@alula 可是我不会！"
+
+msgid "@niko Same!"
+msgstr "@niko 我也一样！"
+
+msgid "@niko An empty jar."
+msgstr "@niko 空罐子。"
+
+msgid "@niko A jar of worms."
+msgstr "@niko 一罐虫。"
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed 真恶心！"
+
+msgid "There was a time where our people used to live in these ruins."
+msgstr "以前我们的族人曾经住在这些废墟中。"
+
+msgid "But due to flooding, most of us have moved to less permanent settlements."
+msgstr "但是因为洪水的关系，大部分的人都搬到了临时居住地。"
+
+msgid "@niko Flooding?"
+msgstr "@niko 洪水？"
+
+msgid "Aye, the land has gotten brittle..."
+msgstr "是啊，这片土地已经支离破碎……"
+
+msgid "The Glen used to be in one piece, you know?"
+msgstr "Glen本来是完整的一片地，你知道吗？"
+
+msgid "But now it's just a bunch of islands that get smaller and smaller."
+msgstr "但现在这里只剩几座岛，而且还在逐渐缩小中。"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed 这样啊……"
+
+msgid "@niko Do you still live here?"
+msgstr "@niko 你还住在这里吗？"
+
+msgid "Sort of."
+msgstr "算是吧。"
+
+msgid "Fish populations near the village are thinning, so we fisherfolk are making temporary shelter here."
+msgstr "村庄附近的渔获量不断减少，所以我们渔夫在这里暂住。"
+
+msgid "@niko_speak Makes sense!"
+msgstr "@niko_speak 有道理！"
+
+msgid "The deeper ruins have been abandoned for a while, though."
+msgstr "但更深处的废墟已经荒废一段时间了。"
+
+msgid "...but I do see some kids coming in and out of those."
+msgstr "……不过我有看过一些孩子进出那些地方。"
+
+msgid "I think they actually live there?"
+msgstr "他们可能是住在那里吧？"
+
+msgid "... hey, now that I think about it..."
+msgstr "……嘿，这样说起来……"
+
+msgid "Aren't YOU one of those kids?"
+msgstr "你们不就是住在那边的孩子吗？"
+
+msgid "@alula_speak Yeah! \\@alula It's just me and my brother! \\>\\n\\@alula_pout Or is it... \"my brother and I\"?"
+msgstr "@alula_speak 对啊！\\@alula 只有我和我哥！\\>\\n\\@alula_pout 或者该说……“我哥和我”？"
+
+msgid "Well, I hope you kids stay safe!"
+msgstr "嗯，希望你们注意安全！"
+
+msgid "If y'all keed need somewhere less dangerous to live, the village or the city are good places."
+msgstr "如果你们需要搬家到安全一点的地方，村庄或城市都不错。"
+
+msgid "I hope you and your brother stay safe!"
+msgstr "希望你和你哥哥都平安！"
+
+msgid "I hope those kids are safe..."
+msgstr "希望那些孩子们平安……"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 这些则装满小鱼干。"
+
+msgid "@niko Warm coals."
+msgstr "@niko 温暖的煤炭。"
+

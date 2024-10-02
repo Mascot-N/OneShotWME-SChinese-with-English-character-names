@@ -1,0 +1,39 @@
+msgid "@niko The pathway is blocked...."
+msgstr "@niko 路被堵住了……"
+
+msgid "@niko_speak ...by blocks!"
+msgstr "@niko_speak ……有一些石块！"
+
+msgid "@alula_speak Haha!"
+msgstr "@alula_speak 哈哈！"
+
+msgid "@niko Oh, shoot!"
+msgstr "@niko 喔，糟了！"
+
+msgid "@niko_eyeclosed Looks like we can't get past that block..."
+msgstr "@niko_eyeclosed 我们好像没办法越过石块……"
+
+msgid "@alula_pout ..."
+msgstr "@alula_pout ……"
+
+msgid "@alula_speak Seriously?"
+msgstr "@alula_speak 真的假的？"
+
+msgid "@alula I'll be up ahead!"
+msgstr "@alula 我先去咯！"
+
+msgid "@niko_what ..."
+msgstr "@niko_what ……"
+
+msgid "@niko_eyeclosed ...I have literally never thought of that."
+msgstr "@niko_eyeclosed ……我完全没想到可以这样。"
+
+msgid "@calamus_heh You kinda get used to all the debris after living here for a while."
+msgstr "@calamus_heh 在这里住久了就会习惯这些残骸啦。"
+
+msgid "@calamus_smile Come on, our house isn't far from here."
+msgstr "@calamus_smile 来吧，这里离我们家不远了。"
+
+msgid "@calamus Oh, Niko, did you come by for a visit?\\>\\n\\@calamus_smile Our house is up here, please follow me."
+msgstr "@calamus 喔，霓光，你来探望我们了吗？\\>\\n\\@calamus_smile 我们家在这上面，请跟我来。"
+

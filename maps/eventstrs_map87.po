@@ -1,0 +1,54 @@
+msgid "A quick death promises the least pain, don't you agree?"
+msgstr "死得快就不会受苦，你不觉得吗？"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "When the world ends, would it be better if it was gone in an instant, or slowly fading away?"
+msgstr "当世界终结时，是一下子毁灭比较好、还是慢慢衰竭比较好？"
+
+msgid "To be honest, I'd rather the former."
+msgstr "老实说，我比较希望是前者。"
+
+msgid "[HELLO, PERSON.]"
+msgstr "[人类，你好。]"
+
+msgid "[THE LIBRARY IS UP AHEAD.]"
+msgstr "[图书馆就在前方。]"
+
+msgid "@niko_speak Thanks!"
+msgstr "@niko_speak 谢谢！"
+
+msgid "@niko Hey, \\p?"
+msgstr "@niko 嘿，\\p？"
+
+msgid "@niko_speak Do you remember where the cafe is?"
+msgstr "@niko_speak 你记得咖啡馆在哪吗？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "@niko Oh, good!"
+msgstr "@niko 喔，太好了！"
+
+msgid "@niko_eyeclosed Oh..."
+msgstr "@niko_eyeclosed 喔……"
+
+msgid "@niko_speak Wait! I think I remember!\\>\\n\\@niko It's up the elevator, and then we take a right and go down some stairs!"
+msgstr "@niko_speak 等等！我大概记得！\\>\\n\\@niko 先到电梯上方，然后右转再走楼梯下去！"
+
+msgid "@niko I'm asking because... well..."
+msgstr "@niko 我会问是因为……呃……"
+
+msgid "@niko_eyeclosed I'm... a little hungry...."
+msgstr "@niko_eyeclosed 我……有点饿……"
+
+msgid "@niko_speak Actually I'm REALLY hungry!\\>\\n\\@niko I haven't eaten anything since I got here..."
+msgstr "@niko_speak 老实说我肚子都饿扁了！\\>\\n\\@niko 来这里之后，我还什么都没吃……"
+
+msgid "@niko So... is it ok if we go get some food before we enter the Tower?"
+msgstr "@niko 所以……我们进塔之前可以先去找点东西吃吗？"
+
+msgid "@niko_pancakes I hope they have pancakes..."
+msgstr "@niko_pancakes 希望他们有煎饼……"
+

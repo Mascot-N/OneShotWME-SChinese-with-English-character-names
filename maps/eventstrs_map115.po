@@ -1,0 +1,81 @@
+msgid "These robots are malfunctioning at a frightening rate."
+msgstr "这些机器人以惊人的速度发生故障。"
+
+msgid "Physical damage from square-particle anomalies is almost impossible to revert."
+msgstr "方块粒子异常造成的物理损害几乎是不可逆的。"
+
+msgid "No living person can touch them, unless they have a death wish."
+msgstr "这东西活人可不能碰，除非是活得不耐烦了。"
+
+msgid ".\\..\\..But if we're lucky, sometimes the squares go away on their own."
+msgstr "\\..\\..可是如果运气好，有时候方块会自己消失。"
+
+msgid "...but not before taking away one of the robot's arms, or legs."
+msgstr "……但消失之前一定会弄坏机器人的一只手，或一条腿。"
+
+msgid "...or head."
+msgstr "……或是头。"
+
+msgid "@niko_huh ...okay."
+msgstr "@niko_huh ……好吧。"
+
+msgid "I don't know if you've ever seen a headless robot before, but it is quite a sight to behold."
+msgstr "不知道你以前有没有看过无头机器人，模样实在很惨烈。"
+
+msgid "And also quite dangerous."
+msgstr "也很危险。"
+
+msgid "@niko A robot."
+msgstr "@niko 一台机器人。"
+
+msgid "[I CANNOT STOP SPINNING.]"
+msgstr "[我转得停不下来了！]"
+
+msgid "[BOOP.]"
+msgstr "[哔。]"
+
+msgid "[WE ARE WAITING TO BE REPAIRED.]"
+msgstr "[我们正在等待维修。]"
+
+msgid "This is so tedious!"
+msgstr "无聊透顶！"
+
+msgid "I miss the good ol' days before our robot-repairing-robots broke down."
+msgstr "真怀念机器人的维修机器人还没故障前的好时光。"
+
+msgid "Now all the robots have to be assembled by actual people."
+msgstr "现在所有的机器人都得由人类亲自组装了。"
+
+msgid "@niko_speak But... aren't you a robot?"
+msgstr "@niko_speak 可是……你不是机器人吗？"
+
+msgid "No?"
+msgstr "不是啊？"
+
+msgid "I mean, Do I SOUND like a robot to you?"
+msgstr "我是说，难道我说话像机器人吗？"
+
+msgid "@niko Not really."
+msgstr "@niko 是不像。"
+
+msgid "@niko_speak But... your head is a tv?"
+msgstr "@niko_speak 可是……你的头是一台电视耶？"
+
+msgid "W...what does that have to do with anything?"
+msgstr "那、那又有什么关系呢？"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_eyeclosed ...nevermind."
+msgstr "@niko_eyeclosed ……算了。"
+
+msgid "We should probably fix the robot-repairing-robots first."
+msgstr "或许我们应该先修好机器人的维修机器人。"
+
+msgid "But the higher-ups need these guys done first for some reason..."
+msgstr "可是上头的不知道为什么要我们先处理这些家伙……"
+
+msgid "@niko This one isn't active..."
+msgstr "@niko 这台不会动……"
+

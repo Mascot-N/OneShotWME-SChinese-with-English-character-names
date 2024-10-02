@@ -1,0 +1,18 @@
+msgid "[HELLO, PERSON!]"
+msgstr "[人类，你好！]"
+
+msgid "[PLEASE DO NOTE THAT THE RUINS BELOW ARE PARTIALLY FLOODED.]"
+msgstr "[请务必注意，下方的废墟有些地方被水淹了。]"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko Should we... not be here?"
+msgstr "@niko 我们……不应该来吗？"
+
+msgid "[THERE IS NO IMMEDIATE DANGER.]"
+msgstr "[当下是没有危险。]"
+
+msgid "[USING THIS AREA AS A DWELLING IS NOT RECOMMENDED, HOWEVER.]"
+msgstr "[但是不建议将该区域用于居住。]"
+

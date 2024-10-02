@@ -1,0 +1,72 @@
+msgid "@niko \\p? Are you there?"
+msgstr "@niko \\p？你在吗？"
+
+msgid "[\"Yes\", \"No\", \"That's not my name\"]"
+msgstr "[\"在\",\"不在\",\"我不叫那个名字\"]"
+
+msgid "@niko_speak Ah, me too!"
+msgstr "@niko_speak 啊，我也是！"
+
+msgid "@niko ...I mean... I'm awake now."
+msgstr "@niko ……我的意思是……现在我醒了。"
+
+msgid "@niko_eyeclosed \\p... I know you're here..."
+msgstr "@niko_eyeclosed \\p……我知道你在啦……"
+
+msgid "@niko_speak ...Oh."
+msgstr "@niko_speak ……喔。"
+
+msgid "@niko_eyeclosed I'm sorry, I'm a little confused... I just woke up..."
+msgstr "@niko_eyeclosed 抱歉。我有点混乱……我才刚醒来……"
+
+msgid "@niko Can you tell me your name again?"
+msgstr "@niko 可以再告诉我一次你的名字吗？"
+
+msgid "@niko_eyeclosed ..."
+msgstr "@niko_eyeclosed ……"
+
+msgid "@niko_eyeclosed I had another bad dream."
+msgstr "@niko_eyeclosed 我又做噩梦了。"
+
+msgid "@niko I know I have nothing to worry about with you here, but..."
+msgstr "@niko 我知道有你在我不用担心，可是……"
+
+msgid "@niko_eyeclosed Can I really save everyone with this lightbulb?"
+msgstr "@niko_eyeclosed 我真的能用这颗灯泡拯救所有人吗？"
+
+msgid "@niko ...Let's get going now."
+msgstr "@niko ……出发吧。"
+
+msgid "@niko These vines look tough, but I think I can manage to cut them!"
+msgstr "@niko 这些藤蔓看起来很硬，但我应该能劈开！"
+
+msgid "@niko_speak That did it!"
+msgstr "@niko_speak 成功了！"
+
+msgid "@niko Ready to go, \\p?"
+msgstr "@niko \\p，准备好出发了吗？"
+
+msgid "@niko The clipper handles won't budge..."
+msgstr "@niko 树剪的把手压不动……"
+
+msgid "@niko ...It's not broken, is it?"
+msgstr "@niko ……应该没有坏吧？"
+
+msgid "@niko There are some really tangled-up vines in the way."
+msgstr "@niko 有些纠缠交错的藤蔓挡住路了。"
+
+msgid "@niko It looks like an oil can..."
+msgstr "@niko 像是一罐油……"
+
+msgid "@niko This might be useful. I'll take it with me."
+msgstr "@niko 说不定用得上，我就拿走咯。"
+
+msgid "@niko I think I might be carrying something else I can use this with already."
+msgstr "@niko 我想我有其它东西可以和它一起使用。"
+
+msgid "@niko Maybe I should check my pockets again?"
+msgstr "@niko 也许我该再检查一下我的口袋？"
+
+msgid "@niko I don't think we need to go that way..."
+msgstr "@niko 我们应该不用往那边走吧……"
+

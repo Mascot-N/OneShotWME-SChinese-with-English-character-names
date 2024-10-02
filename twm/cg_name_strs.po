@@ -1,0 +1,264 @@
+msgid "cg_wake1=Wake"
+msgstr "苏醒"
+
+msgid "cg_wake2=Wake"
+msgstr "苏醒"
+
+msgid "cg_wake3=Wake"
+msgstr "苏醒"
+
+msgid "cg_wake4=Wake"
+msgstr "苏醒"
+
+msgid "cg_wake5=Wake"
+msgstr "苏醒"
+
+msgid "cg_desktop=Desktop"
+msgstr "桌面"
+
+msgid "b0=Basement"
+msgstr "地下室"
+
+msgid "b1=Basement"
+msgstr "地下室"
+
+msgid "b2=Basement"
+msgstr "地下室"
+
+msgid "b3=Basement"
+msgstr "地下室"
+
+msgid "b4=Basement"
+msgstr "地下室"
+
+msgid "b5=Basement"
+msgstr "地下室"
+
+msgid "b6=Basement"
+msgstr "地下室"
+
+msgid "b7=Basement"
+msgstr "地下室"
+
+msgid "b8=Basement"
+msgstr "地下室"
+
+msgid "b9=Basement"
+msgstr "地下室"
+
+msgid "cg_door1=Door"
+msgstr "门扉"
+
+msgid "cg_door2=Door"
+msgstr "门扉"
+
+msgid "cg_blue=Barrens Reveal"
+msgstr "初入Barrens"
+
+msgid "cg_map=Map of the World"
+msgstr "世界地图"
+
+msgid "cg_amber=Amber Pendant"
+msgstr "琥珀挂坠"
+
+msgid "cg_boat1=Rowbot"
+msgstr "划船机器人"
+
+msgid "cg_boat2=Rowbot"
+msgstr "划船机器人"
+
+msgid "cg_boat3=Rowbot"
+msgstr "划船机器人"
+
+msgid "cg_green=Glen Reveal"
+msgstr "初入Glen"
+
+msgid "cg_afeather=Feather"
+msgstr "羽毛"
+
+msgid "cg_red=Refuge Reveal"
+msgstr "初入Refuge"
+
+msgid "cg_adice=Dice"
+msgstr "骰子"
+
+msgid "cg_tower1=Tower"
+msgstr "塔"
+
+msgid "cg_tower2=Tower"
+msgstr "塔"
+
+msgid "cg_tower3=Tower"
+msgstr "塔"
+
+msgid "cg_tower4=Tower"
+msgstr "塔"
+
+msgid "cg_tower5=Tower"
+msgstr "塔"
+
+msgid "choice00=Choice"
+msgstr "抉择"
+
+msgid "remember5=Memory"
+msgstr "回忆"
+
+msgid "cg_credits1=Credits"
+msgstr "制作人员名单"
+
+msgid "cg_credits1B=Credits"
+msgstr "制作人员名单"
+
+msgid "cg_credits2=Credits"
+msgstr "制作人员名单"
+
+msgid "cg_credits3=Credits"
+msgstr "制作人员名单"
+
+msgid "cg_credits4=Credits"
+msgstr "制作人员名单"
+
+msgid "cg_credits5=Credits"
+msgstr "制作人员名单"
+
+msgid "sol_journal_glow1=Journal"
+msgstr "日志"
+
+msgid "sol_journal_glow2=Journal"
+msgstr "日志"
+
+msgid "sol_mine1=Minecart"
+msgstr "矿车"
+
+msgid "sol_mine2=Minecart"
+msgstr "矿车"
+
+msgid "sol_mine3=Minecart"
+msgstr "矿车"
+
+msgid "sol_mine4=Minecart"
+msgstr "矿车"
+
+msgid "sol_mine5=Minecart"
+msgstr "矿车"
+
+msgid "sol_glenboat1=Boat"
+msgstr "小船"
+
+msgid "sol_glenboat2=Boat"
+msgstr "小船"
+
+msgid "sol_glenboat3=Boat"
+msgstr "小船"
+
+msgid "sol_glenboat4=Boat"
+msgstr "小船"
+
+msgid "sol_flight1=Flight"
+msgstr "飞翔"
+
+msgid "sol_flight2=Flight"
+msgstr "飞翔"
+
+msgid "sol_flight3=Flight"
+msgstr "飞翔"
+
+msgid "sol_flight4=Flight"
+msgstr "飞翔"
+
+msgid "sol_rue=Rue"
+msgstr "Rue"
+
+msgid "cg_dream1_1=Dream 1"
+msgstr "梦境1"
+
+msgid "cg_dream1_2=Dream 1"
+msgstr "梦境1"
+
+msgid "cg_dream1_3=Dream 1"
+msgstr "梦境1"
+
+msgid "cg_dream1_4=Dream 1"
+msgstr "梦境1"
+
+msgid "cg_dream2_1=Dream 2"
+msgstr "梦境2"
+
+msgid "cg_dream2_2=Dream 2"
+msgstr "梦境2"
+
+msgid "cg_dream2_3=Dream 2"
+msgstr "梦境2"
+
+msgid "cg_dream2_4=Dream 2"
+msgstr "梦境2"
+
+msgid "cg_dream2_5=Dream 2"
+msgstr "梦境2"
+
+msgid "cg_dream3_1=Dream 3"
+msgstr "梦境3"
+
+msgid "cg_dream3_2=Dream 3"
+msgstr "梦境3"
+
+msgid "cg_dream3_3=Dream 3"
+msgstr "梦境3"
+
+msgid "cg_dream3_4=Dream 3"
+msgstr "梦境3"
+
+msgid "cg_dream4_1=Dream 4"
+msgstr "梦境4"
+
+msgid "cg_dream4_2=Dream 4"
+msgstr "梦境4"
+
+msgid "cg_dream4_3=Dream 4"
+msgstr "梦境4"
+
+msgid "cg_dream4_4=Dream 4"
+msgstr "梦境4"
+
+msgid "cg_dream5_1=Dream 5"
+msgstr "梦境5"
+
+msgid "cg_dream5_2=Dream 5"
+msgstr "梦境5"
+
+msgid "cg_dream5_3=Dream 5"
+msgstr "梦境5"
+
+msgid "cg_dream5_4=Dream 5"
+msgstr "梦境5"
+
+msgid "book_clover=Clover"
+msgstr "三叶草"
+
+msgid "book_dice=Dice"
+msgstr "骰子"
+
+msgid "book_fauna=Fauna"
+msgstr "生物手记"
+
+msgid "book_phosphor1=Phosphor 1"
+msgstr "燐1"
+
+msgid "book_phosphor2=Phosphor 2"
+msgstr "燐2"
+
+msgid "book_phosphor3=Phosphor 3"
+msgstr "燐3"
+
+msgid "book_phosphor4=Phosphor 4"
+msgstr "燐4"
+
+msgid "book_prophet=Prophet"
+msgstr "先知"
+
+msgid "book_prophetbot=ProphetBot"
+msgstr "先知机器人"
+
+msgid "book_sketch=Sketch"
+msgstr "素描"
+

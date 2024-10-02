@@ -1,0 +1,51 @@
+msgid "@niko_speak It's a fish stew!"
+msgstr "@niko_speak 是炖鱼！"
+
+msgid "@niko A fishing pole."
+msgstr "@niko 一根钓竿。"
+
+msgid "@alula_gasp My brother knows how to fish too!"
+msgstr "@alula_gasp 我哥也会钓鱼！"
+
+msgid "@alula But I don't!"
+msgstr "@alula 可是我不会！"
+
+msgid "@niko Same!"
+msgstr "@niko 我也不会！"
+
+msgid "@niko An empty jar."
+msgstr "@niko 空罐子。"
+
+msgid "@niko A jar of worms."
+msgstr "@niko 一罐虫。"
+
+msgid "@niko_eyeclosed Gross!"
+msgstr "@niko_eyeclosed 恶心！"
+
+msgid "Oh, hello, messiah."
+msgstr "喔，救世主，你好啊。"
+
+msgid "Would you like some stew?"
+msgstr "要不要吃点炖菜呢？"
+
+msgid "I made enough to feed a whole village!"
+msgstr "我煮了很多，够一整个村子的人一起吃喔！"
+
+msgid "...literally!"
+msgstr "……真的！"
+
+msgid "@niko_speak It's ok, thanks!"
+msgstr "@niko_speak 不用了，谢谢你！"
+
+msgid "Looks like the Glen is deteriorating faster than ever, now..."
+msgstr "看起来现在Glen恶化的速度比以往更快了……"
+
+msgid "@niko These are filled with small, dried fish."
+msgstr "@niko 这些则装满小鱼干。"
+
+msgid "@niko6 At least... I think it's fish!"
+msgstr "@niko6 至少……我觉得那是鱼！"
+
+msgid "@niko_eyeclosed They look kinda like snakes..."
+msgstr "@niko_eyeclosed 看起来有点像蛇……"
+

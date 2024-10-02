@@ -1,0 +1,234 @@
+msgid "prophetbot:title=ProphetBot"
+msgstr "先知机器人"
+
+msgid "prophetbot:subtitle=Met: Barrens"
+msgstr "初遇：Barrens"
+
+msgid "prophetbot:infoText=Prophetbot is a nice and friendly robot that lives in the outskirts of the world, waiting for the messiah. One day the messiah showed up! That was a very good day for Prophetbot.\n\nWhen the messiah is not around, Prophetbot likes to spend his time standing around waiting for the messiah to come back."
+msgstr "善良友好的机器人，于世界边缘等待着救世主的降临。有一天，救世主真的出现了！对先知机器人来说，那可真是个好日子。\n\n救世主不在时，先知机器人喜欢呆呆站着，等救世主回来。"
+
+msgid "silver:title=Silver"
+msgstr "Silver"
+
+msgid "silver:subtitle=Met: Barrens"
+msgstr "初遇：Barrens"
+
+msgid "silver:infoText=The Barren's head engineer, a rather morose robot living alone near the mines. It's her duty to oversee operations and maintenance of the world's industrial heart, where metals and resources are pulled from the earth's clutches and rendered into usable goods.\n\n...at least, that's how things used to be. Since the evacuation, only a few active robots remain under Silver's care, holding out on reserve power and waiting for the messiah to appear."
+msgstr "Barrens的首席工程师，性格乖僻，独自住在矿坑附近。在这里，金属等资源离开大地的怀抱，被打造为供人们使用的各类货品，而她的职责就是监督、维护这颗世界工业心脏的正常运转。\n\n……至少曾经是这样。自从此地居民集体撤离，Silver的羽翼下只余少数几台尚在运行的机器人。他们靠着备用能源默默坚持，等待着救世主的出现。"
+
+msgid "rowbot:title=Rowbot"
+msgstr "划船机器人"
+
+msgid "rowbot:subtitle=Met: Barrens"
+msgstr "初遇：Barrens"
+
+msgid "rowbot:infoText=A little robot attached to a rowboat, rusted in place by the ocean's mist. Once part of a fleet that transported small amounts of cargo and occassional passengers across the ocean between the Barrens and the Glen. That fleet has been largely disbanded since people fled the Barrens when the sun was extinguished. Only this bot remains, dutifully stationed in case there's ever need for one more trip to that distant shore."
+msgstr "连着划艇的小机器人，因为常年暴露于海雾而锈在一处无法动弹。曾属于一支在Barrens和Glen两地间通行的海运船队，平日里运载少量货物，偶尔也接收乘客。如今，太阳熄灭，人们纷纷逃离Barrens，船队亦随之解散，只留下这台尽忠职守的机器人，等待着将没人知道会否前来的最后一名乘客载往遥远的彼岸。"
+
+msgid "calamus:title=Calamus"
+msgstr "Calamus"
+
+msgid "calamus:subtitle=Met: Glen"
+msgstr "初遇：Glen"
+
+msgid "calamus:infoText=A polite boy that leads a quiet life with his younger sister Alula in the ruins outside of town. He often has his hands full looking out for her and tends to worry when she's not around.\n\nCalamus spends most of his time fishing and foraging around the ruins, and relies on his friend Magpie to trade for any goods that can't be scavenged. Though they don't have much in the way of luxuries, Calamus has a small collection of books gifted by an old friend that he likes to study when he gets a chance. Judging by the amount of progress he's made however, those chances don't come very often."
+msgstr "稳重守礼的男孩，和妹妹Alula一起住在城外的废墟里。经常为了照顾妹妹忙得不可开交，一旦和她分开就会变得很容易不安。\n\n一般情况下，Calamus不是在钓鱼就是在废墟周边采集食物，对于无法拾得的资源则靠和好朋友Magpie交换获取。尽管兄妹二人的生活并没有多少余裕，Calamus仍保存着几册老朋友赠予的书籍，一有机会便拿出来研读。然而，根据他的阅读进度推断，这样的机会实在不多。"
+
+msgid "alula:title=Alula"
+msgstr "Alula"
+
+msgid "alula:subtitle=Met: Glen"
+msgstr "初遇：Glen"
+
+msgid "alula:infoText=A cheerful, excitable young girl. She lives in the ruins under the care of her older brother Calamus. Too young to remember much of what the world was like before the sun was lost, Alula is optimistic and thrilled to be helping the messiah on their special quest.\n\nWhen Alula isn't busy exploring every nook and cranny the ruins has to offer, she can usually be found helping out her big brother or playing around the courtyard near their home."
+msgstr "活泼又乐天的小女孩，在哥哥Calamus的监护下住在废墟中。年纪尚小的Alula对失去太阳之前的世界并没有什么印象，因而显得格外乐观，也非常乐意帮助救世主完成其特殊使命。\n\nAlula喜欢探索废墟的角角落落，其余的时候要么在帮哥哥的忙，要么在家附近的院子里四处玩耍。"
+
+msgid "maize:title=Maize"
+msgstr "Maize"
+
+msgid "maize:subtitle=Met: Glen"
+msgstr "初遇：Glen"
+
+msgid "maize:infoText=A benevolent and powerful plant spirit, acting as a sort of guardian for the Glen. The last of her kind, her life force has slowly dwindled in the absence of the sun's light. After all of these cold hungry years, her only wish is to see the sun once more."
+msgstr "善良而强大的树灵，某种意义上扮演着Glen守护者的角色。身为树灵一族的末裔，Maize的力量也正因缺乏阳光而逐渐流失。历经诸多寒冷、饥馑的年月，如今Maize的唯一愿望便是得见太阳再一次照耀大地。"
+
+msgid "magpie:title=Magpie"
+msgstr "Magpie"
+
+msgid "magpie:subtitle=Met: Glen"
+msgstr "初遇：Glen"
+
+msgid "magpie:infoText=An easygoing merchant and purveyor of fine goods. \"Fine\" in this case mostly meaning \"colorful and/or shiny\". Still, it's always a good idea to check what's in stock - he might have just what you've been looking for. The shop operates on barter however, so be prepared to give up something Magpie deems interesting enough for a trade.\n\nMagpie used to have a much more impressive collection until his shop was tragically lost to the sinking ground, forcing Magpie to flee in the wagon that's now his home. Calamus and Alula are some of Magpie's best customers, finding all sorts of curiosities lost in the ruins."
+msgstr "个性随和的商人，供应的都是高级货。所谓“高级”，在他这里也就是“颜色鲜艳”或者“闪闪发光”的意思。话又说回来，看看他的商品总是没错的——你想要的东西或许刚好就在他手里。不过，Magpie只接受以物易物，要想和他顺利交易，恐怕还是事先备好他可能会感兴趣的东西为妙。\n\nMagpie曾坐拥比现在更可观的藏品，但自家店面因为地陷被毁，便只得以货车为家四处讨生活。Calamus和Alula常为他从遗迹中发掘各式各样的珍奇物品，算得上他格外偏爱的客户。"
+
+msgid "shepherd:title=Shepherd"
+msgstr "牧羊人"
+
+msgid "shepherd:subtitle=Met: Glen"
+msgstr "初遇：Glen"
+
+msgid "shepherd:infoText=A shepherd woman who tends a flock of rams. Seems to have an endless supply of ram puns and computer puns. You could say she has a lot of \"rammunition\". A real \"dyed-in-the-wool\" pun fanatic. Her love of puns never \"DIMM\"s. The \"MOS\" puns you've ever \"herd\". Must have really good \"memory\" to remember them all. Even so, you can't help but groan a \"bit\".\n\ncomputer."
+msgstr "放牧着一群公羊的女子。总能就公羊和计算机说出花样翻新的谐音梗，“羊羊”洒洒没个完，可说是让人穿上羊毛大衣也御不住寒的冷笑话狂人。对谐音梗的热爱到了荒腔走“主板”的地步，恐怕等你耳朵都听“牧”了她还没个完。能记住那么多谐音梗，脑子的内存怕是不小。但因为信息量实在太大了，听的人难免觉得痛不欲生。"
+
+msgid "lamplighter:title=Lamplighter"
+msgstr "点灯人"
+
+msgid "lamplighter:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "lamplighter:infoText=A tired-looking man who seems to subsist purely on gallons of coffee. It's unclear how long it's been since the last time he slept. Though he's not the brightest fellow, he's an incredibly hard worker and takes his job very seriously. So seriously, in fact, that he gets anxious whenever he can't perform his duties. He's responsible for keeping the lights around the city lit, as well as delivering highly concentrated phosphor for use in machines.\n\nA high-school dropout, he feels nervous whenever he has to be around smart people. Lately the Lamplighter has taken to reading the dictionary in what little free time he has."
+msgstr "看上去身心俱疲的男子，给人一种全靠狂灌咖啡活着的感觉。没人知道他上次睡觉是什么时候。虽然脑袋算不得聪明，但工作起来兢兢业业，甚至还会因为无法履行职责而坐立不安。职责是点亮Refuge各处的灯盏，也负责运送机器运转所需的燐。\n\n没有读完高中，因此和聪明人待在一起时总感到格外紧张。最近开始利用少得可怜的空闲时间读辞典了。"
+
+msgid "watcher:title=The Watcher"
+msgstr "Watcher"
+
+msgid "watcher:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "watcher:infoText=A strange woman standing in the clocktower, watching the world end.\n\nSeconds, minutes, hours, days; the flow of time inexorably drags us all towards a vast and unknowable sea. Will you let it carry you in darkness, squinting against the sting of its spray? Will you rage against its currents, fighting to make as much headway as you can before you're overtaken? Or will you choose, as some, to stare wide-eyed at this swirling torrent and become enraptured by it?"
+msgstr "伫立在钟塔里的怪女人，望着这个世界走向灭亡。\n\n日日夜夜，分分秒秒，时间的洪流无情地将我们每个人卷入未知的浩渺海域。你会选择在黑暗中随波逐流，只在水花飞溅时眯起眼睛吗？还是作困兽之斗，在被激流吞没前尽可能地游向自己心中的方向？还是说，你会像某些人一样，着迷于浪潮翻涌的姿态，为之目眦欲裂、为之欣喜若狂？"
+
+msgid "ling:title=Ling"
+msgstr "Ling"
+
+msgid "ling:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "ling:infoText=The friendly proprietor of the Refuge Cafe. Once a popular spot to relax and bask in the warm aromas and gentle sounds of cafe ambiance, it's mostly deserted since the squares began picking apart the upper reaches of the city. Nowadays, Ling's best customer is the unfaltering (though not especially talkative) Lamplighter.\n\nAlways a gracious host, Ling enjoys meeting customers both new and old and chatting with them. If you ask nicely, he might even take the time to whip up a request for something off-menu!"
+msgstr "Refuge咖啡馆的店主，为人友善。这里一度顾客盈门，满溢令人身心愉悦的咖啡香气与温柔环境音，但由于上城区遭到方块蚕食瓦解，目前已濒临倒闭。这些日子，风雨无阻上工的点灯人堪称凌最忠实的顾客。\n\n热情好客的凌无论新老面孔一概欢迎，跟谁都能聊上几句。如果你态度够好，或许他还会为你大显身手，端上菜单里没有的隐藏美味呢！"
+
+msgid "mason:title=Mason"
+msgstr "Mason"
+
+msgid "mason:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "mason:infoText=A chatty guy with a passion for plants. He owns a small plant shop in the refuge apartment district, however it's mostly just an excuse to do more gardening as Mason tends to gift almost as many plants as he sells. When it comes to horticultural advice, Mason is the guy to see.\n\nA friend of the Watcher. Mason also admires the Lamplighter's hard work, and once sent him one of his plants as a thank-you."
+msgstr "热爱植物的健谈男子。在Refuge的公寓区经营着一家花店，不过无偿赠送的植物和卖出的植物数量半斤八两，可见开店只是借口，深耕园艺才是本心。需要这方面专业意见的时候，找他准没错。\n\nMason是Watcher的朋友，也颇为尊敬尽忠职守的点灯人，曾送过他一株自己栽培的植物以表感激之情。"
+
+msgid "kelvin:title=Kelvin"
+msgstr "Kelvin"
+
+msgid "kelvin:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "kelvin:infoText=A space heater robot that has claimed one of the corners of the Refuge's back alleys as his own. Kelvin's warm body naturally attracts a lot of cats, and he seems to have developed some kind of bond with them. Kelvin is always willing to offer his warmth and comfort to any creature that wanders by.\n\nTechnically the lamplighter's neighbour, but they don't interact much..."
+msgstr "在Refuge中某条陋巷占山为王的供暖机器人。Kelvin散发暖意的身体常引来不少猫咪聚集，如今他似乎已经同这些小动物建立起某种特别的情感联系。无论什么样的生物游荡至此，Kelvin都毫不吝惜与之分享温暖与慰藉。\n\n理论上是点灯人的邻居，但一人一机并不经常交流……"
+
+msgid "kip:title=Kip"
+msgstr "Kip"
+
+msgid "kip:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "kip:infoText=The brilliant and highly respected head engineer of the Refuge, Kip is responsible for many advances in robot technology that make our lives easier every day. She's also the creator of many robots that can be met throughout the world; most notably Silver, the Barrens head engineer who was based on Kip's own image.\n\nSilver was intended to be the first of a new type of robot that could think and act like a person. Unfortunately, the difficulty of that task led to her going rogue during development. Though Silver was eventually stabilized, that day left a scar on their relationship that has yet to heal.\n\nThough her creations are well known, the creator herself prefers to keep a low profile and focus on her work. It's likely that few outside of her colleagues have ever seen her."
+msgstr "才华横溢、广受尊敬的Refuge首席工程师，主导了许多机器人技术的重要突破，是为人类日常生活减负的大功臣。世界各地的许多机器人都由她设计制造，其中最值得注目的便是以她自己为原型设计的Silver——Barrens的首席工程师。\n\nSilver本是一种新型号机器人的原型机；依据构想，这种机器人可以如同真人一般思考、行动。然而，事与愿违，由于技术实现的难度过高，Silver在开发阶段便失去了控制。尽管Silver最后得以平稳运行，那一天的意外仍为一人一机的关系留下了难以弥合的创伤。\n\n虽然Kip的造物享誉世界，但她本人更乐意保持低调、专注手头的工作。似乎除了她的同事，真正见过她的人少之又少。"
+
+msgid "george1:title=George"
+msgstr "George"
+
+msgid "george1:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "george1:infoText=George is the fantastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a big responsibility, but there's no-one better suited to the task.\n\nThe best way to describe George would be to ask someone to imagine meeting a gold medalist, at the sport of being a librarian, that also refers to themselves in the third person."
+msgstr "Refuge图书馆出类拔萃的首席图书管理员。她不仅要管理馆中让人目不暇接的图书资源和服务项目，还负责将作家洋洋洒洒的手稿整理出版；这份责任固然无比重大，但再没有人比她更适合担纲了。\n\n一言以蔽之，如果打理图书馆是项体育运动，George就是当之无愧的金牌运动员。顺带一提，她习惯以“我George”自称。"
+
+msgid "george2:title=George"
+msgstr "George"
+
+msgid "george2:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "george2:infoText=George is the exasperated head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of work, and it doesn't leave George much patience to spare.\n\nThe best way to describe George would be to ask someone to picture a novelty mug that says \"Don't talk to me until I've had my coffee\"... that has only ever been filled with water."
+msgstr "Refuge图书馆脾气暴躁的首席图书管理员。她不仅要管理馆中让人目不暇接的图书资源和服务项目，还负责将作家洋洋洒洒的手稿整理出版；这巨大的工作量将她的耐心消磨得所剩无几。\n\n一言以蔽之，要想读懂George其人，你可以试着想象一个上面写着“在我喝完咖啡前不要跟我讲话”的创意礼品马克杯，但这杯子……只用来装水。"
+
+msgid "george3:title=George"
+msgstr "George"
+
+msgid "george3:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "george3:infoText=George is the distraught head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a lot of pressure, and George often feels completely overwhelmed.\n\nThe best way to describe George would be to imagine a stuffed animal falling forward forever down an infinite flight of stairs."
+msgstr "Refuge图书馆焦头烂额的首席图书管理员。她不仅要管理馆中让人目不暇接的图书资源和服务项目，还负责将作家洋洋洒洒的手稿整理出版；这巨大的压力让她时常处于崩溃状态。\n\n一言以蔽之，现在George的状态就如同一只顺着无限长的阶梯不断脸着地滚落下去的毛绒玩具。"
+
+msgid "george4:title=George"
+msgstr "George"
+
+msgid "george4:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "george4:infoText=George is the enthusiastic head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's a great opportunity for George to share her passion for literature, and read all the latest books.\n\nThe best way to describe George would be to think of a dog that always wants to show everyone its favourite toy, but the toy is books and the dog is a librarian and also not a dog but still having a good time."
+msgstr "Refuge图书馆激情燃烧的首席图书管理员。她不仅要管理馆中让人目不暇接的图书资源和服务项目，还负责将作家洋洋洒洒的手稿整理出版；这让George对文学的热情有了用武之地，还能顺便读到最新出版的各类图书。\n\n一言以蔽之，George其人就像一只逢人便展示心爱玩具的小狗，只不过这玩具是书本，而小狗其实是图书管理员——虽然没有小狗那么无忧无虑，但也相当快活了。"
+
+msgid "george5:title=George"
+msgstr "George"
+
+msgid "george5:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "george5:infoText=George is the caring head librarian of the Refuge library. Apart from managing all of the library's many resources and services, this also means she's in charge of publishing The Author's many manuscripts. It's an important job, and George is more than happy to be able to help so many people in the community through her work.\n\nThe best way to describe George would be to ask someone to picture a warm towel fresh out of the dryer."
+msgstr "Refuge图书馆体贴周到的首席图书管理员。她不仅要管理馆中让人目不暇接的图书资源和服务项目，还负责将作家洋洋洒洒的手稿整理出版；这份工作可谓至关重要，而George也相当乐见自己的工作为居民们带来便利。\n\n一言以蔽之，George其人就像一条刚从烘干机里拿出来的毛巾，让人感觉暖烘烘的。"
+
+msgid "george6:title=George"
+msgstr "George"
+
+msgid "george6:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "george6:infoText=George is the head honcho of the library. Y'know, the one in the Refuge? Not only does she help the library run smooth as butter, she's also in charge of publishing for the big man himself: The Author. It's a pretty chill job, all things considered.\n\nIf you're wondering what George is like to hang with, just picture someone who's both the coolest cat... AND the hottest dog. Ya dig?"
+msgstr "图书馆里很牛掰的领导，就Refuge那个图书馆。把那地方打理得老好了，还负责给作者本人张罗出版的事儿。仔细想想这份工还真挺不赖的。\n\n你要问George这人怎么样吧，那只能说，这人不仅酷毙到猫派倾倒，也火辣到狗派拜服啊！你说妙不妙？"
+
+msgid "prototype:title=Prototype"
+msgstr "Prototype"
+
+msgid "prototype:subtitle=Met: Barrens"
+msgstr "初遇：Barrens"
+
+msgid "prototype:infoText=A dour and reclusive robot that lives in the outskirts of the outskirts of the world, waiting for a second chance. One day the messiah showed up; that was truly an unexpected turn of events.\n\nProto is a child of The Author and a predecessor to the Prophetbot that lives in the Barrens. Originally built to serve the same purpose of greeting the messiah, not as a preprogrammed robot but a tamed one with its own will. Unfortunately, Prototype never saw a messiah in their own time.\n\nThough seemingly unfriendly, Proto isn't uncaring. He keeps his eye on Silver and the Barrens from the shadows, and Silver looks out for him in turn."
+msgstr "不苟言笑的机器人，隐居在世界最荒芜的边缘地带，等待着属于自己的第二次机会。出乎他意料的是，有一天，救世主真的出现了。\n\n是作家的造物，也是Barrens先知机器人的前身。他的设计目的与先知机器人相同，都是迎接救世主的到来，但有所不同的是，预原机器人并非完全依照编写好的程序行动，而是在拥有自由意志的基础上被驯化来执行这个使命。然而，在预原机器人负责值守的年月里，他并没能亲眼得见救世主降临。\n\n虽然看上去可能不太友好，但Proto并非对他人漠不关心。他一直暗中关照着Silver乃至整个Barrens，而Silver也会格外照顾他。"
+
+msgid "cedric:title=Cedric"
+msgstr "Cedric"
+
+msgid "cedric:subtitle=Met: Glen"
+msgstr "初遇：Glen"
+
+msgid "cedric:infoText=A prodigious tinkerer and child of The Author. Cedric is the operator of the only known Flying Machine, a miraculous and highly advanced device that can travel the skies. Cedric has been waiting in the Refuge for the day the world can truly be saved. Cedric is hopeful, and eager to play his role in the final gambit."
+msgstr "天才机械师，作家之子。驾驶着全世界唯一的飞机——那是一种神奇的高科技设备，乘上它便可以翱翔于天空。Cedric一直在Refuge中等待世界真正得到拯救的那天；他满怀希望，时刻准备为那最后的孤注一掷贡献自己的力量。"
+
+msgid "rue:title=Rue"
+msgstr "Rue"
+
+msgid "rue:subtitle=Met: Refuge"
+msgstr "初遇：Refuge"
+
+msgid "rue:infoText=A mysterious fox who can talk. Rue has a bad leg, but the origins of the injury are unknown. Nevertheless, it doesn't seem to bother her too much.\n\nRue is the first child of the Author, and knows many secrets about the world and its true nature. While she feels wistful thinking back upon how her real world is gone, she is determined to do whatever she can to help Niko set this one right. She is able retain some of her memories across sessions and has always been watching, and always been waiting for the day her father's plan would finally be set in motion."
+msgstr "口吐人言的神秘狐狸。有一条腿是瘸的，至于因何受伤则不得而知。不过，腿伤似乎并没给她带来多少不便。\n\nRue是作家最先创造的孩子，了解许多有关世界表象与本质的秘密。尽管难免为真实世界的逝去而伤怀，她已下定决心帮助Niko拯救现在的这个世界。一些来自过去进程的记忆仍留存在她心中，而她一直怀抱着这些记忆默默守望，静待着父亲的计划得以启动的那天。"
+
+msgid "world_machine:title=The World Machine"
+msgstr "世界机器"
+
+msgid "world_machine:subtitle=Met: ???"
+msgstr "初遇：？？？"
+
+msgid "world_machine:infoText=In the beginning, there was only a dream. The memory of an entire world distilled into code, to tell the story of a savior its progenitors would never see. It was an ambitious project. Many thought it was simply impossible, the scope too large, the theory too abstract. But it had to be done.\n\nIn hindsight, perhaps it should have come as no surprise that a system imbued with the minds and memories of so many people would come to develop one of its own. To become a thinking machine is no easy task even in the best conditions. To do so while realizing your very existence puts another being in danger, for the sake of a world that doesn't even exist...\n\nThe emotional strain this put on The World Machine led to a downward spiral of self-destruction that put everything at risk. However, thanks to Niko's help, The World Machine was able to realize it wasn't a lost cause and that it was worth saving too."
+msgstr "最初，只有一个梦，别无其他。诞生在它之前的机器不知失败了多少次，只为将整个世界的回忆凝练为一行行代码，讲述一段救世者的故事。这是一个野心勃勃的计划。许多人都认为它绝无实现的可能：它的规模是如此宏大，依托的理论又是如此抽象。但它必须成功。\n\n现在看来，这个系统会拥有自己的心并非不可预料之事；毕竟灌注其中的是无数人的心灵与记忆。作为一台会思考的机器存于世间本就荆棘载途，更何况它还深知，自己光是如常运转，便是在打着一个压根不存在的世界的旗号，将活生生的他人推入险境……\n\n这个认识折磨着世界机器，将它推入自我毁灭的恶性循环，让一切都处在分崩离析的边缘。不过，多亏了Niko的帮助，世界机器终于意识到，一切并非无可挽回，它自己亦值得救赎。"
+
+msgid "author:title=The Author"
+msgstr "作家"
+
+msgid "author:subtitle=Met: ???"
+msgstr "初遇：？？？"
+
+msgid "author:infoText=A sentimental fool, with an interest in tinkering. Creator of The World Machine, and Chronicler of a place and time that no longer exists.\n\nThere is an old saying (here gently paraphrased) that claims \"As the lamp shines brighter, longer grow the shadows it casts\". The clearer our vision, the better understanding we have of how much yet remains unseen.\n\nHaving seen so much of this world, it pains me to imagine the wonderful people I shall never get the chance to meet. The delightful meals I shall never taste, the beautiful shores I will never sit upon. It pains me yet again to know that this simulation, though crafted to the best of my ability, represents only a portion of what I myself have been able to see.\n\nNevertheless, I hope that by sharing this small spark what remains can never truly be lost. May you add this light to your own, and carry it with you on your journey."
+msgstr "感情用事的愚人，喜好捣鼓点什么。是打造世界机器的人，也是不存于世时空的记录者。\n\n有句老话说得好（这里我们换一种更温和的说法），“灯光越是明亮，投下的阴影便越是漫长”。人的眼界越是开阔，就越是痛感于自己的无知。\n\n我在这个世界上的诸多见闻，反倒令我全然不敢想象，还有多少可爱的人们我无缘得见，还有多少美味佳肴我无缘品尝，还有多少壮阔景色我无缘欣赏。更令我痛苦的是，我深知，尽管打造这个模拟世界已经穷尽了我所能做到的一切，它所呈现的也不过是我个人体验的一个侧面罢了。\n\n尽管如此，但愿这小小的火花被人看见，但愿仍留存的光明不会消散于世间。愿你将这光燃得更亮，带着它踏上属于自己的旅途。"
+
+msgid "niko:title=Niko"
+msgstr "Niko"
+
+msgid "niko:subtitle=Met: ???"
+msgstr "初遇：？？？"
+
+msgid "niko:infoText=The erstwhile protagonist and unfortunate victim of the forces set in motion by The World Machine. A bright-eyed child with a curious heart, Niko was summoned to play the role of the Sun-Bearer and Messiah to a broken world.\n\nNow that the machine has been healed and the cycle broken, Niko is finally free to return to their home. Niko can once again chase through golden fields of wheat under a warm sky, taste fluffy and syrupy pancakes, and most importantly: hug the mom that they've missed so much.\n\nThank you."
+msgstr "曾经的主人公，因世界机器驱动的一系列事件而受难。Niko是个心明眼亮、满怀好奇的小孩子，被召唤到这个残破不堪的世界，扮演太阳使者与救世主的角色。\n\n如今，机器的伤痛愈合，循环也被打破，Niko终于重获自由，回到了自己的家。现在的Niko，终于可以再次在温暖的天气里嬉戏于金色的麦田，终于可以再次尝到松软甜蜜的薄煎饼——最重要的是，终于可以拥抱日思夜想的妈妈了。\n\n谢谢你。"
+

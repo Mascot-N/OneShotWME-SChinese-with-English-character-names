@@ -1,0 +1,252 @@
+msgid "@niko We made it!"
+msgstr "@niko 成功了！"
+
+msgid "@calamus C'mon, Alula.\\>\\nLet's go see mom."
+msgstr "@calamus 来吧，Alula。\\>\\n我们去看妈妈。"
+
+msgid "@alula_speak Okay!"
+msgstr "@alula_speak 好！"
+
+msgid "@cedric ...it's fixed."
+msgstr "@cedric ……修好了。"
+
+msgid "@cedric We can leave in the next five minutes, if you are ready."
+msgstr "@cedric 准备好了的话，我们再五分钟就可以出发。"
+
+msgid "@niko_eyeclosed ...alright."
+msgstr "@niko_eyeclosed ……好。"
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ……"
+
+msgid "@cedric_sigh I understand if you are upset."
+msgstr "@cedric_sigh 我知道你不开心。"
+
+msgid "@cedric3 But please...\\.\\. try to understand."
+msgstr "@cedric3 可是……\\.\\.请你试着理解。"
+
+msgid "@cedric_sigh My father is doing this to help all of us."
+msgstr "@cedric_sigh 我父亲做这一切都是为了帮助我们所有人。"
+
+msgid "@cedric And that includes you, Niko."
+msgstr "@cedric 包括你在内，Niko。"
+
+msgid "@cedric_sigh2 The fact that you can't even go back home...\\> I'm sure it upsets him greatly."
+msgstr "@cedric_sigh2 你甚至回不了家这件事……\\>一定让他很难过。"
+
+msgid "@cedric It's..."
+msgstr "@cedric 该怎么说……"
+
+msgid "@cedric_sigh Sigh..."
+msgstr "@cedric_sigh 唉……"
+
+msgid "@cedric_sigh2 The world means a lot to him, you know..."
+msgstr "@cedric_sigh2 你知道，这个世界对他意义重大……"
+
+msgid "@niko2 So... \\.\\.how does flying...\\.\\. work?"
+msgstr "@niko2 那……\\.\\.是怎么……\\.\\.飞起来的？"
+
+msgid "@cedric_talk ...wait, don't these machines already exist in your world? \\>\\n\\@cedric_hmm You should already know what to expect..."
+msgstr "@cedric_talk ……等等，你的世界不是早就有这种机器了吗？\\>\\n\\@cedric_hmm 你应该知道接下来要怎么做吧……"
+
+msgid "@niko_eyeclosed Not really..."
+msgstr "@niko_eyeclosed 倒不是……"
+
+msgid "@niko I've only heard about them!"
+msgstr "@niko 我只有听说过它们的存在而已！"
+
+msgid "@niko_eyeclosed They're usually... a lot bigger than this one, anyway."
+msgstr "@niko_eyeclosed 而且它们通常……也比这一台大得多就是了。"
+
+msgid "@cedric3 Ah..."
+msgstr "@cedric3 这样啊……"
+
+msgid "@cedric_talk Well, a word of precaution, before we take to the air..."
+msgstr "@cedric_talk 好吧，在我们起飞之前我要先提醒你……"
+
+msgid "@cedric_talk Please try not to panic."
+msgstr "@cedric_talk 请设法保持冷静。"
+
+msgid "@cedric_smile It takes a few minutes of getting used to, but it's not that bad once you are in the air."
+msgstr "@cedric_smile 你需要几分钟的时间习惯它，一旦升空之后就不会觉得那么难受了。"
+
+msgid "@niko_eyeclosed I'll... try."
+msgstr "@niko_eyeclosed 我……会努力的。"
+
+msgid "@niko_speak Oh! I should probably tell Calamus and Alula where I'm going."
+msgstr "@niko_speak 对了！我该告诉Calamus和Alula我要去哪里。"
+
+msgid "@cedric_talk You mean those two running over here now?"
+msgstr "@cedric_talk 你是指那两个往这边跑的人吗？"
+
+msgid "@alula_oh Niko!!!!"
+msgstr "@alula_oh Niko！！！！"
+
+msgid "@alula_oh Bad news!"
+msgstr "@alula_oh 不好了！"
+
+msgid "@calamus_shock The boat is gone!"
+msgstr "@calamus_shock 船不见了！"
+
+msgid "@niko3 What?!"
+msgstr "@niko3 什么！？"
+
+msgid "@alula_oh It's the squares!"
+msgstr "@alula_oh 是方块造成的！"
+
+msgid "@calamus_speak It looks like they're headed in this direction!"
+msgstr "@calamus_speak 看来方块正在往这边移动！"
+
+msgid "@niko3 That's..."
+msgstr "@niko3 这太……"
+
+msgid "@cedric_eek ...fast..."
+msgstr "@cedric_eek ……也太快了……"
+
+msgid "@cedric_talk ...Calamus, right?"
+msgstr "@cedric_talk ……你叫Calamus，对吧？"
+
+msgid "@calamus Yeah?"
+msgstr "@calamus 是……"
+
+msgid "@cedric_talk How...\\.\\. bad, is it?"
+msgstr "@cedric_talk 情况……\\.\\.有多糟？"
+
+msgid "@calamus Doesn't seem to be of immediate danger."
+msgstr "@calamus 看起来一时没什么危险。"
+
+msgid "@cedric_sigh Then... it is of priority that I take you to the city first, Niko"
+msgstr "@cedric_sigh 那么……Niko，我需要优先把你带到城市里。"
+
+msgid "@niko2 But what about them...?"
+msgstr "@niko2 那他们怎么办……？"
+
+msgid "@cedric I can make a detour later and drop you guys off in the city too, if you want."
+msgstr "@cedric 如果你们接受，我之后可以绕个路，把你们也载到城市里。"
+
+msgid "@cedric_talk The city is better equipped to handle the squares, you'll be safer there."
+msgstr "@cedric_talk 城市的建设比较能抵抗方块，你们在那里比较安全。"
+
+msgid "@alula_gasp YOU'RE TAKING US TO THE CITY!!!"
+msgstr "@alula_gasp 你要带我们去城市吗！！！"
+
+msgid "@cedric_smile If you wish."
+msgstr "@cedric_smile 只要你们接受。"
+
+msgid "@alula_gasp OH YEAH!!!"
+msgstr "@alula_gasp 太棒了！！！"
+
+msgid "@cedric Alright."
+msgstr "@cedric 好。"
+
+msgid "@cedric3 I will be back here in an hour, so please wait for me until then."
+msgstr "@cedric3 我一个小时内会回来，请在这里等我。"
+
+msgid "@niko You guys sure you'll be fine here?"
+msgstr "@niko 你们在这里没有关系吗？"
+
+msgid "@alula Mhm!"
+msgstr "@alula 没问题！"
+
+msgid "@calamus_speak The squares are still moving pretty slowly for now..."
+msgstr "@calamus_speak 目前方块移动的速度还很慢……"
+
+msgid "@niko2 Alright, then..."
+msgstr "@niko2 好吧……"
+
+msgid "@niko_speak Guess we'll run into each other again, soon..."
+msgstr "@niko_speak 我们应该很快会再相遇吧……"
+
+msgid "@niko_speak I'm ready to go!"
+msgstr "@niko_speak 我准备好出发了！"
+
+msgid "@cedric_smile Alright!"
+msgstr "@cedric_smile 好！"
+
+msgid "@calamus This is her grave..."
+msgstr "@calamus 这是她的坟墓……"
+
+msgid "@calamus We're just about done here, so let us know when you want to go back to the ruins."
+msgstr "@calamus 我们这边差不多了，你想回废墟的时候跟我们说一声。"
+
+msgid "@niko Okay."
+msgstr "@niko 好。"
+
+msgid "@niko Hey, do you know where I could find a battery?"
+msgstr "@niko 对了，你知道哪里可以找到电池吗？"
+
+msgid "@calamus Good question.."
+msgstr "@calamus 好问题。"
+
+msgid "@calamus_heh We...\\.\\. don't really use electricity in the Glen."
+msgstr "@calamus_heh 我们……\\.\\.Glen这边没有在用电。"
+
+msgid "@niko_eyeclosed Ah."
+msgstr "@niko_eyeclosed 这样啊。"
+
+msgid "@calamus_speak Oh, but there are robots at the research station!\\>\\nIf there's a battery anywhere, they'd know where it is."
+msgstr "@calamus_speak 啊，不过研究站那边有机器人！\\>\\n如果这边有电池，它们应该知道在哪。"
+
+msgid "@niko Gotcha, thanks!"
+msgstr "@niko 知道了，谢谢！"
+
+msgid "@alula Hi mom..."
+msgstr "@alula 嗨，妈妈……"
+
+msgid "@alula Didja find any...\\@alula_pout ...any..."
+msgstr "@alula 你有找到…… \\@alula_pout ……找到……"
+
+msgid "@alula_oh ...what were you looking for again?"
+msgstr "@alula_oh ……你要找什么啊？"
+
+msgid "@niko_speak Gears?"
+msgstr "@niko_speak 齿轮啊。"
+
+msgid "@alula_speak Gears!\\> \\@alula Didja find any of those?"
+msgstr "@alula_speak 啊，齿轮！\\>\\@alula 你找到了吗？"
+
+msgid "@niko No, but... I found this music box though!"
+msgstr "@niko 还没，不过……我找到了这个八音盒！"
+
+msgid "@alula_gasp Ooooh!"
+msgstr "@alula_gasp 喔喔！"
+
+msgid "@niko Do you know where I could find some gears?"
+msgstr "@niko 你知道哪里可以找到齿轮吗？"
+
+msgid "@alula Gears?\\>\\nWhat's... that?"
+msgstr "@alula 齿轮？\\>\\n那是……什么东西？"
+
+msgid "@niko_speak It's like...\\.\\. A metal circle thing with teeth!"
+msgstr "@niko_speak 类似……\\.\\.有牙齿的金属圈圈！"
+
+msgid "@alula_speak A circle... with teeth?!"
+msgstr "@alula_speak 有牙齿的……圈圈！？"
+
+msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
+msgstr "@alula_speak 哈哈，听起来好好玩喔！\\>\\n感觉Magpie会有这种东西！"
+
+msgid "@niko Magpie?"
+msgstr "@niko Magpie？"
+
+msgid "@alula Y'know, the trader guy!"
+msgstr "@alula 你知道的，就是那个买卖东西的人！"
+
+msgid "@alula He collects all kinds of funny stuff!"
+msgstr "@alula 他会收集各种好玩的东西！"
+
+msgid "@alula_speak I mean, he even keeps around broken glass and junk!"
+msgstr "@alula_speak 我的意思是，他连碎玻璃和垃圾都会留着！"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_speak ...Oh yeah! \\@niko\\>I think I know who you're talking about."
+msgstr "@niko_speak ……喔，对啊！\\@niko \\> 我大概知道你在说谁。"
+
+msgid "@alula_speak He's such a weirdo!"
+msgstr "@alula_speak 他真是个怪胎！"
+
+msgid "@niko It's a fire."
+msgstr "@niko 是火。"
+

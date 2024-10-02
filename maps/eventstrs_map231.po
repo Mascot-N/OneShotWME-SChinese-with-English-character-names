@@ -1,0 +1,3 @@
+msgid "@niko_eyeclosed The squares are here too..."
+msgstr "@niko_eyeclosed 这边也出现方块了……"
+

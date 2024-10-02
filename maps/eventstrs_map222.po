@@ -1,0 +1,297 @@
+msgid "@niko It looks like Proto is in the purple portal now.\\>\\n...\\>\\@niko_83c Proto in the purple portal."
+msgstr "@niko Proto现在应该在紫色的传送门里。\\>\\n……\\>\\@niko_83c 有点绕口的一句话。"
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows blue."
+msgstr "@niko 地板上有奇怪的方形光源。\\>\\n发出蓝色的光。"
+
+msgid "@proto2 [This one would be configured to my code.]"
+msgstr "@proto2 [这个应该是配合我的程序代码的。]"
+
+msgid "@proto_eyeclosed [Having never done this before...\\>\\n\\@proto2b I can't help but feel a bit uneasy.]"
+msgstr "@proto_eyeclosed [我以前从来没有试过这样做……\\>\\n\\@proto2b 总觉得有点不安。]"
+
+msgid "@niko_eyeclosed I'm a little nervous too, to be honest..."
+msgstr "@niko_eyeclosed 其实，我也有点紧张……"
+
+msgid "@proto1b [Misery loves company, I suppose.\\>\\n\\@proto1c Or in this case, anxiety.]"
+msgstr "@proto1b [看来悲伤之情真的会传染。\\>\\n\\@proto1c 不过我们传染的是焦虑就是了。]"
+
+msgid "@niko Is that Cedric?\\>\\nHe looks... different."
+msgstr "@niko 那个是Cedric吗？\\>\\n他看起来……有点不一样哎。"
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows green."
+msgstr "@niko 地板上有奇怪的方形光源。\\>\\n发出绿色的光。"
+
+msgid "@cedric_hmm This one is configured to my code, I think."
+msgstr "@cedric_hmm 我想这个是设计来配合我的程序代码。"
+
+msgid "@cedric_hmm To be honest, I AM somewhat curious to see what's on the other side of these things."
+msgstr "@cedric_hmm 老实说，我还真有点好奇另一侧都有些什么。"
+
+msgid "@niko2 Wait, do you... not know?"
+msgstr "@niko2 等等，你之前……不知道吗？"
+
+msgid "@cedric_hmm Nope!\\> This is the first time I've even seen them in person."
+msgstr "@cedric_hmm 当然不知道呗！\\>我还是第一次亲眼见到呢。"
+
+msgid "@niko I think this one is Rue."
+msgstr "@niko 这个应该是Rue的。"
+
+msgid "@niko Some weird square light on the floor.\\>\\nIt glows red."
+msgstr "@niko 地板上有奇怪的方形光源。\\>\\n发出红色的光。"
+
+msgid "@rue_talk This one is meant for me, then."
+msgstr "@rue_talk 那这个对应的应该就是我了。"
+
+msgid "@rue We have faith in you, Niko and \\p.\\>\\n\\@rue_smile Just do the best you can."
+msgstr "@rue 你们一定没问题的，Niko，\\p。\\>\\n\\@rue_smile 只要尽力去做就好了。"
+
+msgid "@niko_eyeclosed Thank you..."
+msgstr "@niko_eyeclosed 谢谢你……"
+
+msgid "@niko_eyeclosed The squares are here too now..."
+msgstr "@niko_eyeclosed 方块现在也出现在这里了……"
+
+msgid "@niko This elevator won't open."
+msgstr "@niko 这台电梯的门打不开。"
+
+msgid "@niko Looks like it's stuck on another floor?"
+msgstr "@niko 看起来它好像卡在别的楼层？"
+
+msgid "@niko_eyeclosed There's squares here too, now..."
+msgstr "@niko_eyeclosed 这里现在也有方块了……"
+
+msgid "@niko We need to find a way to reach that lever up there."
+msgstr "@niko 我们得想办法够到上面那支操纵杆。"
+
+msgid "@niko6 We might need a grownup for this..."
+msgstr "@niko6 可能需要大人帮忙……"
+
+msgid "@niko This elevator has no button panel."
+msgstr "@niko 这台电梯没有按钮面板。"
+
+msgid "@niko Tapping the door doesn't open it either, hmm..."
+msgstr "@niko 敲门也不会打开，嗯……"
+
+msgid "@niko_eyeclosed That usually works..."
+msgstr "@niko_eyeclosed 这样做通常都有用的……"
+
+msgid "@niko6 Wait..."
+msgstr "@niko6 等等……"
+
+msgid "@niko_speak There's a lever hanging from the ceiling!"
+msgstr "@niko_speak 天花板上挂着一支操纵杆！"
+
+msgid "@niko_eyeclosed ...can't reach it."
+msgstr "@niko_eyeclosed ……够不到。"
+
+msgid "@rue_talk ..."
+msgstr "@rue_talk ……"
+
+msgid "@rue Where...\\.\\. are the other two?"
+msgstr "@rue 另外两个人……\\.\\.在哪里？"
+
+msgid "@rue Prototype? Cedric?"
+msgstr "@rue Prototype？Cedric？"
+
+msgid "@rue_sad They're supposed to be here already..."
+msgstr "@rue_sad 他们应该早就到这里了才对……"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@niko_distressed2 They..."
+msgstr "@niko_distressed2 他们……"
+
+msgid "@niko_eyeclosed Prototype's body was destroyed back in the Barrens."
+msgstr "@niko_eyeclosed Prototype的身体在Barrens被摧毁了。"
+
+msgid "@rue_oh ..."
+msgstr "@rue_oh ……"
+
+msgid "@niko_eyeclosed Cedric was going to bring him back with the memory disk, but..."
+msgstr "@niko_eyeclosed Cedric打算用储存磁盘再帮他做一副新的身体，可是……"
+
+msgid "@niko_distressed2 He was in the lab complex when it collapsed..."
+msgstr "@niko_distressed2 他在实验室大楼里的时候，大楼倒塌了……"
+
+msgid "@niko_distressed I... \\.\\.don't think he made it..."
+msgstr "@niko_distressed 我……\\.\\.觉得他应该没有逃出来……"
+
+msgid "@rue_oh Oh.."
+msgstr "@rue_oh 喔……"
+
+msgid "@rue_sad No..."
+msgstr "@rue_sad 不……"
+
+msgid "@niko_upset2 ..."
+msgstr "@niko_upset2 ……"
+
+msgid "@rue_sad There goes our only chance..."
+msgstr "@rue_sad 我们失去了最后的机会……"
+
+msgid "@niko_upset2 I... \\.\\.I'm sorry..."
+msgstr "@niko_upset2 我……\\.\\.很抱歉……"
+
+msgid "@rue_sigh It's not your fault, Niko..."
+msgstr "@rue_sigh Niko，这不是你的错。"
+
+msgid "@rue_sad If anything... \\.\\.I should be apologizing to you."
+msgstr "@rue_sad 真要说的话……\\.\\.该道歉的人是我。"
+
+msgid "@rue_sad ..."
+msgstr "@rue_sad ……"
+
+msgid "@rue ...There's..."
+msgstr "@rue ……有……"
+
+msgid "@rue One last thing I want to do."
+msgstr "@rue 一件我最后想做的事。"
+
+msgid "@rue_talk Come on, let's go upstairs."
+msgstr "@rue_talk 来，我们上楼吧。"
+
+msgid "@cedric_talk Oh...\\.\\. this is..."
+msgstr "@cedric_talk 喔……\\.\\. 这是……"
+
+msgid "@proto1 [...no wonder he wanted us to all be here for this.]"
+msgstr "@proto1 [……难怪他要我们全部来这里，就是为了这个。]"
+
+msgid "@niko2 Um... what are these things, anyway?"
+msgstr "@niko2 呃……这些到底是什么东西？"
+
+msgid "@proto2 [Code portals.]"
+msgstr "@proto2 [程序代码的传送门。]"
+
+msgid "@proto1c [They... \\.\\.temporarily remove us from the world.]"
+msgstr "@proto1c [它们……\\.\\.可以让我们暂时脱离这个世界。]"
+
+msgid "@niko2 ....what?"
+msgstr "@niko2 ……什么？"
+
+msgid "@cedric_hmm It's... a bit hard to explain..."
+msgstr "@cedric_hmm 这有点……难解释……"
+
+msgid "@cedric2 But... basically, my father has hidden a decryption key in our code, with a .txt file as its shell..."
+msgstr "@cedric2 不过…… 基本上就是，我父亲在我们的程序代码里面藏了一个解密密钥， 以纯文本文档作为外壳存储……"
+
+msgid "@proto2 [...But to get to them, we have to be removed from the world and decompiled.]"
+msgstr "@proto2 [……但如果要取得密钥，我们必须离开这个世界并破译它。]"
+
+msgid "@proto2b [...When our keys are combined into a central location, it will activate an encrypted part of this world, which will...]"
+msgstr "@proto2b [……把我们的密钥结合放进中央区域后， 它就会启用这个世界的一个加密区域，然后这个区域会……]"
+
+msgid "@niko_what *confused cat noises*"
+msgstr "@niko_what *困惑得喵喵叫*"
+
+msgid "@proto_eyeclosed [...]"
+msgstr "@proto_eyeclosed [……]"
+
+msgid "@proto2b [...Rue, maybe it's better if you explain.]"
+msgstr "@proto2b [……Rue，或许由你来解释会比较好。]"
+
+msgid "@rue_sigh I'll attempt."
+msgstr "@rue_sigh 我试试。"
+
+msgid "@rue Basically... these portals all represent a physical location on \\p's machine."
+msgstr "@rue 简单说……这些传送门各自代表一个位于\\p机器上的实体位置。"
+
+msgid "@niko2 ...oooh."
+msgstr "@niko2 ……喔喔。"
+
+msgid "@rue_talk And... when we enter these portals, we will be sent to that location..."
+msgstr "@rue_talk 而……当我们进入这些传送门，我们就会被送到那个位置……"
+
+msgid "@proto2 [...Wherever that is.]"
+msgstr "@proto2 [……不论那个位置是什么。]"
+
+msgid "@rue I'm... sure \\p is already pretty familiar with retrieving puzzle pieces from this world on their computer."
+msgstr "@rue \\p……肯定已经很熟悉在他的计算机上检索这个世界的拼图碎片。"
+
+msgid "@rue_talk ...But this time, \\p would need to move around some things, as well."
+msgstr "@rue_talk ……但这次，\\p还需要移动一些东西。"
+
+msgid "@cedric_talk ...specifically, by moving the keys from the small portal to the big one."
+msgstr "@cedric_talk ……具体来说，他要把密钥从小传送门移动到大的那边。"
+
+msgid "@cedric_hmm I... don't know what happens next, though."
+msgstr "@cedric_hmm 接下来……会怎么样，我就不知道了。"
+
+msgid "@niko I see..."
+msgstr "@niko 这样啊……"
+
+msgid "@niko_speak Does \\p know where these portals lead, at least?"
+msgstr "@niko_speak 那\\p至少知道这些传送门通往哪里吧？"
+
+msgid "@rue You should probably ask \\p on this..."
+msgstr "@rue 这个你要问\\p了……"
+
+msgid "@niko_eyeclosed Right."
+msgstr "@niko_eyeclosed 对喔。"
+
+msgid "@niko2 ...Hold on."
+msgstr "@niko2 ……等等。"
+
+msgid "@niko6 The journal is glowing again, \\p..."
+msgstr "@niko6 \\p，日志又在发光了……"
+
+msgid "@niko A big rectangle-light on the floor.\\>\\nIt glows purple."
+msgstr "@niko 地板上有长方形的光源。\\>\\n发出紫色的光。"
+
+msgid "@niko_eyeclosed The lever won't do much for us now, \\p..."
+msgstr "@niko_eyeclosed \\p，操纵杆现在对我们没什么用处……"
+
+msgid "@niko There's a lever hanging from the ceiling..."
+msgstr "@niko 天花板上挂着一支操纵杆……"
+
+msgid "@niko_speak We should find someone tall to reach it for us, \\p!"
+msgstr "@niko_speak \\p，我们应该找一位高个子帮我们够到它！"
+
+msgid "@plight_worry ...This room gives me the creeps, man..."
+msgstr "@plight_worry ……老天，这间房间真够吓人的……"
+
+msgid "@niko_speak Oh, same!"
+msgstr "@niko_speak 喔，我有同感！"
+
+msgid "@plight_worry ....yup."
+msgstr "@plight_worry ……对。"
+
+msgid "@plight3 So um... \\>\\@plight_2b what did you need help with again?"
+msgstr "@plight3 所以说……\\>\\@plight_2b 你说你需要我帮什么忙？"
+
+msgid "@niko Can you reach the lever up there?"
+msgstr "@niko 你够得到上面那支操纵杆吗？"
+
+msgid "@plight_worry Oh, right..."
+msgstr "@plight_worry 喔，对……"
+
+msgid "@plight_worry2 Wait..."
+msgstr "@plight_worry2 等等……"
+
+msgid "@plight_why ...I'm not THAT tall!"
+msgstr "@plight_why ……我没那么高啦！"
+
+msgid "@niko_eyeclosed Oh... at least it was worth a shot..."
+msgstr "@niko_eyeclosed 好吧……问问也没什么不好……"
+
+msgid "@plight_worry2 ..."
+msgstr "@plight_worry2 ……"
+
+msgid "@plight_2b ...wait, I got this."
+msgstr "@plight_2b ……等一下，我可以这样。"
+
+msgid "@niko_speak Nice!"
+msgstr "@niko_speak 太好了！"
+
+msgid "@niko Thank you, mister!"
+msgstr "@niko 先生，谢谢你！"
+
+msgid "@plight No prob, kid."
+msgstr "@plight 不客气，小鬼。"
+
+msgid "@plight3 So... you coming?"
+msgstr "@plight3 那……一起来吧？"
+
+msgid "@niko Mhm!"
+msgstr "@niko 好啊！"
+

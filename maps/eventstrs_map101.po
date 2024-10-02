@@ -1,0 +1,399 @@
+msgid "@silver [Ready to leave?]"
+msgstr "@silver [你准备要走了吗？]"
+
+msgid "@niko Mhm."
+msgstr "@niko 是啊。"
+
+msgid "@niko It'd be rude to leave now..."
+msgstr "@niko 现在走掉有点失礼……"
+
+msgid "@niko_speak Safety violation!"
+msgstr "@niko_speak 违反安全规范！"
+
+msgid "@niko The yellow light is gone now."
+msgstr "@niko 黄光熄灭了。"
+
+msgid "@niko_eyeclosed Must've imagined it..."
+msgstr "@niko_eyeclosed 刚刚一定是我看错了吧……"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ……"
+
+msgid "@silver2 [Are you okay?]"
+msgstr "@silver2 [你还好吗？]"
+
+msgid "@silver [You were starting to black out...]"
+msgstr "@silver [你刚刚快要昏过去了……]"
+
+msgid "@niko_speak I...\\>\\n\\@niko I saw something?"
+msgstr "@niko_speak 我……\\>\\n\\@niko 我好像看到了什么。"
+
+msgid "@silver2 [?]"
+msgstr "@silver2 [？]"
+
+msgid "@niko It was like a really short dream, just now."
+msgstr "@niko 像是做了一场很短很短的梦。"
+
+msgid "@silver2 [Oh?]"
+msgstr "@silver2 [喔？]"
+
+msgid "@niko_speak I saw something like...\\>\\n\\@niko A robot, with a yellow eye..."
+msgstr "@niko_speak 我看到了什么东西，像是一个……\\>\\n\\@niko 有黄色眼睛的机器人……"
+
+msgid "@silver [...that's...\\>\\n\\@silver_eyeclosed ...strange.]"
+msgstr "@silver [……那……\\>\\n\\@silver_eyeclosed ……蛮奇怪的。]"
+
+msgid "@silver2 [Are you sure you're okay?]"
+msgstr "@silver2 [你真的不要紧吗？]"
+
+msgid "@niko ...yeah."
+msgstr "@niko ……嗯。"
+
+msgid "@silver [...You know, now that you have mentioned it.]"
+msgstr "@silver [……好吧，既然你都提到了。]"
+
+msgid "@silver [There is a robot who always insisted on going back to the abandoned mines.]"
+msgstr "@silver [有一个机器人总是坚持返回废弃的矿区。]"
+
+msgid "@silver2 [...despite how long the mines have been in disrepair.]"
+msgstr "@silver2 [……无论矿区已经多久没有人维护。]"
+
+msgid "@silver_eyeclosed [I hope he's okay.]"
+msgstr "@silver_eyeclosed [希望他没事。]"
+
+msgid "@niko He doesn't look broken or anything..."
+msgstr "@niko 他看起来不像坏掉的样子……"
+
+msgid "@niko_eyeclosed ...but I didn't really... SEE him see him, yknow?"
+msgstr "@niko_eyeclosed ……可是我其实……不算真的看到他，你懂吗？"
+
+msgid "@niko Like I said, it was kinda like a dream..."
+msgstr "@niko 就像我刚刚说的，就像做了一场梦……"
+
+msgid "@niko_speak And he was up close!"
+msgstr "@niko_speak 而且他跟我距离好近！"
+
+msgid "@silver2 [Sounds like some kind of visual glitch.]"
+msgstr "@silver2 [听起来像某种视觉故障。]"
+
+msgid "@silver_eyeclosed [Or... hallucination.]\\>\\n\\@silver [Whatever it is that living beings have.]"
+msgstr "@silver_eyeclosed [或是……幻觉。]\\>\\n\\@silver [就是生物会有的那种东西。]"
+
+msgid "@niko Hm..."
+msgstr "@niko 嗯……"
+
+msgid "@niko_speak Does the robot you know of have a yellow eye?"
+msgstr "@niko_speak 你认识的那个机器人有黄色的眼睛吗？"
+
+msgid "@niko I don't think I've seen any other robots like that..."
+msgstr "@niko 我以前从来没有看过其他像这样的机器人……"
+
+msgid "@silver_eyeclosed [I would not know.]"
+msgstr "@silver_eyeclosed [我不知道。]"
+
+msgid "@silver [I never met him myself. Only heard of him from a friend of mine.]"
+msgstr "@silver [我从来没有亲眼见过他，只有从朋友那边听过他的事。]"
+
+msgid "@niko Your friend, huh..."
+msgstr "@niko 你的朋友吗……"
+
+msgid "@niko Hold on... something in my pocket is..."
+msgstr "@niko 等等……我口袋里有东西在……"
+
+msgid "@niko2 What's..."
+msgstr "@niko2 怎么回事……"
+
+msgid "@niko_speak That wasn't glowing before!"
+msgstr "@niko_speak 它本来不会发光的！"
+
+msgid "@niko3 What IS this...?"
+msgstr "@niko3 这到底是什么……？"
+
+msgid "@silver2 [That... was going to be my question.]"
+msgstr "@silver2 [我……也想问这个问题来着。]"
+
+msgid "@silver [Where did you... get that book?]"
+msgstr "@silver [你是从哪里……拿到那本书的？]"
+
+msgid "@niko2 Oh, uh..."
+msgstr "@niko2 喔，呃……"
+
+msgid "@niko It was with me when I woke up back at the house."
+msgstr "@niko 我在屋子里醒来的时候就带着了。"
+
+msgid "@niko_eyeclosed I didn't really question it at the time..."
+msgstr "@niko_eyeclosed 我当时并没有对它感到疑惑……"
+
+msgid "@niko2 I flipped through a couple of pages, but I don't understand a word!"
+msgstr "@niko2 我翻了几页，但是一个字也看不懂！"
+
+msgid "@niko Is that just something messiahs are supposed to wake up with?"
+msgstr "@niko 那是救世主醒来的时候就应该要带着的东西吗？"
+
+msgid "@silver_eyeclosed [No... I have never heard of anything like that.]"
+msgstr "@silver_eyeclosed [不会……我从来没有听说过这种事。]"
+
+msgid "@silver [But I... \\.\\.know who wrote the book.]"
+msgstr "@silver [但……\\.\\.我知道那本书是谁写的。]"
+
+msgid "@niko2 Oh?"
+msgstr "@niko2 咦？"
+
+msgid "@silver [However...]"
+msgstr "@silver [不过……]"
+
+msgid "@silver2 [I've only seen his books with a black clover on the cover.]"
+msgstr "@silver2 [我只知道他写的书封面上都有黑色三叶草的图案。]"
+
+msgid "@silver_lookup [If he went through the trouble of putting yellow phosphor in it...]"
+msgstr "@silver_lookup [但如果他大费周章把黄燐放进去……]"
+
+msgid "@silver [And the fact that you woke up with it in the first place...]"
+msgstr "@silver [再加上你一开始醒来就有这本书……]"
+
+msgid "@silver2 [...Really has me intrigued.]"
+msgstr "@silver2 [……事情开始有趣起来了。]"
+
+msgid "@niko Yellow... phosphor?"
+msgstr "@niko 黄……燐？"
+
+msgid "@niko_speak Oh yeah! That's the rare phosphor that people think the sun is made of, right?"
+msgstr "@niko_speak 喔对！就是大家认为组成太阳的稀有燐，对吧？"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_what2 ...wait a minute, how do I know this?"
+msgstr "@niko_what2 ……等等，我怎么会知道？"
+
+msgid "@niko_eyeclosed I don't think anyone's told me about it..."
+msgstr "@niko_eyeclosed 应该没有人告诉过我才对啊……"
+
+msgid "@silver [Ah... \\.\\.I can show you if you'd like.]"
+msgstr "@silver [啊……\\.\\.我可以让你看看这个。]"
+
+msgid "@silver [My friend gave me this a long time ago.]"
+msgstr "@silver [我朋友很久以前给了我这个。]"
+
+msgid "@niko_pancakes Pretty!"
+msgstr "@niko_pancakes 好漂亮！"
+
+msgid "@niko_speak Oh! Looks like there's a clover in the necklace too!"
+msgstr "@niko_speak 喔！看起来项链里也有一片三叶草！"
+
+msgid "@niko6 ...like the book!"
+msgstr "@niko6 ……就像那本书一样！"
+
+msgid "@silver2 [Well... it IS the same person.]"
+msgstr "@silver2 [嗯……那确实会是同一个人做的。]"
+
+msgid "@niko Oooh."
+msgstr "@niko 喔喔。"
+
+msgid "@silver_eyeclosed [That's... why I think this journal would be important.]"
+msgstr "@silver_eyeclosed [所以……我才会觉得这本日志应该很重要。]"
+
+msgid "@silver2 [You said it JUST started glowing?]"
+msgstr "@silver2 [你说它刚刚才开始发光是吗？]"
+
+msgid "@niko_speak Yeah?"
+msgstr "@niko_speak 对啊。"
+
+msgid "@silver2 [That was right after your vision, then...]"
+msgstr "@silver2 [而且是在你看见异象之后立刻发光，那么……]"
+
+msgid "@silver2 [...This HAS to mean something.]"
+msgstr "@silver2 [……这一定有什么意义。]"
+
+msgid "@silver2 [Maybe you should at least try to read it again...]"
+msgstr "@silver2 [或许你应该至少再读一次试试看……]"
+
+msgid "@niko I can see a faint yellow glow in the distance..."
+msgstr "@niko 我看到远方有昏暗的黄光……"
+
+msgid "@silver [Don't stand so close to the edge.]"
+msgstr "@silver [别太靠近悬崖边。]"
+
+msgid "@niko Oh! Sorry!"
+msgstr "@niko 喔！抱歉！"
+
+msgid "@silver [Looks like even the entrance tunnel collapsed off.]"
+msgstr "@silver [看来连入口隧道都崩塌了。]"
+
+msgid "@silver [Without a vehicle, we can't proceed.]"
+msgstr "@silver [没有车，我们不能继续前进。]"
+
+msgid "@niko Can't we walk?"
+msgstr "@niko 不能用走的吗？"
+
+msgid "@silver [I can.]"
+msgstr "@silver [我可以。]"
+
+msgid "@silver [But for you it's a safety violation. I won't allow it.]"
+msgstr "@silver [但让你走过去就会违反安全规范，我不能允许。]"
+
+msgid "@niko What's ahead, anyway?"
+msgstr "@niko 前面到底有什么啊？"
+
+msgid "@silver [It's a huge network of underground mines, the source of this world's metal and non-phosphor fuel.]"
+msgstr "@silver [庞大错综的地下矿坑，这世界的金属及非燐燃料产地。]"
+
+msgid "@silver [This is what propelled the world into the industrial age.]"
+msgstr "@silver [也是它将这个世界推向工业时代。]"
+
+msgid "@niko_eyeclosed So now it's lost forever?"
+msgstr "@niko_eyeclosed 然后现在它被永久废弃了？"
+
+msgid "@silver [It's been for a while now.]"
+msgstr "@silver [已经废弃一段时间了。]"
+
+msgid "@silver [When the sun went out, the mines were the first to be abandoned amidst the initial panic.]"
+msgstr "@silver [太阳熄灭时，在最初的恐慌之中，矿坑是第一个被遗弃的。]"
+
+msgid "@silver [Even the robots have been all cleared out and repurposed.]"
+msgstr "@silver [就连机器人都被带出去移作他用。]"
+
+msgid "@niko_eyeclosed That makes sense..."
+msgstr "@niko_eyeclosed 是有点道理……"
+
+msgid "@silver [Though there was one that always insisted on going back...]"
+msgstr "@silver [不过有一个机器人总是坚持要回矿坑……]"
+
+msgid "@niko Oh?"
+msgstr "@niko 是吗？"
+
+msgid "@silver [I hope he's okay...]"
+msgstr "@silver [希望他没事……]"
+
+msgid "@niko2 ...what... just happened?"
+msgstr "@niko2 ……刚刚……那是怎么回事？"
+
+msgid "@silver [I'm not sure... I wasn't looking.]"
+msgstr "@silver [我不确定……我没有在看。]"
+
+msgid "@niko_eyeclosed To be honest... neither was I..."
+msgstr "@niko_eyeclosed 老实说……我也不太清楚……"
+
+msgid "@niko I was just taking a closer look at the journal..."
+msgstr "@niko 我只是想更仔细一点看看日志……"
+
+msgid "@niko2 And then I found this page that looks like a drawing of this room..."
+msgstr "@niko2 然后我就发现这一页画的图案和现在的房间一样……"
+
+msgid "@niko3 When I looked back up, this minecart just... showed up out of thin air!"
+msgstr "@niko3 等我再抬头的时候，这台矿车就……凭空出现了！"
+
+msgid "@niko_what2 Should I be... worried?"
+msgstr "@niko_what2 这……正常吗？"
+
+msgid "@silver [Hmm...]"
+msgstr "@silver [这个嘛……]"
+
+msgid "@niko_speak Did you see that, \\p?"
+msgstr "@niko_speak \\p，你有看到吗？"
+
+msgid "@niko3 This minecart just... showed up out of thin air!"
+msgstr "@niko3 这台矿车就直接……凭空出现了！"
+
+msgid "@niko_eyeclosed I wasn't looking, though... I was just looking at the journal like you told me..."
+msgstr "@niko_eyeclosed 可是我没在看……我只是照你说的在看这本日志而已……"
+
+msgid "@niko ...\\>\\nMaybe we should go find that robot lady."
+msgstr "@niko ……\\>\\n也许我们该去找那位机器人女士。"
+
+msgid "@niko When I looked back up, this minecart just... showed up out of thin air!"
+msgstr "@niko 等我再抬头的时候，这台矿车就……凭空出现了！"
+
+msgid "@silver2 [This looks like a standard issue minecart, though.]"
+msgstr "@silver2 [不过这看起来就像普通的矿车。]"
+
+msgid "@silver [...which means it likely detected the motion in this room and sent itself over.]"
+msgstr "@silver [……这代表它可能侦测到了这间房间里的动态， 然后自己出现了。]"
+
+msgid "@niko_eyeclosed Ah... that does make sense."
+msgstr "@niko_eyeclosed 啊……这样的确说得通。"
+
+msgid "@silver_eyeclosed [I'm just surprised it still works.]"
+msgstr "@silver_eyeclosed [我只是很惊讶它还能用。]"
+
+msgid "@silver [Guess that means we'll have a working vehicle now.]"
+msgstr "@silver [看来我们现在有一台车可以用了。]"
+
+msgid "@silver_eyeclosed [Not sure why you would want to visit the deeper mines, but...]"
+msgstr "@silver_eyeclosed [虽然我不知道你为什么要进入矿坑深处，不过……]"
+
+msgid "@silver [If you wanted to, we now have that option.]"
+msgstr "@silver [你想去的话，现在我们可以进去了。]"
+
+msgid "@niko_speak Is the minecart even going to fit both of us?"
+msgstr "@niko_speak 这台矿车载得下我们两个人吗？"
+
+msgid "@silver_lookup [No.]"
+msgstr "@silver_lookup [载不下。]"
+
+msgid "@niko But I wanted you to come with us..."
+msgstr "@niko 可是我希望你跟我们一起来……"
+
+msgid "@niko I know I've got \\p, but...\\>\\n\\@niko_eyeclosed ...honestly? This place gives me the creeps!"
+msgstr "@niko 我知道有\\p在，可是……\\>\\n\\@niko_eyeclosed ……老实说，这个地方让我头皮发麻！"
+
+msgid "@silver2 [Oh. I can still come with.]"
+msgstr "@silver2 [喔，我还是可以一起去。]"
+
+msgid "@silver [I would just have to follow along on the rails.]"
+msgstr "@silver [我只要沿着轨道跟着你就可以了。]"
+
+msgid "@niko_what But doesn't it look a little... \\.\\.precarious...?"
+msgstr "@niko_what 可是这样感觉有点……\\.\\.危险耶……？"
+
+msgid "@silver [The magnetic rails can hold me in place.]"
+msgstr "@silver [磁性轨道可以让我保持稳定。]"
+
+msgid "@silver_eyeclosed [It's only ever dangerous to walk on if you're an organic being.]"
+msgstr "@silver_eyeclosed [只有有机体走在上面才会有危险。]"
+
+msgid "@silver [Which you are.]"
+msgstr "@silver [比如像你这样的。]"
+
+msgid "@niko_eyeclosed Gotcha."
+msgstr "@niko_eyeclosed 知道了。"
+
+msgid "@niko_speak There's a little gadget on the ground."
+msgstr "@niko_speak 地上有一个小东西。"
+
+msgid "@niko It looks kinda like a camera..."
+msgstr "@niko 看起来有点像照相机……"
+
+msgid "@silver [What's left of a camera, anyway...]"
+msgstr "@silver [或者说是照相机的残骸吧……]"
+
+msgid "@silver_eyeclosed [Probably even part of a robot, at one point.]"
+msgstr "@silver_eyeclosed [也许它甚至曾经是机器人的零件也不一定。]"
+
+msgid "@niko_what Oh..."
+msgstr "@niko_what 喔……"
+
+msgid "@silver_eyeclosed [...or not. I don't know.]"
+msgstr "@silver_eyeclosed [……也可能不是，我也不清楚。]"
+
+msgid "@niko It's another one of those shrimp jars."
+msgstr "@niko 又一罐虾子。"
+
+msgid "@niko Okay, here we go."
+msgstr "@niko 好，那就出发吧。"
+
+msgid "@niko It's a clover."
+msgstr "@niko 一片三叶草。"
+
+msgid "@silver2 [I'll be waiting here if you need me.]"
+msgstr "@silver2 [有需要的话，我就在这里等。]"
+
+msgid "@silver2 [Maybe you should inspect the journal a bit closer....]"
+msgstr "@silver2 [或许你应该更仔细一点检查这本日志……]"
+
+msgid "@silver [Do be careful in here.]"
+msgstr "@silver [在这里务必小心。]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [走吧。]"
+

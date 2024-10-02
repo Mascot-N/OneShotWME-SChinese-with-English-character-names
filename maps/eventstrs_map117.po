@@ -1,0 +1,54 @@
+msgid "@watcher Good morning."
+msgstr "@watcher 早安。"
+
+msgid "@watcher Good afternoon."
+msgstr "@watcher 午安。"
+
+msgid "@watcher Good evening."
+msgstr "@watcher 晚安。"
+
+msgid "@watcher ...It's very late."
+msgstr "@watcher ……时间不早了。"
+
+msgid "@watcher But... good day, I suppose."
+msgstr "@watcher 但……我还是说声日安吧。"
+
+msgid "@watcher Your time here is precious."
+msgstr "@watcher 你在这里的时间很珍贵。"
+
+msgid "@watcher Please, do cherish it."
+msgstr "@watcher 请好好珍惜。"
+
+msgid "@niko I will!"
+msgstr "@niko 我会的！"
+
+msgid "@watcher It's not healthy for children such as yourself to stay up at this hour."
+msgstr "@watcher 像你这样的孩子，熬夜到这么晚是很不健康的。"
+
+msgid "@niko ...Really?"
+msgstr "@niko ……真的？"
+
+msgid "@niko_eyeclosed ...I... didn't realize..."
+msgstr "@niko_eyeclosed ……我……我都不知道……"
+
+msgid "@watcher Can't blame you."
+msgstr "@watcher 不能怪你。"
+
+msgid "@watcher With the sun gone, the night never seems to end."
+msgstr "@watcher 没有了太阳，夜晚似乎永无止尽。"
+
+msgid "@niko_speak Then... how can you tell?"
+msgstr "@niko_speak 那……你怎么知道的？"
+
+msgid "@niko Time, I mean."
+msgstr "@niko 你怎么知道现在的时间的。"
+
+msgid "@watcher I have my ways."
+msgstr "@watcher 我自有办法。"
+
+msgid "@watcher ...Well, the time of day doesn't really mean anything now."
+msgstr "@watcher ……不过，现在几点，这件事现在也没什么意义了。"
+
+msgid "@niko_speak Then... How can you tell?"
+msgstr "@niko_speak 那……你怎么判断呢？"
+

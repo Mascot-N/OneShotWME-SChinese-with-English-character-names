@@ -1,0 +1,27 @@
+msgid "@niko This elevator won't open."
+msgstr "@niko 这台电梯的门打不开。"
+
+msgid "@niko Looks like it's stuck on another floor?"
+msgstr "@niko 看起来它好像卡在别的楼层了？"
+
+msgid "@ed [\\p, I don't know who put this bed here...]"
+msgstr "@ed [\\p，我不知道是谁把这张床放在这里……]"
+
+msgid "@ed [But this bed will bring you back to the beginning of your journey.]"
+msgstr "@ed [但这张床会把你带回旅程的起点。]"
+
+msgid "@ed [Keep this in mind before you decide to let Niko sleep here.]"
+msgstr "@ed [你决定让Niko在这里睡觉之前，要记住这一点。]"
+
+msgid "@niko_eyeclosed I'm a little tired from walking."
+msgstr "@niko_eyeclosed 我走路走得有点累了。"
+
+msgid "@niko_speak Is it alright if I take a nap?"
+msgstr "@niko_speak 我可以睡一下吗？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"可以\",\"不行\"]"
+
+msgid "@niko_eyeclosed Ah, well... \\>\\n\\@niko I suppose there's more work to do."
+msgstr "@niko_eyeclosed 啊，好吧……\\>\\n\\@niko 还有更多事要做对吧。"
+

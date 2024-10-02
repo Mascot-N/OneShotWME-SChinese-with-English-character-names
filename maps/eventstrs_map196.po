@@ -1,0 +1,60 @@
+msgid "@niko So this is the way out?"
+msgstr "@niko 所以这就是通往外面的路？"
+
+msgid "@silver [There wasn't any data on this path in the server room...]"
+msgstr "@silver [服务器房间里的这条路径，没有任何相关资料……]"
+
+msgid "@proto2 [It's new.]"
+msgstr "@proto2 [这条路是新的。]"
+
+msgid "@proto1 [Niko, get in the minecart.]"
+msgstr "@proto1 [Niko，去搭矿车吧。]"
+
+msgid "@niko O-Okay."
+msgstr "@niko 喔、好。"
+
+msgid "@ed [I tried.]"
+msgstr "@ed [我努力过了。]"
+
+msgid "@ed [I really did!]"
+msgstr "@ed [我真的很努力了！]"
+
+msgid "@ed [But I...]"
+msgstr "@ed [可是我……]"
+
+msgid "@ed [...dE St ablIzi Nng]"
+msgstr "@ed [……正在 变 得不 稳定]"
+
+msgid "@ed [I'm sorry, Niko.]"
+msgstr "@ed [Niko，对不起。]"
+
+msgid "@ed [I    tR IE d tO PrOTE cT yOU.]"
+msgstr "@ed [我 想 保护 你。]"
+
+msgid "@ed [...bu t c An't hold it o f f foRevER.]"
+msgstr "@ed [……可 是我 没 办法  一直 阻 挡下 去。]"
+
+msgid "@niko3 What was that?"
+msgstr "@niko3 刚刚那是什么？"
+
+msgid "@proto_gasp2 [...HERE TOO?]"
+msgstr "@proto_gasp2 [……连这里也有？]"
+
+msgid "@silver3 [Watch out!]"
+msgstr "@silver3 [小心！]"
+
+msgid "@proto1 [Please keep moving forward.]"
+msgstr "@proto1 [请继续前进。]"
+
+msgid "@proto2b [...I would appreciate it if you do not linger here.]"
+msgstr "@proto2b [……你们不要在这里逗留比较好。]"
+
+msgid "@proto1 [Hi.]"
+msgstr "@proto1 [嗨。]"
+
+msgid "@silver2 [I don't even know where this tunnel leads...]"
+msgstr "@silver2 [我连这条隧道会通到哪都不知道……]"
+
+msgid "@silver [Let's go.]"
+msgstr "@silver [走吧。]"
+

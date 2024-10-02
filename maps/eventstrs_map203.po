@@ -1,0 +1,156 @@
+msgid "@maize_thisisfine Do not worry.\\>\\nI am fine."
+msgstr "@maize_thisisfine 不要担心。\\>\\n我不要紧的。"
+
+msgid "@maize_stress Hello..."
+msgstr "@maize_stress 你好……"
+
+msgid "@niko2 I...\\.\\. um...\\> have something to ask of you..."
+msgstr "@niko2 我……\\.\\.呃……\\>有件事想请你帮忙……"
+
+msgid "@maize_thisisfine ...yes?"
+msgstr "@maize_thisisfine ……什么事？"
+
+msgid "@niko5 It looks like most of the bridges around the Glen are broken, and..."
+msgstr "@niko5 Glen这边大部分的桥都坏了，然后……"
+
+msgid "@maize_stress ...that's right...\\.\\. the bridges..."
+msgstr "@maize_stress ……没错……\\.\\.桥都……"
+
+msgid "@maize_stress You...\\.\\. need to cross them on your pilgrimage...."
+msgstr "@maize_stress 你……\\.\\.在旅途中需要过桥……"
+
+msgid "@maize_thisisfine ...would you\\.\\. ...like me to fix them?"
+msgstr "@maize_thisisfine ……需要\\.\\.……需要我修好它们吗？"
+
+msgid "@niko2 Yeah! \\>\\@niko4 Is it possible?"
+msgstr "@niko2 是的！\\>\\@niko4 办得到吗？"
+
+msgid "@maize_stress ..."
+msgstr "@maize_stress ……"
+
+msgid "@maize_strain ...difficult."
+msgstr "@maize_strain ……很难。"
+
+msgid "@maize_stress ...bridges...\\.\\. are in very specific locations, over water..."
+msgstr "@maize_stress ……桥……\\.\\.都盖在水上，位置十分特殊……"
+
+msgid "@maize_strain ...need to find the right points... \\. \\.\\nvines must be very strong, too..."
+msgstr "@maize_strain ……需要找到正确的支撑点……\\.\\.\\n藤蔓也必须非常强韧……"
+
+msgid "@maize_stress ...an undertaking."
+msgstr "@maize_stress ……是个大工程。"
+
+msgid "@niko_eyeclosed Ah..."
+msgstr "@niko_eyeclosed 这样啊……"
+
+msgid "@maize_stress ...but, possible."
+msgstr "@maize_stress ……但，也许办得到。"
+
+msgid "@maize_thisisfine I...\\.\\. intend to use the last of my strength."
+msgstr "@maize_thisisfine 我……\\.\\.会使用我最后的力量。"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@maize_strain ...please stand back."
+msgstr "@maize_strain ……请后退。"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ……"
+
+msgid "@niko3 ...what... happened?"
+msgstr "@niko3 ……发生了……什么事？"
+
+msgid "@niko3 Are you okay...?"
+msgstr "@niko3 你还好吗……？"
+
+msgid "@niko_distressed_talk ...are you..."
+msgstr "@niko_distressed_talk ……你……"
+
+msgid "@niko_distressed .\\..\\.."
+msgstr "@niko_distressed .\\..\\.."
+
+msgid "@niko_distressed2 .\\..\\.."
+msgstr "@niko_distressed2 .\\..\\.."
+
+msgid "@niko_distressed2 ..."
+msgstr "@niko_distressed2 ……"
+
+msgid "@maize_stress ...S...\\.\\.savior..."
+msgstr "@maize_stress ……救……\\.\\.世主……"
+
+msgid "@maize_thisisfine ......\\.you're\\.\\. ...here to see me...?"
+msgstr "@maize_thisisfine ……\\.你是……来见我的吗……？"
+
+msgid "@niko_shock ...what... \\.\\@niko3 happened to you?"
+msgstr "@niko_shock ……你……\\.\\@niko3 你怎么了？"
+
+msgid "@maize_stress ...\\>\\nhold on."
+msgstr "@maize_stress ……\\>\\n等一下。"
+
+msgid "@maize_stress ...I.... \\.\\.need to concentrate"
+msgstr "@maize_stress ……我……\\.\\.需要专心"
+
+msgid "@niko2 ...?"
+msgstr "@niko2 ……？"
+
+msgid "@maize_strain !!!!"
+msgstr "@maize_strain ！！！！"
+
+msgid "@maize_strain ...the islands... \\.\\.will collapse... \\>if I don't do something..."
+msgstr "@maize_strain ……诸岛……\\.\\.都会崩坏……\\>如果我不赶快想办法……"
+
+msgid "@maize_strain ...that's why... \\.\\.the vines..."
+msgstr "@maize_strain 所以那些……\\.\\.藤蔓才……"
+
+msgid "@niko2 ...\\>you're... making the vines grow..."
+msgstr "@niko2 ……\\>你在……让藤蔓生长……"
+
+msgid "@niko4 ...is that why there are vines everywhere?"
+msgstr "@niko4 ……是因为这样，所以才会到处都是藤蔓吗？"
+
+msgid "@niko3 Are you... \\.\\.trying to hold the land together?"
+msgstr "@niko3  你在……\\.\\.想办法维持土地吗？"
+
+msgid "@maize_stress My powers... the best I could do. Yes."
+msgstr "@maize_stress 是的，这已经是……我力量的极限了。"
+
+msgid "@niko3 That's..."
+msgstr "@niko3 这太……"
+
+msgid "@niko2 Should I leave the sun here for you? \\>\\n\\@niko4 I know you wanted to see it..."
+msgstr "@niko2 要不要我把太阳留给你？\\>\\n\\@niko4 我知道你想看到太阳……"
+
+msgid "@maize_thisisfine ...tempting... \\>\\nBut I musn't..."
+msgstr "@maize_thisisfine ……这提议很诱人……\\>\\n但我不能……"
+
+msgid "@maize_stress ...the sun brings me comfort, but..."
+msgstr "@maize_stress ……太阳能抚慰我，但……"
+
+msgid "@maize_stress Stress is good... for this, fear is good..."
+msgstr "@maize_stress 压力和……恐惧有助于我…………"
+
+msgid "@maize_strain ...makes me strong.\\> ...vines grow faster."
+msgstr "@maize_strain ……撑下去。\\>……这样藤蔓才能长得更快。"
+
+msgid "@niko4 But..."
+msgstr "@niko4 可是……"
+
+msgid "@maize_stress If I'm at ease... \\.\\.the vines might retreat."
+msgstr "@maize_stress 如果我松懈了……\\.\\.藤蔓可能会消退。"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@maize_stress They're all in danger, savior..."
+msgstr "@maize_stress 救世主，所有人都身陷险境……"
+
+msgid "@maize_strain The villagers...\\.\\. the children..."
+msgstr "@maize_strain 那些村民……\\.\\.还有孩子们……"
+
+msgid "@maize_strain ...my final hours...\\> mustn't go to waste."
+msgstr "@maize_strain ……我生命最后的时光……\\>不能白白浪费。"
+
+msgid "@maize_thisisfine The people deserve to live... even if just for another day..."
+msgstr "@maize_thisisfine 这些人需要活下去……就算多活一天也好……"
+

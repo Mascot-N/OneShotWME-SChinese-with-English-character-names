@@ -1,0 +1,48 @@
+msgid "@niko_eyeclosed She's still asleep..."
+msgstr "@niko_eyeclosed 她还在睡觉……"
+
+msgid "None of us have been sleeping very well in light of recent events..."
+msgstr "因为最近的事件，我们大家都睡得不太好……"
+
+msgid "The square particles took out a few of my robots last week, and"
+msgstr "上礼拜那些方块粒子弄坏了我几个机器人，然后"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_eyeclosed She fell asleep..."
+msgstr "@niko_eyeclosed 她睡着了……"
+
+msgid "@niko A coffee machine. It's almost empty."
+msgstr "@niko 咖啡机。里面快要空了。"
+
+msgid "I can barely keep my eyes open, man..."
+msgstr "天啊，我眼睛快睁不开了……"
+
+msgid "How does Dr. Silverpoint get all that energy?"
+msgstr "Silverpoint博士怎么那么有精神？"
+
+msgid "@niko A warm pot of coffee."
+msgstr "@niko 一壶热咖啡。"
+
+msgid "Hmm... I wonder what The Author would do in this situation..."
+msgstr "嗯……不知道那个作者在这种情况下会怎么办……"
+
+msgid "Dr. Silverpoint usually references his works."
+msgstr "希维波特博士通常都会参考他的作品。"
+
+msgid "@niko Hey \\p?"
+msgstr "@niko 嘿，\\p？"
+
+msgid "@niko_speak Doesn't the lady look... kind of familiar to you?"
+msgstr "@niko_speak 你不觉得这位女士……有点眼熟吗？"
+
+msgid "@niko I wonder if she's related to the robot lady who gave me the amber."
+msgstr "@niko 不知道她跟送我琥珀的机器人女士有没有关系。"
+
+msgid "@niko_eyeclosed I almost want to ask her about it..."
+msgstr "@niko_eyeclosed 我好想问问她喔……"
+
+msgid "@niko ...should I?"
+msgstr "@niko ……我该问吗？"
+

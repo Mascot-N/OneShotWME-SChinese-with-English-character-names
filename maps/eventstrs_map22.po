@@ -1,0 +1,147 @@
+msgid "@plight .\\..\\..\\..\\..\\..\\.."
+msgstr "@plight \\.\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\.."
+msgstr "@niko .\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@plight .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@niko .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+msgstr "@niko .\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\.."
+
+msgid "@plight Sure is taking a while..."
+msgstr "@plight 真的有点久喔……"
+
+msgid "@niko m-hm!"
+msgstr "@niko 嗯哼！"
+
+msgid "@plight_worry (oh goodness gracious I'm stuck in an elevator with the messiah and also literally god themself this is awkward)"
+msgstr "@plight_worry （我滴个老天爷，我竟然跟救世主一起困在电梯里，甚至连神也一起，这太尴尬了）"
+
+msgid "@niko Oh, maybe we can chat to pass the time, then?"
+msgstr "@niko 所以说，也许我们可以聊聊，打发时间？"
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf 你听到了？？"
+
+msgid "@plight_worry I mean, sure..."
+msgstr "@plight_worry 我是说，好啊……"
+
+msgid "@niko Alright, \\p, should I..."
+msgstr "@niko 好，\\p，我要说什么呢……"
+
+msgid "[\"Ask about his job\", \"Ask about this city\", \"Ask about the library\", \"Resume awkward silence\"]"
+msgstr "[\"问他的工作\",\"问他这座城市的事\",\"问关于图书馆的事\",\"保持尴尬的沉默\"]"
+
+msgid "@niko So... what do you do at your job?"
+msgstr "@niko 嗯……你的工作是做什么呢？"
+
+msgid "@niko_speak You seem really busy!"
+msgstr "@niko_speak 你似乎真的很忙！"
+
+msgid "@plight_2 I... uh...."
+msgstr "@plight_2 我……呃……"
+
+msgid "@plight I fix lights, mostly."
+msgstr "@plight 主要是修修路灯，什么的。"
+
+msgid "@plight_2b But now I also deliver and refill high-energy phosphor to structures that need them."
+msgstr "@plight_2b 不过现在我也会把高能量的燐，运送和补充到有需要的建筑。"
+
+msgid "@niko High energy?"
+msgstr "@niko 高能量？"
+
+msgid "@plight Y'know, the super concentrated glowy stuff they had to process in factories, it's what powers most of this city's stuff."
+msgstr "@plight 就是工厂里要处理的那种超浓缩、会发光的东西。这座城市大部分都是依赖这东西供给能源。"
+
+msgid "@niko Oooh!"
+msgstr "@niko 原来如此！"
+
+msgid "@plight We used to have a small army of delivery robots doing that..."
+msgstr "@plight 我们以前有一小队运送机器人负责这项工作……"
+
+msgid "@plight_worry But lately a bunch of them have been breaking down?"
+msgstr "@plight_worry 但最近它们很多都在陆续出现故障。"
+
+msgid "@plight_2 So until they fix them, I'll just have more work on my plate."
+msgstr "@plight_2 所以它们还没修好之前，我的工作量会比之前更多。"
+
+msgid "@plight_why I haven't slept in so long..."
+msgstr "@plight_why 我好久没睡一觉了……"
+
+msgid "@niko_speak When will the robots get fixed?"
+msgstr "@niko_speak 机器人什么时候会修好呢？"
+
+msgid "@plight_2 I have no idea, it's all up to the scientists over at the labs."
+msgstr "@plight_2 不知道，这得看实验室那些科学家们的了。"
+
+msgid "@plight_worry But they seem REALLY concerned about something else lately..."
+msgstr "@plight_worry 但他们最近似乎格外关注别的事……"
+
+msgid "@niko_speak Oh?"
+msgstr "@niko_speak 哦？"
+
+msgid "@plight_worry ...Never a good sign when even the smart folks are worried."
+msgstr "@plight_worry ……连聪明的人都开始担心起来了，绝不是个好兆头啊。"
+
+msgid "@niko This city is very big!"
+msgstr "@niko 这座城市好大！"
+
+msgid "@plight_2b It's smaller than it looks."
+msgstr "@plight_2b 其实没有乍看那么大啦。"
+
+msgid "@plight_2 Getting pretty crowded too..."
+msgstr "@plight_2 而且人口越来越多……"
+
+msgid "@plight_2 First there was the refugees from the Barrens, and now more Glen folks are moving in too."
+msgstr "@plight_2 先是来自Barrens的难民涌入，现在连Glen的人也陆续迁来了。"
+
+msgid "@niko Oh?"
+msgstr "@niko 是吗？"
+
+msgid "@plight It's just safer here, y'know?"
+msgstr "@plight 这里只是相对安全，你懂吗？"
+
+msgid "@plight I mean, it's not a haven by any means."
+msgstr "@plight 我是说，这里绝对算不上安全地带。"
+
+msgid "@plight_worry That square stuff that we just saw?"
+msgstr "@plight_worry 就像我们刚刚看到那些方形的东西。"
+
+msgid "@plight_worry We get more of that here than anywhere else, apparently."
+msgstr "@plight_worry 这里的数量显然比其他地方都要多。"
+
+msgid "@niko_eyeclosed I noticed..."
+msgstr "@niko_eyeclosed 我发现了……"
+
+msgid "@plight_2 ...We're lucky it only seems to affect the city's infrastructure."
+msgstr "@plight_2 ……我们运气不错，它似乎只对城市的基础建设有影响。"
+
+msgid "@plight The landmass itself is still holding up."
+msgstr "@plight 大陆本身似乎还算稳定。"
+
+msgid "@plight_2b Which is good, since there isn't much solid land here in the first place."
+msgstr "@plight_2b 这样很好，因为本来就没有多少土地了。"
+
+msgid "@niko Can you tell me about the library?"
+msgstr "@niko 可以说说图书馆的事吗？"
+
+msgid "@niko_speak I'm supposed to go there!"
+msgstr "@niko_speak 我需要去那里！"
+
+msgid "@plight Oh yeah, that's one of my main delivery spots."
+msgstr "@plight 喔对，那是我的主要送货地点之一。"
+
+msgid "@plight Those reading lights are pretty high-maintenance."
+msgstr "@plight 那些阅读灯经常需要维护。"
+
+msgid "@plight_worry But I always feel out of place surrounded by smart people!"
+msgstr "@plight_worry 但我处在一群聪明人之间，总觉得格格不入！"
+
+msgid "@plight Well, I guess you're pretty smart yourself, so you'll fit in fine."
+msgstr "@plight 嗯，我想你们这么聪明，融入倒是不会有问题。"
+
+msgid "@plight_2b You and \\p."
+msgstr "@plight_2b 我说你和\\p啦。"
+

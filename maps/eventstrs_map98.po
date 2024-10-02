@@ -1,0 +1,66 @@
+msgid "[\\v[31] LIGHTS CORRECT.]"
+msgstr "[\\v[31]灯光正确。]"
+
+msgid "\\c[2][ACCESS GRANTED!]\\c[0]"
+msgstr "\\c[2][允许进入！]\\c[0]"
+
+msgid "\\c[1][ACCESS DENIED. \\v[37] TRIES LEFT.]\\c[0]"
+msgstr "\\c[1][禁止进入。还剩\\v[37]次尝试机会。]\\c[0]"
+
+msgid "\\c[1][INTRUDER DETECTED. RESETTING LOCK MECHANISM.]\\c[0]"
+msgstr "\\c[1][侦测到入侵者。正在重设锁定机制。]\\c[0]"
+
+msgid "@niko_eyeclosed Sigh... Time to start over..."
+msgstr "@niko_eyeclosed 唉……该从头来过了……"
+
+msgid "[HALT!]"
+msgstr "[停！]"
+
+msgid "[PLEASE AWAIT FURTHER INSTRUCTION ON THE SECURITY TEST.]"
+msgstr "[请等待安全测试的进一步指示。]"
+
+msgid "[PLEASE SPEAK TO THE DOOR ROBOT.]"
+msgstr "[请和守门机器人交谈。]"
+
+msgid "@niko We opened the lock!"
+msgstr "@niko 我们把门打开了！"
+
+msgid "[THE SECURITY SYSTEM HAS BEEN TEMPORARILY DEACTIVATED.]"
+msgstr "[安全系统已暂时解除。]"
+
+msgid "[WOULD YOU LIKE TO RESET IT?]"
+msgstr "[要重设吗？]"
+
+msgid "@niko_eyeclosed ...I don't think I want to go through THAT again..."
+msgstr "@niko_eyeclosed ……我不想再来一次了……"
+
+msgid "@niko_what um..."
+msgstr "@niko_what 呃……"
+
+msgid "@niko How do I... solve this..."
+msgstr "@niko 我要怎么……破解这个……"
+
+msgid "[THAT IS PART OF THE TEST.]"
+msgstr "[那是测试的一部分。]"
+
+msgid "@niko_eyeclosed Bummer."
+msgstr "@niko_eyeclosed 讨厌。"
+
+msgid "[IN ORDER TO GAIN FURTHER ACCESS TO THE LABS.]"
+msgstr "[为了取得进入实验室的进阶通行权限。]"
+
+msgid "[YOU MUST PASS THE SECURITY SYSTEM TEST.]"
+msgstr "[你必须通过安全系统测试。]"
+
+msgid "@niko The... huh?"
+msgstr "@niko 安……什么？"
+
+msgid "[YOU MUST CHANGE THE COLOR OF THE LIGHTS INTO A SPECIFIC CONFIGURATION.]"
+msgstr "[你必须将灯光颜色变更为特定的组合。]"
+
+msgid "[ALLOW ME.]"
+msgstr "[请让我来。]"
+
+msgid "@niko_eyeclosed Locked."
+msgstr "@niko_eyeclosed 锁上了。"
+

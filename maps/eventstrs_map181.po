@@ -1,0 +1,12 @@
+msgid "@niko Just a toilet..."
+msgstr "@niko 只是一个马桶……"
+
+msgid "@niko It's a metal bathtub."
+msgstr "@niko 金属澡盆。"
+
+msgid "@niko It's a little tree."
+msgstr "@niko 一棵小树。"
+
+msgid "@niko_speak It's a mirror!"
+msgstr "@niko_speak 是镜子！"
+

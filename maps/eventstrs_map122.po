@@ -1,0 +1,15 @@
+msgid "@niko A small potted plant."
+msgstr "@niko 一个小盆栽。"
+
+msgid "@niko There's a pair of scissors on the ground...."
+msgstr "@niko 地上有一把剪刀……"
+
+msgid "@niko ...on... a pile of hair?"
+msgstr "@niko ……底下有……一堆头发？"
+
+msgid "@niko I don't think anyone's using it anymore, so..."
+msgstr "@niko 这应该没有人在用了，那……"
+
+msgid "@niko Soap dispenser."
+msgstr "@niko 可以挤出洗手液。"
+

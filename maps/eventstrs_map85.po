@@ -1,0 +1,297 @@
+msgid "@niko_speak A streetlamp!\\>\\n\\@niko This one seems taller than the others..."
+msgstr "@niko_speak 是路灯！\\>\\n\\@niko 这一座看起来比其他的高……"
+
+msgid "@niko \\p and I fixed the camera!"
+msgstr "@niko \\p和我把相机修好了！"
+
+msgid "Aw, sweet!"
+msgstr "啊，太好了！"
+
+msgid "Are you here for your photos?"
+msgstr "你是来拍照的吗？"
+
+msgid "@niko_speak Actually, yeah!"
+msgstr "@niko_speak 嗯，对啊！"
+
+msgid "@niko I need to take a picture for....\\. reasons."
+msgstr "@niko 我需要拍张照，为了……\\.某些用途。"
+
+msgid "Well, I got good news and bad news."
+msgstr "嗯，我有好消息和坏消息。"
+
+msgid "The good news is that the photo center is right behind me."
+msgstr "好消息是拍照中心就在我后面。"
+
+msgid "@niko The bad news is that.... it doesn't work, right?"
+msgstr "@niko 然后坏消息是……它用不了，对吧？"
+
+msgid "Heh, you're catching on quick."
+msgstr "嘿，你反应很快啊。"
+
+msgid "After operations ended in the Barrens, this place got shut down."
+msgstr "自从荒野终止运营以后，这个地方也被关闭了。"
+
+msgid "All of the engineers lost their jobs and became street vendors."
+msgstr "所有的工程师都失业变成了街头小贩。"
+
+msgid "@niko_speak Maybe \\p and I can figure it out from them!"
+msgstr "@niko_speak 也许\\p和我可以向他们请教，找出解决方法！"
+
+msgid "That's good!"
+msgstr "那太好了！"
+
+msgid "It would certainly help out people with expired IDs."
+msgstr "修好后就可以帮助那些身份证失效的人了。"
+
+msgid "...Like me."
+msgstr "……例如我。"
+
+msgid "@niko No?"
+msgstr "@niko 什么？"
+
+msgid "Alrighty then."
+msgstr "去吧。"
+
+msgid "I'll just... uh..."
+msgstr "我就……呃……"
+
+msgid "...stand here."
+msgstr "……站在这。"
+
+msgid "@niko This stand smells a bit like burnt sugar..."
+msgstr "@niko 这个摊位有焦糖的味道……"
+
+msgid "Yup... still gettin' the hang of making these fried candy skewers..."
+msgstr "是的，我还没掌握到做炸糖串的诀窍……"
+
+msgid "They don't taste too bad, though! Do you want one?"
+msgstr "不过它们吃起来其实不错啦！要来一支吗？"
+
+msgid "@niko It's okay, thank you!"
+msgstr "@niko 不用了，谢谢你！"
+
+msgid "@niko_speak You used to be one of the camera engineers, right?"
+msgstr "@niko_speak 你以前也是相机的工程师，对吗？"
+
+msgid "The camera? Oh, joyous memories. We went through thick and thin together."
+msgstr "相机？ 喔，那段美好回忆。我们经历了很多，同甘共苦，厚积薄发。"
+
+msgid "And by that I mean the concave lens did."
+msgstr "我在强行隐喻凹透镜头的厚薄啦。"
+
+msgid "@niko_speak This smells kinda nice!"
+msgstr "@niko_speak 闻起来好香喔！"
+
+msgid "@niko What is it?"
+msgstr "@niko 这是什么？"
+
+msgid "Breaded fish!"
+msgstr "鱼面包！"
+
+msgid "I toasted the bread myself!"
+msgstr "面包是我自己烤的喔！"
+
+msgid "@niko_what ...I... see..."
+msgstr "@niko_what 这……这样啊……"
+
+msgid "@niko_speak Is there anything you remember about how to work the camera?"
+msgstr "@niko_speak 关于相机的用法，你还记得些什么吗？"
+
+msgid "Let me see... When arranging the lenses, make sure that the thin lens is positioned between the two curved ones."
+msgstr "我想想…… 在安放镜头的时候，薄镜头一定要放在两片曲面镜头中间。"
+
+msgid "Hey kid!"
+msgstr "嘿，孩子！"
+
+msgid "Want some soup dumplings? They're guaranteed to contain only a minimal amount of industrial byproducts!"
+msgstr "要来一碗汤饺吗？保证只含有极少量的工业副产品！"
+
+msgid "@niko I'll... pass..."
+msgstr "@niko 我……不用……"
+
+msgid "@niko Can you tell me how to get the camera working again?"
+msgstr "@niko 你可以教我怎么让相机恢复功能吗？"
+
+msgid "Yes, yes, certainly. The thick lens should be positioned to the left of both of the curved lenses."
+msgstr "可以，当然可以。厚的镜头要放在两片曲面镜头的左边。"
+
+msgid "@niko Actually... I do want to hear about it!"
+msgstr "@niko 其实……我真的想知道！"
+
+msgid "Curiosity killed the cat, eh?"
+msgstr "好奇心杀死猫，是吗？"
+
+msgid "@niko_eyeclosed I'm not a cat..."
+msgstr "@niko_eyeclosed 我不是猫啦……"
+
+msgid "Ok so!"
+msgstr "好，听好咯！"
+
+msgid "I've invented a medicine to prepare everyone for the upcoming water shortage!"
+msgstr "我发明了一种药，可以帮助大家应对即将发生的水荒！"
+
+msgid "All you gotta do is dissolve one of these pills in water."
+msgstr "只要把这种药片放进水里溶解。"
+
+msgid "And then you drink the water."
+msgstr "然后把水喝掉。"
+
+msgid "And then you never need to drink water again!"
+msgstr "以后就再也不需要喝水了！"
+
+msgid "@niko_speak What!"
+msgstr "@niko_speak 什么！"
+
+msgid "It also makes plants grow faster!"
+msgstr "而且它还能加速植物生长！"
+
+msgid "@niko How... does it work?"
+msgstr "@niko 那是……怎么办到的？"
+
+msgid "Here, why don't you take a free sample?"
+msgstr "嘿，想试试我的免费样品吗？"
+
+msgid "@niko_speak Oh!"
+msgstr "@niko_speak 喔！"
+
+msgid "@niko Thanks?"
+msgstr "@niko 谢……谢？"
+
+msgid "Don't thank me! Go spread the word!"
+msgstr "不用谢我！替我宣传就好了！"
+
+msgid "Hey hey!"
+msgstr "喂喂！"
+
+msgid "Ready for me to blow your mind?"
+msgstr "准备好大吃一惊了吗？"
+
+msgid "[\"Yes\", \"No\"]"
+msgstr "[\"是\",\"否\"]"
+
+msgid "Aww, but..."
+msgstr "真好啊，可是……"
+
+msgid "@niko_speak Can you tell me how to fix the camera?"
+msgstr "@niko_speak 可以教我怎么修理相机吗？"
+
+msgid "Hmm... It's been a while."
+msgstr "嗯……我很久没碰这个了。"
+
+msgid "I'm pretty sure that the bulgy lens goes on one of the ends, but I forget which."
+msgstr "我能确定厚的镜头要放在其中一边，但我忘了是哪边。"
+
+msgid "This is going to help so many people..."
+msgstr "这可以帮助好多人……"
+
+msgid "...and also make me rich and famous and cool."
+msgstr "……还能让我名利双收。"
+
+msgid "Actually... I exaggerated."
+msgstr "老实说……我夸大了。"
+
+msgid "The effects of the pill wears off in like a week."
+msgstr "药片的效果大概一个礼拜就会消退。"
+
+msgid "But all you have to do is just take another pill!"
+msgstr "可是只要再吞一片就又会有效啦！"
+
+msgid "@plight_2 Well, good luck..."
+msgstr "@plight_2 嗯，祝你好运咯……"
+
+msgid "@niko_speak You too! \\>\\@niko With the lamp."
+msgstr "@niko_speak 你也是！\\>\\@niko 祝你修灯修得顺利。"
+
+msgid "@plight Hey, you lookin for something?"
+msgstr "@plight 嘿，你在找东西吗？"
+
+msgid "@niko_eyeclosed Yeah... I need to go find a library card now...\\>\\n\\@niko Any idea where I can get one?"
+msgstr "@niko_eyeclosed 对啊……我需要去找一张借书证……\\>\\n\\@niko 你知道可以去哪申请吗？"
+
+msgid "@plight From...\\> the...\\> library?"
+msgstr "@plight 就……\\>去……\\>图书馆就好啦？"
+
+msgid "@niko_eyeclosed I tried that already!\\>\\n\\@niko The person in charge wasn't here."
+msgstr "@niko_eyeclosed 我试过了！\\>\\n\\@niko 负责的人不在。"
+
+msgid "@plight Oh, uh..."
+msgstr "@plight 喔，呃……"
+
+msgid "@plight_2 Maybe check out the factory? You just take the stairs at the end of this street and make a turn."
+msgstr "@plight_2 那不然去工厂看看？就走到这条街的最后面，上了楼梯然后转弯。"
+
+msgid "@plight There's a lot of scientists there.\\>\\n\\@plight_worry Scientists... read books, right?"
+msgstr "@plight 那边有很多科学家。\\>\\n\\@plight_worry 科学家……都会看书对吧？"
+
+msgid "@plight They might help you..."
+msgstr "@plight 他们可能帮得上忙……"
+
+msgid "@niko He looks busy..."
+msgstr "@niko 他好像很忙……"
+
+msgid "@plight_why You can tell, huh..."
+msgstr "@plight_why 你看得出来啊……"
+
+msgid "@plight Oh, hey there."
+msgstr "@plight 喔，又见面了。"
+
+msgid "@plight_2 You, uh... \\.\\.doing okay?"
+msgstr "@plight_2 你、呃……\\.\\.还好吗？"
+
+msgid "@niko Yup!\\>\\n\\@niko_speak What are you doing?"
+msgstr "@niko 没问题哟！\\>\\n\\@niko_speak 你在做什么啊？"
+
+msgid "@plight Just filling this lamp here..."
+msgstr "@plight 只是在这里补充路灯的原料……"
+
+msgid "@plight_2 It's...\\.\\.\\. taking a while..."
+msgstr "@plight_2 进度……\\.\\.\\.有点慢……"
+
+msgid "@plight_worry I...\\.\\. think it might be leaking..."
+msgstr "@plight_worry 我……\\.\\.觉得它好像在漏……"
+
+msgid "@plight Well, good luck..."
+msgstr "@plight 嗯，祝你好运咯……"
+
+msgid "@plight Thanks for taking them off my hands, I guess?\\>\\nThe lenses, that is."
+msgstr "@plight 不过，谢谢你帮忙处理它们。\\>\\n我是说那些镜头。"
+
+msgid "@plight_2b The scientists wanted me to use them to fix the camera in the photo booth, but..."
+msgstr "@plight_2b 那些科学家要我用它们修理照相站里的相机，可是……"
+
+msgid "@plight_why ...you can imagine how that went."
+msgstr "@plight_why ……后续发展你应该想得到。"
+
+msgid "@plight_worry I'm just glad I didn't break anything..."
+msgstr "@plight_worry 我只庆幸我没把任何东西弄坏……"
+
+msgid "@plight_shock Hey! Isn't that..."
+msgstr "@plight_shock 喂！那不是……"
+
+msgid "@plight_wtf ..."
+msgstr "@plight_wtf ……"
+
+msgid "@plight_worry (oH GOODNESS GRACIOUS DID THE MESSIAH AND LITERALLY GOD THEMSELF JUST BREAK INTO MY HOUSE.)"
+msgstr "@plight_worry （喔我的天啊救世主和神本人刚刚闯进我家了对不对。）"
+
+msgid "@niko_speak Oh! Was that... your..."
+msgstr "@niko_speak 喔！那是不是……你的……"
+
+msgid "@plight_wtf You heard me??"
+msgstr "@plight_wtf 你有听到我说话吗？？"
+
+msgid "@plight_worry (IT KEEPS HAPPENING.)"
+msgstr "@plight_worry （又来了。）"
+
+msgid "@niko_eyeclosed ...sorry about breaking into your house.\\>\\n\\@niko We didn't actually break anything, but..."
+msgstr "@niko_eyeclosed ……抱歉闯进你家。\\>\\n\\@niko 我们没有弄坏任何东西，只是……"
+
+msgid "@niko_speak \\p said I should take these plastic disks, for some reason?\\>\\n\\@niko Should we put them back?"
+msgstr "@niko_speak \\p说我应该拿走这些塑胶圆盘，貌似会有用？\\>\\n\\@niko 我该把它们放回去吗？"
+
+msgid "@plight_2 It's okay, keep 'em."
+msgstr "@plight_2 没关系，你拿去吧。"
+
+msgid "@plight_worry I wouldn't have been able to fix that machine anyway..."
+msgstr "@plight_worry 我反正没办法修好那台机器……"
+

@@ -1,0 +1,24 @@
+msgid "@silver [Wait!]"
+msgstr "@silver [等等！]"
+
+msgid "@silver [I saw you heading towards this direction.]"
+msgstr "@silver [我看到你往这边走。]"
+
+msgid "@silver [The mines have been abandoned for a long time, I cannot guarantee that it's safe.]"
+msgstr "@silver [矿区已经废弃很久了，我无法保证里面的安全。]"
+
+msgid "@silver [If you must enter it, it is my duty to accompany you at least once.]"
+msgstr "@silver [若你坚持要进去，我有义务至少陪你进去一次。]"
+
+msgid "@niko Oh, thanks!"
+msgstr "@niko 喔，谢谢！"
+
+msgid "@niko The entrance is roped off...\\>\\n\\@niko_speak And there's a sign here:"
+msgstr "@niko 入口拉了封锁线……\\>\\n\\@niko_speak 这里有告示牌，上面写着："
+
+msgid "$WARNING:\\nAuthorized personnel only!\\n\\nVisitors must see the Head Engineer for permission to enter the mines."
+msgstr "$警告：\\n仅限有授权者进入！\\n\\n访客必须向首席工程师申请许可才能进入矿区。"
+
+msgid "@niko I guess we should find the Head Engineer..."
+msgstr "@niko 看来我们得去找首席工程师……"
+

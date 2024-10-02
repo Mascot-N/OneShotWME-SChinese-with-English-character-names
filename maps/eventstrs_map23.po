@@ -1,0 +1,33 @@
+msgid "@niko Strange black plants. They look like clovers."
+msgstr "@niko 奇怪的黑色植物，看起来像三叶草。"
+
+msgid "@niko A robot."
+msgstr "@niko 一台机器人。"
+
+msgid "@niko_eyeclosed No power, just like the rest..."
+msgstr "@niko_eyeclosed 没有电，跟其他的一样……"
+
+msgid "[I AM WATCHING OVER THE PLANTS.]"
+msgstr "[我正在照顾植物。]"
+
+msgid "[HELLO, SMALL PERSON.]"
+msgstr "[你好啊，小小的人类。]"
+
+msgid "@niko_eyeclosed You're not much bigger than I am..."
+msgstr "@niko_eyeclosed 你也没比我大多少……"
+
+msgid "[WELCOME TO THE LOOKOUT POINT.]"
+msgstr "[欢迎来到前哨站。]"
+
+msgid "[BELOW US IS THE OLD QUARRY.]"
+msgstr "[下方是旧采石场。]"
+
+msgid "[THE HEAD ENGINEER LIVES A LITTLE MORE TO THE EAST.]"
+msgstr "[首席工程师住在稍微往东边的地方。]"
+
+msgid "[THE ENTRANCE TO THE OLD MINES IS FURTHER TO THE EAST.]"
+msgstr "[旧矿坑入口在更往东边的远处。]"
+
+msgid "@niko I see!"
+msgstr "@niko 知道了！"
+

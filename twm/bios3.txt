@@ -1,0 +1,4 @@
+﻿
+系统纹理加载完成！@WAIT 0.2 
+
+系统启动即将完成@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.1 .@WAIT 0.4 

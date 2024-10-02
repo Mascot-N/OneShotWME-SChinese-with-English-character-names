@@ -1,0 +1,39 @@
+msgid "@niko I'm scared of ladders..."
+msgstr "@niko 我不敢爬梯子……"
+
+msgid "$Hey sweetie,"
+msgstr "$嘿，宝贝，"
+
+msgid "$Six more weeks until you can come home!"
+msgstr "$再过六周你就可以回家了！"
+
+msgid "$'bout time, huh?"
+msgstr "$也该回来了，对吧？"
+
+msgid "$Gosh, I can't imagine living in that awful capsule wall... dorm... thing!"
+msgstr "$天啊，我真无法想象住在那个糟糕的胶囊墙壁的……宿舍……之类的地方！"
+
+msgid "$But guess what? Soon you'll get to sleep in a real bed and eat real food again!"
+msgstr "$可是想一想，很快你就能重新睡在真正的床上、吃到真正的食物了！"
+
+msgid "$Write back soon!"
+msgstr "$期待你回信喔！"
+
+msgid "$\\n"
+msgstr "$\\n"
+
+msgid "$\\n-love, mom."
+msgstr "$\\n爱你的妈妈。"
+
+msgid "@niko Aww..."
+msgstr "@niko 真好……"
+
+msgid "$Looks like we're supposed to pack stuff for the evacuation starting today..."
+msgstr "$听说我们从今天开始要打包准备撤离……"
+
+msgid "$I wish these books weren't so heavy... it's gonna be a pain to carry them onto the ship."
+msgstr "$要是书没那么重就好了……要把它们搬上船一定很麻烦。"
+
+msgid "$But they're by the Author! I can't just throw them away!"
+msgstr "$可是这些是那个作者写的书！我不能就这样丢掉它们！"
+

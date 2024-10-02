@@ -1,0 +1,927 @@
+msgid "@calamus_smile2 At least I still got my sister..."
+msgstr "@calamus_smile2 至少我还有妹妹……"
+
+msgid "@calamus_sad This is her grave..."
+msgstr "@calamus_sad 这是她的坟墓……"
+
+msgid "@niko3 Ah..."
+msgstr "@niko3 啊……"
+
+msgid "@calamus_sad It's been years, but..."
+msgstr "@calamus_sad 已经过了好多年，可是……"
+
+msgid "@calamus_sad ...It's still... \\.\\.hard, y'know?"
+msgstr "@calamus_sad ……还是……\\.\\.很难受，你知道吗？"
+
+msgid "@niko4 ..."
+msgstr "@niko4 ……"
+
+msgid "@calamus_sad Sigh..."
+msgstr "@calamus_sad 唉……"
+
+msgid "@calamus_sad Alula....\\.\\.\\n\\@calamus_smile wanna help me look for some flowers for mom later?"
+msgstr "@calamus_sad Alula……\\.\\.\\n\\@calamus_smile 帮我一起找等一下拿去送妈妈的花，好吗？"
+
+msgid "@alula_gasp \\.\\.Y\\.E\\.S"
+msgstr "@alula_gasp \\.\\.好\\.的"
+
+msgid "@calamus_smile2 ..."
+msgstr "@calamus_smile2 ……"
+
+msgid "@calamus We're just about done here, so let us know when you want to go back to the ruins."
+msgstr "@calamus 我们这边差不多了，你想回废墟的时候跟我们说一声。"
+
+msgid "@niko Okay."
+msgstr "@niko 好。"
+
+msgid "@niko Hey, do you know where I could find a battery?"
+msgstr "@niko 对了，你知道哪里可以找到电池吗？"
+
+msgid "@calamus Good question.."
+msgstr "@calamus 好问题。"
+
+msgid "@calamus_heh We...\\.\\. don't really use electricity in the Glen."
+msgstr "@calamus_heh 我们……\\.\\.Glen这边没有在用电。"
+
+msgid "@niko_eyeclosed Ah."
+msgstr "@niko_eyeclosed 这样啊。"
+
+msgid "@calamus_speak Oh, but there are robots at the research station!\\>\\nIf there's a battery anywhere, they'd know where it is."
+msgstr "@calamus_speak 啊，不过研究站那边有机器人！\\>\\n如果这边有电池，它们应该知道在哪。"
+
+msgid "@niko Gotcha, thanks!"
+msgstr "@niko 知道了，谢谢！"
+
+msgid "@alula_speak I hope she can see us wherever she is!"
+msgstr "@alula_speak 我希望她不管在哪里都能看到我们！"
+
+msgid "@alula_gasp MOM YOU'RE NOT GONNA BELIEVE WHAT HAPPENED TODAY WE MET THE MESSIAH AND"
+msgstr "@alula_gasp 妈妈我跟你说你一定会吓一跳的，今天我们遇到了救世主而且──"
+
+msgid "@alula_oh ..."
+msgstr "@alula_oh ……"
+
+msgid "@alula_speak ...hi Niko!"
+msgstr "@alula_speak ……Niko，你好啊！"
+
+msgid "@niko_speak Hi!"
+msgstr "@niko_speak 你好！"
+
+msgid "@alula Didja find any... \\@alula_pout ...any..."
+msgstr "@alula 你有找到…… \\@alula_pout ……找到……"
+
+msgid "@alula_oh ...what were you looking for again?"
+msgstr "@alula_oh ……你要找什么啊？"
+
+msgid "@niko_speak Gears?"
+msgstr "@niko_speak 齿轮啊。"
+
+msgid "@alula_speak Gears!\\>\\n\\@alula Didja find any of those?"
+msgstr "@alula_speak 齿轮！\\>\\n\\@alula 你找到齿轮了吗？"
+
+msgid "@niko No, but... I found this music box though!"
+msgstr "@niko 还没，不过……我找到了这个八音盒！"
+
+msgid "@alula_gasp Ooooh!"
+msgstr "@alula_gasp 喔喔！"
+
+msgid "@niko Do you know where I could find some gears?"
+msgstr "@niko 你知道哪里可以找到齿轮吗？"
+
+msgid "@alula Gears?\\>\\nWhat's... that?"
+msgstr "@alula 齿轮？\\>\\n那是……什么东西？"
+
+msgid "@niko_speak It's like...\\.\\. A metal circle thing with teeth!"
+msgstr "@niko_speak 类似……\\.\\.有牙齿的金属圈圈！"
+
+msgid "@alula_speak A circle... with teeth?!"
+msgstr "@alula_speak 有牙齿的……圈圈！？"
+
+msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
+msgstr "@alula_speak 哈哈，听起来好好玩喔！\\>\\n感觉喜鹊会有这种东西！"
+
+msgid "@niko Magpie?"
+msgstr "@niko 喜鹊？"
+
+msgid "@alula Y'know, the trader guy!"
+msgstr "@alula 你知道，就是那个买卖东西的人！"
+
+msgid "@alula He collects all kinds of funny stuff!"
+msgstr "@alula 他会收集各种好玩的东西！"
+
+msgid "@alula_speak I mean, he even keeps around broken glass and junk!"
+msgstr "@alula_speak 我的意思是，他连碎玻璃和垃圾都会留着！"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko_speak ...Oh yeah!\\>\\n\\@niko I think I know who you're talking about."
+msgstr "@niko_speak ……喔，对！\\>\\n\\@niko 我大概知道你在说谁。"
+
+msgid "@alula_speak He's such a weirdo!"
+msgstr "@alula_speak 他真是个怪胎！"
+
+msgid "@niko Just a wrench."
+msgstr "@niko 只是一支扳手。"
+
+msgid "@niko It's a crowbar."
+msgstr "@niko 一支撬棍。"
+
+msgid "@niko_eyeclosed Looks like a piece from this plane."
+msgstr "@niko_eyeclosed 像是这架飞机的其中一片。"
+
+msgid "@cedric_smile Looks like the flying machine has a chance after all!"
+msgstr "@cedric_smile 看来飞行机器不是完全没救。"
+
+msgid "@cedric I just have to assemble the pieces now, but it might take a while..."
+msgstr "@cedric 我只要把各部件组装起来就可以了，只是需要一点时间……"
+
+msgid "@cedric_smile Do you mind keeping me company?"
+msgstr "@cedric_smile 你愿意留下来陪我吗？"
+
+msgid "@niko How's it going?"
+msgstr "@niko 状况如何？"
+
+msgid "@cedric Slow..."
+msgstr "@cedric 进度缓慢……"
+
+msgid "@cedric_hmm The connectors in the battery were not designed for this type of engine, so I have to shift around some of these ports."
+msgstr "@cedric_hmm 电池的接头设计跟这种引擎不合，所以这些连接口需要修改一下。"
+
+msgid "@cedric_sigh ...and there's this bolt that keeps getting stuck, and..."
+msgstr "@cedric_sigh ……然后这颗螺丝一直卡住，还有……"
+
+msgid "@niko_eyeclosed ...ah."
+msgstr "@niko_eyeclosed ……这样啊。"
+
+msgid "@cedric_smile ...don't worry! I am making decent progress!"
+msgstr "@cedric_smile ……别担心！我这边进展还挺顺利的！"
+
+msgid "@cedric We should be able to make it to the city by tonight."
+msgstr "@cedric 我们应该今晚就能飞到城市了。"
+
+msgid "@niko_eyeclosed If you say so..."
+msgstr "@niko_eyeclosed 我相信你说的……"
+
+msgid "@niko3 ...what...\\.\\. will happen once we get there?"
+msgstr "@niko3 ……等我们……\\.\\.到那边之后会怎么样？"
+
+msgid "@cedric_hmm We need to bring Proto back first."
+msgstr "@cedric_hmm 我们得先救回Proto。"
+
+msgid "@cedric_talk And then we need to go find one more person."
+msgstr "@cedric_talk 然后我们要再找一个人。"
+
+msgid "@cedric You may have already met her, actually..."
+msgstr "@cedric 其实你说不定早就见过她了……"
+
+msgid "@cedric_talk Do you remember her from the last time you were in this world?"
+msgstr "@cedric_talk 还记得你上次来这个世界时有遇到她吗？"
+
+msgid "@niko I..."
+msgstr "@niko 我……"
+
+msgid "@niko3 ...what does she...\\> look like?"
+msgstr "@niko3 ……她……\\>长什么样子？"
+
+msgid "@cedric2 This is going to sound strange, but..."
+msgstr "@cedric2 听起来可能有点怪，不过……"
+
+msgid "@cedric_talk She is a fox."
+msgstr "@cedric_talk 她是一只狐狸。"
+
+msgid "@niko_speak ...Rue?"
+msgstr "@niko_speak ……你说Rue？"
+
+msgid "@cedric_talk You've met?"
+msgstr "@cedric_talk 你们见过面了？"
+
+msgid "@niko_eyeclosed I... think so..."
+msgstr "@niko_eyeclosed 我……应该有吧……"
+
+msgid "@niko_eyeclosed The memories are still really blurry, though..."
+msgstr "@niko_eyeclosed 可是记忆都还很模糊……"
+
+msgid "@niko2 ...oh..."
+msgstr "@niko2 ……对了……"
+
+msgid "@niko_eyeclosed I.... DO remember talking to a fox at one point..."
+msgstr "@niko_eyeclosed 我……的确记得我有一次跟一只狐狸说话……"
+
+msgid "@cedric_talk You've met Rue?"
+msgstr "@cedric_talk 你见过Rue了？"
+
+msgid "@cedric_sigh I see..."
+msgstr "@cedric_sigh 我知道了……"
+
+msgid "@niko2 Oh, um..."
+msgstr "@niko2 喔，呃……"
+
+msgid "@niko_eyeclosed I... don't think I know what you're talking about."
+msgstr "@niko_eyeclosed 我……我听不懂你在说什么。"
+
+msgid "@cedric_sigh Worth a shot."
+msgstr "@cedric_sigh 好吧，至少我问了你。"
+
+msgid "@cedric_hmm Rue can be... elusive."
+msgstr "@cedric_hmm Rue有点……难以捉摸。"
+
+msgid "@cedric_talk Even if she IS the least hidden one of us..."
+msgstr "@cedric_talk 虽然她是我们之中最不会躲藏的……"
+
+msgid "@niko_eyeclosed My memories are still really blurry, though..."
+msgstr "@niko_eyeclosed 不过我的记忆都还很模糊……"
+
+msgid "@niko_upset ....sigh."
+msgstr "@niko_upset ……唉。"
+
+msgid "@niko_distressed2 It's just... hard... y'know?"
+msgstr "@niko_distressed2 这真的……很难以承受……你明白吗？"
+
+msgid "@niko_eyeclosed Proto told me to think of this world like a dream."
+msgstr "@niko_eyeclosed Proto要我把这个世界当成一场梦。"
+
+msgid "@niko_distressed2 But then I get so caught up with..."
+msgstr "@niko_distressed2 可是我陷得好深……"
+
+msgid "@niko_distressed And I just...\\.\\. kinda...\\> forget..."
+msgstr "@niko_distressed 然后我就……\\.\\.不知不觉就……\\>忘了……"
+
+msgid "@niko_distressed2 I forget that everything here is supposed to be...\\.\\. not real..."
+msgstr "@niko_distressed2 我忘了这里的一切应该都……\\.\\.不是真的……"
+
+msgid "@niko_distressed ...and then... I remember."
+msgstr "@niko_distressed ……然后……我又想起来了。"
+
+msgid "@niko_eyeclosed ...and then I just get really sad..."
+msgstr "@niko_eyeclosed ……于是我觉得好悲伤……"
+
+msgid "@niko_upset2 ...I know this is for me to go home, but..."
+msgstr "@niko_upset2 ……我知道这是为了让我回家，可是……"
+
+msgid "@niko_upset Knowing that none of it mattered in the first place..."
+msgstr "@niko_upset 现在我知道这一切从一开始就没有意义……"
+
+msgid "@niko_eyeclosed ...am I just\\.\\. trapped here for no reason...?"
+msgstr "@niko_eyeclosed ……难道我……\\.\\.被困在这里也是毫无理由的吗……？"
+
+msgid "@cedric2 ..."
+msgstr "@cedric2 ……"
+
+msgid "@niko_eyeclosed Proto also told me to not ask anyone in the world about this..."
+msgstr "@niko_eyeclosed Proto也叫我别问这世界的任何人这件事……"
+
+msgid "@niko_distressed2 Saying how \"they don't understand\"..."
+msgstr "@niko_distressed2 说是“他们都不懂”……"
+
+msgid "@niko_distressed But... what about him?"
+msgstr "@niko_distressed 可是……那他呢？"
+
+msgid "@niko_distressed2 How did HE know....?"
+msgstr "@niko_distressed2 他怎么会知道……？"
+
+msgid "@cedric ..."
+msgstr "@cedric ……"
+
+msgid "@niko3 ...How do YOU know?"
+msgstr "@niko3 ……你怎么会知道？"
+
+msgid "@niko_eyeclosed Aren't you guys ALL supposed to be code?"
+msgstr "@niko_eyeclosed 你们不是应该全都是程序代码吗？"
+
+msgid "@cedric_hmm ...well..."
+msgstr "@cedric_hmm ……这……"
+
+msgid "@niko_eyeclosed I'm not sure what to even believe anymore..."
+msgstr "@niko_eyeclosed 我已经不知道该相信什么了……"
+
+msgid "@cedric_sigh ..."
+msgstr "@cedric_sigh ……"
+
+msgid "@cedric_sigh I wish Rue was here..."
+msgstr "@cedric_sigh 真希望Rue在这里……"
+
+msgid "@cedric3 She's SO much better at explaining this sort of thing."
+msgstr "@cedric3 她远比我擅长解释这种事。"
+
+msgid "@cedric_sigh I'm doing a terrible job of it!"
+msgstr "@cedric_sigh 我实在做不来！"
+
+msgid "@cedric_sigh2 I bet Proto was even less tactful, wasn't he..."
+msgstr "@cedric_sigh2 我敢说Proto一定解释得更粗糙，对不对……"
+
+msgid "@cedric_sigh I'm afraid I must risk sounding callous, but..."
+msgstr "@cedric_sigh 我这么说恐怕听起来很无情，可是……"
+
+msgid "@cedric2 ...please, you need not concern yourself with how \"real\" everything is, for now."
+msgstr "@cedric2 ……拜托，你目前真的不需要担心这一切到底有多“真实”。"
+
+msgid "@cedric_talk The plan is already in motion, we cannot allow for distractions."
+msgstr "@cedric_talk 计划已经开始进行，我们不允许一切干扰。"
+
+msgid "@cedric_hmm Father is putting everything into this one last run of the world."
+msgstr "@cedric_hmm 父亲把所有心力都投注在这个世界的最后一次运转上。"
+
+msgid "@cedric_sigh The last chance for him to fix everything."
+msgstr "@cedric_sigh 这是他修正所有问题的最后机会。"
+
+msgid "@niko2 Your father... is involved in the World Machine?"
+msgstr "@niko2 你爸爸……和世界机器有关？"
+
+msgid "@cedric3 You... \\.\\.could say that."
+msgstr "@cedric3 应该……\\.\\.可以这么说。"
+
+msgid "@cedric_sigh The acceleration of square particle anomalies was not accounted for at all, though."
+msgstr "@cedric_sigh 但方块粒子异常的加速完全没有合理的解释。"
+
+msgid "@cedric The patch was only built to accomodate the normal rate they appear, but..."
+msgstr "@cedric 修补是针对它们正常出现速度来的，但……"
+
+msgid "@cedric_sigh2 ...they're accumulating at frightening speeds, now."
+msgstr "@cedric_sigh2 ……如今它们正以惊人的速度积聚。"
+
+msgid "@cedric_sigh Proto even lost his body..."
+msgstr "@cedric_sigh Proto甚至失去了他的躯体……"
+
+msgid "@cedric2 Thankfully, he gave you the disk just in time."
+msgstr "@cedric2 幸好他及时把磁盘交给你了。"
+
+msgid "@niko3 So... what happened to him anyway?"
+msgstr "@niko3 所以说……他到底发生了什么事呢？"
+
+msgid "@niko3 What happens to...\\.\\. ANYONE who gets caught in the squares?"
+msgstr "@niko3 不管是谁，如果被方块困住……\\.\\.会怎么样？"
+
+msgid "@niko_eyeclosed I only know it's bad..."
+msgstr "@niko_eyeclosed 我只知道会很糟……"
+
+msgid "@cedric_hmm Well, you know how the simulation works, right?"
+msgstr "@cedric_hmm 这个嘛，你知道仿真的原理吧？"
+
+msgid "@niko_upset2 How everything...\\.\\. is code....?"
+msgstr "@niko_upset2 你是说一切都是……\\.\\.程序代码……？"
+
+msgid "@cedric Specifically, everything is generated from pre-existing code."
+msgstr "@cedric 明确地说，一切都是由预先存在的程序代码产生。"
+
+msgid "@cedric The squares can cause damage to that code..."
+msgstr "@cedric 方块可以对那些程序代码造成损害……"
+
+msgid "@cedric_sigh ...most of the time, irreversible damage."
+msgstr "@cedric_sigh ……大部分的时候，这种损坏都无法复原。"
+
+msgid "@cedric_sigh Father has lost some friends in previous iterations of the simulation."
+msgstr "@cedric_sigh 父亲在之前的模拟迭代中失去了一些朋友。"
+
+msgid "@cedric3 It took him forever to develop the current, much more stable version."
+msgstr "@cedric3 他花了无比漫长的时间才开发出现在这个稳定许多的版本。"
+
+msgid "@niko4 ...you're making it sound like...\\.\\. your dad built the simulation himself..."
+msgstr "@niko4 ……听你这么说，简直就像……\\.\\.是你爸爸亲手打造了这个模拟……"
+
+msgid "@niko3 ...wait, DID he?"
+msgstr "@niko3 ……等等，真的是他做的？"
+
+msgid "@cedric_sigh Yeah..."
+msgstr "@cedric_sigh 是的……"
+
+msgid "@niko4 But... how?"
+msgstr "@niko4 可是……他是怎么做到的？"
+
+msgid "@niko_what If everyone in this world is code..."
+msgstr "@niko_what 如果这个世界里的每个人都是程序代码……"
+
+msgid "@niko2 ...how can he build...\\.\\. \\@niko_what himself...?"
+msgstr "@niko2 ……他怎么有办法建造……\\.\\.\\@niko_what 他自己……？"
+
+msgid "@cedric2 That's...\\.\\. um...\\>\\n\\@cedric_sigh not really what happened."
+msgstr "@cedric2 那个……\\.\\.嗯……\\>\\n\\@cedric_sigh 事情不是那样的。"
+
+msgid "@niko3 So... what happened?"
+msgstr "@niko3 那……到底是怎么回事？"
+
+msgid "@cedric_sigh2 ...like I said, you shouldn't concern yourself with..."
+msgstr "@cedric_sigh2 ……我说了，你不该担心……"
+
+msgid "@niko_distressed ..."
+msgstr "@niko_distressed ……"
+
+msgid "@cedric4 ...with"
+msgstr "@cedric4 ……担心"
+
+msgid "@niko_distressed ....."
+msgstr "@niko_distressed ……"
+
+msgid "@cedric_sigh ...alright, alright...."
+msgstr "@cedric_sigh ……好啦，好吧……"
+
+msgid "@cedric3 Did Prototype....\\.\\. ever tell you about the old world?"
+msgstr "@cedric3 Proto他……\\.\\.有跟你提过旧世界的事吗？"
+
+msgid "@niko3 He... DID say something about being built to greet the messiah of the old world."
+msgstr "@niko3 他……的确提到过，他被建立的目的是为了迎接旧世界的救世主。"
+
+msgid "@niko_eyeclosed I was um...\\.\\. too caught up with the other stuff at the time to think about it..."
+msgstr "@niko_eyeclosed 我当时，呃……\\.\\.太专注在其他事物上，没有仔细思考这件事……"
+
+msgid "@cedric2 Ah, you know OF it at least, then."
+msgstr "@cedric2 喔，那么你至少听过它。"
+
+msgid "@cedric_sigh Alright... here we go."
+msgstr "@cedric_sigh 好吧……听我说。"
+
+msgid "@cedric My father... myself... the other two..."
+msgstr "@cedric 我父亲……我自己……还有另外两位……"
+
+msgid "@cedric3 None of us are part of the simulation itself."
+msgstr "@cedric3 我们都不属于模拟的一部分。"
+
+msgid "@cedric_sigh Our home world....\\> the \"real\" world... \\.\\.was actually destroyed a long time ago."
+msgstr "@cedric_sigh 我们的故乡世界……\\>“真实”世界……\\.\\.其实很久以前就毁灭了。"
+
+msgid "@niko_shock ..."
+msgstr "@niko_shock ……"
+
+msgid "@cedric In the years leading up to the calamity, scientists from all over the world tried to stop it, but the outlook was bleak."
+msgstr "@cedric 在灾难降临的前几年， 全世界的科学家都千方百计想阻止它发生， 但前景还是很不乐观。"
+
+msgid "@cedric A vague prophecy about a messiah from another world became everyone's last bastion of hope."
+msgstr "@cedric 一则关于来自异世界救世主的模糊预言成了大家最后的希望堡垒。"
+
+msgid "@cedric3 Prophetbot....\\.\\. er, Prototype... \\.\\.was built to predict the future, about the specifics of this messiah."
+msgstr "@cedric3 先知机器人……\\.\\.我是说，Proto…… \\.\\.就是为了预测未来、为了提供关于救世主的详情而建立。"
+
+msgid "@cedric_sigh2 But as his predictions turned out, the messiah would not have been able to arrive to our world in time."
+msgstr "@cedric_sigh2 但他的预言显示，救世主无法及时降临我们的世界。"
+
+msgid "@cedric4 In fact, the messiah would not even have been born before our world ended."
+msgstr "@cedric4 事实上，在我们的世界毁灭时，救世主甚至还没有出生。"
+
+msgid "@niko3 ..."
+msgstr "@niko3 ……"
+
+msgid "@cedric Disheartened, most people abandoned their research and resolved to peacefully live out their final years."
+msgstr "@cedric 大部分的人都在绝望中放弃了研究， 而决意安详度过最后的时光。"
+
+msgid "@cedric3 But... some people did the opposite."
+msgstr "@cedric3 可是……有些人则反其道而行。"
+
+msgid "@cedric_sigh Even though saving the world was impossible, they didn't want our existence to be in vain."
+msgstr "@cedric_sigh 即使那个世界已经无可救药， 他们也不希望我们的存在徒劳无功。"
+
+msgid "@cedric2 And that's...\\.\\. where my father came in."
+msgstr "@cedric2 而那就是……\\.\\.我父亲大展身手的时候。"
+
+msgid "@cedric_talk With the last of his resources...\\>\\nhe built his most ambitious project yet."
+msgstr "@cedric_talk 他用尽最后的资源……\\>\\n建造了他最大规模的作品。"
+
+msgid "@cedric ...\"The World Machine\"."
+msgstr "@cedric ……也就是“世界机器”。"
+
+msgid "@cedric2 A large, detailed facsimile of the old world, generated from a pool of memories collected from everyone he knew."
+msgstr "@cedric2 那是旧世界巨大而详尽的复制本， 是他向每个认识的人收集记忆而制成的。"
+
+msgid "@cedric4 ...after a heavy amount of modification and an added narrative, my father was able to convert the entire structure into code."
+msgstr "@cedric4 ……经过大量修改并加入叙述后， 我父亲终于将整个结构转换成程序代码。"
+
+msgid "@niko3 ...how did that code.... escape the old world?"
+msgstr "@niko3 ……那程序代码……是怎么逃离旧世界的？"
+
+msgid "@cedric_hmm I have no idea."
+msgstr "@cedric_hmm 我不知道。"
+
+msgid "@cedric What I do know is, there is no equipment back home that was powerful enough to run the code independently."
+msgstr "@cedric 我所知道的是，在故乡没有任何设备足以独立执行那组程序。"
+
+msgid "@cedric So, asides from the standard hardware, it also needed to borrow the mental processing abilities of a living person."
+msgstr "@cedric 所以，除了标准硬件之外，它还需要借助活人的心智处理能力。"
+
+msgid "@cedric Father used himself for that, during the initial testing phases."
+msgstr "@cedric 在最初的测试阶段，父亲亲自承担那份责任。"
+
+msgid "@cedric2 Like I said, it took many iterations for him to make the experience stable enough."
+msgstr "@cedric2 如我所说，他经历了许多次迭代才让模拟体验变得足够稳定。"
+
+msgid "@cedric_sigh2 ...but as you can see, even that's breaking down."
+msgstr "@cedric_sigh2 ……但如你所见，连那份稳定也开始崩溃了。"
+
+msgid "@niko2 Ah..."
+msgstr "@niko2 啊……"
+
+msgid "@cedric Father caught on to the issue in the last minute, but did not have enough time to fix it."
+msgstr "@cedric 父亲在最后关头掌握了问题所在，却没有足够的时间修正它。"
+
+msgid "@cedric4 After the world ended...\\.\\. the code kinda just ended up...\\>\\n\\@cedric3 floating in the void, indefinitely."
+msgstr "@cedric4 世界终结后……\\.\\.那组程序代码最后……\\>\\n\\@cedric3 永无期限地漂流在虚空之中。"
+
+msgid "@cedric_sigh ...waiting for a willing operator to install it onto their own hardware."
+msgstr "@cedric_sigh ……同时也在等待，看哪个操作员愿意将它安装在自己的硬件上运作。"
+
+msgid "@niko3 ...\\p?"
+msgstr "@niko3 ……你是指\\p？"
+
+msgid "@cedric Yeah."
+msgstr "@cedric 是啊。"
+
+msgid "@cedric The operator... \\.\\.\\p.... \\.\\.would then generate the universe using the code, becoming god in the process."
+msgstr "@cedric 操作员……\\.\\.\\p……\\.\\.会使用这组程序代码建立这个世界，并在过程中成为这世界的神。"
+
+msgid "@niko So... \\p was the living person you needed to borrow?"
+msgstr "@niko 所以……\\p就是你们需要借助的活人？"
+
+msgid "@cedric3 ....No?"
+msgstr "@cedric3 ……不是。"
+
+msgid "@cedric That.... would be you."
+msgstr "@cedric 那个活人……是你啊。"
+
+msgid "@niko3 But why me?"
+msgstr "@niko3 可是为什么是我？"
+
+msgid "@niko ...."
+msgstr "@niko ……"
+
+msgid "@niko_eyeclosed (I... should've asked that question a long time ago, shouldn't I...)"
+msgstr "@niko_eyeclosed （我好像……早就该问这个问题了，对吧……）"
+
+msgid "@cedric3 I do not know."
+msgstr "@cedric3 我不知道。"
+
+msgid "@cedric_hmm ...we...\\.\\. really need to get going."
+msgstr "@cedric_hmm ……我们……\\.\\.真的得开始行动了。"
+
+msgid "@niko_speak It's a plane!"
+msgstr "@niko_speak 是飞机！"
+
+msgid "@cedric2 ...flying machine!"
+msgstr "@cedric2 ……是飞行机器！"
+
+msgid "@niko Right."
+msgstr "@niko 对喔。"
+
+msgid "@niko It's a tent."
+msgstr "@niko 一个帐篷。"
+
+msgid "@niko It's a fire."
+msgstr "@niko 是火。"
+
+msgid "@cedric_talk It's you!"
+msgstr "@cedric_talk 你来了！"
+
+msgid "@niko !"
+msgstr "@niko ！"
+
+msgid "@cedric_smile You are Niko, right?"
+msgstr "@cedric_smile 你就是Niko，对吧？"
+
+msgid "@niko_speak Mhm!"
+msgstr "@niko_speak 对啊！"
+
+msgid "@cedric_hmm You... um..."
+msgstr "@cedric_hmm 你……呃……"
+
+msgid "@niko My name is Niko..."
+msgstr "@niko 我的名字叫Niko……"
+
+msgid "@cedric_smile Ah!"
+msgstr "@cedric_smile 啊！"
+
+msgid "@cedric_smile N-\\.\\.nice finally to meet you! \\@cedric_hmm \\>...no, wait."
+msgstr "@cedric_smile 很、\\.\\.很高兴终于能见到你！\\@cedric_hmm \\>……不，等等。"
+
+msgid "@cedric_sigh It is a pleasure to be of acquaintance at last, Niko."
+msgstr "@cedric_sigh Niko，我终于见到你了，真是荣幸。"
+
+msgid "@cedric_smile My name is Cedric."
+msgstr "@cedric_smile 我的名字叫学君。"
+
+msgid "@niko2 Oh!"
+msgstr "@niko2 喔！"
+
+msgid "@niko I'm supposed to be looking for you too!"
+msgstr "@niko 我应该也在找你！"
+
+msgid "@cedric I am aware."
+msgstr "@cedric 我知道。"
+
+msgid "@cedric_hmm Prototype had contacted me earlier, saying that you would be on your way to the city."
+msgstr "@cedric_hmm Proto之前和我联络过，他说你正在前往城市的途中。"
+
+msgid "@niko_speak He did?"
+msgstr "@niko_speak 他联络你了？"
+
+msgid "@cedric He sent me a message after his memories were restored."
+msgstr "@cedric 他在记忆还原后传了讯息给我。"
+
+msgid "@niko Oh..."
+msgstr "@niko 喔……"
+
+msgid "@cedric_hmm He told me to wait in the city, but I thought it'd be faster for me to pick you guys up."
+msgstr "@cedric_hmm 他叫我在城市中等待，但我想我来接你们会更快些。"
+
+msgid "@cedric_sigh ...Turns out, that was a terrible idea."
+msgstr "@cedric_sigh ……结果事实证明这是个馊主意。"
+
+msgid "@niko2 Pick... us up?"
+msgstr "@niko2 来……接我们？"
+
+msgid "@niko_pancakes ...wait... YOU can fly that plane??"
+msgstr "@niko_pancakes ……等等……你可以驾驶那架飞机？"
+
+msgid "@cedric_hmm What...\\.\\. is a plane?"
+msgstr "@cedric_hmm 飞机……\\.\\.是什么？"
+
+msgid "@niko_speak That thing behind you!"
+msgstr "@niko_speak 就是你后面那个！"
+
+msgid "@cedric_talk Oh! You mean the flying machine?"
+msgstr "@cedric_talk 喔！你是说飞行机器吗？"
+
+msgid "@niko_speak They're called planes in my world!"
+msgstr "@niko_speak 我们的世界把这种东西叫做飞机！"
+
+msgid "@cedric_hmm Oh..."
+msgstr "@cedric_hmm 这样啊……"
+
+msgid "@cedric_sigh ...I did not realize they existed in other worlds..."
+msgstr "@cedric_sigh ……我不知道别的世界也有这种东西……"
+
+msgid "@niko_speak ...wait! Are you the friend that Calamus and Alula was talking about, then?"
+msgstr "@niko_speak ……等等！这么说来你就是Calamus和Alula他们说的那个朋友啰？"
+
+msgid "@niko_speak Is this the same flying machine they were talking about?"
+msgstr "@niko_speak 然后这就是他们提过的那台飞行机器？"
+
+msgid "@cedric I do not know anyone named Calamus or Alula."
+msgstr "@cedric 我不认识叫做Calamus或Alula的人。"
+
+msgid "@cedric_talk I think... they're meant to be friends with my father. \\>\\n\\@cedric_hmm ...in previous iterations of the..."
+msgstr "@cedric_talk 我想……他们应该是我父亲的朋友。\\>\\n\\@cedric_hmm ……在……先前的迭代中……"
+
+msgid "@niko2 ...your father?"
+msgstr "@niko2 ……你爸爸？"
+
+msgid "@cedric_talk He was the original owner of the flying machine... \\>\\n\\@cedric_hmm ...it's... one of his greatest inventions, actually."
+msgstr "@cedric_talk 他是飞行机器的原主人……\\>\\n\\@cedric_hmm ……这个……其实是他最重大的发明之一。"
+
+msgid "@niko_pancakes YOUR DAD INVENTED PLANES???"
+msgstr "@niko_pancakes 你爸爸发明了飞机？？？"
+
+msgid "@cedric_hmm ...flying machine."
+msgstr "@cedric_hmm ……飞行机器。"
+
+msgid "@niko_pancakes IT'S COOL EITHER WAY!!"
+msgstr "@niko_pancakes 不管怎么说都超酷！！"
+
+msgid "@cedric_smile Thanks?"
+msgstr "@cedric_smile 谢谢喔？"
+
+msgid "@cedric_talk But to answer your earlier question... I am proficient in operating the machine."
+msgstr "@cedric_talk 不过，回答你刚刚的问题……我很擅长操纵这台机器。"
+
+msgid "@cedric_hmm ...but ...something weird happened to the engine when I was in the air earlier..."
+msgstr "@cedric_hmm ……可是……我之前在飞行途中，引擎发生了怪事……"
+
+msgid "@cedric_sigh I had to make an emergency landing on this tiny island before I crashed into the city wall."
+msgstr "@cedric_sigh 我不得不紧急迫降到这座小岛，免得撞上城墙。"
+
+msgid "@niko3 You almost crashed? \\>\\n\\@niko4 That's terrible!"
+msgstr "@niko3 你差点坠机？\\>\\n\\@niko4 太可怕了！"
+
+msgid "@cedric_sigh It was not pleasant, I will admit."
+msgstr "@cedric_sigh 我承认，的确不是愉快的体验。\\n\\>"
+
+msgid "@cedric_hmm I wonder if the engine problem has to do with the square particle disruptions..."
+msgstr "@cedric_hmm 不知道引擎的问题跟那些方块粒子造成的干扰有没有关系……"
+
+msgid "@cedric I checked, but... there isn't any of that square stuff inside the machine itself."
+msgstr "@cedric 我检查过了，但……机器内部并没有来自方块的异物。"
+
+msgid "@cedric_hmm ...but I noticed some islands in the Glen are REALLY messed up now."
+msgstr "@cedric_hmm ……可是现在我注意到，Glen里有些岛屿状况真的很糟。"
+
+msgid "@niko_eyeclosed They are..."
+msgstr "@niko_eyeclosed 是啊……"
+
+msgid "@cedric_sigh Sigh. \\>\\nGuess I should have listened to Proto in the first place."
+msgstr "@cedric_sigh 唉。\\>\\n我当初果然还是该听Proto的话吧。"
+
+msgid "@cedric_hmm ...say, where is he?"
+msgstr "@cedric_hmm ……说起来，他在哪？"
+
+msgid "@cedric_talk He said he was coming with you..."
+msgstr "@cedric_talk 他说他要跟你一起来的……"
+
+msgid "@cedric Is he still back at the main islands?"
+msgstr "@cedric 他还在主岛那边吗？"
+
+msgid "@niko3 Oh... actually..."
+msgstr "@niko3 这个……其实……"
+
+msgid "@niko4 ...back at the Barrens, he..."
+msgstr "@niko4 ……在荒野那边的时候，他……"
+
+msgid "@niko_upset There was a cave-in...\\.\\. and then a bunch of squares..."
+msgstr "@niko_upset 那边发生了坍塌……\\.\\.然后有好多方块……"
+
+msgid "@niko_upset2 ...he...\\.\\. and the robot lady..."
+msgstr "@niko_upset2 ……他……\\.\\.和机器人女士……"
+
+msgid "@niko_distressed_talk ...neither of them made it out."
+msgstr "@niko_distressed_talk ……他们俩都没有逃出来。"
+
+msgid "@cedric_eek ..."
+msgstr "@cedric_eek ……"
+
+msgid "@cedric_eek No...."
+msgstr "@cedric_eek 不……"
+
+msgid "@niko_distressed2 He...\\.\\. did give me this, though."
+msgstr "@niko_distressed2 不过他……\\.\\.他给了我这个。"
+
+msgid "@niko3 This disk he pulled from his head..."
+msgstr "@niko3 他从头上抽出了这张磁盘……"
+
+msgid "@cedric_talk Oh!!!"
+msgstr "@cedric_talk 喔！！！"
+
+msgid "@cedric_sigh2 Oh thank goodness."
+msgstr "@cedric_sigh2 谢天谢地。"
+
+msgid "@cedric_talk He gave you his main drive!"
+msgstr "@cedric_talk 他把他的主磁盘交给你了！"
+
+msgid "@cedric_hmm As long as I have this, I should be able to bring him back."
+msgstr "@cedric_hmm 只要有这个，我就能让他重生。"
+
+msgid "@niko2 R-really?"
+msgstr "@niko2 真、真的吗？"
+
+msgid "@cedric_sigh It's gonna be hard, but yes."
+msgstr "@cedric_sigh 是个大工程，但是，对，真的。"
+
+msgid "@cedric You need all three of us for the big door."
+msgstr "@cedric 你需要我们三个一起才能进入大门。"
+
+msgid "@niko2 The...?"
+msgstr "@niko2 大门……？"
+
+msgid "@cedric_hmm But first thing's first, we need to find a way to go to the city."
+msgstr "@cedric_hmm 不过首先我们得想办法进入城市。"
+
+msgid "@niko_eyeclosed Right...\\>\\nThe city gate is kind of kaput now."
+msgstr "@niko_eyeclosed 对喔……\\>\\n现在不能从城门进去了。"
+
+msgid "@cedric2 If this machine was working, we could just fly right in there..."
+msgstr "@cedric2 如果这台机器还能用，我们就能直接飞进去……"
+
+msgid "@cedric_hmm I've isolated the issue with the machine, but I can't repair it with the stuff I have on hand."
+msgstr "@cedric_hmm 我已经找到机器的问题所在了，但手边的东西不足以修理它。"
+
+msgid "@niko_speak Oh? What's wrong with it?"
+msgstr "@niko_speak 咦？问题出在哪里呢？"
+
+msgid "@cedric The \\c[2]battery\\c[0] in the engine is dead, and the engine has some \\c[2]gears\\c[0] that need to be replaced."
+msgstr "@cedric 引擎中的\\c[2]电池\\c[0]没电了，还有引擎有些\\c[2]齿轮\\c[0]需要更换。"
+
+msgid "@niko ...\\>\\nDo you think you'll be able to fix it if \\p and I help you find those things?"
+msgstr "@niko ……\\>\\n如果\\p和我帮你找到这些零件，你能修好它吗？"
+
+msgid "@cedric_hmm ...maybe."
+msgstr "@cedric_hmm ……或许可以。"
+
+msgid "@cedric_sigh Problem is... the Glen isn't exactly a very high-tech area."
+msgstr "@cedric_sigh 问题是……Glen实在不是什么高科技地区。"
+
+msgid "@cedric_sigh ...I'm not sure if you'll be able to find anything so specialized here."
+msgstr "@cedric_sigh ……我不知道你们能不能在这里找到这么专业的东西。"
+
+msgid "@niko_speak We'll try anyway!"
+msgstr "@niko_speak 我们还是会试试看！"
+
+msgid "@niko_eyeclosed We can't really do anything else right now..."
+msgstr "@niko_eyeclosed 反正现在也不能做别的事……"
+
+msgid "@niko2 We found a battery..."
+msgstr "@niko2 我们找到了一颗电池……"
+
+msgid "@cedric4 Another one?"
+msgstr "@cedric4 又一个吗？"
+
+msgid "@cedric_talk Oh, nice!"
+msgstr "@cedric_talk 喔，好耶！"
+
+msgid "@cedric3 I honestly wasn't expecting it..."
+msgstr "@cedric3 真意想不到……"
+
+msgid "@niko It's from the generator on one of the islands."
+msgstr "@niko 我是在其中一座岛上的发电机拿到的。"
+
+msgid "@cedric_talk The research station?"
+msgstr "@cedric_talk 你是说研究站？"
+
+msgid "@niko2 Yeah."
+msgstr "@niko2 对啊。"
+
+msgid "@niko_speak It was powering all the robots there...\\>\\n\\@niko_eyeclosed I felt bad for taking it..."
+msgstr "@niko_speak 那台发电机负责为那边所有的机器人供电……\\>\\n\\@niko_eyeclosed 把它拿走，我觉得有点抱歉……"
+
+msgid "@cedric_hmm Ah..."
+msgstr "@cedric_hmm 这……"
+
+msgid "@cedric_smile ...we can always just give it back later."
+msgstr "@cedric_smile ……我们之后再放回去就好啦。"
+
+msgid "@niko_eyeclosed Alright..."
+msgstr "@niko_eyeclosed 好吧……"
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together.\\>\\nPlease do what you must to find some."
+msgstr "@cedric_hmm 我们还需要一些\\c[2]齿轮\\c[0]才能让引擎恢复运作。\\>\\n请务必设法找来。"
+
+msgid "@niko We found this one in the Barrens.\\>\\nIt wasn't working at first, but \\p and I managed to fix it!"
+msgstr "@niko 我们在荒野找到了这个。\\>\\n它本来是坏掉的，不过\\p和我想办法修好了！"
+
+msgid "@cedric_smile ...it's good that you thought to bring it with you then."
+msgstr "@cedric_smile ……这么说，幸好你有想到把它带着呢。"
+
+msgid "@niko_speak Yup!"
+msgstr "@niko_speak 对啊！"
+
+msgid "@niko_speak We found a music box!"
+msgstr "@niko_speak 我们找到一个八音盒！"
+
+msgid "@niko It... should have gears in it, right?"
+msgstr "@niko 里面……应该有齿轮吧？"
+
+msgid "@cedric I assume so, but...\\>\\n..."
+msgstr "@cedric 应该有，只是……\\>\\n……"
+
+msgid "@cedric_hmm This looks like one of the ones that my father made."
+msgstr "@cedric_hmm 这看起来像是出自我父亲之手。"
+
+msgid "@niko_pancakes YOUR DAD MAKES MUSIC BOXES TOO?"
+msgstr "@niko_pancakes 你爸爸还会做八音盒？"
+
+msgid "@cedric_smile My dad makes a lot of things!"
+msgstr "@cedric_smile 我父亲会做很多东西！"
+
+msgid "@cedric_hmm Where did you get this from, by the way?"
+msgstr "@cedric_hmm 说起来，你是在哪拿到的？"
+
+msgid "@niko_speak A trader from the village gave it to me!"
+msgstr "@niko_speak 村里的商人给我的！"
+
+msgid "@cedric I see.\\>\\nI remember father saying that he used to trade with some of the people here."
+msgstr "@cedric 原来如此。\\>\\n我记得父亲说过，他以前会和这里的一些人交易。"
+
+msgid "@cedric_smile He did always love traveling this world, despite..."
+msgstr "@cedric_smile 他真的很喜欢在这个世界到处跑，即使……"
+
+msgid "@cedric_hmm ...well."
+msgstr "@cedric_hmm ……哎。"
+
+msgid "@cedric_sigh Ah, sorry, I started rambling."
+msgstr "@cedric_sigh 啊，抱歉，我扯远了。"
+
+msgid "@cedric_talk The gears in there are compatible with the engine."
+msgstr "@cedric_talk 里面的齿轮，引擎可以用。"
+
+msgid "@cedric_sigh Although it pains me to have to take it apart..."
+msgstr "@cedric_sigh 虽然我实在不想拆了它……"
+
+msgid "@niko2 Oh...\\.\\. I'm sorry!"
+msgstr "@niko2 喔……\\.\\.我很抱歉！"
+
+msgid "@cedric_hmm It's fine..."
+msgstr "@cedric_hmm 没关系……"
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running.\\>\\nPlease do what you must to find one."
+msgstr "@cedric 我们还需要一颗\\c[3]电池\\c[0]才能让引擎运转。\\>\\n请务必设法找来。"
+
+msgid "@niko_eyeclosed Sorry... I forgot..."
+msgstr "@niko_eyeclosed 对不起……我忘了……"
+
+msgid "@niko What parts do we need to find again?"
+msgstr "@niko 可以再说一次我们要找什么零件吗？"
+
+msgid "@cedric We still need a \\c[3]battery\\c[0] to get this engine running."
+msgstr "@cedric 我们还需要一颗\\c[3]电池\\c[0]才能让引擎运转。"
+
+msgid "@cedric_hmm We still need a few \\c[2]gears\\c[0] to put this engine back together."
+msgstr "@cedric_hmm 我们还需要一些\\c[2]齿轮\\c[0]才能让引擎恢复运作。"
+
+msgid "@cedric_hmm A \\c[2]battery\\c[0] for the engine, and a few \\c[2]gears\\c[0] to replace the broken ones."
+msgstr "@cedric_hmm 需要一颗引擎用的\\c[2]电池\\c[0]，还有一些\\c[2]齿轮\\c[0]破损了，需要替换。"
+
+msgid "@cedric If you could find me the parts I need, I should be able to get this machine off the ground again."
+msgstr "@cedric 如果你能找到我需要的零件，我应该就能让这台机器再次起飞。"
+
+msgid "@niko We made it!"
+msgstr "@niko 成功了！"
+
+msgid "@calamus C'mon, Alula.\\>\\nLet's go pay our respects..."
+msgstr "@calamus 来吧，Alula。\\>\\n来祭拜吧……"
+
+msgid "@alula Okay!"
+msgstr "@alula 好！"
+

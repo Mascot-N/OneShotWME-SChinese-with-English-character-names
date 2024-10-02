@@ -1,0 +1,27 @@
+msgid "@calamus_unknown Alula?\\>\\nAlula? Where did you go?"
+msgstr "@calamus_unknown Alula？\\>\\nAlula？你跑去哪了？"
+
+msgid "@niko_speak \\p, did you hear that?"
+msgstr "@niko_speak \\p，你有听见吗？"
+
+msgid "@calamus_unknown Alula!"
+msgstr "@calamus_unknown Alula！"
+
+msgid "@niko I think it's coming from south-east of here."
+msgstr "@niko 好像是从东南方向传来的。"
+
+msgid "[WATER SAMPLE COLLECTION IN PROGRESS...]"
+msgstr "[水样本采集进行中……]"
+
+msgid "The bridge to the forest was just restored..."
+msgstr "通往森林的桥才刚刚修复……"
+
+msgid "The village evacuees should be able to find better fishing spots here."
+msgstr "避难的村民应该能在这里找到更适合钓鱼的地方。"
+
+msgid "The plant spirit is really looking out for us, isn't she?"
+msgstr "树灵在保佑着我们，对吧？"
+
+msgid "@niko_upset2 ...yeah."
+msgstr "@niko_upset2 ……是啊。"
+

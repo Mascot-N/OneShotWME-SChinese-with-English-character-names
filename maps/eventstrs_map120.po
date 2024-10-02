@@ -1,0 +1,87 @@
+msgid "@niko_speak Wow...."
+msgstr "@niko_speak 哇……"
+
+msgid "@niko ..."
+msgstr "@niko ……"
+
+msgid "@niko I've... actually never been to a big city before!"
+msgstr "@niko 我……从来没有来过大城市！"
+
+msgid "@niko All these lights... all these people..."
+msgstr "@niko 好多灯……好多人……"
+
+msgid "@niko I guess most of this world's population lives here..."
+msgstr "@niko 没准这世界大多数的人都住在这里吧……"
+
+msgid "@niko It's very different from my village."
+msgstr "@niko 跟我家村子完全不一样。"
+
+msgid "@niko_speak The village is very small, and surrounded by huge fields!"
+msgstr "@niko_speak 村子很小，周围有大片的田野！"
+
+msgid "@niko You saw a bit of that in one of my dreams from a while ago..."
+msgstr "@niko 你之前也有在我的梦中看到一些……"
+
+msgid "@niko_speak The tallest buildings in our village are only two stories tall!"
+msgstr "@niko_speak 我们村子最高的房子也只有两层楼！"
+
+msgid "@niko_speak What about you, \\p?"
+msgstr "@niko_speak \\p，你呢？"
+
+msgid "@niko Where do you live?"
+msgstr "@niko 你住在哪里？"
+
+msgid "[\"A city\", \"A village\", \"Someplace else\"]"
+msgstr "[\"城市里\",\"村庄里\",\"其他地方\"]"
+
+msgid "@niko_speak A city? Like this?"
+msgstr "@niko_speak 城市？像这种的吗？"
+
+msgid "@niko Wow...."
+msgstr "@niko 哇……"
+
+msgid "@niko_eyeclosed I can't imagine living in a city..."
+msgstr "@niko_eyeclosed 我无法想象城市的生活……"
+
+msgid "@niko_speak Must be exciting!"
+msgstr "@niko_speak 一定很精彩吧！"
+
+msgid "@niko_eyeclosed ...And... kinda scary..."
+msgstr "@niko_eyeclosed ……也……有点可怕……"
+
+msgid "@niko The view is nice, though!"
+msgstr "@niko 不过景色很不错！"
+
+msgid "@niko A village?"
+msgstr "@niko 村庄？"
+
+msgid "@niko_speak Just like me!"
+msgstr "@niko_speak 和我一样呢！"
+
+msgid "@niko Can you imagine living in a city like this?"
+msgstr "@niko 你能想象住在这种城市是什么感觉吗？"
+
+msgid "@niko_eyeclosed I can't..."
+msgstr "@niko_eyeclosed 我无法想象……"
+
+msgid "@niko_eyeclosed ...It's... kinda scary...."
+msgstr "@niko_eyeclosed ……有点……可怕……"
+
+msgid "@niko_speak But also really cool!"
+msgstr "@niko_speak 但是也很酷！"
+
+msgid "@niko_speak Something that isn't a city or village?"
+msgstr "@niko_speak 既不是城市也不是村庄的地方？"
+
+msgid "@niko ...."
+msgstr "@niko ……"
+
+msgid "@niko_speak Like a ship?"
+msgstr "@niko_speak 比如船上？"
+
+msgid "@niko_eyeclosed ...Well, maybe not a ship..."
+msgstr "@niko_eyeclosed ……嗯，也许不是船上……"
+
+msgid "@niko Can you imagine living in a city like this, though?"
+msgstr "@niko 不过你能想象住在这种城市是什么感觉吗？"
+

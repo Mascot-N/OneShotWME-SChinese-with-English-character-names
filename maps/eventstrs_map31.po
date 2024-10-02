@@ -1,0 +1,51 @@
+msgid "@niko The fireflies light up this room."
+msgstr "@niko 萤火虫照亮了这间房间。"
+
+msgid "@niko Full of dried beans."
+msgstr "@niko 装满了干豆子。"
+
+msgid "@niko An empty jar."
+msgstr "@niko 空罐子。"
+
+msgid "I'm getting dizzy!"
+msgstr "我开始头晕了！"
+
+msgid "@niko_eyeclosed Told ya!"
+msgstr "@niko_eyeclosed 就跟你说过了嘛！"
+
+msgid "@alula_speak Why are you spinning around like that?"
+msgstr "@alula_speak 你为什么要这样转圈圈啊？"
+
+msgid "@niko_speak You're gonna get dizzy!"
+msgstr "@niko_speak 你会头晕的！"
+
+msgid "I'm the Tower!"
+msgstr "我就是塔！"
+
+msgid "@niko_speak Huh?"
+msgstr "@niko_speak 咦？"
+
+msgid "Grandpa says the Tower used to spin allll the time bringing sunlight to the world!"
+msgstr "爷爷说以前塔会一直～旋转，让阳光洒满整个世界！"
+
+msgid "I wanna see it too!"
+msgstr "我也想看！"
+
+msgid "@alula_gasp Same!"
+msgstr "@alula_gasp 我也要！"
+
+msgid "@alula_pout I've only seen the sun when I was a little baby..."
+msgstr "@alula_pout 我只有在很小的时候看过太阳……"
+
+msgid "@niko Well, I'm here now..."
+msgstr "@niko 这个嘛，现在我来了……"
+
+msgid "@niko I guess it'll only be a matter of time again."
+msgstr "@niko 我想你迟早会再看到的。"
+
+msgid "@niko You're gonna get dizzy if you keep spinning around like that..."
+msgstr "@niko 你如果继续那样旋转，会头晕的……"
+
+msgid "@niko_speak Peas!"
+msgstr "@niko_speak 是豌豆耶！"
+
