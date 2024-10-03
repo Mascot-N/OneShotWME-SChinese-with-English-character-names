@@ -2,7 +2,7 @@ msgid "@niko Something is poking out from this shelf."
 msgstr "@niko 架子上有什么东西伸了出来。"
 
 msgid "@niko_speak Ah... it's a screwdriver."
-msgstr "@niko_speak 啊……是螺丝起子。"
+msgstr "@niko_speak 啊……是把螺丝刀。"
 
 msgid "@silver [You can take it if you want. It may help you.]"
 msgstr "@silver [想要的话可以拿去，说不定能派上用场。]"
@@ -443,7 +443,7 @@ msgid "@silver_lookup [In a way, you are only supposed to be a second chance for
 msgstr "@silver_lookup [某方面而言，你应该只是大家的二手选择。]"
 
 msgid "@silver [Just like how the Barrens was only supposed to be a second chance for me.]"
-msgstr "@silver [就像荒野应该只是给我的第二次机会。]"
+msgstr "@silver [就像Barrens应该只是给我的第二次机会。]"
 
 msgid "@silver_eyeclosed [There's no guarantee that things will work out.]"
 msgstr "@silver_eyeclosed [没有人能保证事情顺利成功。]"
