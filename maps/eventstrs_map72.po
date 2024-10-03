@@ -347,7 +347,7 @@ msgid "@niko This is the same library, right?"
 msgstr "@niko 就是这间图书馆，对吧？"
 
 msgid "@bookbot [AFFIRMATIVE.]"
-msgstr "@bookbot [肯定。]"
+msgstr "@bookbot [毫无疑问。]"
 
 msgid "@niko_speak Oh, goody!"
 msgstr "@niko_speak 喔，太好了！"
@@ -491,28 +491,28 @@ msgid "If not, you should!"
 msgstr "如果还没的话，建议你一定要读！"
 
 msgid "@niko Books are neatly placed on the shelf."
-msgstr "@niko 书本整齐地排在架上。"
+msgstr "@niko 有人把书本整齐地排在架上。"
 
 msgid "@niko Books are placed neatly on the shelf."
-msgstr "@niko 书本整齐地排在架上。"
+msgstr "@niko 书本被人整齐地排在架上。"
 
 msgid "@niko Placed books are neatly on the shelf."
-msgstr "@niko 书在架上排得很整齐。"
+msgstr "@niko 书在书架上排得很整齐。"
 
 msgid "@niko On the shelf are neatly placed books."
-msgstr "@niko 架上的书排得很整齐。"
+msgstr "@niko 书架上的书排得很整齐。"
 
 msgid "@niko Neatly placed books are on the shelf."
-msgstr "@niko 整齐排列的书在架上。"
+msgstr "@niko 整齐排列好的书在书架上。"
 
 msgid "@niko On the shelf neatly are placed books."
 msgstr "@niko 书架上有排得很整齐的书。"
 
 msgid "@niko Placed books are on the shelf neatly."
-msgstr "@niko 架上的书整齐地排好了。"
+msgstr "@niko 书架上的书整齐地排好了。"
 
 msgid "@niko Books are on the shelf, neatly placed."
-msgstr "@niko 书在架上，排得很整齐。"
+msgstr "@niko 书在书架上，排得很整齐。"
 
 msgid "@niko A pile of books on the ground."
 msgstr "@niko 地上有一叠书。"
@@ -524,7 +524,7 @@ msgid "[RESHELVING IN PROGRESS...]"
 msgstr "[正在将书本重新上架……]"
 
 msgid "@niko A tall pile of books."
-msgstr "@niko 很高一叠书。"
+msgstr "@niko 好高一叠书。"
 
 msgid "[HELLO, PERSON.]"
 msgstr "[人类，你好。]"
@@ -620,7 +620,7 @@ msgid "@niko A green marker."
 msgstr "@niko 绿色白板笔。"
 
 msgid "kip card"
-msgstr "科雪的借书证"
+msgstr "Kip的借书证"
 
 msgid "I just like looking at pictures."
 msgstr "我只喜欢看图片。"
@@ -647,7 +647,7 @@ msgid "@niko A blue marker."
 msgstr "@niko 蓝色白板笔。"
 
 msgid "niko card"
-msgstr "霓光的借书证"
+msgstr "Niko的借书证"
 
 msgid "@niko A red marker."
 msgstr "@niko 红色白板笔。"
@@ -692,10 +692,10 @@ msgid "I NEED TO FIND OUT HOW THIS BOOK ENDS..."
 msgstr "我必须知道这本书最后的结尾是什么……"
 
 msgid "@niko2 Ummm...."
-msgstr "@niko2 呃……"
+msgstr "@niko2 啊呃……"
 
 msgid "CURSE THE AUTHOR AND HIS BEAUTIFUL CLIFFHANGERS..."
-msgstr "去他的那个作者和他精彩无比的吊胃口剧情……"
+msgstr "去他喵的那个作者和他精彩无比的吊胃口剧情……"
 
 msgid "@niko This dry erase board is made of metal."
 msgstr "@niko 这块干板擦是用金属做的。"

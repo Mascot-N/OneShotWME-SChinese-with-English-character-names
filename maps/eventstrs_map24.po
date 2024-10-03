@@ -290,7 +290,7 @@ msgid "@silver_lookup [We know that the Tower contains a force that nobody could
 msgstr "@silver_lookup [我们知道塔有一股没有人能理解的力量。]"
 
 msgid "@silver_lookup [And the power is strongest at the summit.]"
-msgstr "@silver_lookup [在顶端的能量最强。]"
+msgstr "@silver_lookup [塔尖那里的能量最强。]"
 
 msgid "@silver [Maybe it will send you back home after you complete your mission.]"
 msgstr "@silver [也许它能在你完成任务之后送你回家。]"
@@ -356,7 +356,7 @@ msgid "@silver [Watch out.]"
 msgstr "@silver [小心。]"
 
 msgid "@niko_what ...\\.\\.there goes my bishop..."
-msgstr "@niko_what ……\\.\\.我的主教被吃了……"
+msgstr "@niko_what ……\\.\\.我的象被吃了……"
 
 msgid "@silver [Taming...\\.\\. is complicated.]"
 msgstr "@silver [驯化……\\.\\.这件事很复杂。]"
@@ -365,7 +365,7 @@ msgid "@niko_speak How complicated, exactly?"
 msgstr "@niko_speak 到底有多复杂呢？"
 
 msgid "@niko_eyeclosed ...\\.\\.there goes my other bishop..."
-msgstr "@niko_eyeclosed ……\\.\\.另一个主教也被吃掉了……"
+msgstr "@niko_eyeclosed ……\\.\\.另一个象也被吃掉了……"
 
 msgid "@silver_lookup [I can't really explain what tamed robots are.]"
 msgstr "@silver_lookup [我没办法确切解释驯化的机器人是什么。]"
@@ -500,7 +500,7 @@ msgid "@niko This is some kind of power cell, apparently!"
 msgstr "@niko 显然这是某种电池！"
 
 msgid "@niko The word \"SILVER\" is written on the side."
-msgstr "@niko 旁边写了“雪银”。"
+msgstr "@niko 旁边写了“Silver”。"
 
 msgid "@niko_speak Why does it say that?"
 msgstr "@niko_speak 为什么它上面写这个呢？"
@@ -536,7 +536,7 @@ msgid "@niko_speak I can feel my hair standing up a little..."
 msgstr "@niko_speak 我的汗毛都有点立起来了……"
 
 msgid "$Dear Silver,"
-msgstr "$亲爱的雪银，"
+msgstr "$亲爱的Silver，"
 
 msgid "$I heard the news about the mines."
 msgstr "$我听说矿坑的消息了。"
@@ -557,7 +557,7 @@ msgid "$At least let me know you got my message, okay?"
 msgstr "$至少让我知道你有收到信，好吗？"
 
 msgid "$-Kip"
-msgstr "$—科雪"
+msgstr "$—Kip"
 
 msgid "@niko The top is covered with a wire mesh."
 msgstr "@niko 上方用金属网盖着。"
@@ -584,7 +584,7 @@ msgid "@niko_speak Not even...\\.\\. with the other robots?"
 msgstr "@niko_speak 连跟……\\.\\.其他机器人也没有吗？"
 
 msgid "@silver_eyeclosed [No.]\\>\\n\\@silver [Nobody in the Barrens have that capacity in their programming.]"
-msgstr "@silver_eyeclosed [没有。]\\>\\n\\@silver [荒野的机器人，程序里都没有这种能力。]"
+msgstr "@silver_eyeclosed [没有。]\\>\\n\\@silver [Barrens的机器人，程序里都没有这种能力。]"
 
 msgid "@silver_eyeclosed [Nobody here is tamed, for that matter.]"
 msgstr "@silver_eyeclosed [就这点而言，这里没有机器人受过驯化。]"

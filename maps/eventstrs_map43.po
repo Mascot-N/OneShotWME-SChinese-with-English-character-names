@@ -116,7 +116,7 @@ msgid "@calamus_speak Alula is all I have.\\nI can't lose her..."
 msgstr "@calamus_speak 我只剩Alula这个家人。\\n我不能失去她……"
 
 msgid "@alula_pout I was trapped inside this room and it was really scary..."
-msgstr "@alula_pout 我被困在一间房间哩，真的好可怕……"
+msgstr "@alula_pout 我被困在一间房间里面，真的好可怕……"
 
 msgid "@alula ...but then, the messiah saved me!"
 msgstr "@alula ……可是之后救世主救了我！"
@@ -164,7 +164,7 @@ msgid "@calamus Anything that touches them just... sorta..."
 msgstr "@calamus 不管是什么东西，只要碰到它们……都会……"
 
 msgid "@calamus_sad ...Gets... messed up."
-msgstr "@calamus_sad ……都会……坏掉。"
+msgstr "@calamus_sad ……都会……被搞得乱七八糟。"
 
 msgid "@calamus_sad Whenever you hear people say the world is decaying, that's what they meant..."
 msgstr "@calamus_sad 当你听到别人说这个世界正在衰败，指的就是这个情况……"
@@ -230,7 +230,7 @@ msgid "@niko I lent it to someone in the ruins.\\nShe said she wanted to feel th
 msgstr "@niko 我把它借给废墟中的人了。\\n她说她想再一次感受太阳，趁她还没.\\..\\.."
 
 msgid "@calamus Oh, Maize.\\nI've met her before, too."
-msgstr "@calamus 喔，你说麦茈。\\n我也见过她。"
+msgstr "@calamus 喔，你说Maize。\\n我也见过她。"
 
 msgid "@calamus There used to be a lot more plant people around here...\\nThat's what my father told me."
 msgstr "@calamus 这一带以前有很多植物族人居住……\\n我爸是这么说的。"

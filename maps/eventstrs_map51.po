@@ -377,7 +377,7 @@ msgid "@george2_stress Well, DUH!\\>\\n\\@george2_grr Why do you THINK I have li
 msgstr "@george2_stress 喔，当然！\\>\\n\\@george2_grr 不然你以为我这边为什么有堆积如山的手稿？"
 
 msgid "@george2 He just WOULDN'T STOP SENDING ME THINGS!!!"
-msgstr "@george2 他总是不停地不停地把稿子送来我这里！"
+msgstr "@george2 他总是不停地不停地！把稿子！送来我这里！！！"
 
 msgid "@george2_grr Like, man oh MAN does that guy work fast.\\>\\n\\@george2_sigh I just couldn't keep up!"
 msgstr "@george2_grr 我的天，那家伙写作的速度真的太快。\\>\\n@george2_sigh 我就是跟不上！"
@@ -698,7 +698,7 @@ msgid "@george3_sad ...the Tower....\\>\\n\\@george3_sigh A grim obelisk... \\>\
 msgstr "@george3_sad ……塔……\\>\\n\\@george3_sigh 那个阴郁的纪念碑……\\>\\@george3_sigh 严肃地提醒我们眼前的命运。"
 
 msgid "@george3_cry We're all gonna dieeeeeee...."
-msgstr "@george3_cry 我们都要死了啊啊啊啊……"
+msgstr "@george3_cry 我们都要死了呃呃呃呃呃……"
 
 msgid "@niko_what Um..."
 msgstr "@niko_what 呃……"
@@ -917,7 +917,7 @@ msgid "@george1_hm Aha!\\>\\nThat... \\@george1_smug is a question George can an
 msgstr "@george1_hm 啊哈！\\>\\n那个……\\@george1_smug 是George可以回答的问题！"
 
 msgid "@george1 It means you need items containing yellow phosphor, the rarest of the phosphors.\\>\\n\\@george1 ...said to absorb sunlight for the longest time and never fade out."
-msgstr "@george1 那代表你需要含有最稀有的燐矿——黄燐的物品。\\>\\n\\@george1 ……据说黄燐吸收阳光的时间最久，而且它的光能永远不会消退。"
+msgstr "@george1 那代表你需要含有最稀有的发光矿——黄色发光体的物品。\\>\\n\\@george1 ……据说黄燐吸收阳光的时间最久，而且它的光能永远不会消退。"
 
 msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
 msgstr "@niko_speak 这样啊！\\>\\n\\@niko 我是有一块琥珀和一根羽毛，这两样东西都会发黄光……"
@@ -1151,7 +1151,7 @@ msgid "@george2 Go take a nap!\\>\\n\\@george2_stress Just looking at you gettin
 msgstr "@george2 去睡一下！\\>\\n\\@george2_stress 你累成这个样子，看得我都累了！"
 
 msgid "@george2_sigh Well, since you're already here.\\>\\n\\@george2_grr It'd be rude for me to tell you to leave."
-msgstr "@george2_sigh 哎，既然你都来了。\\>\\n\\@george2_grr 叫你滚好像太没礼貌了。"
+msgstr "@george2_sigh 哎，来都来了。\\>\\n\\@george2_grr 叫你快走好像太没礼貌了。"
 
 msgid "@george2 Do you uh...\\. got any questions about \\c[3]books\\c[0]..."
 msgstr "@george2 你、呃……\\.有任何关于\\c[3]书\\c[0]的问题吗……"
@@ -1229,7 +1229,7 @@ msgid "@george3_sigh ...\\>\\n\\@george3 Here, you can have this."
 msgstr "@george3_sigh ……\\>\\n\\@george3 来，这个给你。"
 
 msgid "@george3_sigh I... guess? It's just a die..."
-msgstr "@george3_sigh 应该……可以吧？这不过是颗骰子……"
+msgstr "@george3_sigh 应该……可以吧？这不过是颗骰子（Die）……"
 
 msgid "@george3_worry Ohhhh, but \"die\" isn't a good word!\\>\\nWhat if I jinx your mission by giving you this?"
 msgstr "@george3_worry 哎呀，什么骰子，投河觅井的多不吉利！\\>\\n万一给你这个反而为你的任务带来厄运怎么办？"

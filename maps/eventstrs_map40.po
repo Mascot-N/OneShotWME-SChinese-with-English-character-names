@@ -65,7 +65,7 @@ msgid "@niko I...\\> \\@niko_speak Yeah."
 msgstr "@niko 我……\\>\\@niko_speak 喜欢。"
 
 msgid "@alula_speak Yay!\\>\\n\\@alula_pout Calamus keeps saying how this world is getting more dangerous by the minute."
-msgstr "@alula_speak 耶！\\>\\n\\@alula_pout 卡羽老是说这个世界分分秒秒都在变得更危险。"
+msgstr "@alula_speak 耶！\\>\\n\\@alula_pout Calamus老是说这个世界分分秒秒都在变得更危险。"
 
 msgid "@alula_speak But that's ok! You're here now!\\>\\n\\@alula You can make everything better!"
 msgstr "@alula_speak 但是没关系！现在你来了！\\>\\n\\@alula 你会让一切好起来的！"

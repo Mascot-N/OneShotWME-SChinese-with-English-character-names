@@ -47,10 +47,10 @@ msgid "@plight I fix lights, mostly."
 msgstr "@plight 主要是修修路灯，什么的。"
 
 msgid "@plight_2b But now I also deliver and refill high-energy phosphor to structures that need them."
-msgstr "@plight_2b 不过现在我也会把高能量的燐，运送和补充到有需要的建筑。"
+msgstr "@plight_2b 不过现在我也会把高能量的发光体，运送和补充到有需要的建筑。"
 
 msgid "@niko High energy?"
-msgstr "@niko 高能量？"
+msgstr "@niko 高能量的？"
 
 msgid "@plight Y'know, the super concentrated glowy stuff they had to process in factories, it's what powers most of this city's stuff."
 msgstr "@plight 就是工厂里要处理的那种超浓缩、会发光的东西。这座城市大部分都是依赖这东西供给能源。"
@@ -131,7 +131,7 @@ msgid "@niko_speak I'm supposed to go there!"
 msgstr "@niko_speak 我需要去那里！"
 
 msgid "@plight Oh yeah, that's one of my main delivery spots."
-msgstr "@plight 喔对，那是我的主要送货地点之一。"
+msgstr "@plight 喔对，那也是我的主要工作地点之一。"
 
 msgid "@plight Those reading lights are pretty high-maintenance."
 msgstr "@plight 那些阅读灯经常需要维护。"
@@ -143,5 +143,5 @@ msgid "@plight Well, I guess you're pretty smart yourself, so you'll fit in fine
 msgstr "@plight 嗯，我想你们这么聪明，融入倒是不会有问题。"
 
 msgid "@plight_2b You and \\p."
-msgstr "@plight_2b 我说你和\\p啦。"
+msgstr "@plight_2b 我指的是你和\\p啦。"
 

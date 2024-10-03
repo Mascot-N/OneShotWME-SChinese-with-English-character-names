@@ -32,5 +32,5 @@ msgid "[TERMINAL DOES NOT RESPOND.]"
 msgstr "[终端机无回应。]"
 
 msgid "[THIS IS A PROBLEM.]"
-msgstr "[有问题。]"
+msgstr "[检测到问题。]"
 

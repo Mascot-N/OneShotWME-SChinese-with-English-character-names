@@ -59,7 +59,7 @@ msgid "@niko3 Oh..."
 msgstr "@niko3 喔……"
 
 msgid "Squares are bad news, man."
-msgstr "老天，那些方块真不是东西。"
+msgstr "老天，那些方块真不是好东西。"
 
 msgid "@niko Filled with small, dried fish."
 msgstr "@niko 里面装满小鱼干。"

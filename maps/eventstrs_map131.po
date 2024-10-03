@@ -332,7 +332,7 @@ msgid "@en2 [You were supposed to place the sun at the summit.]"
 msgstr "@en2 [原本的结局应该是你把太阳放在塔顶。]"
 
 msgid "@en5 [And then, credits would scroll.]"
-msgstr "@en5 [然后就进入片尾的制作人员名单滚动字幕。]"
+msgstr "@en5 [然后就进入制作人员名单滚动字幕。]"
 
 msgid "@niko2 ...credits?"
 msgstr "@niko2 ……制作人员名单？"

@@ -14,7 +14,7 @@ msgid "@niko This seems to be a page ripped out of a book."
 msgstr "@niko 看起来是从书上撕下来的一页。"
 
 msgid "$2) Without breaking the seal, inject the liquid phosphor into the container."
-msgstr "$2）在不破坏封口的前提下，将液态燐注入容器内。"
+msgstr "$2）在不破坏封口的前提下，将液态发光注入容器内。"
 
 msgid "$3) Shake vigorously to initiate the reaction."
 msgstr "$3）用力摇晃促进反应进行。"

@@ -50,7 +50,7 @@ msgid "$REMINDER TO ALL WORKERS:"
 msgstr "$提醒所有员工："
 
 msgid "$The rarest form of blue phosphor is found during the phosphor shrimp's spawn period."
-msgstr "$最稀有形态的蓝燐会在燐虾产卵期间出现。"
+msgstr "$最稀有形态的蓝色发光体会在发光虾产卵期间出现。"
 
 msgid "$If you observe a pond with a bubbled-over surface, please contact management immediately!"
 msgstr "$若发现水池表面冒出大量气泡，请立即联络管理单位！"
@@ -134,7 +134,7 @@ msgid "@niko The screen says \"DOCUMENTS\"."
 msgstr "@niko 屏幕上写着“文件”。"
 
 msgid "@niko_eyeclosed I can't seem to make the computer do anything else..."
-msgstr "@niko_eyeclosed 我好像没办法让计算机做别的事……"
+msgstr "@niko_eyeclosed 我好像没办法让这台电脑做别的事……"
 
 msgid "@ed [The code is contained within a \\c[2]Document\\c[0].]"
 msgstr "@ed [密码写在一份\\c[2]文件\\c[0]中。]"
@@ -161,7 +161,7 @@ msgid "@ed [Look in the Documents folder on your computer.]"
 msgstr "@ed [去你计算机的文件资料夹找。]"
 
 msgid "@ed [I don't think I could've made it any more clear.]"
-msgstr "@ed [我绝对说得够清楚了。]"
+msgstr "@ed [我绝对说得够清楚了吧。]"
 
 msgid "@ed [I see you've made progress in this world, \\p.]"
 msgstr "@ed [\\p，看来你已经在这个世界有所进展。]"
@@ -191,7 +191,7 @@ msgid "@ed [But this code, this \\c[2]Document\\c[0], is an exception.]"
 msgstr "@ed [但这组密码──这份\\c[2]文件\\c[0]──例外。]"
 
 msgid "@ed [I was able to salvage it, because Niko needs the code to progress.]"
-msgstr "@ed [我还能抢救它，霓光需要密码才能继续往前。]"
+msgstr "@ed [我还能抢救它，Niko需要密码才能继续往前。]"
 
 msgid "@ed [Now, go find it.]"
 msgstr "@ed [现在去找它吧。]"

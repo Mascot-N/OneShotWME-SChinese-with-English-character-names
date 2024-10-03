@@ -311,7 +311,7 @@ msgid "@proto1 [The way out.]"
 msgstr "@proto1 [通往外面的路。]"
 
 msgid "@niko There are a lot of small, glowing shrimp swimming in the jar."
-msgstr "@niko 罐子里有很多发光的小虾子在游泳。"
+msgstr "@niko 罐子里有很多发光的小虾在游泳。"
 
 msgid "@niko3 I shouldn't get too close..."
 msgstr "@niko3 不要靠太近比较好……"

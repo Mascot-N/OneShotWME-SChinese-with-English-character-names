@@ -989,7 +989,7 @@ msgid "[100% COMPLETE.]"
 msgstr "[100%已完成。]"
 
 msgid "[EJECTING DISK.]"
-msgstr "[正在退出磁盘。]"
+msgstr "[正在弹出磁盘。]"
 
 msgid "@niko Yup, that's a computer."
 msgstr "@niko 没错，那是一台计算机。"

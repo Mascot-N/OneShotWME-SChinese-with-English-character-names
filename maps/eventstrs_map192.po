@@ -11,7 +11,7 @@ msgid "[HELLO, PERSON.]"
 msgstr "[人类，你好。]"
 
 msgid "[THIS IS THE MAIN GENERATOR OF THE GLEN.]"
-msgstr "[这是幽谷的主发电机。]"
+msgstr "[这是GLEN的主发电机。]"
 
 msgid "@niko_speak Oooh!"
 msgstr "@niko_speak 喔喔！"

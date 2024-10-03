@@ -11,7 +11,7 @@ msgid "@kip_pout ...we ran into each other after this boy forced himself into th
 msgstr "@kip_pout ……我们在一个男孩强行闯入实验室大楼之后巧遇……"
 
 msgid "@george2_grr Well well well, look who's back!"
-msgstr "@george2_grr 哼哼，看看是谁回来啦！"
+msgstr "@george2_grr 好好好，看看是谁回来啦！"
 
 msgid "@george2_no How about next time you LET ME KNOW BEFORE YOU LEAVE THE SHELTER TO GO INTO A LITERAL DEATH ZONE!"
 msgstr "@george2_no 拜托你下次离开避难区往死亡地带跑之前先跟我说一声！"
@@ -230,19 +230,19 @@ msgid "@george6 Robot, eh?"
 msgstr "@george6 机器人啊？"
 
 msgid "@george6 Y'all talkin' about a lil' dude with white hair and goggles, right?"
-msgstr "@george6 你们在讲一个白头发戴护目镜的小帅哥对吧？"
+msgstr "@george6 是在讲一个白头发戴护目镜的小帅哥对哈？"
 
 msgid "@niko4 That's Cedric, yeah..."
 msgstr "@niko4 那的确是Cedric没错……"
 
 msgid "@george6 Bruh ran off with one of my books!"
-msgstr "@george6 那小子拿了我一本书就跑了！"
+msgstr "@george6 那哥们拿了我一本书就润了！"
 
 msgid "@george6_shrug Said it was an emergency, so I just let 'im have it."
 msgstr "@george6_shrug 说是有急用，所以我就随他去了。"
 
 msgid "@george6 Hope he didn't run into trouble, dude..."
-msgstr "@george6 希望那家伙没有惹上什么麻烦……"
+msgstr "@george6 希望哥们没有摊上什么麻烦……"
 
 msgid "@kip_sigh Yeah... I hope he's alright, too..."
 msgstr "@kip_sigh 是啊……我也希望他没事……"
@@ -674,7 +674,7 @@ msgid "@george5_aww Besides, how can I say no to those puppy-dog eyes!"
 msgstr "@george5_aww 而且，被这么无辜的双眼注视，我怎么拒绝得了呢！"
 
 msgid "@george6_point Yo, kid...."
-msgstr "@george6_point 唷，小家伙……"
+msgstr "@george6_point 哟，小孩……"
 
 msgid "@george6_smile You're real strong, you know that?"
 msgstr "@george6_smile 你知道你真的很强吗？"
@@ -854,7 +854,7 @@ msgid "@george5_smile I really enjoyed editing it!"
 msgstr "@george5_smile 真的让我编得非常过瘾！"
 
 msgid "@george6_point You remember Prophetbot? \\>\\n\\@george6 The first robot you met in our world?"
-msgstr "@george6_point 你记得先知机器人吧？\\>\\n\\@george6 就是你在我们世界遇到的第一个机器人。"
+msgstr "@george6_point 记得先知机器人吧？\\>\\n\\@george6 就是那个，你在我们世界遇到的第一个机器人。"
 
 msgid "@niko ...yeah?"
 msgstr "@niko ……应该吧？"
@@ -992,7 +992,7 @@ msgid "Haha... looks like we're stuck with the latter."
 msgstr "哈哈……看来我们只能选后者了。"
 
 msgid "@niko A tall pile of books."
-msgstr "@niko 很高一叠书。"
+msgstr "@niko 好高一叠书。"
 
 msgid "@niko Hi."
 msgstr "@niko 你好。"
@@ -1067,7 +1067,7 @@ msgid "@niko A photo of some plants."
 msgstr "@niko 某种植物的照片。"
 
 msgid "The city gate was destroyed a while back, I can't go into the Glen anymore..."
-msgstr "城市大门不久前被破坏，我无法再进入幽谷了……"
+msgstr "城市大门不久前被破坏，我无法再进入Glen了……"
 
 msgid "I'm not sure where I'll be able to get my supply of fish, at this rate..."
 msgstr "这样下去，真不知道我的鱼要上哪补货……"

@@ -2,7 +2,7 @@ msgid "[HELLO, PERSON.]"
 msgstr "[人类，你好。]"
 
 msgid "[THE ROBOT ASSEMBLY AND REPAIR SERVICES HAVE BEEN DISCONTINUED AT THE BARRENS.]"
-msgstr "[荒野的机器人组装及维修服务都已经停止。]"
+msgstr "[BARRENS的机器人组装及维修服务都已经停止。]"
 
 msgid "[IF YOU HAVE FURTHER INQUIRY, PLEASE CONTACT THE HEAD ENGINEER.]"
 msgstr "[如有其他问题，请联系首席工程师。]"
@@ -14,7 +14,7 @@ msgid "$-cannot overstate the importance of cleaning solvents in this environmen
 msgstr "$——清洁溶剂在当下环境中至关重要。"
 
 msgid "$Here is a simple recipe using the alternative method discussed in the last chapter, utilizing the natural properties of blue phosphor."
-msgstr "$以下是一个简单的配方， 使用前一章探讨的替代方法，利用蓝燐的天然特性。"
+msgstr "$以下是一个简单的配方， 使用前一章探讨的替代方法，利用蓝色发光体的天然特性。"
 
 msgid "$Reagents:"
 msgstr "$反应剂："

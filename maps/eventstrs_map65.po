@@ -26,7 +26,7 @@ msgid "@niko Oh?"
 msgstr "@niko 是吗？"
 
 msgid "@calamus My friend gave it to me for Solstice Day."
-msgstr "@calamus 我朋友在至日送我的。"
+msgstr "@calamus 我朋友在至日那天送我的。"
 
 msgid "@calamus_speak He's the one who wrote it, actually!"
 msgstr "@calamus_speak 其实这本书是他自己写的！"
@@ -53,7 +53,7 @@ msgid "@niko_83c But mine's an owl and not a fox!"
 msgstr "@niko_83c 不过我的是猫头鹰，不是狐狸！"
 
 msgid "@alula My fox is named Ruby, by the way!"
-msgstr "@alula 对了，我的狐狸名字叫露比！"
+msgstr "@alula 对了，我的狐狸名字叫Ruby！"
 
 msgid "@alula_speak That's mine! \\>\\@alula Our friend gave it to me last year!"
 msgstr "@alula_speak 那是我的！\\>\\@alula 朋友去年送的！"
@@ -68,7 +68,7 @@ msgid "@alula_speak I know! I thought she was the coolest thing ever!"
 msgstr "@alula_speak 我知道！我觉得那只狐狸是世界上最酷的东西！"
 
 msgid "@alula So he got me a fox plush for Solstice Day!"
-msgstr "@alula 所以他在至日送了我一个狐狸娃娃！"
+msgstr "@alula 所以他至日那天送了我一个狐狸娃娃！"
 
 msgid "@niko_speak Oh! That's nice of him!"
 msgstr "@niko_speak 哇，他人真好！"

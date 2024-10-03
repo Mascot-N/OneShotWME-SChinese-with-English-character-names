@@ -107,8 +107,8 @@ msgid "@ed [And yet you're still here talking to me?]"
 msgstr "@ed [却还在这里跟我闲扯？]"
 
 msgid "@ed [How quaint.]"
-msgstr "@ed [太奇怪了。]"
+msgstr "@ed [太怪了。]"
 
 msgid "@niko The screen is off."
-msgstr "@niko 屏幕关闭了。"
+msgstr "@niko 屏幕灭了。"
 

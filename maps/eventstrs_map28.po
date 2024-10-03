@@ -20,7 +20,7 @@ msgid "@niko A jar of worms."
 msgstr "@niko 一罐虫。"
 
 msgid "@niko_eyeclosed Gross!"
-msgstr "@niko_eyeclosed 真恶心！"
+msgstr "@niko_eyeclosed 好恶心！"
 
 msgid "There was a time where our people used to live in these ruins."
 msgstr "以前我们的族人曾经住在这些废墟中。"

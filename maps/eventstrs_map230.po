@@ -35,5 +35,5 @@ msgid "@cedric_upset Let go of me!!!"
 msgstr "@cedric_upset 放开我！！！"
 
 msgid "@niko2 ...\\.\\.Cedric?"
-msgstr "@niko2 ……\\.\\.学君？"
+msgstr "@niko2 ……\\.\\.Cedric？"
 

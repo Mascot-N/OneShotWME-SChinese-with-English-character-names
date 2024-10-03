@@ -695,7 +695,7 @@ msgid "@plight_worry ..."
 msgstr "@plight_worry ……"
 
 msgid "@plight_wtf ...AM I DEAD!?"
-msgstr "@plight_wtf ……难道我死了！？"
+msgstr "@plight_wtf ……我死了！？"
 
 msgid "@plight_sigh Oh thank goodness gracious."
 msgstr "@plight_sigh 喔，谢天谢地。"
@@ -797,7 +797,7 @@ msgid "Story and Worldbuilding:"
 msgstr "剧情及世界观："
 
 msgid "Solstice Testers:"
-msgstr "至日版测试员："
+msgstr "至日（Solstice）版测试员："
 
 msgid "Cyzoran"
 msgstr "Cyzoran"
@@ -806,7 +806,7 @@ msgid "Brazilian Portuguese Translation"
 msgstr "巴西葡萄牙语翻译"
 
 msgid "Testers of Original OneShot:"
-msgstr "原版《一次机会》测试人员："
+msgstr "原版《Oneshot》测试人员："
 
 msgid "durrbill"
 msgstr "durrbill"

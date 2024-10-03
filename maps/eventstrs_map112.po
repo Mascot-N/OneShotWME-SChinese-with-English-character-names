@@ -29,7 +29,7 @@ msgid "Hmm... I wonder what The Author would do in this situation..."
 msgstr "嗯……不知道那个作者在这种情况下会怎么办……"
 
 msgid "Dr. Silverpoint usually references his works."
-msgstr "希维波特博士通常都会参考他的作品。"
+msgstr "Silverpoint博士通常都会参考他的作品。"
 
 msgid "@niko Hey \\p?"
 msgstr "@niko 嘿，\\p？"

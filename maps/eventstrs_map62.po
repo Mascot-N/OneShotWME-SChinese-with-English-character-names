@@ -23,7 +23,7 @@ msgid "@niko_speak Are you okay, \\p?\\>\\n\\@niko You seem a little quiet..."
 msgstr "@niko_speak \\p，你还好吗？\\>\\n\\@niko 感觉你有点安静……"
 
 msgid "[\"Niko.\", \"...\"]"
-msgstr "[\"霓光。\",\"……\"]"
+msgstr "[\"Niko。\",\"……\"]"
 
 msgid "@niko_speak ...yeah?"
 msgstr "@niko_speak ……怎么了？"

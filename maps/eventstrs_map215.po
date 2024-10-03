@@ -8,7 +8,7 @@ msgid "@plight_unknown Come ooonnnnnnn!"
 msgstr "@plight_unknown 受够了！"
 
 msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
-msgstr "@plight_unknown 我真是受够了！！！"
+msgstr "@plight_unknown 我真是受够了呃呃呃呃呃呃呃呃！！！"
 
 msgid "@plight_unknown Work already!!!"
 msgstr "@plight_unknown 快点动啊！！！"

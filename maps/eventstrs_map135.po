@@ -80,7 +80,7 @@ msgid "@niko Instead, the word \"baa\" is written on its wool."
 msgstr "@niko 倒是他的羊毛上写着“咩”。"
 
 msgid "@shepherd That one isn't a RAM."
-msgstr "@shepherd 那只不是公羊。"
+msgstr "@shepherd 那只不是公羊（RAM）。"
 
 msgid "@shepherd That one is...\\.\\. Read-Only."
 msgstr "@shepherd 那只是……\\.\\.只读羊。"

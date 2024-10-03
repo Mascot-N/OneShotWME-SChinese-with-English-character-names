@@ -182,7 +182,7 @@ msgid "@proto2b [...When our keys are combined into a central location, it will 
 msgstr "@proto2b [……把我们的密钥结合放进中央区域后， 它就会启用这个世界的一个加密区域，然后这个区域会……]"
 
 msgid "@niko_what *confused cat noises*"
-msgstr "@niko_what *困惑得喵喵叫*"
+msgstr "@niko_what *困惑的猫叫声*"
 
 msgid "@proto_eyeclosed [...]"
 msgstr "@proto_eyeclosed [……]"

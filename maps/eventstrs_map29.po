@@ -1,5 +1,5 @@
 msgid "@shepherd My rams clock at 1333 megaherds."
-msgstr "@shepherd 我家的公羊存储器时脉速度是1333羊赫。"
+msgstr "@shepherd 我家的公羊存储器（RAMs）时脉速度是1333羊赫（Megaherds）。"
 
 msgid "@niko ...what?"
 msgstr "@niko ……什么？"
@@ -149,7 +149,7 @@ msgid "@alula_speak That's what I said!"
 msgstr "@alula_speak 我也是这么觉得！"
 
 msgid "The land is fragmenting at an alarming rate..."
-msgstr "陆地正以惊人的速度分裂……"
+msgstr "陆地正以惊人的速度分离……"
 
 msgid "I don't like to think about the day when this town finally loses to the intruding sea."
 msgstr "我不敢想象这座小镇最终被海浪入侵吞没的那一天……"
@@ -194,7 +194,7 @@ msgid "@alula_speak Wouldn't wanna eat the glowy stuff!"
 msgstr "@alula_speak 不可以吃会发光的喔！"
 
 msgid "@alula That'd be silly."
-msgstr "@alula 吃发光苔藓也太愚蠢了。"
+msgstr "@alula 吃发光苔藓也太蠢了。"
 
 msgid "@alula_pout And wasteful!"
 msgstr "@alula_pout 而且很浪费！"
@@ -257,7 +257,7 @@ msgid "@alula What's a fire?"
 msgstr "@alula 火是什么东西？"
 
 msgid "@niko_eyeclosed We have much to discuss."
-msgstr "@niko_eyeclosed 要讨论的可多了。"
+msgstr "@niko_eyeclosed 要讨论的还很多啊。"
 
 msgid "@niko It smells nice!"
 msgstr "@niko 好香！"

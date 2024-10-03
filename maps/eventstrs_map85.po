@@ -119,7 +119,7 @@ msgid "@niko Actually... I do want to hear about it!"
 msgstr "@niko 其实……我真的想知道！"
 
 msgid "Curiosity killed the cat, eh?"
-msgstr "好奇心杀死猫，是吗？"
+msgstr "好奇心害死猫，不是吗？"
 
 msgid "@niko_eyeclosed I'm not a cat..."
 msgstr "@niko_eyeclosed 我不是猫啦……"

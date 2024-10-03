@@ -26,7 +26,7 @@ msgid "My neighbor gave me some plants to cheer me up, but..."
 msgstr "邻居送了我一些植物，想让我打起精神，可是……"
 
 msgid ".....I should probably get a muzzle for Betsy there."
-msgstr "……我该帮贝奇弄个嘴套。"
+msgstr "……我该帮Besty弄个嘴套。"
 
 msgid "@niko It's a landscape portrait of the Glen."
 msgstr "@niko 一幅Glen的风景画。"

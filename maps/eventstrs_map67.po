@@ -98,10 +98,10 @@ msgid "@alula_speak A circle... with teeth?!"
 msgstr "@alula_speak 有牙齿的……圈圈！？"
 
 msgid "@alula_speak Haha, that sounds so silly!\\>\\nLike something Magpie would have!"
-msgstr "@alula_speak 哈哈，听起来好好玩喔！\\>\\n感觉喜鹊会有这种东西！"
+msgstr "@alula_speak 哈哈，听起来好好玩喔！\\>\\n感觉喜鹊（Magpie）会有这种东西！"
 
 msgid "@niko Magpie?"
-msgstr "@niko 喜鹊？"
+msgstr "@niko Magpie？"
 
 msgid "@alula Y'know, the trader guy!"
 msgstr "@alula 你知道，就是那个买卖东西的人！"
@@ -332,7 +332,7 @@ msgid "@cedric3 You... \\.\\.could say that."
 msgstr "@cedric3 应该……\\.\\.可以这么说。"
 
 msgid "@cedric_sigh The acceleration of square particle anomalies was not accounted for at all, though."
-msgstr "@cedric_sigh 但方块粒子异常的加速完全没有合理的解释。"
+msgstr "@cedric_sigh 但方块粒子异常的加速出现完全没有合理的解释。"
 
 msgid "@cedric The patch was only built to accomodate the normal rate they appear, but..."
 msgstr "@cedric 修补是针对它们正常出现速度来的，但……"
@@ -353,7 +353,7 @@ msgid "@niko3 What happens to...\\.\\. ANYONE who gets caught in the squares?"
 msgstr "@niko3 不管是谁，如果被方块困住……\\.\\.会怎么样？"
 
 msgid "@niko_eyeclosed I only know it's bad..."
-msgstr "@niko_eyeclosed 我只知道会很糟……"
+msgstr "@niko_eyeclosed 我只知道会变得一团糟……"
 
 msgid "@cedric_hmm Well, you know how the simulation works, right?"
 msgstr "@cedric_hmm 这个嘛，你知道仿真的原理吧？"
@@ -554,7 +554,7 @@ msgid "@niko_speak It's a plane!"
 msgstr "@niko_speak 是飞机！"
 
 msgid "@cedric2 ...flying machine!"
-msgstr "@cedric2 ……是飞行机器！"
+msgstr "@cedric2 ……只是飞行器！"
 
 msgid "@niko Right."
 msgstr "@niko 对喔。"
@@ -593,7 +593,7 @@ msgid "@cedric_sigh It is a pleasure to be of acquaintance at last, Niko."
 msgstr "@cedric_sigh Niko，我终于见到你了，真是荣幸。"
 
 msgid "@cedric_smile My name is Cedric."
-msgstr "@cedric_smile 我的名字叫学君。"
+msgstr "@cedric_smile 我的名字叫Cedric。"
 
 msgid "@niko2 Oh!"
 msgstr "@niko2 喔！"
@@ -668,7 +668,7 @@ msgid "@niko_pancakes YOUR DAD INVENTED PLANES???"
 msgstr "@niko_pancakes 你爸爸发明了飞机？？？"
 
 msgid "@cedric_hmm ...flying machine."
-msgstr "@cedric_hmm ……飞行机器。"
+msgstr "@cedric_hmm ……飞行器。"
 
 msgid "@niko_pancakes IT'S COOL EITHER WAY!!"
 msgstr "@niko_pancakes 不管怎么说都超酷！！"

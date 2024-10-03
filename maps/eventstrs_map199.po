@@ -14,7 +14,7 @@ msgid "@green_gatekeeper [P\\.#L.%%E\\.AS;E D\\.o No//t AP\\.PR#OACH.]"
 msgstr "@green_gatekeeper [讠\\.#青.%%\\.不；\\.要//告\\.近#。]"
 
 msgid "@green_gatekeeper [TH\\.#e.%%G\\.AT;E IS\\. C//L OSE\\.D UN\\.T\\.#IL FU\\.#RT\\|HER N\\.%O\\.TIC\\.E.]"
-msgstr "@green_gatekeeper [大\\.#%%门；\\.已\\.关//关\\.闭\\.开\\.放#\\日寺\\.%间#另\\|行\\.通%\\.矢口。]"
+msgstr "@green_gatekeeper [大\\.#%%门；\\.已\\.关//关\\.闭\\.开\\.放#\\日寸\\.%间#另\\|彳亍\\.通%\\.矢口。]"
 
 msgid "@niko3 ..."
 msgstr "@niko3 ……"

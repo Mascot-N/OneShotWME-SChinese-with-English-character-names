@@ -95,7 +95,7 @@ msgid "@niko_speak I have this! \\.\\.\\>\\@niko It was left behind by the plant
 msgstr "@niko_speak 我有这个！\\.\\.\\>\\@niko 是Glen的植物女士留下的。"
 
 msgid "@red_gatekeeper [...\\>That Is Indeed The Kernel.]"
-msgstr "@red_gatekeeper [……\\>\\n这是核心没错。]"
+msgstr "@red_gatekeeper [……\\>\\n这的确是她的核。]"
 
 msgid "@red_gatekeeper [Then, It Is Your Duty To Regrow Her.\\>\\nDo You Understand What You Must Do?]"
 msgstr "@red_gatekeeper [那么你就有义务重新把她种出来。\\>\\n你明白自己该怎么做吗？]"

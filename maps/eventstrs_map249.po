@@ -56,7 +56,7 @@ msgid "@niko It's a shelf full of books."
 msgstr "@niko 书架上放满了书。"
 
 msgid "@niko It's a tea set."
-msgstr "@niko 茶具组。"
+msgstr "@niko 一堆茶具。"
 
 msgid "@niko There's a glass tea set on the table."
 msgstr "@niko 桌上有一组玻璃茶具。"
@@ -116,7 +116,7 @@ msgid "@niko A big, detailed drawing of a machine with lots of tv screens."
 msgstr "@niko 一张很大、很详细的图画，上面画的机器有很多屏幕。"
 
 msgid "@proto2b [...That's called a blueprint, Niko.]"
-msgstr "@proto2b [……霓光，那个叫蓝图。]"
+msgstr "@proto2b [……Niko，那个叫蓝图。]"
 
 msgid "@niko_pancakes ...So THAT's what a blueprint is!"
 msgstr "@niko_pancakes ……原来这就是蓝图啊！"

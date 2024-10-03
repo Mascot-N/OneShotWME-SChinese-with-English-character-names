@@ -35,5 +35,5 @@ msgid "@calamus_smile Come on, our house isn't far from here."
 msgstr "@calamus_smile 来吧，这里离我们家不远了。"
 
 msgid "@calamus Oh, Niko, did you come by for a visit?\\>\\n\\@calamus_smile Our house is up here, please follow me."
-msgstr "@calamus 喔，霓光，你来探望我们了吗？\\>\\n\\@calamus_smile 我们家在这上面，请跟我来。"
+msgstr "@calamus 喔，Niko，你来探望我们了吗？\\>\\n\\@calamus_smile 我们家在这上面，请跟我来。"
 

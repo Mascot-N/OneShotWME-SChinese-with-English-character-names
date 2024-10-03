@@ -20,7 +20,7 @@ msgid "@plight_2 I tried looking everywhere for it, to no avail."
 msgstr "@plight_2 我到处找都找不到按钮。"
 
 msgid "@plight_worry M...maybe it exploded..."
-msgstr "@plight_worry 也、也许它爆炸了……"
+msgstr "@plight_worry 也、也许它爆掉了……"
 
 msgid "@niko_speak Do you think we'll have to make a new one?"
 msgstr "@niko_speak 你觉得我们要做一个新的吗？"
@@ -173,7 +173,7 @@ msgid "@plight_unknown Come ooonnnnnnn!"
 msgstr "@plight_unknown 受够了！！"
 
 msgid "@plight_unknown Come ooonnnnnnnnnnnnnnnnnnnnnnnnnnnn!!!!!"
-msgstr "@plight_unknown 我真是受够了！！！"
+msgstr "@plight_unknown 我真是受够了啊啊啊啊啊啊！！！"
 
 msgid "@plight_unknown Work already!!!"
 msgstr "@plight_unknown 快点动啊！！！"
@@ -185,7 +185,7 @@ msgid "@niko What was that?"
 msgstr "@niko 那是什么声音？"
 
 msgid "@plight_unknown WHY. ISN'T. THIS. WORKING??!?"
-msgstr "@plight_unknown 为、什、么、它、不、动、了！？"
+msgstr "@plight_unknown 为、什、么、它！不！动！了！？"
 
 msgid "@niko_speak ...I..."
 msgstr "@niko_speak ……我……"
@@ -224,7 +224,7 @@ msgid "@plight_worry (Ah geez, I didn't think I was gonna run into...)"
 msgstr "@plight_worry （天啊，没想到我会遇到……）"
 
 msgid "@plight_why (...this is embarrassing...)"
-msgstr "@plight_why （……这太尴尬了……）"
+msgstr "@plight_why （……这也太尴尬了……）"
 
 msgid "@plight_worry er......"
 msgstr "@plight_worry 呃……"

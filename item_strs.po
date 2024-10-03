@@ -164,7 +164,7 @@ msgid "28:name=seed"
 msgstr "种子"
 
 msgid "28:description=It's a seed apparently left behind by Maize."
-msgstr "显然是Maize留下的一颗种子。"
+msgstr "显然是麦茈留下的一颗种子。"
 
 msgid "29:name=wool"
 msgstr "羊毛"
@@ -269,10 +269,10 @@ msgid "45:description=Not a cat!"
 msgstr "才不是猫呢！"
 
 msgid "46:name=Kip's library card"
-msgstr "科雪的借书证"
+msgstr "Kip的借书证"
 
 msgid "46:description=The name says \"Kip Silverpoint Ph.D.\""
-msgstr "名字写着“科雪‧希维波特博士”。"
+msgstr "名字写着“Kip Silverpoint博士”。"
 
 msgid "47:name=gas mask"
 msgstr "防毒面具"
@@ -299,10 +299,10 @@ msgid "50:description=\"I herded rams and all I got was this lousy T-shirt!\""
 msgstr "“我辛苦牧羊，到头来就得到这件差劲的T恤！”"
 
 msgid "51:name=\"Kip\" 's library card"
-msgstr "“科雪”的借书证"
+msgstr "“Kip”的借书证"
 
 msgid "51:description=Library card from Kip. Niko's own photo is glued on."
-msgstr "科雪给的借书证，上面贴了Niko自己的照片。"
+msgstr "Kip给的借书证，上面贴了Niko自己的照片。"
 
 msgid "52:name=Library card (sticky)"
 msgstr "借书证（黏黏的）"

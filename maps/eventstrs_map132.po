@@ -152,7 +152,7 @@ msgid "@mason Ah, black clovers..."
 msgstr "@mason 啊，黑色的三叶草……"
 
 msgid "@mason Probably the only plant hardy enough to survive naturally outside the Glen."
-msgstr "@mason 黑色三叶草大概是唯一能够在幽谷以外的地区自然生存的耐寒植物了。"
+msgstr "@mason 黑色三叶草大概是唯一能够在Glens以外的地区自然生存的耐寒植物了。"
 
 msgid "@mason Personally? I think they're really boring to look at."
 msgstr "@mason 要我说的话，它们看起来真的很无趣。"

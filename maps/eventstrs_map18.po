@@ -41,7 +41,7 @@ msgid "@niko I...\\.\\. see!"
 msgstr "@niko 我……\\.\\.知道了！"
 
 msgid "[\"What's in the safe, Niko?\"]"
-msgstr "[\"霓光，保险箱里装了什么？\"]"
+msgstr "[\"Niko，保险箱里装了什么？\"]"
 
 msgid "@niko Oh! Right.\\n\\.\\.Let's see..."
 msgstr "@niko 喔！对喔。\\n\\.\\.让我看看……"

@@ -23,7 +23,7 @@ msgid "@ed [It seems I need to help you again.]"
 msgstr "@ed [看来我又得帮你了。]"
 
 msgid "@ed [Niko will not be able to progress otherwise.]"
-msgstr "@ed [不然霓光没有办法推进。]"
+msgstr "@ed [不然Niko没有办法推进。]"
 
 msgid "@ed [This time, the information you need has fallen to the most easily accessible place on your machine.]"
 msgstr "@ed [这次，你需要的信息就在你计算机中最容易找到的地方。]"

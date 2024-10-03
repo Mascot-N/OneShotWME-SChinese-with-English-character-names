@@ -17,10 +17,10 @@ msgid "$...it seems a miracle that the gas hasn't spread anywhere else."
 msgstr "$……这些毒气没有散播到别的地方，简直就是奇迹。"
 
 msgid "$Our biologists concluded that the phosphor shrimp in the crater pools were actively consuming the gas."
-msgstr "$我们的生物学家得到结论， 水池中的燐虾会主动消耗那些气体。"
+msgstr "$我们的生物学家得到结论， 水池中的发光虾会主动消耗那些气体。"
 
 msgid "$The shrimp in the ocean also prevent the gas from wafting off into the Glen."
-msgstr "$海中那些虾子也挡住了气体， 使其不至于飘散到Glen。"
+msgstr "$海中那些虾也挡住了气体， 使其不至于飘散到Glen。"
 
 msgid "$If that's the case, then we owe a lot to these little guys!"
 msgstr "$如果真的是这样，我们真该感谢这些小东西！"

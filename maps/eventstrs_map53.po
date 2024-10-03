@@ -161,10 +161,10 @@ msgid "@ling_sigh ...Until now, anyway..."
 msgstr "@ling_sigh ……结果电梯也坏掉了……"
 
 msgid "@ling_hm You know, the tall guy came in here earlier saying the same thing.\\>\\nHe asked me if I've seen a button that says \"ground\" on it."
-msgstr "@ling_hm 你知道吗，之前来的高个子也提到同一件事。\\>\\n他问我有没有看到上面写着“地面”的按钮。"
+msgstr "@ling_hm 你知道吗，之前来的高个子也提到同一件事。\\>\\n他问我有没有看到上面写着“地面”（Ground）的按钮。"
 
 msgid "@ling He looked pretty stressed, so I wanted to cheer him up...\\>\\n\\@ling_smile I told him the only \"ground\" I've seen today is coffee grounds!"
-msgstr "@ling 他看起来很焦急，我想帮他打起精神……\\>\\n\\@ling_smile 所以我告诉他我今天只有看到咖啡“面”！"
+msgstr "@ling 他看起来很焦急，我想帮他打起精神……\\>\\n\\@ling_smile 所以我告诉他我今天只有看到咖啡“面”（Ground）！"
 
 msgid "@ling3 He, um..."
 msgstr "@ling3 他嘛……"

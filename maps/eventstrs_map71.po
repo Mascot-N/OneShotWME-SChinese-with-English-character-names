@@ -1,4 +1,4 @@
-msgid "[HELLO, ORGANIC PERSON WHO IS ALIVE.]"
+>msgid "[HELLO, ORGANIC PERSON WHO IS ALIVE.]"
 msgstr "[活着的有机体，你好！]"
 
 msgid "[THE INFIRMARY IS UP AHEAD.]"

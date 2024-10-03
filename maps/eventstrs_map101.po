@@ -158,7 +158,7 @@ msgid "@niko Yellow... phosphor?"
 msgstr "@niko 黄……燐？"
 
 msgid "@niko_speak Oh yeah! That's the rare phosphor that people think the sun is made of, right?"
-msgstr "@niko_speak 喔对！就是大家认为组成太阳的稀有燐，对吧？"
+msgstr "@niko_speak 喔对！就是大家认为组成太阳的稀有发光体，对吧？"
 
 msgid "@niko ..."
 msgstr "@niko ……"
