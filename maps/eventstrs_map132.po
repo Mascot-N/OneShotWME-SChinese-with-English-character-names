@@ -20,7 +20,7 @@ msgid "@mason The Barrens is... well, the barrens."
 msgstr "@mason Barrens就是……荒芜的不毛之地。"
 
 msgid "@mason And Refuge city has barely enough ground to stand on, let alone grow stuff!"
-msgstr "@mason 城里则是拥挤到连站都快没地方站了，何况种东西！"
+msgstr "@mason Refuge则是挤到连站都快没地方站了，何况种东西！"
 
 msgid "@mason ...On a larger scale than this, I mean."
 msgstr "@mason ……我是指，要更大规模栽种的话啦。"
@@ -89,7 +89,7 @@ msgid "@mason Only in name!"
 msgstr "@mason 只是名字叫树而已吧！"
 
 msgid "@mason That's a phosphor tree."
-msgstr "@mason 那是一棵燐树。"
+msgstr "@mason 那是一棵发光树。"
 
 msgid "@niko_speak Oh! Like the ones we saw in the glen!"
 msgstr "@niko_speak 喔！跟我们在Glen看到的一样！"
