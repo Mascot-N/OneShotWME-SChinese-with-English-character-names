@@ -47,7 +47,7 @@ msgid "@plight I fix lights, mostly."
 msgstr "@plight 主要是修修路灯，什么的。"
 
 msgid "@plight_2b But now I also deliver and refill high-energy phosphor to structures that need them."
-msgstr "@plight_2b 不过现在我也会把高能量的发光体，运送和补充到有需要的建筑。"
+msgstr "@plight_2b 不过现在我也会把高能量的荧光体，运送和补充到有需要的建筑。"
 
 msgid "@niko High energy?"
 msgstr "@niko 高能量的？"

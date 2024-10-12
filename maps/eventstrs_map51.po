@@ -917,7 +917,7 @@ msgid "@george1_hm Aha!\\>\\nThat... \\@george1_smug is a question George can an
 msgstr "@george1_hm 啊哈！\\>\\n那个……\\@george1_smug 是George可以回答的问题！"
 
 msgid "@george1 It means you need items containing yellow phosphor, the rarest of the phosphors.\\>\\n\\@george1 ...said to absorb sunlight for the longest time and never fade out."
-msgstr "@george1 那代表你需要含有最稀有的发光矿——黄色发光体的物品。\\>\\n\\@george1 ……据说黄燐吸收阳光的时间最久，而且它的光能永远不会消退。"
+msgstr "@george1 那代表你需要含有最稀有的发光矿——黄色荧光体的物品。\\>\\n\\@george1 ……据说黄燐吸收阳光的时间最久，而且它的光能永远不会消退。"
 
 msgid "@niko_speak Oh!\\>\\n\\@niko I do have a piece of amber and a feather, they're both glowing yellow..."
 msgstr "@niko_speak 这样啊！\\>\\n\\@niko 我是有一块琥珀和一根羽毛，这两样东西都会发黄光……"

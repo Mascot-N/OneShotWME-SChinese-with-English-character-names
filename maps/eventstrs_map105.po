@@ -5,7 +5,7 @@ msgid "@niko_eyeclosed I don't understand any of it..."
 msgstr "@niko_eyeclosed 我完全看不懂……"
 
 msgid "The luminescence index of liquid red phosphor decreased by a factor of 3.57% this past week."
-msgstr "液态红色发光体的发光指数在过去一周下降了3.57%。"
+msgstr "液态红色荧光体的发光指数在过去一周下降了3.57%。"
 
 msgid "Alarming, to say the least... that's the sharpest decline I've seen, and the number is only increasing."
 msgstr "这不只是令人担忧的地步了…… 这是我见过最急剧的衰退，而且数字只降不升。"

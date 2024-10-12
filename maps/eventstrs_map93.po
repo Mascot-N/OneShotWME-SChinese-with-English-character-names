@@ -14,7 +14,7 @@ msgid "$-cannot overstate the importance of cleaning solvents in this environmen
 msgstr "$——清洁溶剂在当下环境中至关重要。"
 
 msgid "$Here is a simple recipe using the alternative method discussed in the last chapter, utilizing the natural properties of blue phosphor."
-msgstr "$以下是一个简单的配方， 使用前一章探讨的替代方法，利用蓝色发光体的天然特性。"
+msgstr "$以下是一个简单的配方， 使用前一章探讨的替代方法，利用蓝色荧光体的天然特性。"
 
 msgid "$Reagents:"
 msgstr "$反应剂："

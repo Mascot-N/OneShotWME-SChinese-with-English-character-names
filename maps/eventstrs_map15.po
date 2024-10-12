@@ -50,7 +50,7 @@ msgid "$REMINDER TO ALL WORKERS:"
 msgstr "$提醒所有员工："
 
 msgid "$The rarest form of blue phosphor is found during the phosphor shrimp's spawn period."
-msgstr "$最稀有形态的蓝色发光体会在发光虾产卵期间出现。"
+msgstr "$最稀有形态的蓝色荧光体会在发光虾产卵期间出现。"
 
 msgid "$If you observe a pond with a bubbled-over surface, please contact management immediately!"
 msgstr "$若发现水池表面冒出大量气泡，请立即联络管理单位！"
