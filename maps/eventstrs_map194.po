@@ -482,7 +482,7 @@ msgid "@proto2b [Think of it like...\\.\\. one of your dreams.]"
 msgstr "@proto2b [你可以把它想象成……\\.\\.一场梦。]"
 
 msgid "@proto1b [When you wake up, it's gone.]"
-msgstr "@proto1b [当你醒来的时候，梦境就会小时。]"
+msgstr "@proto1b [当你醒来的时候，梦境就会消失。]"
 
 msgid "@proto1c [But unlike a dream, this world has a physical location inside a computer, which \\p operates.]"
 msgstr "@proto1c [但和梦不一样的是，这个世界存在物理实体，就在\\p操作的计算机里。]"
